@@ -284,6 +284,11 @@ target_path = "options.txt"
 side = "Client"
 apply_policy = "Once"
 
+[files."./client/resourcepacks/Faithful 32x - 1.20.1.zip"]
+target_path = "resourcepacks/Faithful 32x - 1.20.1.zip"
+side = "Client"
+apply_policy = "Always"
+
 [files."./client/resourcepacks/Twilight JAPPA Pack 1.0.0.zip"]
 target_path = "resourcepacks/Twilight JAPPA Pack 1.0.0.zip"
 side = "Client"
