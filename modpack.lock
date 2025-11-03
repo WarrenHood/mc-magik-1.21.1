@@ -56,6 +56,20 @@ sha1 = "c42aaab43cd524c45c4065996cc06b9b48c5682a"
 sha512 = "948dde522b1e0b95316db4105026bc8aa2488d709e133bd24a5cf20a17b3a7bb2e3ffa3b2cf038adc43ae768a6dc77ed9161518b8a3bc96475395c1f41b94096"
 filename = "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar"
 
+[mods.almost-unified]
+version = "1.20.1-0.10.1+forge"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.almost-unified.source]]
+
+[mods.almost-unified.source.Download]
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/803fRd97/almostunified-forge-1.20.1-0.10.1.jar"
+sha1 = "908bb8c851a38e2ad4f3e5965b1b9a6668070d66"
+sha512 = "2274052de29fd1f93ee34362d2308c1688736987ca5dacebe37c2a96b7825cfc3fda08c56cb3d97e6ad3c930dc1b84e1069947eb9ecf96ed7aa8ab4bb4bd8d86"
+filename = "almostunified-forge-1.20.1-0.10.1.jar"
+
 [mods.alternate-current]
 version = "forge-mc1.20-1.7.0"
 server_side = true
@@ -272,6 +286,24 @@ sha1 = "8809c7aa6c71389e9c59abfe5def52c1cb8d4f1c"
 sha512 = "ffd8ff2438e9f9d260d3926ccdd0cccc4772c6f99f29715690aed4f6e97a76035f3aeaa78168e2a458bc4cccf521e97ebdb6e0b61c819facb04af9ebb3638383"
 filename = "Clumps-forge-1.20.1-12.0.0.4.jar"
 
+[mods.copycats]
+version = "3.0.2+mc.1.20.1-forge"
+server_side = true
+client_side = true
+
+[[mods.copycats.source]]
+
+[mods.copycats.source.Download]
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/ibcPwZZT/copycats-3.0.2%2Bmc.1.20.1-forge.jar"
+sha1 = "b520234ee3194ada89bbfa0336e3abee11d711e7"
+sha512 = "29b1912155e4e6f0c08355d475c8f89923912c5bdf1f7b75da760d743e733af78b3dfc82e5a5a56d5ef0bbaff6e51c25eb98558187c330e8c20259016a0fee2f"
+filename = "copycats-3.0.2+mc.1.20.1-forge.jar"
+
+[[mods.copycats.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
 [mods.craterlib]
 version = "1.20-2.1.5"
 deps = []
@@ -311,6 +343,37 @@ url = "https://cdn.modrinth.com/data/btq68HMO/versions/b6J7xYnJ/create_central_k
 sha1 = "4e1048ce2b5453d657b42ea5dcec5ada1842b0ea"
 sha512 = "0578fdcfc9e8f5f3717e2dab468fadca35480e6a2c6a701b43004c57ea1ff0d979c790148d68b6c9233c4c697e9e972d82e7ffd22d11db514b69d23b06f80bbc"
 filename = "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
+
+[mods.create-connected]
+version = "1.1.8-mc1.20.1"
+server_side = true
+client_side = true
+
+[[mods.create-connected.source]]
+
+[mods.create-connected.source.Download]
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/jPgzJe8d/create_connected-1.1.8-mc1.20.1-all.jar"
+sha1 = "9b5f1003e2d97629145398b34f9b06a393719ec1"
+sha512 = "dd7d6af74752d2366d5c3fadab51b8ce8d3244569cc1d9c5387b01f96c073a71f2b250460d835248e9d30a7e16b02f04e97945d19940f3bc069ae32076a2fc02"
+filename = "create_connected-1.1.8-mc1.20.1-all.jar"
+
+[[mods.create-connected.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[mods.create-enchantment-industry]
+version = "1.3.3"
+server_side = true
+client_side = true
+
+[[mods.create-enchantment-industry.source]]
+
+[mods.create-enchantment-industry.source.Download]
+url = "https://cdn.modrinth.com/data/JWGBpFUP/versions/E8bB0Vws/create_enchantment_industry-1.3.3-for-create-6.0.6.jar"
+sha1 = "06fbad254100a7c9fcf829e1e33c5348d9799a87"
+sha512 = "aa1714ee1c7562f0b01780bb3a1271e7214a790711efc8279f11b133075fc72de6e1c08ca87fbf4eeb113d2ea816947153c2383bd90b18e2221d28bd14b7844e"
+filename = "create_enchantment_industry-1.3.3-for-create-6.0.6.jar"
 
 [mods.create-new-age]
 version = "1.1.4"
@@ -1116,6 +1179,29 @@ filename = "SimpleRPC-4.0.4.jar"
 [[mods.simple-discord-rpc.deps]]
 name = "craterlib"
 version = "1.20-2.1.5"
+providers = ["Modrinth"]
+
+[mods.slice-and-dice]
+version = "3.5.2"
+server_side = true
+client_side = true
+
+[[mods.slice-and-dice.source]]
+
+[mods.slice-and-dice.source.Download]
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/qa7eMq5Z/sliceanddice-forge-3.5.2.jar"
+sha1 = "bdd6d2be506b584f115996159fe48cc0a7894d6f"
+sha512 = "7c8cf6a10eb99b06fd69d8ab570db1a4490eda3de9c756ff74b9888ecee380652c7f24d1b0c2002823c5cecbbb91d25e08a2a20879b4019e5d14bd67b0ac7509"
+filename = "sliceanddice-forge-3.5.2.jar"
+
+[[mods.slice-and-dice.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[[mods.slice-and-dice.deps]]
+name = "kotlin-for-forge"
+version = "4.11.0"
 providers = ["Modrinth"]
 
 [mods.spark]
