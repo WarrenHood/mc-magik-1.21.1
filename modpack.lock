@@ -56,6 +56,24 @@ sha1 = "c42aaab43cd524c45c4065996cc06b9b48c5682a"
 sha512 = "948dde522b1e0b95316db4105026bc8aa2488d709e133bd24a5cf20a17b3a7bb2e3ffa3b2cf038adc43ae768a6dc77ed9161518b8a3bc96475395c1f41b94096"
 filename = "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar"
 
+[mods.alexs-mobs]
+version = "1.22.9"
+server_side = true
+client_side = true
+
+[[mods.alexs-mobs.source]]
+
+[mods.alexs-mobs.source.Download]
+url = "https://cdn.modrinth.com/data/2cMuAZAp/versions/XoIASRVU/alexsmobs-1.22.9.jar"
+sha1 = "dbf93d2f1da19e16739e91e8ea0fc6f4bc2f228f"
+sha512 = "b50280057926d750f9ffbf6a8df36deb37529356895f6bf59f25d272ecf69afccec65ec1a5c3a8bfad24f9475c15b93c5ec4666447b1fce26a90c41445bbfb04"
+filename = "alexsmobs-1.22.9.jar"
+
+[[mods.alexs-mobs.deps]]
+name = "citadel"
+version = "2.6.2"
+providers = ["Modrinth"]
+
 [mods.almost-unified]
 version = "1.20.1-0.10.1+forge"
 deps = []
@@ -259,6 +277,19 @@ url = "https://cdn.modrinth.com/data/fALzjamp/versions/4FTDk9wv/Chunky-1.3.146.j
 sha1 = "0b782d12b4ac3b03a94c28f32e9b2d5587d1dd50"
 sha512 = "13ef9d5bfea1895118eec45aa3071e2d79408241f29990624f67e157d4c525391753b0a1539ff3359dad79a6e5ab5e0b84fffbe528bdefcaaefd579ec794d9c9"
 filename = "Chunky-1.3.146.jar"
+
+[mods.citadel]
+version = "2.6.2"
+server_side = true
+client_side = true
+
+[[mods.citadel.source]]
+
+[mods.citadel.source.Download]
+url = "https://cdn.modrinth.com/data/jJfV67b1/versions/oD1qDb1C/citadel-2.6.2-1.20.1.jar"
+sha1 = "06866f4005d3f6ba63ac01f715b352842d809bbd"
+sha512 = "67f0d800157a807447ebf92e822bef8e3e441e471eba03592cd0c06541ae44130fef6c842764a4fb732b97dc4a5ff92210c39dd242b87106712d20ac976c5ba7"
+filename = "citadel-2.6.2-1.20.1.jar"
 
 [mods.cloth-config]
 version = "11.1.136+forge"

@@ -22,6 +22,10 @@ version = "*"
 name = "alekiships"
 version = "*"
 
+[mods.alexs-mobs]
+name = "alexs-mobs"
+version = "*"
+
 [mods.almost-unified]
 name = "almost-unified"
 version = "*"
