@@ -967,6 +967,19 @@ name = "lionfish-api"
 version = "2.4"
 providers = ["Modrinth"]
 
+[mods.legendary-monsters]
+version = "1.20.1"
+server_side = true
+client_side = true
+
+[[mods.legendary-monsters.source]]
+
+[mods.legendary-monsters.source.Download]
+url = "https://cdn.modrinth.com/data/9d9Bkqva/versions/LtJURbgf/legendarymonsters-1.9.8%20MC%201.20.1.jar"
+sha1 = "bc1b1436b490eccbd3554f86f8151a0803dcb1f3"
+sha512 = "ae7a8176b477a35b9cb8ce4c33c609e1e4f0a673dd75835b3b4d4b804cc5daca8eccb62ecdefd7d2f33aecfc8e8b6405610db04dbc14f4e95ff6fdd651eb2b03"
+filename = "legendarymonsters-1.9.8 MC 1.20.1.jar"
+
 [mods.lionfish-api]
 version = "2.4"
 server_side = true

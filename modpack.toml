@@ -220,6 +220,10 @@ client_side = true
 name = "l_enders-cataclysm"
 version = "*"
 
+[mods.legendary-monsters]
+name = "legendary-monsters"
+version = "*"
+
 [mods.lithostitched]
 name = "lithostitched"
 version = "*"
