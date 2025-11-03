@@ -279,6 +279,21 @@ target_path = "config/xaerominimap.txt"
 side = "Client"
 apply_policy = "Once"
 
+[files."./client/options.txt"]
+target_path = "options.txt"
+side = "Client"
+apply_policy = "Once"
+
+[files."./client/resourcepacks/Twilight JAPPA Pack 1.0.0.zip"]
+target_path = "resourcepacks/Twilight JAPPA Pack 1.0.0.zip"
+side = "Client"
+apply_policy = "Always"
+
+[files."./client/shaderpacks/ComplementaryReimagined_r5.6.1.zip"]
+target_path = "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+side = "Client"
+apply_policy = "Always"
+
 [files."./server/config/AdvancedBackups.properties"]
 target_path = "config/AdvancedBackups.properties"
 side = "Server"
