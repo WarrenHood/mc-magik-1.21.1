@@ -132,6 +132,24 @@ sha1 = "81919356f84eab14258db98924b66c3c38e372b1"
 sha512 = "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9"
 filename = "appleskin-forge-mc1.20.1-2.5.1.jar"
 
+[mods.aquamirae]
+version = "6.1.2"
+server_side = true
+client_side = true
+
+[[mods.aquamirae.source]]
+
+[mods.aquamirae.source.Download]
+url = "https://cdn.modrinth.com/data/k23mNPhZ/versions/ADmEFc16/aquamirae-forge-1.20.1-6.1.2.jar"
+sha1 = "3c4287166225fc010d29f94a546f908f0fdebef8"
+sha512 = "7da09e46c4f0e9abe90caa0a874d82e1aa9b6878938ec224624f1e8fac100d204cce5c715a97e78f36b154621230b00daab5493452b01442da9f614efe2711fc"
+filename = "aquamirae-forge-1.20.1-6.1.2.jar"
+
+[[mods.aquamirae.deps]]
+name = "obscure-api"
+version = "18"
+providers = ["Modrinth"]
+
 [mods.attributefix]
 version = "21.0.4"
 server_side = true
@@ -1103,6 +1121,19 @@ url = "https://cdn.modrinth.com/data/KuNKN7d2/versions/gbYUKrDP/noisium-forge-2.
 sha1 = "7da1cdf00c0ae5cad31e17f765f6ea021c8ac808"
 sha512 = "5bc43bc1b748edcd63d074a8bb14d393d986c51e1933e1f38cd7a2dd2fd70dba5a46a6415f46d4a52c68e7e1e9ce101e54376ad04273df958608e2fdb43db502"
 filename = "noisium-forge-2.3.0+mc1.20-1.20.1.jar"
+
+[mods.obscure-api]
+version = "18"
+server_side = true
+client_side = true
+
+[[mods.obscure-api.source]]
+
+[mods.obscure-api.source.Download]
+url = "https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.jar"
+sha1 = "d395153341a9a732fc80463c475b202d78675e28"
+sha512 = "c266efd30b8814166b457e421517c1afebdab1b3406d863acc894e778287482c2b0e63133d7fdf05c5758c480f65c008b70e6f67f82eac22c8dbb4dce5b369ce"
+filename = "obscure_api-18.jar"
 
 [mods.oculus]
 version = "1.20.1-1.8.0"
