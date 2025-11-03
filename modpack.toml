@@ -1,0 +1,314 @@
+pack_name = "forge-1.20.1-tech-n-adventure-stuff"
+mc_version = "1.20.1"
+modloader = "Forge"
+default_providers = ["Modrinth"]
+forbidden_mods = []
+
+[mods.advanced-backups]
+name = "advanced-backups"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.ae2]
+name = "ae2"
+version = "*"
+
+[mods.aether]
+name = "aether"
+version = "*"
+
+[mods.alekiships]
+name = "alekiships"
+version = "*"
+
+[mods.alternate-current]
+name = "alternate-current"
+version = "*"
+
+[mods.appleskin]
+name = "appleskin"
+version = "*"
+
+[mods.badoptimizations]
+name = "badoptimizations"
+version = "*"
+
+[mods.betterf3]
+name = "betterf3"
+version = "*"
+
+[mods.canary]
+name = "canary"
+version = "*"
+
+[mods.carry-on]
+name = "carry-on"
+version = "*"
+
+[mods.cataclysm-spellbooks]
+name = "cataclysm-spellbooks"
+version = "*"
+
+[mods.chunky]
+name = "chunky"
+version = "*"
+
+[mods.clumps]
+name = "clumps"
+version = "*"
+
+[mods.create]
+name = "create"
+version = "*"
+
+[mods.create-central-kitchen]
+name = "create-central-kitchen"
+version = "*"
+
+[mods.create-new-age]
+name = "create-new-age"
+version = "*"
+
+[mods.create-steam-n-rails]
+name = "create-steam-n-rails"
+version = "*"
+
+[mods.create-structures]
+name = "create-structures"
+version = "*"
+
+[mods.create-tfmg]
+name = "create-tfmg"
+version = "*"
+
+[mods.createaddition]
+name = "createaddition"
+version = "*"
+
+[mods.destroy]
+name = "destroy"
+version = "*"
+
+[mods.dungeon-now-loading]
+name = "dungeon-now-loading"
+version = "*"
+
+[mods.dungeons_delight]
+name = "dungeons_delight"
+version = "*"
+
+[mods.embeddium]
+name = "embeddium"
+version = "*"
+
+[mods.emi]
+name = "emi"
+version = "*"
+
+[mods.emi-loot]
+name = "emi-loot"
+version = "*"
+
+[mods.emi-ores]
+name = "emi-ores"
+version = "*"
+
+[mods.emienchants]
+name = "emienchants"
+version = "*"
+
+[mods.emiffect]
+name = "emiffect"
+version = "*"
+
+[mods.enderio]
+name = "enderio"
+version = "*"
+
+[mods.farmers-delight]
+name = "farmers-delight"
+version = "*"
+
+[mods.ferrite-core]
+name = "ferrite-core"
+version = "*"
+
+[mods.functional-storage]
+name = "functional-storage"
+version = "*"
+
+[mods.gravestone-mod]
+name = "gravestone-mod"
+version = "*"
+
+[mods.hardcore-revival]
+name = "hardcore-revival"
+version = "*"
+
+[mods.immediatelyfast]
+name = "immediatelyfast"
+version = "*"
+
+[mods.immersive-aircraft]
+name = "immersive-aircraft"
+version = "*"
+
+[mods.immersive-melodies]
+name = "immersive-melodies"
+version = "*"
+
+[mods.invmove]
+name = "invmove"
+version = "*"
+
+[mods.iris-flw-compat]
+name = "iris-flw-compat"
+version = "*"
+
+[mods.irons-spells-n-spellbooks]
+name = "irons-spells-n-spellbooks"
+version = "*"
+
+[mods.jade]
+name = "jade"
+version = "*"
+
+[mods.jei]
+name = "jei"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.l_enders-cataclysm]
+name = "l_enders-cataclysm"
+version = "*"
+
+[mods.mariums-soulslike-weaponry]
+name = "mariums-soulslike-weaponry"
+version = "*"
+
+[mods.mekanism]
+name = "mekanism"
+version = "*"
+
+[mods.mekanism-additions]
+name = "mekanism-additions"
+version = "*"
+
+[mods.mekanism-generators]
+name = "mekanism-generators"
+version = "*"
+
+[mods.mekanism-tools]
+name = "mekanism-tools"
+version = "*"
+
+[mods.memoryleakfix]
+name = "memoryleakfix"
+version = "*"
+
+[mods.miners-delight]
+name = "miners-delight"
+version = "*"
+
+[mods.modernfix]
+name = "modernfix"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.mouse-tweaks]
+name = "mouse-tweaks"
+version = "*"
+
+[mods.mowzies-mobs]
+name = "mowzies-mobs"
+version = "*"
+
+[mods.natures-compass]
+name = "natures-compass"
+version = "*"
+
+[mods.noisium]
+name = "noisium"
+version = "*"
+
+[mods.oculus]
+name = "oculus"
+version = "*"
+
+[mods.patchouli]
+name = "patchouli"
+version = "*"
+
+[mods.rubidium-extra]
+name = "rubidium-extra"
+version = "*"
+
+[mods.servercore]
+name = "servercore"
+version = "*"
+
+[mods.simple-discord-rpc]
+name = "simple-discord-rpc"
+version = "*"
+
+[mods.spark]
+name = "spark"
+version = "*"
+
+[mods.terramity]
+name = "terramity"
+version = "*"
+
+[mods.twilightforest]
+name = "twilightforest"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/5468/648/twilightforest-1.20.1-4.3.2508-universal.jar"
+server_side = true
+client_side = true
+
+[mods.xaeros-minimap]
+name = "xaeros-minimap"
+version = "*"
+
+[mods.xaeros-world-map]
+name = "xaeros-world-map"
+version = "*"
+
+[files."./client/config/xaerominimap.txt"]
+target_path = "config/xaerominimap.txt"
+side = "Client"
+apply_policy = "Once"
+
+[files."./server/config/AdvancedBackups.properties"]
+target_path = "config/AdvancedBackups.properties"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/config/carryon-common.toml"]
+target_path = "config/carryon-common.toml"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/config/iceandfire-common.toml"]
+target_path = "config/iceandfire-common.toml"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/config/rats-common.toml"]
+target_path = "config/rats-common.toml"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/server.properties"]
+target_path = "server.properties"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/whitelist.json"]
+target_path = "whitelist.json"
+side = "Server"
+apply_policy = "Always"
