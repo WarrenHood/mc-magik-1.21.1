@@ -46,6 +46,10 @@ version = "*"
 name = "betterf3"
 version = "*"
 
+[mods.caelus]
+name = "caelus"
+version = "*"
+
 [mods.canary]
 name = "canary"
 version = "*"
