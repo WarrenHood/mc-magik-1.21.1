@@ -154,6 +154,14 @@ version = "*"
 name = "functional-storage"
 version = "*"
 
+[mods.gathering-torches-become-sunlight]
+name = "gathering-torches-become-sunlight"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/6851/335/torchesbecomesunlight-0.4.4-fix.jar"
+server_side = true
+client_side = true
+
 [mods.gravestone-mod]
 name = "gravestone-mod"
 version = "*"
