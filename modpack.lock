@@ -335,47 +335,11 @@ name = "create"
 version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
 
-[mods.create-steam-n-rails]
-version = "1.6.13-alpha+forge-mc1.20.1"
-server_side = true
-client_side = true
-
-[[mods.create-steam-n-rails.source]]
-
-[mods.create-steam-n-rails.source.Download]
-url = "https://cdn.modrinth.com/data/ZzjhlDgM/versions/ezVPFGKZ/Steam_Rails-1.6.13-alpha%2Bforge-mc1.20.1.jar"
-sha1 = "52da57f8704a2e6b3f761066748192d6f069d5f9"
-sha512 = "99f18f3501fdb67add6d1fdc9016f09718aa6d3fe172559954840747f01e70834e56bb3c26de86846ec9dea3de565d1b86b675d3498c6696b0d0334ac7daf1c5"
-filename = "Steam_Rails-1.6.13-alpha+forge-mc1.20.1.jar"
-
-[[mods.create-steam-n-rails.deps]]
-name = "create"
-version = "mc1.20.1-6.0.8"
-providers = ["Modrinth"]
-
 [mods.create-structures]
 source = []
 version = "0.1.1"
 server_side = true
 client_side = true
-
-[mods.create-tfmg]
-version = "1.0.2c"
-server_side = true
-client_side = true
-
-[[mods.create-tfmg.source]]
-
-[mods.create-tfmg.source.Download]
-url = "https://cdn.modrinth.com/data/USgVjXsk/versions/ZdvRpjTA/tfmg-1.0.2c.jar"
-sha1 = "ebfd691c21a389ffe3fb73ccd45648828ffe0cb4"
-sha512 = "7a888ad7f6e1f0757354a5c2d9647e5ddcce0908942f346c0d9e8027b7d94ac9e3681a2af8e0a27857cd406f45d0516406fb8a1616cadb65ea997332b876eb7c"
-filename = "tfmg-1.0.2c.jar"
-
-[[mods.create-tfmg.deps]]
-name = "create"
-version = "mc1.20.1-6.0.8"
-providers = ["Modrinth"]
 
 [mods.createaddition]
 version = "1.20.1-1.3.1"
@@ -407,29 +371,6 @@ url = "https://cdn.modrinth.com/data/vvuO3ImH/versions/IPQlZkz1/curios-forge-5.1
 sha1 = "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
 sha512 = "1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87"
 filename = "curios-forge-5.14.1+1.20.1.jar"
-
-[mods.destroy]
-version = "1.20.1-0.1.3"
-server_side = true
-client_side = true
-
-[[mods.destroy.source]]
-
-[mods.destroy.source.Download]
-url = "https://cdn.modrinth.com/data/uY7EYHum/versions/Z43mg4A6/destroy-1.20.1-0.1.3-all.jar"
-sha1 = "8b1467c7327287981a6cd803b6a9298f501d3bfe"
-sha512 = "d37e93d43cf16a72f9e4834bb871a46f7c661f5801872a162a8478a9e22bd09eaaf38a831787a23064dba580cae80cd3ed95697002cd6506cb0554764cdeb88e"
-filename = "destroy-1.20.1-0.1.3-all.jar"
-
-[[mods.destroy.deps]]
-name = "create"
-version = "mc1.20.1-6.0.8"
-providers = ["Modrinth"]
-
-[[mods.destroy.deps]]
-name = "petrolpark"
-version = "1.20.1-1.4.22"
-providers = ["Modrinth"]
 
 [mods.dungeon-now-loading]
 version = "2.11"
@@ -1088,32 +1029,32 @@ sha1 = "e91d2e2f251375d647d592b670ea6f310c2554eb"
 sha512 = "d87143ae5dc979e8d65dd35ff0916077a355c503c4a906bed0d9dbe600ff0602e5296800cbdf2260d47033f664691b54e1b18a1b9835339c4e13d69fc4251f1b"
 filename = "Patchouli-1.20.1-84.1-FORGE.jar"
 
-[mods.petrolpark]
-version = "1.20.1-1.4.22"
+[mods.playeranimator]
+version = "1.0.2-rc1+1.20-forge"
 deps = []
 server_side = true
 client_side = true
 
-[[mods.petrolpark.source]]
+[[mods.playeranimator.source]]
 
-[mods.petrolpark.source.Download]
-url = "https://cdn.modrinth.com/data/ik2WZkTZ/versions/3PwUJgZl/petrolpark-1.20.1-1.4.22-all.jar"
-sha1 = "1d85c6765ae42c0fd3cae29ea916c47a3839723a"
-sha512 = "76d4f4edc92f482cd6921390118697e663a416aa736b1ad65e89740582010e4eeb3fb2cd3a9a8e29c881ced830167123bcf1e59aba2ffa0a8274bc70a98480dc"
-filename = "petrolpark-1.20.1-1.4.22-all.jar"
+[mods.playeranimator.source.Download]
+url = "https://cdn.modrinth.com/data/gedNE4y2/versions/xe2EVE6q/player-animation-lib-forge-1.0.2-rc1%2B1.20.jar"
+sha1 = "16808f94a41d45d8e986b4e4ea6b02ba57fa058a"
+sha512 = "cb9f6a3aaa943823a85fdd716ddb3c7623af2b3520926c3a98d170c52d31908894808fb61c52bea39bae622dbab59d50b4bad56f7ca0533a9c3350d412c33729"
+filename = "player-animation-lib-forge-1.0.2-rc1+1.20.jar"
 
 [mods.projectile-damage-attribute]
-version = "3.2.3+1.20.1-forge"
+version = "3.2.2+1.20.1-forge"
 server_side = true
 client_side = true
 
 [[mods.projectile-damage-attribute.source]]
 
 [mods.projectile-damage-attribute.source.Download]
-url = "https://cdn.modrinth.com/data/AOyJhFvl/versions/Xk19d9L4/projectile_damage-forge-3.2.3%2B1.20.1.jar"
-sha1 = "9bc4ba19c11361ee0758c4f7b63bbb6d66680926"
-sha512 = "c17556328db41356da5ec910c52ac44c21c8b1944e127835547246b18ef3c9b8ff2cb01e439c59acc2a5ae3409bb35e9f78035e9458a2b399dea7d3f0d36200a"
-filename = "projectile_damage-forge-3.2.3+1.20.1.jar"
+url = "https://cdn.modrinth.com/data/AOyJhFvl/versions/KgTLAkfq/projectile_damage-forge-3.2.2%2B1.20.1.jar"
+sha1 = "9c7378a0b9905d032c8bb5a6f72866229bfe4ed6"
+sha512 = "a6576a0b971f38f95ac1ff587d12d7f26fcbc1f64bf216f5bae873eb069c97e7b350ad76605aa6a9df5a6ad6821edc9a17672a5f93767e624669f25be4cc9536"
+filename = "projectile_damage-forge-3.2.2+1.20.1.jar"
 
 [mods.rubidium-extra]
 version = "0.5.4.4+mc1.20.1-build.131"

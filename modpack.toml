@@ -70,24 +70,12 @@ version = "*"
 name = "create-new-age"
 version = "*"
 
-[mods.create-steam-n-rails]
-name = "create-steam-n-rails"
-version = "*"
-
 [mods.create-structures]
 name = "create-structures"
 version = "*"
 
-[mods.create-tfmg]
-name = "create-tfmg"
-version = "*"
-
 [mods.createaddition]
 name = "createaddition"
-version = "*"
-
-[mods.destroy]
-name = "destroy"
 version = "*"
 
 [mods.dungeon-now-loading]
@@ -241,6 +229,14 @@ version = "*"
 [mods.patchouli]
 name = "patchouli"
 version = "*"
+
+[mods.playeranimator]
+name = "playeranimator"
+version = "*"
+
+[mods.projectile-damage-attribute]
+name = "projectile-damage-attribute"
+version = "3.2.2+1.20.1-forge"
 
 [mods.rubidium-extra]
 name = "rubidium-extra"
