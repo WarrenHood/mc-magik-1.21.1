@@ -56,6 +56,24 @@ sha1 = "c42aaab43cd524c45c4065996cc06b9b48c5682a"
 sha512 = "948dde522b1e0b95316db4105026bc8aa2488d709e133bd24a5cf20a17b3a7bb2e3ffa3b2cf038adc43ae768a6dc77ed9161518b8a3bc96475395c1f41b94096"
 filename = "alekiNiftyShips-FORGE-1.20.1-1.0.14.jar"
 
+[mods.alexs-caves]
+version = "2.0.2"
+server_side = true
+client_side = true
+
+[[mods.alexs-caves.source]]
+
+[mods.alexs-caves.source.Download]
+url = "https://cdn.modrinth.com/data/U6GY0xp0/versions/lC8HHXOF/alexscaves-2.0.2.jar"
+sha1 = "a1e5c7b7c7eadda4c8e954acbcbaf75a7b500d53"
+sha512 = "d23092cf507f4cf66ead45d7b393393ea83a9002056962ee6c341e91323ae39e10f2aefbbbc9f5e54409eb3ee522ad0c2dd5661077b09f1e37d034cfdd4333a0"
+filename = "alexscaves-2.0.2.jar"
+
+[[mods.alexs-caves.deps]]
+name = "citadel"
+version = "2.6.2"
+providers = ["Modrinth"]
+
 [mods.alexs-mobs]
 version = "1.22.9"
 server_side = true
