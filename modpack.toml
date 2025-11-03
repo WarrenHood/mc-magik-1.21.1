@@ -46,6 +46,10 @@ version = "*"
 name = "badoptimizations"
 version = "*"
 
+[mods.better-archeology]
+name = "better-archeology"
+version = "*"
+
 [mods.betterf3]
 name = "betterf3"
 version = "*"

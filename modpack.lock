@@ -184,6 +184,29 @@ sha1 = "8ed877e61adf550c68aa4fc75d163ff97c0c5006"
 sha512 = "3f01038d48f068ebc9941ad9ea23266e7f25a8851bb8f4ac4dd150bb2eddf10f6b2c0dac6e2a8d2cf4af2febfb884766f5ca000cf460d53ccde87cead2b0b5a8"
 filename = "balm-forge-1.20.1-7.3.37-all.jar"
 
+[mods.better-archeology]
+version = "1.2.1-1.20.1"
+server_side = true
+client_side = true
+
+[[mods.better-archeology.source]]
+
+[mods.better-archeology.source.Download]
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/vsqxpUo3/betterarcheology-1.2.1-1.20.1.jar"
+sha1 = "c2cb928bef1c1aa89e90e72b8544b885aceb5d01"
+sha512 = "1b1483ae31f42f687915c964cbd07b1f165e4ffa55aec23370f7f0efcb61f78f16a3ef8d6edbc2f4812524f22cc969a8f0d7cd2e2a6b5edf6959342526deaeb1"
+filename = "betterarcheology-1.2.1-1.20.1.jar"
+
+[[mods.better-archeology.deps]]
+name = "supermartijn642s-config-lib"
+version = "1.1.8-forge-mc1.20"
+providers = ["Modrinth"]
+
+[[mods.better-archeology.deps]]
+name = "yungs-api"
+version = "1.20-Forge-4.0.6"
+providers = ["Modrinth"]
+
 [mods.betterf3]
 version = "7.0.2"
 server_side = false
@@ -1237,6 +1260,19 @@ sha1 = "231fb325368c0660954f47bfb03493f5246fa4d1"
 sha512 = "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
 filename = "spark-1.10.53-forge.jar"
 
+[mods.supermartijn642s-config-lib]
+version = "1.1.8-forge-mc1.20"
+server_side = true
+client_side = true
+
+[[mods.supermartijn642s-config-lib.source]]
+
+[mods.supermartijn642s-config-lib.source.Download]
+url = "https://cdn.modrinth.com/data/LN9BxssP/versions/ZKor79dR/supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+sha1 = "f80f9eed728966adcfbcc848633e789645057281"
+sha512 = "476595aacc7c66a0cf7bcd56143975122ea54ae4c5b61a232d3b0b9b1e3c013575efcc05de31a5d2c4e129542bfd8ae255a25d1486a4e08961cc4a303940fd19"
+filename = "supermartijn642configlib-1.1.8-forge-mc1.20.jar"
+
 [mods.tinkers-construct]
 version = "3.10.2.92"
 server_side = true
@@ -1308,3 +1344,16 @@ url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ATTRzxT3/XaerosWorldMap_1
 sha1 = "3c4005a400ba8270738bbe4c573526749ecf2f8f"
 sha512 = "06d68367ec0a3eed9c13a6c02ce4a93d9375c6b32cb8c3e77a7c62f3e3ea6bfadbfae70d0e5f115e2b353d4b186e6cf80bcc73df5b13362d5d18f25fb2a9d6d1"
 filename = "XaerosWorldMap_1.39.12_Forge_1.20.jar"
+
+[mods.yungs-api]
+version = "1.20-Forge-4.0.6"
+server_side = true
+client_side = true
+
+[[mods.yungs-api.source]]
+
+[mods.yungs-api.source.Download]
+url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Forge-4.0.6.jar"
+sha1 = "af584b690f5646c6032002b58abc4591beed3833"
+sha512 = "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889"
+filename = "YungsApi-1.20-Forge-4.0.6.jar"
