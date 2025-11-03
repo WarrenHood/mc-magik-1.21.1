@@ -296,6 +296,11 @@ target_path = "options.txt"
 side = "Client"
 apply_policy = "Once"
 
+[files."./client/servers.dat"]
+target_path = "servers.dat"
+side = "Client"
+apply_policy = "Once"
+
 [files."./client/resourcepacks/Faithful 32x - 1.20.1.zip"]
 target_path = "resourcepacks/Faithful 32x - 1.20.1.zip"
 side = "Client"
