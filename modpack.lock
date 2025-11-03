@@ -453,6 +453,19 @@ version = "0.1.1"
 server_side = true
 client_side = true
 
+[mods.create-structures-arise]
+version = "162.35.34"
+server_side = true
+client_side = true
+
+[[mods.create-structures-arise.source]]
+
+[mods.create-structures-arise.source.Download]
+url = "https://cdn.modrinth.com/data/9enMEvoc/versions/eQXO101T/create_structures_arise-162.35.34-forge-1.20.1.jar"
+sha1 = "e714e080598caf15968f06da434d8ada6cc53eb8"
+sha512 = "a939453d8cfdfa4a5a453daba120edb24c28bb44ef3e48ce099679b8240352ef9b574aa68cc730a16bcfab8ed8d85b63905193d67728e870163f55ce534e76e4"
+filename = "create_structures_arise-162.35.34-forge-1.20.1.jar"
+
 [mods.createaddition]
 version = "1.20.1-1.3.1"
 server_side = true
