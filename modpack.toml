@@ -266,6 +266,10 @@ version = "*"
 name = "projectile-damage-attribute"
 version = "3.2.2+1.20.1-forge"
 
+[mods.regions-unexplored]
+name = "regions-unexplored"
+version = "*"
+
 [mods.rubidium-extra]
 name = "rubidium-extra"
 version = "*"
@@ -284,6 +288,10 @@ version = "*"
 
 [mods.spark]
 name = "spark"
+version = "*"
+
+[mods.tectonic]
+name = "tectonic"
 version = "*"
 
 [mods.tinkers-construct]
