@@ -38,6 +38,22 @@ version = "*"
 name = "alternate-current"
 version = "*"
 
+[mods.apotheosis]
+name = "apotheosis"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/6461/960/Apotheosis-1.20.1-7.4.8.jar"
+server_side = true
+client_side = true
+
+[mods.apothicattributes]
+name = "apothicattributes"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/5634/71/ApothicAttributes-1.20.1-1.3.7.jar"
+server_side = true
+client_side = true
+
 [mods.appleskin]
 name = "appleskin"
 version = "*"
@@ -220,6 +236,12 @@ client_side = true
 name = "l_enders-cataclysm"
 version = "*"
 
+[mods.lithostitched]
+name = "lithostitched"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.mariums-soulslike-weaponry]
 name = "mariums-soulslike-weaponry"
 version = "*"
@@ -261,6 +283,14 @@ version = "*"
 [mods.patchouli]
 name = "patchouli"
 version = "*"
+
+[mods.placebo]
+name = "placebo"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/6274/231/Placebo-1.20.1-8.6.3.jar"
+server_side = true
+client_side = true
 
 [mods.playeranimator]
 name = "playeranimator"
