@@ -197,19 +197,6 @@ sha1 = "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
 sha512 = "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
 filename = "botarium-forge-1.20.1-2.3.4.jar"
 
-[mods.caelus]
-version = "3.2.0+1.20.1"
-server_side = true
-client_side = true
-
-[[mods.caelus.source]]
-
-[mods.caelus.source.Download]
-url = "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2.0%2B1.20.1.jar"
-sha1 = "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
-sha512 = "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"
-filename = "caelus-forge-3.2.0+1.20.1.jar"
-
 [mods.canary]
 version = "mc1.20.1-0.3.3"
 deps = []
@@ -1247,39 +1234,6 @@ url = "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-fo
 sha1 = "231fb325368c0660954f47bfb03493f5246fa4d1"
 sha512 = "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
 filename = "spark-1.10.53-forge.jar"
-
-[mods.terramity]
-version = "0.9.8"
-server_side = true
-client_side = true
-
-[[mods.terramity.source]]
-
-[mods.terramity.source.Download]
-url = "https://cdn.modrinth.com/data/RHN9OPTT/versions/cjrb1wmA/terramity-0.9.8-forge-1.20.1.jar"
-sha1 = "898ef261a7d05e844dc879f38b2f37333765704a"
-sha512 = "aed5dda694afc7181c703972a0e0a94996499d3f26d93b401284eae3a1aecd16c014cf63253b29f8d4077a825a12f0e7046b2601185fcc16420d79bc50332d9e"
-filename = "terramity-0.9.8-forge-1.20.1.jar"
-
-[[mods.terramity.deps]]
-name = "caelus"
-version = "3.2.0+1.20.1"
-providers = ["Modrinth"]
-
-[[mods.terramity.deps]]
-name = "curios"
-version = "5.14.1+1.20.1"
-providers = ["Modrinth"]
-
-[[mods.terramity.deps]]
-name = "geckolib"
-version = "4.8.2"
-providers = ["Modrinth"]
-
-[[mods.terramity.deps]]
-name = "patchouli"
-version = "1.20.1-84.1-forge"
-providers = ["Modrinth"]
 
 [mods.titanium]
 version = "1.20.1-3.8.32"

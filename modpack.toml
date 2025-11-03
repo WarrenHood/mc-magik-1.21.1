@@ -278,10 +278,6 @@ version = "*"
 name = "spark"
 version = "*"
 
-[mods.terramity]
-name = "terramity"
-version = "*"
-
 [mods.twilightforest]
 name = "twilightforest"
 version = "*"
