@@ -882,6 +882,19 @@ sha1 = "904f098cdccb2c61623aaa466dff3f6c8c6a0977"
 sha512 = "08712bbd71cfd6f6187a54a1373a82a017ed2a6de989d641f70e60b67e82cb80dbe27dbe55d8315a4f006444057ac10670c6f61b230ad1d6d9eb1d7b37baeac0"
 filename = "lionfishapi-2.4.jar"
 
+[mods.mantle]
+version = "1.11.79"
+server_side = true
+client_side = true
+
+[[mods.mantle.source]]
+
+[mods.mantle.source.Download]
+url = "https://cdn.modrinth.com/data/Cg6Uc79H/versions/ATZFAPLK/Mantle-1.20.1-1.11.79.jar"
+sha1 = "db1ab527fcc48852775e01f9504c7a3ec3083743"
+sha512 = "65042445a59c0c439abd7200f81f4f35b1f700969ff0d2665582e8947c7391880cf1ff349375dbeb8d9ed68c8b19baf3c80c89f72327816b42539a5d0b3a237d"
+filename = "Mantle-1.20.1-1.11.79.jar"
+
 [mods.mariums-soulslike-weaponry]
 version = "1.2.4-1.20.1-forge"
 server_side = true
@@ -1166,6 +1179,24 @@ url = "https://cdn.modrinth.com/data/l6YH9Als/versions/4FXHDE9F/spark-1.10.53-fo
 sha1 = "231fb325368c0660954f47bfb03493f5246fa4d1"
 sha512 = "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
 filename = "spark-1.10.53-forge.jar"
+
+[mods.tinkers-construct]
+version = "3.10.2.92"
+server_side = true
+client_side = true
+
+[[mods.tinkers-construct.source]]
+
+[mods.tinkers-construct.source.Download]
+url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/FGU09YgL/TConstruct-1.20.1-3.10.2.92.jar"
+sha1 = "74cc057cc01fdb0186504d71623b5811bbe705f9"
+sha512 = "a2d2df3e886560f54ec26eb434362a03e5e14cdf50de32ad887d2a661e4ae1571f3a27b7808b5a6c76332a2fb7776040e3efaa8cc955815d68d56ac5ee619588"
+filename = "TConstruct-1.20.1-3.10.2.92.jar"
+
+[[mods.tinkers-construct.deps]]
+name = "mantle"
+version = "1.11.79"
+providers = ["Modrinth"]
 
 [mods.titanium]
 version = "1.20.1-3.8.32"

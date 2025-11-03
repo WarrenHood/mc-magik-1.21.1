@@ -262,6 +262,10 @@ version = "*"
 name = "spark"
 version = "*"
 
+[mods.tinkers-construct]
+name = "tinkers-construct"
+version = "*"
+
 [mods.twilightforest]
 name = "twilightforest"
 version = "*"
