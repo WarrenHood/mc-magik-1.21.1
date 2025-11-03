@@ -196,22 +196,6 @@ version = "*"
 name = "mariums-soulslike-weaponry"
 version = "*"
 
-[mods.mekanism]
-name = "mekanism"
-version = "*"
-
-[mods.mekanism-additions]
-name = "mekanism-additions"
-version = "*"
-
-[mods.mekanism-generators]
-name = "mekanism-generators"
-version = "*"
-
-[mods.mekanism-tools]
-name = "mekanism-tools"
-version = "*"
-
 [mods.memoryleakfix]
 name = "memoryleakfix"
 version = "*"
