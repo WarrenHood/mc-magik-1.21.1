@@ -312,6 +312,10 @@ version = "*"
 name = "rubidium-extra"
 version = "*"
 
+[mods.rustic-engineer]
+name = "rustic-engineer"
+version = "*"
+
 [mods.servercore]
 name = "servercore"
 version = "*"
