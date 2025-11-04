@@ -344,6 +344,14 @@ version = "*"
 name = "tectonic"
 version = "*"
 
+[mods.thermal-expansion]
+name = "thermal-expansion"
+version = "*"
+
+[mods.thermal-integration]
+name = "thermal-integration"
+version = "*"
+
 [mods.tinkers-construct]
 name = "tinkers-construct"
 version = "*"
