@@ -58,6 +58,10 @@ version = "*"
 name = "betterf3"
 version = "*"
 
+[mods.block-runner]
+name = "block-runner"
+version = "*"
+
 [mods.caelus]
 name = "caelus"
 version = "*"
@@ -86,8 +90,16 @@ version = "*"
 name = "copycats"
 version = "*"
 
+[mods.crafting-tweaks]
+name = "crafting-tweaks"
+version = "*"
+
 [mods.create]
 name = "create"
+version = "*"
+
+[mods.create-applied-kinetics]
+name = "create-applied-kinetics"
 version = "*"
 
 [mods.create-central-kitchen]
@@ -112,6 +124,10 @@ version = "*"
 
 [mods.create-structures-arise]
 name = "create-structures-arise"
+version = "*"
+
+[mods.create-teleporters]
+name = "create-teleporters"
 version = "*"
 
 [mods.create-wizardry]
@@ -184,6 +200,10 @@ version = "*"
 
 [mods.hardcore-revival]
 name = "hardcore-revival"
+version = "*"
+
+[mods.hypertube]
+name = "hypertube"
 version = "*"
 
 [mods.immediatelyfast]
@@ -302,6 +322,14 @@ version = "*"
 
 [mods.slice-and-dice]
 name = "slice-and-dice"
+version = "*"
+
+[mods.sophisticated-backpacks]
+name = "sophisticated-backpacks"
+version = "*"
+
+[mods.sophisticated-backpacks-create-integration]
+name = "sophisticated-backpacks-create-integration"
 version = "*"
 
 [mods.spark]
