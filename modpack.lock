@@ -712,6 +712,19 @@ name = "runiclib"
 version = "4.3.8"
 providers = ["Modrinth"]
 
+[mods.effortless-building]
+version = "3.10"
+server_side = true
+client_side = true
+
+[[mods.effortless-building.source]]
+
+[mods.effortless-building.source.Download]
+url = "https://cdn.modrinth.com/data/DYtfQEYj/versions/GCzIlABB/effortlessbuilding-1.20.1-3.10.jar"
+sha1 = "f71f32238e9d08e71b95941d8f69740d245f2a6a"
+sha512 = "4fa3a6fff79a6613f84def1013b39f903309a2dd154c5471d1b2ed1bd3ede945246b1d12d4b3d0a88bf18f6ea2f9c7f20d0401a5283a6963392722d78df9c266"
+filename = "effortlessbuilding-1.20.1-3.10.jar"
+
 [mods.embeddium]
 version = "0.3.31+mc1.20.1"
 deps = []
@@ -1078,6 +1091,24 @@ sha1 = "161d71d83a5e5962062ef1fe83c36e398a5668df"
 sha512 = "0bce6b31ac7c930879e7b58cf72de187baa61e6bbca4373ce83f7343dfcc3d7d9a02416b4e408b135b148f82667c84ff33e31194574d93eac0fbfdac9b126f71"
 filename = "irons_spellbooks-1.20.1-3.4.0.9.jar"
 
+[mods.item-obliterator]
+version = "2.3.1"
+server_side = true
+client_side = true
+
+[[mods.item-obliterator.source]]
+
+[mods.item-obliterator.source.Download]
+url = "https://cdn.modrinth.com/data/3ESR84kR/versions/EV0cDZhI/Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
+sha1 = "d8fa4e840a3d60f2172de0584d804d0bf7e6db19"
+sha512 = "4e207c6e0437dc14970d009453777111c8a1a8aed7953eefc32c057e964d1061ca71c38e6eb9b065f1b519da13d26a45f7e8bf199937fcc091beedccd6055754"
+filename = "Item-Obliterator-NeoForge-MC1.20.1-2.3.1.jar"
+
+[[mods.item-obliterator.deps]]
+name = "necronomicon"
+version = "1.6.0+1.20.1"
+providers = ["Modrinth"]
+
 [mods.jade]
 version = "11.13.2+forge"
 deps = []
@@ -1308,6 +1339,19 @@ url = "https://cdn.modrinth.com/data/fPetb5Kh/versions/Og40jCNX/NaturesCompass-1
 sha1 = "31ae930cdbb34e8e05e1954cfb2fee3a3813e850"
 sha512 = "7a2a9e9e91f9d2093d94c42ed056bca4048f39ba45b233415b6d1874986b5848a82826873ccc2b38abccbdf5652f2e217482354c66434ed1b93df8971cb0bea3"
 filename = "NaturesCompass-1.20.1-1.11.2-forge.jar"
+
+[mods.necronomicon]
+version = "1.6.0+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.necronomicon.source]]
+
+[mods.necronomicon.source.Download]
+url = "https://cdn.modrinth.com/data/P1Kv5EAO/versions/AomMq7HP/Necronomicon-Forge-1.6.0%2B1.20.1.jar"
+sha1 = "2ad4ffa0fb087e4467c6f7496d456fc1ac949ebf"
+sha512 = "d63d8d3e252197b7cabffc10ba6ec718d03b0038345d40dc5c9ce3014b9e542a35760ab0250f179b3de4183fe34784d645157b34bf54648c0ebbe24604ed5ba7"
+filename = "Necronomicon-Forge-1.6.0+1.20.1.jar"
 
 [mods.noisium]
 version = "2.3.0+mc1.20-1.20.1"

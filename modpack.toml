@@ -146,6 +146,10 @@ version = "*"
 name = "dungeons_delight"
 version = "*"
 
+[mods.effortless-building]
+name = "effortless-building"
+version = "*"
+
 [mods.embeddium]
 name = "embeddium"
 version = "*"
@@ -228,6 +232,10 @@ version = "*"
 
 [mods.irons-spells-n-spellbooks]
 name = "irons-spells-n-spellbooks"
+version = "*"
+
+[mods.item-obliterator]
+name = "item-obliterator"
 version = "*"
 
 [mods.jade]
