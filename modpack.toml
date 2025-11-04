@@ -114,6 +114,10 @@ version = "*"
 name = "create-structures-arise"
 version = "*"
 
+[mods.create-wizardry]
+name = "create-wizardry"
+version = "*"
+
 [mods.createaddition]
 name = "createaddition"
 version = "*"
