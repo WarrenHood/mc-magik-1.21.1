@@ -1,0 +1,6 @@
+{
+  "fullscreenMode": "BORDERLESS",
+  "preferredFullscreenMode": "BORDERLESS",
+  "fullscreenType": "windows:windowed",
+  "borderlessFullscreenType": "windows:windowed"
+}

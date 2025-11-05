@@ -388,6 +388,11 @@ version = "*"
 name = "xaeros-world-map"
 version = "*"
 
+[files."./client/config/cubes_without_borders.json"]
+target_path = "config/cubes_without_borders.json"
+side = "Client"
+apply_policy = "Once"
+
 [files."./client/config/xaerominimap.txt"]
 target_path = "config/xaerominimap.txt"
 side = "Client"
