@@ -138,6 +138,10 @@ version = "*"
 name = "createaddition"
 version = "*"
 
+[mods.cubes-without-borders]
+name = "cubes-without-borders"
+version = "*"
+
 [mods.dungeon-now-loading]
 name = "dungeon-now-loading"
 version = "*"
@@ -272,6 +276,10 @@ version = "*"
 
 [mods.miners-delight]
 name = "miners-delight"
+version = "*"
+
+[mods.mobtimizations]
+name = "mobtimizations"
 version = "*"
 
 [mods.modernfix]
