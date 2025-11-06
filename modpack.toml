@@ -18,6 +18,10 @@ version = "*"
 name = "aether"
 version = "*"
 
+[mods.akashic-tome]
+name = "akashic-tome"
+version = "*"
+
 [mods.alekiships]
 name = "alekiships"
 version = "*"
