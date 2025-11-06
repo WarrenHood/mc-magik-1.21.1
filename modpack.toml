@@ -118,6 +118,10 @@ version = "*"
 name = "clumps"
 version = "*"
 
+[mods.controlling]
+name = "controlling"
+version = "*"
+
 [mods.copycats]
 name = "copycats"
 version = "*"

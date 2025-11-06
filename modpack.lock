@@ -487,6 +487,24 @@ sha1 = "6f7c0056fece31bf393df450d79482810ed444af"
 sha512 = "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2078e220fe33891384abc40e1a705affe9d77ae4e35cf60185e07c11a73"
 filename = "cofh_core-1.20.1-11.0.2.56.jar"
 
+[mods.controlling]
+version = "12.0.2"
+server_side = false
+client_side = true
+
+[[mods.controlling.source]]
+
+[mods.controlling.source.Download]
+url = "https://cdn.modrinth.com/data/xv94TkTM/versions/LH6Bi6Am/Controlling-forge-1.20.1-12.0.2.jar"
+sha1 = "6195a3d1464f8fb641d7e165163aea1a857ce08e"
+sha512 = "3945bf3f6d843957f13584dfc70bede253d1e48f0dcb96f647fbcc6fcd3d1748a0dd9c6ca5c882e07a41f98eb84057934f51e43ab6023ed0a19695de2e6fe9f5"
+filename = "Controlling-forge-1.20.1-12.0.2.jar"
+
+[[mods.controlling.deps]]
+name = "searchables"
+version = "1.0.3"
+providers = ["Modrinth"]
+
 [mods.copycats]
 version = "3.0.2+mc.1.20.1-forge"
 server_side = true
@@ -1598,6 +1616,19 @@ filename = "rustic_engineer-1.1.4-forge-1.20.1.jar"
 name = "geckolib"
 version = "4.8.2"
 providers = ["Modrinth"]
+
+[mods.searchables]
+version = "1.0.3"
+server_side = false
+client_side = true
+
+[[mods.searchables.source]]
+
+[mods.searchables.source.Download]
+url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/PM9yAW1G/Searchables-forge-1.20.1-1.0.3.jar"
+sha1 = "5b976f6e76ec74cdef21865e31f56bcb11558db7"
+sha512 = "185617d6d446f3d4ef6c7d5c6ee4e2fb731a89f7495157313b21292ec6b8e3dbcc10c0379ab49ecb2d0c64d0a78df74750d7f7336d5e6c43516a7c92f278c0a2"
+filename = "Searchables-forge-1.20.1-1.0.3.jar"
 
 [mods.servercore]
 version = "1.5.2+1.20.1"
