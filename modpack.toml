@@ -46,6 +46,22 @@ version = "*"
 name = "aquamirae"
 version = "*"
 
+[mods.ars-additions]
+name = "ars-additions"
+version = "*"
+
+[mods.ars-energistique]
+name = "ars-energistique"
+version = "*"
+
+[mods.ars-nouveau]
+name = "ars-nouveau"
+version = "*"
+
+[mods.arsdelight]
+name = "arsdelight"
+version = "*"
+
 [mods.badoptimizations]
 name = "badoptimizations"
 version = "*"
@@ -354,6 +370,10 @@ version = "*"
 
 [mods.spark]
 name = "spark"
+version = "*"
+
+[mods.tcintegrations]
+name = "tcintegrations"
 version = "*"
 
 [mods.tectonic]
