@@ -209,6 +209,19 @@ sha1 = "6c23a97d771ea7ad43bee9bd71d2f2a1f2084170"
 sha512 = "f3e3abf260fb3ef4c5b6b7324c055802135f82f4c550986f4e93b1a186c9b495cd8b6396ed89ab088b95e6176c0b9e290ccc69a528c521cd1bff19935ac36836"
 filename = "ars_nouveau-1.20.1-4.12.7-all.jar"
 
+[mods.ars-scalaes]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.ars-scalaes.source]]
+
+[mods.ars-scalaes.source.Download]
+url = "https://mediafilez.forgecdn.net/files/5850/815/ars_scalaes-1.20.1-1.10.7c.jar"
+sha1 = "b731e612ccdab3d246e2f97795c88ed0abe0b890"
+sha512 = "e6c2b7e4e57131df06c39c454167485cf2f5251f696b84d39cd4ca2cea06e92565ab2d08a994e0b3e229438b709b0ccad0f04bbb91b3ced0907028f87c95c070"
+filename = "ars_scalaes-1.20.1-1.10.7c.jar"
+
 [mods.arsdelight]
 version = "1.1.6"
 server_side = true
@@ -1439,6 +1452,19 @@ url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1
 sha1 = "e91d2e2f251375d647d592b670ea6f310c2554eb"
 sha512 = "d87143ae5dc979e8d65dd35ff0916077a355c503c4a906bed0d9dbe600ff0602e5296800cbdf2260d47033f664691b54e1b18a1b9835339c4e13d69fc4251f1b"
 filename = "Patchouli-1.20.1-84.1-FORGE.jar"
+
+[mods.pehkui]
+version = "3.8.2+1.20.1-forge"
+server_side = true
+client_side = true
+
+[[mods.pehkui.source]]
+
+[mods.pehkui.source.Download]
+url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar"
+sha1 = "4bc816efdd8e5e2a97423313674401351710e403"
+sha512 = "e4660f0b5af6bfe2902ab39a6fbfa911856e0567bffc47842b482731da373afa4424b9e7cf47c61a0c2107445520475053709a6671d9eb4b7f4b55597729af3f"
+filename = "Pehkui-3.8.2+1.20.1-forge.jar"
 
 [mods.playeranimator]
 version = "1.0.2-rc1+1.20-forge"
