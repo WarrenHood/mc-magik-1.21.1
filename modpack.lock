@@ -448,42 +448,6 @@ sha1 = "6f7c0056fece31bf393df450d79482810ed444af"
 sha512 = "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2078e220fe33891384abc40e1a705affe9d77ae4e35cf60185e07c11a73"
 filename = "cofh_core-1.20.1-11.0.2.56.jar"
 
-[mods.connector]
-version = "1.0.0-beta.46+1.20.1"
-server_side = true
-client_side = true
-
-[[mods.connector.source]]
-
-[mods.connector.source.Download]
-url = "https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46%2B1.20.1.jar"
-sha1 = "a4ad6605706bebca9470a5affe6f44abaef5d507"
-sha512 = "7d98bd11e72dc95fb30e84d2be9175f2687201451d0e21421074bd225fcbcac8b4bcc1cd1b2dbd5f03e798569cac2f3bcc87c1baba1b1ad002268c578b20a533"
-filename = "Connector-1.0.0-beta.46+1.20.1.jar"
-
-[[mods.connector.deps]]
-name = "forgified-fabric-api"
-version = "0.92.6+1.11.14+1.20.1"
-providers = ["Modrinth"]
-
-[mods.connector-extras]
-version = "1.11.2+1.20.1"
-server_side = true
-client_side = true
-
-[[mods.connector-extras.source]]
-
-[mods.connector-extras.source.Download]
-url = "https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2%2B1.20.1.jar"
-sha1 = "9336db4e6ce458bccf7724c039f0371e822397ae"
-sha512 = "a318841ce2c42e8ba2058d47ad323bcb8ca500515c391f3f31b6468e8d4d974a53effe8a0a801b7fafd60d9845be514696bd9b095a3cc5d014bde02ce531bada"
-filename = "ConnectorExtras-1.11.2+1.20.1.jar"
-
-[[mods.connector-extras.deps]]
-name = "connector"
-version = "1.0.0-beta.46+1.20.1"
-providers = ["Modrinth"]
-
 [mods.copycats]
 version = "3.0.2+mc.1.20.1-forge"
 server_side = true
@@ -924,19 +888,6 @@ url = "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.
 sha1 = "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
 sha512 = "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
 filename = "ferritecore-6.0.1-forge.jar"
-
-[mods.forgified-fabric-api]
-version = "0.92.6+1.11.14+1.20.1"
-server_side = true
-client_side = true
-
-[[mods.forgified-fabric-api.source]]
-
-[mods.forgified-fabric-api.source.Download]
-url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
-sha1 = "285c22b2567b9fdf98ef9808eceb5557de9611d3"
-sha512 = "3b84ea415d9255861bcbf78cfda3987b78aa452361bf44ba6a0223501a25ab5c5c55cb0eac6f460c88b8cec958f2b59211e488277c26e3432a08196f62049e7c"
-filename = "fabric-api-0.92.6+1.11.14+1.20.1.jar"
 
 [mods.functional-storage]
 version = "1.20.1-1.2.13"
@@ -1476,93 +1427,6 @@ name = "embeddium"
 version = "0.3.31+mc1.20.1"
 providers = ["Modrinth"]
 
-[mods.origins]
-version = "1.10.2+mc.1.20.1"
-server_side = true
-client_side = true
-
-[[mods.origins.source]]
-
-[mods.origins.source.Download]
-url = "https://cdn.modrinth.com/data/3BeIrqZR/versions/S03WNOkQ/Origins-1.10.2%2Bmc.1.20.x.jar"
-sha1 = "aeb2b6e0d69b7ceee9971c90fcf9aa6713a3c298"
-sha512 = "1d4031b11e1863cae909f3f5c81f06f3d59de495a696d0b32a028c2459084434c77b7bd1008f4c7097c97d66402d58f9e97df70b2ccd0c25680f859e26a82e6f"
-filename = "Origins-1.10.2+mc.1.20.x.jar"
-
-[[mods.origins.deps]]
-name = "connector"
-version = "1.0.0-beta.46+1.20.1"
-providers = ["Modrinth"]
-
-[[mods.origins.deps]]
-name = "connector-extras"
-version = "1.11.2+1.20.1"
-providers = ["Modrinth"]
-
-[[mods.origins.deps]]
-name = "forgified-fabric-api"
-version = "0.92.6+1.11.14+1.20.1"
-providers = ["Modrinth"]
-
-[mods.origins-forge]
-version = "1.20.1-1.10.0.9"
-server_side = true
-client_side = true
-
-[[mods.origins-forge.source]]
-
-[mods.origins-forge.source.Download]
-url = "https://cdn.modrinth.com/data/jl3m2lR9/versions/vynFXywM/origins-forge-1.20.1-1.10.0.9-all.jar"
-sha1 = "71af2b5fa4d2905ab71ca7c488a508dba277f109"
-sha512 = "b103ac2ac509e98eaceedf04891bbe302e82f8b4a7fc3790b3d63bd912306bb09f9925489473211627a7a87d2049672a3e66c5cf6f5b1e34e62049f3a43d0e5d"
-filename = "origins-forge-1.20.1-1.10.0.9-all.jar"
-
-[[mods.origins-forge.deps]]
-name = "caelus"
-version = "3.2.0+1.20.1"
-providers = ["Modrinth"]
-
-[mods.origins-plus-plus]
-version = "2.4-forge"
-server_side = true
-client_side = true
-
-[[mods.origins-plus-plus.source]]
-
-[mods.origins-plus-plus.source.Download]
-url = "https://cdn.modrinth.com/data/npBe7UbS/versions/IqOJJUcH/origins-plus-plus-2.4-forge.jar"
-sha1 = "76f3f2f9a39016a607c80d91e33db882028b3310"
-sha512 = "b8c7b3701ccb38eda9a65a6fbc6d95bb7fc59539709b053e575a2fedeae2b913f0de600addaa960680ff017c1425c6946f572b211d65136faf263de70b771eb9"
-filename = "origins-plus-plus-2.4-forge.jar"
-
-[[mods.origins-plus-plus.deps]]
-name = "origins-forge"
-version = "1.20.1-1.10.0.9"
-providers = ["Modrinth"]
-
-[[mods.origins-plus-plus.deps]]
-name = "packet-fixer"
-version = "3.3.0"
-providers = ["Modrinth"]
-
-[[mods.origins-plus-plus.deps]]
-name = "pehkui"
-version = "3.8.2+1.20.1-forge"
-providers = ["Modrinth"]
-
-[mods.packet-fixer]
-version = "3.3.0"
-server_side = true
-client_side = true
-
-[[mods.packet-fixer.source]]
-
-[mods.packet-fixer.source.Download]
-url = "https://cdn.modrinth.com/data/c7m1mi73/versions/Jt7R7s5s/packetfixer-3.3.0-1.18-1.20.4-merged.jar"
-sha1 = "e07b58008aeae90d61c5324c740cbbd66bbb34e3"
-sha512 = "0f86b9b03672e67e5eac23146bfc56a536f8985daecaec3bf089ee489240b5afec1571c733fc058c335fdd9e8ace94796c257e4c59a33be7cf1dcba32009c2a1"
-filename = "packetfixer-3.3.0-1.18-1.20.4-merged.jar"
-
 [mods.patchouli]
 version = "1.20.1-84.1-forge"
 server_side = true
@@ -1575,19 +1439,6 @@ url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/8Qyw08ld/Patchouli-1.20.1
 sha1 = "e91d2e2f251375d647d592b670ea6f310c2554eb"
 sha512 = "d87143ae5dc979e8d65dd35ff0916077a355c503c4a906bed0d9dbe600ff0602e5296800cbdf2260d47033f664691b54e1b18a1b9835339c4e13d69fc4251f1b"
 filename = "Patchouli-1.20.1-84.1-FORGE.jar"
-
-[mods.pehkui]
-version = "3.8.2+1.20.1-forge"
-server_side = true
-client_side = true
-
-[[mods.pehkui.source]]
-
-[mods.pehkui.source.Download]
-url = "https://cdn.modrinth.com/data/t5W7Jfwy/versions/SQpqSgAE/Pehkui-3.8.2%2B1.20.1-forge.jar"
-sha1 = "4bc816efdd8e5e2a97423313674401351710e403"
-sha512 = "e4660f0b5af6bfe2902ab39a6fbfa911856e0567bffc47842b482731da373afa4424b9e7cf47c61a0c2107445520475053709a6671d9eb4b7f4b55597729af3f"
-filename = "Pehkui-3.8.2+1.20.1-forge.jar"
 
 [mods.playeranimator]
 version = "1.0.2-rc1+1.20-forge"

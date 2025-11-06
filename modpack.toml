@@ -2,7 +2,7 @@ pack_name = "forge-1.20.1-tech-n-adventure-stuff"
 mc_version = "1.20.1"
 modloader = "Forge"
 default_providers = ["Modrinth"]
-forbidden_mods = ["fabric-api"]
+forbidden_mods = []
 
 [mods.advanced-backups]
 name = "advanced-backups"
@@ -96,14 +96,6 @@ version = "*"
 
 [mods.clumps]
 name = "clumps"
-version = "*"
-
-[mods.connector]
-name = "connector"
-version = "*"
-
-[mods.connector-extras]
-name = "connector-extras"
 version = "*"
 
 [mods.copycats]
@@ -318,14 +310,6 @@ version = "*"
 
 [mods.oculus]
 name = "oculus"
-version = "*"
-
-[mods.origins]
-name = "origins"
-version = "*"
-
-[mods.origins-plus-plus]
-name = "origins-plus-plus"
 version = "*"
 
 [mods.patchouli]
