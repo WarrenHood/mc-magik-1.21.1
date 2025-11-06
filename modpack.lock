@@ -173,6 +173,19 @@ name = "patchouli"
 version = "1.20.1-84.1-forge"
 providers = ["Modrinth"]
 
+[mods.ars-creo]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.ars-creo.source]]
+
+[mods.ars-creo.source.Download]
+url = "https://mediafilez.forgecdn.net/files/6265/696/ars_creo-1.20.1-4.3.0.jar"
+sha1 = "f622f585fb6421897b0f7c5859731188f7239a01"
+sha512 = "129eb19573d2aadc778c06694a754ff587fc2a519f94296442d327584f4526186730008ee9c4e80dbba6df57a6737f5e5f05f4da3bc76e197e19e395867450b0"
+filename = "ars_creo-1.20.1-4.3.0.jar"
+
 [mods.ars-energistique]
 version = "1.2.0"
 server_side = true
