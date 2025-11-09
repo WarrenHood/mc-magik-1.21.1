@@ -382,6 +382,19 @@ sha1 = "a6928cb03b7c5f81900d3d3c8e8c8f6a89a51a5b"
 sha512 = "aa3530dde50966e47958690b02a343c4de3782d32ae3b2cb75b2155eebb76e172a292768d846b8d14a97bc9ebe18f1f655eaa3469fce13b2b4b15b16af0aba01"
 filename = "botarium-forge-1.20.1-2.3.4.jar"
 
+[mods.c2me-fabric]
+version = "0.2.0+alpha.11.16+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.c2me-fabric.source]]
+
+[mods.c2me-fabric.source.Download]
+url = "https://cdn.modrinth.com/data/VSNURh3q/versions/s4WOiNtz/c2me-fabric-mc1.20.1-0.2.0%2Balpha.11.16.jar"
+sha1 = "94d96b5fffd9e98bd8448dcdd9e27f60511b1d29"
+sha512 = "359c715fd6a0464192d36b4d9dbb7927776eaae498f0cab939b49740fc724bda83aaf4f069f395dc5975d1e82762ee3b602111d9375eb27ab6f5360c4b17f2ff"
+filename = "c2me-fabric-mc1.20.1-0.2.0+alpha.11.16.jar"
+
 [mods.caelus]
 version = "3.2.0+1.20.1"
 server_side = true
@@ -473,6 +486,42 @@ url = "https://cdn.modrinth.com/data/OWSRM4vD/versions/kglS53Hd/cofh_core-1.20.1
 sha1 = "6f7c0056fece31bf393df450d79482810ed444af"
 sha512 = "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2078e220fe33891384abc40e1a705affe9d77ae4e35cf60185e07c11a73"
 filename = "cofh_core-1.20.1-11.0.2.56.jar"
+
+[mods.connector]
+version = "1.0.0-beta.46+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.connector.source]]
+
+[mods.connector.source.Download]
+url = "https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46%2B1.20.1.jar"
+sha1 = "a4ad6605706bebca9470a5affe6f44abaef5d507"
+sha512 = "7d98bd11e72dc95fb30e84d2be9175f2687201451d0e21421074bd225fcbcac8b4bcc1cd1b2dbd5f03e798569cac2f3bcc87c1baba1b1ad002268c578b20a533"
+filename = "Connector-1.0.0-beta.46+1.20.1.jar"
+
+[[mods.connector.deps]]
+name = "forgified-fabric-api"
+version = "0.92.6+1.11.14+1.20.1"
+providers = ["Modrinth"]
+
+[mods.connector-extras]
+version = "1.11.2+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.connector-extras.source]]
+
+[mods.connector-extras.source.Download]
+url = "https://cdn.modrinth.com/data/FYpiwiBR/versions/d28gpPn6/ConnectorExtras-1.11.2%2B1.20.1.jar"
+sha1 = "9336db4e6ce458bccf7724c039f0371e822397ae"
+sha512 = "a318841ce2c42e8ba2058d47ad323bcb8ca500515c391f3f31b6468e8d4d974a53effe8a0a801b7fafd60d9845be514696bd9b095a3cc5d014bde02ce531bada"
+filename = "ConnectorExtras-1.11.2+1.20.1.jar"
+
+[[mods.connector-extras.deps]]
+name = "connector"
+version = "1.0.0-beta.46+1.20.1"
+providers = ["Modrinth"]
 
 [mods.controlling]
 version = "12.0.2"
@@ -932,6 +981,19 @@ url = "https://cdn.modrinth.com/data/uXXizFIs/versions/DG5Fn9Sz/ferritecore-6.0.
 sha1 = "417fb6ce8f52abf40bd9d0390371790f9576f8ba"
 sha512 = "a1960a7c03dc32d4ccaccaf28afdd9b078758bbd62d15a91d4039a83fa9397a098e89b69591f6bd5190254d9ee97e502504154b9aec764adb8c65f000b75ba2c"
 filename = "ferritecore-6.0.1-forge.jar"
+
+[mods.forgified-fabric-api]
+version = "0.92.6+1.11.14+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.forgified-fabric-api.source]]
+
+[mods.forgified-fabric-api.source.Download]
+url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/XweDEycJ/fabric-api-0.92.6%2B1.11.14%2B1.20.1.jar"
+sha1 = "285c22b2567b9fdf98ef9808eceb5557de9611d3"
+sha512 = "3b84ea415d9255861bcbf78cfda3987b78aa452361bf44ba6a0223501a25ab5c5c55cb0eac6f460c88b8cec958f2b59211e488277c26e3432a08196f62049e7c"
+filename = "fabric-api-0.92.6+1.11.14+1.20.1.jar"
 
 [mods.functional-storage]
 version = "1.20.1-1.2.13"
