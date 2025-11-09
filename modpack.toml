@@ -106,10 +106,6 @@ version = "*"
 name = "canary"
 version = "*"
 
-[mods.carry-on]
-name = "carry-on"
-version = "*"
-
 [mods.chunky]
 name = "chunky"
 version = "*"

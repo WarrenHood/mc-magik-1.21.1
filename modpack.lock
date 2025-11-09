@@ -409,19 +409,6 @@ sha1 = "898abd9e337ef1c677ce93f5589497a09c7e9850"
 sha512 = "38f0bec7967f9d354e46dacdbe7d284ef823270dc737a7388adde157c45a025e53d77e04a00a582900666b85402c461bee4b80345fc7f03edb5c2b96708442bd"
 filename = "canary-mc1.20.1-0.3.3.jar"
 
-[mods.carry-on]
-version = "2.1.2.7"
-server_side = true
-client_side = true
-
-[[mods.carry-on.source]]
-
-[mods.carry-on.source.Download]
-url = "https://cdn.modrinth.com/data/joEfVgkn/versions/edGQD16r/carryon-forge-1.20.1-2.1.2.7.jar"
-sha1 = "9999714ca3dd2f2401f0396ca44f3b27c3784c4f"
-sha512 = "4f75afb703dd71c322d4e2e27d28d7ab4afeb0c242bcee6d1eb5fef59ee4347352f1ca55f1826743957d2e95a951ed13884356485b0a979b14010915079e2c29"
-filename = "carryon-forge-1.20.1-2.1.2.7.jar"
-
 [mods.chunky]
 version = "1.3.146"
 server_side = true
