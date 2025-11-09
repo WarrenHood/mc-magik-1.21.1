@@ -246,6 +246,10 @@ version = "*"
 name = "hypertube"
 version = "*"
 
+[mods.idas]
+name = "idas"
+version = "*"
+
 [mods.immediatelyfast]
 name = "immediatelyfast"
 version = "*"

@@ -1084,6 +1084,39 @@ name = "create"
 version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
 
+[mods.idas]
+version = "1.10.3+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.idas.source]]
+
+[mods.idas.source.Download]
+url = "https://cdn.modrinth.com/data/Z8OZShAU/versions/5BjGiw0X/idas_forge-1.10.3%2B1.20.1.jar"
+sha1 = "3f2474fae7200be191772089dedde370531791ab"
+sha512 = "52bf63acea7cc87101d879f74584b02d704bc724991ddac066244e6de7735141136ab3e70858224fd67f03ef2bd93cf54dd677ffc9f60374a845119c13f082e1"
+filename = "idas_forge-1.10.3+1.20.1.jar"
+
+[[mods.idas.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[[mods.idas.deps]]
+name = "integrated-api"
+version = "1.5.1+1.20.1-forge"
+providers = ["Modrinth"]
+
+[[mods.idas.deps]]
+name = "quark"
+version = "1.20.1-4.0-462"
+providers = ["Modrinth"]
+
+[[mods.idas.deps]]
+name = "supplementaries"
+version = "1.20-3.1.41"
+providers = ["Modrinth"]
+
 [mods.immediatelyfast]
 version = "1.5.2+1.20.4-forge"
 server_side = false
@@ -1123,6 +1156,19 @@ url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/kOWwG85P/immersive_melodi
 sha1 = "688f2b905c99a2d2c86f016eb09712d978f99102"
 sha512 = "4bcaad08a6a9e0aa6f62dae336ac207ea5c80cbf31cf9aa486d8453aa5bfa6791c3e30d1a6f7c846f144863dbe2c948b61265562aceeaa736e9bafaecfc54a85"
 filename = "immersive_melodies-0.6.0+1.20.1-forge.jar"
+
+[mods.integrated-api]
+version = "1.5.1+1.20.1-forge"
+server_side = true
+client_side = true
+
+[[mods.integrated-api.source]]
+
+[mods.integrated-api.source.Download]
+url = "https://cdn.modrinth.com/data/V6fKbpBN/versions/56sc1bo2/integrated_api-1.5.1%2B1.20.1-forge.jar"
+sha1 = "f26d3cd0f80510d478a7f867ee59fe878192e9b0"
+sha512 = "b811008cb4fefaa01b973a7e902a0ce3234856b9512013938634e131e03b187ac55bc4890ec465eca05a81c93aa0532bff25d86b00de0c874ca243b0385f449b"
+filename = "integrated_api-1.5.1+1.20.1-forge.jar"
 
 [mods.invmove]
 version = "0.9.1+1.20.1-forge"
@@ -1383,6 +1429,19 @@ sha1 = "daeccb1fbe1d67d426fcc8135cfff463ff0f7e1d"
 sha512 = "8feb0282084196571489b6c1005c32ce4a3f03a6bff05c2cfe448677e4e36d6580f5f0eb428ef839de1dd9c307bfbd15567fd508fb405d2ae7eaec90796e9b14"
 filename = "modernfix-forge-5.24.4+mc1.20.1.jar"
 
+[mods.moonlight]
+version = "1.20-2.16.16-forge"
+server_side = true
+client_side = true
+
+[[mods.moonlight.source]]
+
+[mods.moonlight.source.Download]
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/DhH5mm9z/moonlight-1.20-2.16.16-forge.jar"
+sha1 = "f1ad21bce5a4b96a1152d6cf83cfb27684fc4b6a"
+sha512 = "1fd7d3aca0fa88bcc7c805b4afb0e2662756d5bac390234197896875334f136a52a46e1d26efd0da05c1da3a26f1c66ee8c070ec053895a15010047c8be5e344"
+filename = "moonlight-1.20-2.16.16-forge.jar"
+
 [mods.mouse-tweaks]
 version = "1.20.1-2.25.1-forge"
 server_side = false
@@ -1549,6 +1608,24 @@ url = "https://cdn.modrinth.com/data/QAGBst4M/versions/mIyVGf3d/PuzzlesLib-v8.1.
 sha1 = "285b7c7616971338ccbe0022c9ea0f8ad3036aaf"
 sha512 = "4e0a6243f70a7f99bb631940bfeca49f31b13ec34f338d994fe129f0445e738ffd925e5c440f4e6bf822f9013bb8c2156de6dfcd62741d85c3ca3e8221d86a19"
 filename = "PuzzlesLib-v8.1.33-1.20.1-Forge.jar"
+
+[mods.quark]
+version = "1.20.1-4.0-462"
+server_side = true
+client_side = true
+
+[[mods.quark.source]]
+
+[mods.quark.source.Download]
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/DijQLauD/Quark-4.0-462.jar"
+sha1 = "9b0fb82995622a0070c00827c698c43b49d9d14b"
+sha512 = "585b182ccd51066e841141c9bc74fe8b820df86119828b7542b56771c3fcaf8bcc92f9d67f4e87736e82a45bb9166f71c015b95e230f964215290707b6475eed"
+filename = "Quark-4.0-462.jar"
+
+[[mods.quark.deps]]
+name = "zeta"
+version = "1.20.1-1.0-30"
+providers = ["Modrinth"]
 
 [mods.regions-unexplored]
 version = "F-0.5.6+1.20.1"
@@ -1769,6 +1846,24 @@ sha1 = "f80f9eed728966adcfbcc848633e789645057281"
 sha512 = "476595aacc7c66a0cf7bcd56143975122ea54ae4c5b61a232d3b0b9b1e3c013575efcc05de31a5d2c4e129542bfd8ae255a25d1486a4e08961cc4a303940fd19"
 filename = "supermartijn642configlib-1.1.8-forge-mc1.20.jar"
 
+[mods.supplementaries]
+version = "1.20-3.1.41"
+server_side = true
+client_side = true
+
+[[mods.supplementaries.source]]
+
+[mods.supplementaries.source.Download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/LAQ22yJj/supplementaries-1.20-3.1.41.jar"
+sha1 = "9ab9dd5ffed81cbb547facf2849920af99bf96c3"
+sha512 = "b220c48a6fd07396b2f6eaa21bba0971f81b1111bdf91b0d36325b88b873e9413560bd6b924972c37fe2864910ea03bc537c90904bdb76971df416f901c3931d"
+filename = "supplementaries-1.20-3.1.41.jar"
+
+[[mods.supplementaries.deps]]
+name = "moonlight"
+version = "1.20-2.16.16-forge"
+providers = ["Modrinth"]
+
 [mods.tcintegrations]
 version = "1.20.1-2.0.25.17"
 server_side = true
@@ -1956,3 +2051,16 @@ url = "https://cdn.modrinth.com/data/Ua7DFN59/versions/PJOYAmAs/YungsApi-1.20-Fo
 sha1 = "af584b690f5646c6032002b58abc4591beed3833"
 sha512 = "7d83d94a90e55a712f6508485c044ff202916e9b9b9166b75177cb8f2eb919543bbbe1547d11c41cfd4763820f934235f47c0b26dd9e89bc1030954afa9fb889"
 filename = "YungsApi-1.20-Forge-4.0.6.jar"
+
+[mods.zeta]
+version = "1.20.1-1.0-30"
+server_side = true
+client_side = true
+
+[[mods.zeta.source]]
+
+[mods.zeta.source.Download]
+url = "https://cdn.modrinth.com/data/MVARlG2f/versions/boj4QtcB/Zeta-1.0-30.jar"
+sha1 = "1e87aae038570b8f5864bcdd6ae6dabb30162f2d"
+sha512 = "c74dc0e007de81a5a4cbcaca0b4699e3a5cbc2fd62f92f5ce66841dbf4b0a9145c6ab79f7c131f72d1406949543fc429f3dc208b0eb0f8f84c12929d3b8d0adf"
+filename = "Zeta-1.0-30.jar"
