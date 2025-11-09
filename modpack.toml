@@ -223,6 +223,10 @@ version = "*"
 name = "enderio"
 version = "*"
 
+[mods.entityculling]
+name = "entityculling"
+version = "*"
+
 [mods.farmers-delight]
 name = "farmers-delight"
 version = "*"
