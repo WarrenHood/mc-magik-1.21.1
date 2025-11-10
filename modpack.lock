@@ -1618,6 +1618,19 @@ sha1 = "4bc816efdd8e5e2a97423313674401351710e403"
 sha512 = "e4660f0b5af6bfe2902ab39a6fbfa911856e0567bffc47842b482731da373afa4424b9e7cf47c61a0c2107445520475053709a6671d9eb4b7f4b55597729af3f"
 filename = "Pehkui-3.8.2+1.20.1-forge.jar"
 
+[mods.ping-wheel]
+version = "1.12.0"
+server_side = true
+client_side = true
+
+[[mods.ping-wheel.source]]
+
+[mods.ping-wheel.source.Download]
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/ay8iQUyh/Ping-Wheel-1.12.0-forge-1.20.1.jar"
+sha1 = "295637cddcc338a7741cd7891929b1ff99706da2"
+sha512 = "2e58b981cc25127d4f3b8fb311f79d0f94bb3ad81b713afa3d5197984d0d735948038b12080b6e1816d23f22f55d413992b041ae7a5e5a452a4c63971798ba55"
+filename = "Ping-Wheel-1.12.0-forge-1.20.1.jar"
+
 [mods.playeranimator]
 version = "1.0.2-rc1+1.20-forge"
 deps = []

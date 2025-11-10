@@ -353,6 +353,10 @@ version = "*"
 name = "pehkui"
 version = "*"
 
+[mods.ping-wheel]
+name = "ping-wheel"
+version = "*"
+
 [mods.playeranimator]
 name = "playeranimator"
 version = "*"
