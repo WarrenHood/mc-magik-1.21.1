@@ -1057,19 +1057,6 @@ name = "kotlin-for-forge"
 version = "4.11.0"
 providers = ["Modrinth"]
 
-[mods.gathering-torches-become-sunlight]
-version = "Unknown"
-server_side = true
-client_side = true
-
-[[mods.gathering-torches-become-sunlight.source]]
-
-[mods.gathering-torches-become-sunlight.source.Download]
-url = "https://mediafilez.forgecdn.net/files/6851/335/torchesbecomesunlight-0.4.4-fix.jar"
-sha1 = "7fbcf92cfe36621313753edff97b677222a9ebf0"
-sha512 = "9fdc2270d38bca629662cead66125dd457a36127d8977fba3bda51246da248f1d961ba865c91e20315ec64a74cd561912d6753dec8eaeeac85dcd0cd8fa59272"
-filename = "torchesbecomesunlight-0.4.4-fix.jar"
-
 [mods.geckolib]
 version = "4.8.2"
 server_side = true
