@@ -191,8 +191,8 @@ version = "*"
 name = "dungeons_delight"
 version = "*"
 
-[mods.effortless-building]
-name = "effortless-building"
+[mods.effortless]
+name = "effortless"
 version = "*"
 
 [mods.embeddium]
