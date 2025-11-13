@@ -365,10 +365,6 @@ version = "*"
 name = "projectile-damage-attribute"
 version = "3.2.2+1.20.1-forge"
 
-[mods.regions-unexplored]
-name = "regions-unexplored"
-version = "*"
-
 [mods.rubidium-extra]
 name = "rubidium-extra"
 version = "*"
@@ -403,6 +399,14 @@ version = "*"
 
 [mods.tcintegrations]
 name = "tcintegrations"
+version = "*"
+
+[mods.tectonic]
+name = "tectonic"
+version = "*"
+
+[mods.terralith]
+name = "terralith"
 version = "*"
 
 [mods.thermal-expansion]
