@@ -405,10 +405,6 @@ version = "*"
 name = "tcintegrations"
 version = "*"
 
-[mods.terralith]
-name = "terralith"
-version = "*"
-
 [mods.thermal-expansion]
 name = "thermal-expansion"
 version = "*"
