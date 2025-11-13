@@ -247,6 +247,10 @@ version = "*"
 name = "hardcore-revival"
 version = "*"
 
+[mods.hybrid-beta]
+name = "hybrid-beta"
+version = "*"
+
 [mods.hypertube]
 name = "hypertube"
 version = "*"
@@ -403,10 +407,6 @@ version = "*"
 
 [mods.tcintegrations]
 name = "tcintegrations"
-version = "*"
-
-[mods.tectonic]
-name = "tectonic"
 version = "*"
 
 [mods.thermal-expansion]

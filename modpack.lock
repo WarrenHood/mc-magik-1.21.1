@@ -1115,6 +1115,19 @@ name = "balm"
 version = "7.3.37+forge-1.20.1"
 providers = ["Modrinth"]
 
+[mods.hybrid-beta]
+version = "1.0.4+mod"
+server_side = true
+client_side = true
+
+[[mods.hybrid-beta.source]]
+
+[mods.hybrid-beta.source.Download]
+url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/CbXjARnR/hybrid-beta-v1.0.4.jar"
+sha1 = "dfe0f43e821de275a487368ffca6475fa48893b8"
+sha512 = "ac232a393dcfeb01e02e5e91f81daff2a62a4b924f9a4c8c6294c824b9dadb37f8ca3c2866286f18f6e3c7b6dac34927153cc394773c95f95f0c978ef71d0c21"
+filename = "hybrid-beta-v1.0.4.jar"
+
 [mods.hypertube]
 version = "0.2.6-hotfix"
 server_side = true
@@ -1948,19 +1961,6 @@ providers = ["Modrinth"]
 name = "tinkers-construct"
 version = "3.10.2.92"
 providers = ["Modrinth"]
-
-[mods.tectonic]
-version = "3.0.16"
-server_side = true
-client_side = true
-
-[[mods.tectonic.source]]
-
-[mods.tectonic.source.Download]
-url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/8xLhtkYk/tectonic-3.0.16-forge-1.20.1.jar"
-sha1 = "677de51ad2aca540f7d9efe048e45f1850875c84"
-sha512 = "68319758e707986a1c42ec6e9842b924230728c754a37b35732f9ae887c56f5cc170a916a5a17735f89e0324b4cdda8b1bd642c1bc4ba9543aa8e55a3de7c94b"
-filename = "tectonic-3.0.16-forge-1.20.1.jar"
 
 [mods.terrablender]
 version = "3.0.1.10"
