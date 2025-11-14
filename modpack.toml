@@ -127,6 +127,10 @@ version = "*"
 name = "connector-extras"
 version = "*"
 
+[mods.continents]
+name = "continents"
+version = "*"
+
 [mods.controlling]
 name = "controlling"
 version = "*"

@@ -523,6 +523,19 @@ name = "connector"
 version = "1.0.0-beta.46+1.20.1"
 providers = ["Modrinth"]
 
+[mods.continents]
+version = "1.1.11"
+server_side = true
+client_side = true
+
+[[mods.continents.source]]
+
+[mods.continents.source.Download]
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/vQJAd3ti/Continents_1.21.x_v1.1.11.jar"
+sha1 = "3f3d1b0a4c46f64dc6dc86703c27288786feccd3"
+sha512 = "9d2d16d5089d50d1b1b0e2bbdcc8ee89d9e1fa0c1ffb3c8bb845da8dcaa847977f6e4095564172fd2471e09eb1f366cdf67d402fa63296ff6a5bc5548d9725ce"
+filename = "Continents_1.21.x_v1.1.11.jar"
+
 [mods.controlling]
 version = "12.0.2"
 server_side = false
