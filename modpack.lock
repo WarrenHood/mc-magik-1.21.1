@@ -1949,6 +1949,19 @@ name = "tinkers-construct"
 version = "3.10.2.92"
 providers = ["Modrinth"]
 
+[mods.tectonic]
+version = "2.4.1"
+server_side = true
+client_side = true
+
+[[mods.tectonic.source]]
+
+[mods.tectonic.source.Download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/ubqOXeYf/tectonic-forge-1.20.1-2.4.1.jar"
+sha1 = "55412e1b8ef36cd8eabef83d47f9377e78904f65"
+sha512 = "64fc99b8df17999117f3f9ef460dcac9acddc70c418d236e7a7b1d489a10ac737eaedc15c01540f0bf9e2bf51aee04f16bfb741c680370ac69f6f2ca2af24afc"
+filename = "tectonic-forge-1.20.1-2.4.1.jar"
+
 [mods.terrablender]
 version = "3.0.1.10"
 server_side = true

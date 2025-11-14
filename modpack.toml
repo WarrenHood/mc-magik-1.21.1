@@ -405,6 +405,10 @@ version = "*"
 name = "tcintegrations"
 version = "*"
 
+[mods.tectonic]
+name = "tectonic"
+version = "2.4.1"
+
 [mods.thermal-expansion]
 name = "thermal-expansion"
 version = "*"
