@@ -425,6 +425,10 @@ download_url = "https://mediafilez.forgecdn.net/files/5468/648/twilightforest-1.
 server_side = true
 client_side = true
 
+[mods.weather-storms-tornadoes]
+name = "weather-storms-tornadoes"
+version = "*"
+
 [mods.xaeros-minimap]
 name = "xaeros-minimap"
 version = "*"
