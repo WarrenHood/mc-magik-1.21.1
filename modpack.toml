@@ -243,10 +243,6 @@ version = "*"
 name = "functional-storage"
 version = "*"
 
-[mods.gliders]
-name = "gliders"
-version = "*"
-
 [mods.gravestone-mod]
 name = "gravestone-mod"
 version = "*"
@@ -486,6 +482,51 @@ apply_policy = "Always"
 
 [files."./common/config/Weather2"]
 target_path = "config/Weather2"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_additions"]
+target_path = "config/ars_additions"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_additions-common.toml"]
+target_path = "config/ars_additions-common.toml"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_additions-server.toml"]
+target_path = "config/ars_additions-server.toml"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_creo-common.toml"]
+target_path = "config/ars_creo-common.toml"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_nouveau"]
+target_path = "config/ars_nouveau"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_nouveau-common.toml"]
+target_path = "config/ars_nouveau-common.toml"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_nouveau-server.toml"]
+target_path = "config/ars_nouveau-server.toml"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_scalaes"]
+target_path = "config/ars_scalaes"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/ars_scalaes-common.toml"]
+target_path = "config/ars_scalaes-common.toml"
 side = "Both"
 apply_policy = "Always"
 

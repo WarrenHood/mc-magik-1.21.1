@@ -1083,19 +1083,6 @@ sha1 = "395a9f21a36dc8466d67c2af67a904e7013460d1"
 sha512 = "8d8cb1f2d60c885b3b312aca63b94e3942e50ca40e96514f35fb74a39367afa07e4986640a66c66b035da9ea60cb6d8ff602e9c0b6b298e5ce584ad9f46a2f45"
 filename = "geckolib-forge-1.20.1-4.8.2.jar"
 
-[mods.gliders]
-version = "1.1.7+forge"
-server_side = true
-client_side = true
-
-[[mods.gliders.source]]
-
-[mods.gliders.source.Download]
-url = "https://cdn.modrinth.com/data/XiC6HzoU/versions/XtIYEB1p/gliders-forge-1.1.7.jar"
-sha1 = "b04dd3c921dedea97c5fe2de3dc07096d71defdc"
-sha512 = "a0c63486c7d7dd703e352bc6bc4e91615e94166303f606812eee1cb18f28ff6e66d9848773334b3dc38826b458787528987e0f0574ee8f6d544bdf9ec7055f66"
-filename = "gliders-forge-1.1.7.jar"
-
 [mods.gravestone-mod]
 version = "forge-1.20.1-1.0.35"
 deps = []
