@@ -146,7 +146,7 @@ key_key.cataclysm.chestplate_ability:key.keyboard.y
 key_key.cataclysm.boots_ability:key.keyboard.v
 key_key.curios.open.desc:key.keyboard.g
 key_iris.keybind.reload:key.keyboard.unknown
-key_iris.keybind.toggleShaders:key.keyboard.k
+key_iris.keybind.toggleShaders:key.keyboard.f7
 key_iris.keybind.shaderPackSelection:key.keyboard.unknown
 key_key.soulsweapons.return_freyr_sword:key.keyboard.r
 key_key.soulsweapons.freyr_sword_stationary:key.keyboard.z
