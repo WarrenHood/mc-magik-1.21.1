@@ -211,6 +211,10 @@ version = "*"
 name = "entityculling"
 version = "*"
 
+[mods.every-compat]
+name = "every-compat"
+version = "*"
+
 [mods.farmers-delight]
 name = "farmers-delight"
 version = "*"

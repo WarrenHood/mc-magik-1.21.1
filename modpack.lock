@@ -963,6 +963,24 @@ sha1 = "8faea4818faab6b870ee370b52434b016542b519"
 sha512 = "62429153a72f509877bae38c6e3e651ff241114c3608fdf6f2e412a6df0acec1da318e50a8dd3a2468fbddcc16c3e412910e0e09b9d1f94d6b0312bfe8b07e9d"
 filename = "entityculling-forge-1.9.3-mc1.20.1.jar"
 
+[mods.every-compat]
+version = "1.20-2.9.11-forge"
+server_side = true
+client_side = true
+
+[[mods.every-compat.source]]
+
+[mods.every-compat.source.Download]
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/povHb769/everycomp-1.20-2.9.11-forge.jar"
+sha1 = "416f98724bc92666714c440a803f7498dd4b416c"
+sha512 = "6b92774809517d58414597ad94e4cf2d8e56394f338c0a3f0343c01320307ff7102e1ec1faf1ed792c077a4ea99f6f7cc55fb462b1576606698f99fb3804e15f"
+filename = "everycomp-1.20-2.9.11-forge.jar"
+
+[[mods.every-compat.deps]]
+name = "moonlight"
+version = "1.20-2.16.16-forge"
+providers = ["Modrinth"]
+
 [mods.farmers-delight]
 version = "1.20.1-1.2.9"
 server_side = true
