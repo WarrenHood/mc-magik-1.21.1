@@ -18,7 +18,13 @@
   "blacklisted_items": [
     "!rustic_engineer:.*glider.*",
     "!.*elytra.*",
-    "tconstruct:slime_chestplate"
+    "tconstruct:slime_chestplate",
+    "aether:valkyrie_helmet",
+    "aether:valkyrie_chestplate",
+    "aether:valkyrie_leggings",
+    "aether:valkyrie_boots",
+    "aether:valkyrie_gloves",
+    "aether:valkyrie_cape"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
