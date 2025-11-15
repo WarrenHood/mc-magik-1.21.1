@@ -26,7 +26,8 @@
     "aether:valkyrie_gloves",
     "aether:valkyrie_cape",
     "enderio:staff_of_levity",
-    "enderio:staff_of_travelling"
+    "enderio:staff_of_travelling",
+    "botania:flight_tiara"
   ],
   // -----------------------------------------------------------
   // Removes an item if it contains certain nbt tag. If the whole entry (or expression) is present, the item gets removed.
