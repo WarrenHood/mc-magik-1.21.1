@@ -297,6 +297,12 @@ client_side = true
 name = "l_enders-cataclysm"
 version = "*"
 
+[mods.leaves-be-gone]
+name = "leaves-be-gone"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.legendary-monsters]
 name = "legendary-monsters"
 version = "*"
