@@ -510,6 +510,11 @@ target_path = "server.properties"
 side = "Server"
 apply_policy = "Always"
 
+[files."./server/tech-n-adventure-stuff/serverconfig"]
+target_path = "tech-n-adventure-stuff/serverconfig"
+side = "Server"
+apply_policy = "Always"
+
 [files."./server/whitelist.json"]
 target_path = "whitelist.json"
 side = "Server"
