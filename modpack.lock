@@ -176,6 +176,19 @@ sha1 = "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
 sha512 = "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde513fa0a6f8d002f27168130850bf358d405cd2120c979927d7e88fe3d3"
 filename = "AttributeFix-Forge-1.20.1-21.0.4.jar"
 
+[mods.azurelib]
+version = "3.1.1"
+server_side = true
+client_side = true
+
+[[mods.azurelib.source]]
+
+[mods.azurelib.source.Download]
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/Iax08ZSK/azurelib-neo-1.20.1-3.1.1.jar"
+sha1 = "afd312bd1bb46b9d4bab29c74ec15571073ff9b7"
+sha512 = "54c2651ccf60eaed7fd68c9f63f72b3d8503fe192236ab8003a500fd413ce505b7ef8422b385d4129a4042c51d25b511a210c5cd37221923a64d8fec1f19cdb0"
+filename = "azurelib-neo-1.20.1-3.1.1.jar"
+
 [mods.badoptimizations]
 version = "2.3.1"
 server_side = false
@@ -313,6 +326,34 @@ url = "https://cdn.modrinth.com/data/qa2H4BS9/versions/lauzXB0n/canary-mc1.20.1-
 sha1 = "898abd9e337ef1c677ce93f5589497a09c7e9850"
 sha512 = "38f0bec7967f9d354e46dacdbe7d284ef823270dc737a7388adde157c45a025e53d77e04a00a582900666b85402c461bee4b80345fc7f03edb5c2b96708442bd"
 filename = "canary-mc1.20.1-0.3.3.jar"
+
+[mods.cataclysm-spellbooks]
+version = "1.2.7-1.20.1"
+server_side = true
+client_side = true
+
+[[mods.cataclysm-spellbooks.source]]
+
+[mods.cataclysm-spellbooks.source.Download]
+url = "https://cdn.modrinth.com/data/3FEg0A8D/versions/p3IVvh83/cataclysm_spellbooks-1.2.7-1.20.1-all.jar"
+sha1 = "16fa5aed8c6834bd56f04f44ebb21c8cb2b2dc8d"
+sha512 = "17efa640c00617fbfc56161a5fef2c0f4e144f0b5f7f0207e9ef9a466ed2be71a3906c99860be98079514e056d8dde9ff5a2e3e95539a889ffae0eaec714c7ab"
+filename = "cataclysm_spellbooks-1.2.7-1.20.1-all.jar"
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "azurelib"
+version = "3.1.1"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.20.1-3.4.0.9"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "l_enders-cataclysm"
+version = "3.16"
+providers = ["Modrinth"]
 
 [mods.chunky]
 version = "1.3.146"
@@ -657,6 +698,49 @@ providers = ["Modrinth"]
 [[mods.create-teleporters.deps]]
 name = "geckolib"
 version = "4.8.2"
+providers = ["Modrinth"]
+
+[mods.create-wizardry]
+version = "0.2.3"
+server_side = true
+client_side = true
+
+[[mods.create-wizardry.source]]
+
+[mods.create-wizardry.source.Download]
+url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/BUK0p8gn/create_wizardry-0.2.3-forge-1.20.1.jar"
+sha1 = "e3960cd08c218fc4571ca59aea8f4e348343af7d"
+sha512 = "c6bff500864f9818fb94b66363ea6240230fbec62fc5ec87bb17254b9b459034e3357b387e2ccb1f7ad140e6f040de5b4345cd593263df8743d37e23ee9ccf9f"
+filename = "create_wizardry-0.2.3-forge-1.20.1.jar"
+
+[[mods.create-wizardry.deps]]
+name = "caelus"
+version = "3.2.0+1.20.1"
+providers = ["Modrinth"]
+
+[[mods.create-wizardry.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[[mods.create-wizardry.deps]]
+name = "curios"
+version = "5.14.1+1.20.1"
+providers = ["Modrinth"]
+
+[[mods.create-wizardry.deps]]
+name = "geckolib"
+version = "4.8.2"
+providers = ["Modrinth"]
+
+[[mods.create-wizardry.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.20.1-3.4.0.9"
+providers = ["Modrinth"]
+
+[[mods.create-wizardry.deps]]
+name = "playeranimator"
+version = "1.0.2-rc1+1.20-forge"
 providers = ["Modrinth"]
 
 [mods.createaddition]
@@ -1159,6 +1243,19 @@ filename = "oculus-flywheel-compat-Forge-2.0.3.jar"
 name = "oculus"
 version = "1.20.1-1.8.0"
 providers = ["Modrinth"]
+
+[mods.irons-spells-n-spellbooks]
+version = "1.20.1-3.4.0.9"
+server_side = true
+client_side = true
+
+[[mods.irons-spells-n-spellbooks.source]]
+
+[mods.irons-spells-n-spellbooks.source.Download]
+url = "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9dM8iFPD/irons_spellbooks-1.20.1-3.4.0.9.jar"
+sha1 = "161d71d83a5e5962062ef1fe83c36e398a5668df"
+sha512 = "0bce6b31ac7c930879e7b58cf72de187baa61e6bbca4373ce83f7343dfcc3d7d9a02416b4e408b135b148f82667c84ff33e31194574d93eac0fbfdac9b126f71"
+filename = "irons_spellbooks-1.20.1-3.4.0.9.jar"
 
 [mods.item-obliterator]
 version = "2.3.1"

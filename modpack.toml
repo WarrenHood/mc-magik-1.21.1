@@ -79,6 +79,10 @@ version = "*"
 name = "canary"
 version = "*"
 
+[mods.cataclysm-spellbooks]
+name = "cataclysm-spellbooks"
+version = "*"
+
 [mods.chunky]
 name = "chunky"
 version = "*"
@@ -145,6 +149,10 @@ version = "*"
 
 [mods.create-teleporters]
 name = "create-teleporters"
+version = "*"
+
+[mods.create-wizardry]
+name = "create-wizardry"
 version = "*"
 
 [mods.createaddition]
@@ -245,6 +253,10 @@ version = "*"
 
 [mods.iris-flw-compat]
 name = "iris-flw-compat"
+version = "*"
+
+[mods.irons-spells-n-spellbooks]
+name = "irons-spells-n-spellbooks"
 version = "*"
 
 [mods.item-obliterator]
