@@ -46,6 +46,10 @@ version = "*"
 name = "appleskin"
 version = "*"
 
+[mods.applied-botanics]
+name = "applied-botanics"
+version = "*"
+
 [mods.aquamirae]
 name = "aquamirae"
 version = "*"
@@ -64,6 +68,10 @@ version = "*"
 
 [mods.block-runner]
 name = "block-runner"
+version = "*"
+
+[mods.botania]
+name = "botania"
 version = "*"
 
 [mods.c2me-fabric]

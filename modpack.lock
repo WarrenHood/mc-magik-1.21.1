@@ -145,6 +145,29 @@ sha1 = "81919356f84eab14258db98924b66c3c38e372b1"
 sha512 = "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a260231579578536d03571377e43c6181adc75d8dd2c0733f17fce4f7e636b9"
 filename = "appleskin-forge-mc1.20.1-2.5.1.jar"
 
+[mods.applied-botanics]
+version = "1.5.1-forge"
+server_side = true
+client_side = true
+
+[[mods.applied-botanics.source]]
+
+[mods.applied-botanics.source.Download]
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/CBTiHbQs/applied-botanics-forge-1.5.1.jar"
+sha1 = "dbc71f3d820ac117c17b56e9ad57e3290d17a8ee"
+sha512 = "839515fd273dc21f0ae343c24e052d59f227265dd6ff432641c4df4fa52bc56140e11cfdcdd349398e7c4c17d877dca955a6a2ec970abdf8e4025e7cabe9b969"
+filename = "applied-botanics-forge-1.5.1.jar"
+
+[[mods.applied-botanics.deps]]
+name = "ae2"
+version = "15.4.10"
+providers = ["Modrinth"]
+
+[[mods.applied-botanics.deps]]
+name = "botania"
+version = "1.20.1-450-forge"
+providers = ["Modrinth"]
+
 [mods.aquamirae]
 version = "6.1.2"
 server_side = true
@@ -259,6 +282,29 @@ filename = "BlockRunner-v8.0.4-1.20.1-Forge.jar"
 [[mods.block-runner.deps]]
 name = "puzzles-lib"
 version = "v8.1.33-1.20.1-Forge"
+providers = ["Modrinth"]
+
+[mods.botania]
+version = "1.20.1-450-forge"
+server_side = true
+client_side = true
+
+[[mods.botania.source]]
+
+[mods.botania.source.Download]
+url = "https://cdn.modrinth.com/data/pfjLUfGv/versions/cuN4HNDd/Botania-1.20.1-450-FORGE.jar"
+sha1 = "637e1d7ac69d89f17aea813e0b43f2ee806e3b14"
+sha512 = "a19581dbab10c93266418c7a2713454f8d5266fec03316252804be8829180cac535cb8cceeb37febe7e28a57b3ada4aa261164b821d3e48f2669cf8ae73716db"
+filename = "Botania-1.20.1-450-FORGE.jar"
+
+[[mods.botania.deps]]
+name = "curios"
+version = "5.14.1+1.20.1"
+providers = ["Modrinth"]
+
+[[mods.botania.deps]]
+name = "patchouli"
+version = "1.20.1-84.1-forge"
 providers = ["Modrinth"]
 
 [mods.botarium]
