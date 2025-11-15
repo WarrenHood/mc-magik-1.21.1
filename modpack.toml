@@ -79,10 +79,6 @@ version = "*"
 name = "canary"
 version = "*"
 
-[mods.cataclysm-spellbooks]
-name = "cataclysm-spellbooks"
-version = "*"
-
 [mods.chunky]
 name = "chunky"
 version = "*"
