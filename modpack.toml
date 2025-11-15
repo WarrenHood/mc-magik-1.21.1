@@ -287,10 +287,6 @@ version = "*"
 server_side = true
 client_side = true
 
-[mods.legendary-monsters]
-name = "legendary-monsters"
-version = "*"
-
 [mods.lithostitched]
 name = "lithostitched"
 version = "*"
