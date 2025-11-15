@@ -50,38 +50,6 @@ version = "*"
 name = "aquamirae"
 version = "*"
 
-[mods.ars-additions]
-name = "ars-additions"
-version = "*"
-
-[mods.ars-creo]
-name = "ars-creo"
-version = "*"
-providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/6265/696/ars_creo-1.20.1-4.3.0.jar"
-server_side = true
-client_side = true
-
-[mods.ars-energistique]
-name = "ars-energistique"
-version = "*"
-
-[mods.ars-nouveau]
-name = "ars-nouveau"
-version = "*"
-
-[mods.ars-scalaes]
-name = "ars-scalaes"
-version = "*"
-providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/5850/815/ars_scalaes-1.20.1-1.10.7c.jar"
-server_side = true
-client_side = true
-
-[mods.arsdelight]
-name = "arsdelight"
-version = "*"
-
 [mods.badoptimizations]
 name = "badoptimizations"
 version = "*"
@@ -488,51 +456,6 @@ apply_policy = "Always"
 
 [files."./common/config/Weather2"]
 target_path = "config/Weather2"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_additions"]
-target_path = "config/ars_additions"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_additions-common.toml"]
-target_path = "config/ars_additions-common.toml"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_additions-server.toml"]
-target_path = "config/ars_additions-server.toml"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_creo-common.toml"]
-target_path = "config/ars_creo-common.toml"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_nouveau"]
-target_path = "config/ars_nouveau"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_nouveau-common.toml"]
-target_path = "config/ars_nouveau-common.toml"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_nouveau-server.toml"]
-target_path = "config/ars_nouveau-server.toml"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_scalaes"]
-target_path = "config/ars_scalaes"
-side = "Both"
-apply_policy = "Always"
-
-[files."./common/config/ars_scalaes-common.toml"]
-target_path = "config/ars_scalaes-common.toml"
 side = "Both"
 apply_policy = "Always"
 
