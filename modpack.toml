@@ -485,6 +485,11 @@ target_path = "config/createappliedkinetics-common.toml"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/config/effortless.toml"]
+target_path = "config/effortless.toml"
+side = "Both"
+apply_policy = "Always"
+
 [files."./common/config/item_obliterator.json5"]
 target_path = "config/item_obliterator.json5"
 side = "Both"
