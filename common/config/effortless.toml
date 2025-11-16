@@ -6,7 +6,7 @@ useCommands = false
 #Should allow players to use this mod.
 allowUseMod = true
 #Should allow players to break blocks using this mod.
-allowBreakBlocks = true
+allowBreakBlocks = false
 #Should allow players to place blocks using this mod.
 allowPlaceBlocks = true
 #Should allow players to interact blocks using this mod.
