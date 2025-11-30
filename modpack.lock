@@ -200,17 +200,17 @@ sha512 = "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde
 filename = "AttributeFix-Forge-1.20.1-21.0.4.jar"
 
 [mods.badoptimizations]
-version = "2.3.1"
+version = "2.4.0"
 server_side = false
 client_side = true
 
 [[mods.badoptimizations.source]]
 
 [mods.badoptimizations.source.Download]
-url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/BKvbnpID/BadOptimizations-2.3.1-1.20.1.jar"
-sha1 = "05961374fb4e561e063168d058b155f8415c6697"
-sha512 = "f8d0e010d7a03112a8f8860971a0358e6c50c40f8f7ed5fc76a8afc07779232916e98d83b753b400a41aa99e7d5515219cb840eef645caf89a21e85f633bed10"
-filename = "BadOptimizations-2.3.1-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/7JVYse6h/BadOptimizations-2.4.0-1.20.1.jar"
+sha1 = "d664f5e16a4ddef2a207146155716cfb299eb4f7"
+sha512 = "1e47a309bc7f8669104b15739f9b803a90dde1d4e31c5df53f65c926b75b5e3a9f44ba04ab02f2250b70275ed8c3ca374af81889937e2b02bc45cd15cf49fab0"
+filename = "BadOptimizations-2.4.0-1.20.1.jar"
 
 [mods.balm]
 version = "7.3.37+forge-1.20.1"
@@ -426,17 +426,17 @@ sha512 = "5a62bc6dcaaf3cf77234f3e0559eb6d2ec7db05b39feeba56dbdd46f3378aec6d97bd2
 filename = "cofh_core-1.20.1-11.0.2.56.jar"
 
 [mods.connector]
-version = "1.0.0-beta.46+1.20.1"
+version = "1.0.0-beta.47+1.20.1"
 server_side = true
 client_side = true
 
 [[mods.connector.source]]
 
 [mods.connector.source.Download]
-url = "https://cdn.modrinth.com/data/u58R1TMW/versions/e8hSZ4vp/Connector-1.0.0-beta.46%2B1.20.1.jar"
-sha1 = "a4ad6605706bebca9470a5affe6f44abaef5d507"
-sha512 = "7d98bd11e72dc95fb30e84d2be9175f2687201451d0e21421074bd225fcbcac8b4bcc1cd1b2dbd5f03e798569cac2f3bcc87c1baba1b1ad002268c578b20a533"
-filename = "Connector-1.0.0-beta.46+1.20.1.jar"
+url = "https://cdn.modrinth.com/data/u58R1TMW/versions/XoBmts8o/Connector-1.0.0-beta.47%2B1.20.1.jar"
+sha1 = "ae50255ad8f3eb44951ee4ab1749f4b2cfa1dbe8"
+sha512 = "55cc9ef219c67c684b81e6f55b397e0fb287b82b4ec37b2bb046846dc5aa582c4d794e0421702ae34e4e856574daac96b2a152abb7c95295ca8a86b67932082a"
+filename = "Connector-1.0.0-beta.47+1.20.1.jar"
 
 [[mods.connector.deps]]
 name = "forgified-fabric-api"
@@ -458,7 +458,7 @@ filename = "ConnectorExtras-1.11.2+1.20.1.jar"
 
 [[mods.connector-extras.deps]]
 name = "connector"
-version = "1.0.0-beta.46+1.20.1"
+version = "1.0.0-beta.47+1.20.1"
 providers = ["Modrinth"]
 
 [mods.continents]
@@ -493,17 +493,17 @@ version = "1.0.3"
 providers = ["Modrinth"]
 
 [mods.copycats]
-version = "3.0.2+mc.1.20.1-forge"
+version = "3.0.4+mc.1.20.1-forge"
 server_side = true
 client_side = true
 
 [[mods.copycats.source]]
 
 [mods.copycats.source.Download]
-url = "https://cdn.modrinth.com/data/UT2M39wf/versions/ibcPwZZT/copycats-3.0.2%2Bmc.1.20.1-forge.jar"
-sha1 = "b520234ee3194ada89bbfa0336e3abee11d711e7"
-sha512 = "29b1912155e4e6f0c08355d475c8f89923912c5bdf1f7b75da760d743e733af78b3dfc82e5a5a56d5ef0bbaff6e51c25eb98558187c330e8c20259016a0fee2f"
-filename = "copycats-3.0.2+mc.1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/UT2M39wf/versions/OjWz9bJQ/copycats-3.0.4%2Bmc.1.20.1-forge.jar"
+sha1 = "11be262d6149d01b2c808bb091a9dfb839e71a41"
+sha512 = "0e66db87bb66d0f4e95d09ee095f6f14686e0b0b905afb8db9295621c6d35c97d762e37688d4dbbf0226710d88c7639be84005133e1586a1e0593344ff855356"
+filename = "copycats-3.0.4+mc.1.20.1-forge.jar"
 
 [[mods.copycats.deps]]
 name = "create"
@@ -605,17 +605,17 @@ sha512 = "0578fdcfc9e8f5f3717e2dab468fadca35480e6a2c6a701b43004c57ea1ff0d979c790
 filename = "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
 
 [mods.create-connected]
-version = "1.1.8-mc1.20.1"
+version = "1.1.10-mc1.20.1"
 server_side = true
 client_side = true
 
 [[mods.create-connected.source]]
 
 [mods.create-connected.source.Download]
-url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/jPgzJe8d/create_connected-1.1.8-mc1.20.1-all.jar"
-sha1 = "9b5f1003e2d97629145398b34f9b06a393719ec1"
-sha512 = "dd7d6af74752d2366d5c3fadab51b8ce8d3244569cc1d9c5387b01f96c073a71f2b250460d835248e9d30a7e16b02f04e97945d19940f3bc069ae32076a2fc02"
-filename = "create_connected-1.1.8-mc1.20.1-all.jar"
+url = "https://cdn.modrinth.com/data/Vg5TIO6d/versions/saiZ8AwJ/create_connected-1.1.10-mc1.20.1-all.jar"
+sha1 = "329b9417c0fd52f0a5a153de31d7d075c521e900"
+sha512 = "0b885e09e0f074051120669337e0f53f42ca43a244cfde02f90b43da5a09853f92715371a9377c542886a673aefeda6f01becd3cb4b1e012d300618f1e33dce8"
+filename = "create_connected-1.1.10-mc1.20.1-all.jar"
 
 [[mods.create-connected.deps]]
 name = "create"
@@ -749,17 +749,17 @@ version = "1.0.2-rc1+1.20-forge"
 providers = ["Modrinth"]
 
 [mods.createaddition]
-version = "1.20.1-1.3.1"
+version = "forge-1.20.1-1.3."
 server_side = true
 client_side = true
 
 [[mods.createaddition.source]]
 
 [mods.createaddition.source.Download]
-url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/SecVSw22/createaddition-1.20.1-1.3.1.jar"
-sha1 = "0c408317b7c3bc3c7f7d5f6dbbb3ee106fa5f4fc"
-sha512 = "d9fd62d5041670e3194848624672674b2ef23a88348f30968574803786da0a56b3d34a1ab7e542d6666cd3983d88fbedce08b2c56165a464fee7e3c383c07ad5"
-filename = "createaddition-1.20.1-1.3.1.jar"
+url = "https://cdn.modrinth.com/data/kU1G12Nn/versions/9LgyB6Yb/createaddition-1.20.1-1.3.3.jar"
+sha1 = "c7d464c451fdc2979bc29a67d7eec2a30858af12"
+sha512 = "a34f5c3b0226069d2882a3e23ba0e364a78bc5d26983b0cecea8d998718f454d3238ab7c5b4b3ef1749b6f2b26a4e427839c7c32468558fa7a8edb0edc727d10"
+filename = "createaddition-1.20.1-1.3.3.jar"
 
 [[mods.createaddition.deps]]
 name = "create"
@@ -865,17 +865,17 @@ sha512 = "fcc80ee419a96682d157e8fd0993e0f13031dafc6399dabb17b9696636e791a903e7d3
 filename = "emi-1.1.22+1.20.1+forge.jar"
 
 [mods.emi-loot]
-version = "0.7.6+1.20.1+forge"
+version = "0.7.8+1.20.1-fix1+forge"
 server_side = true
 client_side = true
 
 [[mods.emi-loot.source]]
 
 [mods.emi-loot.source.Download]
-url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/hWzv5ZZZ/emi_loot-0.7.6%2B1.20.1%2Bforge.jar"
-sha1 = "ae1753ff363181e1b976716e768699e711dc5f2e"
-sha512 = "20d738ea5a529b5b43608cc1edeb17df67a75856c824349d5222f9b5d1434124d3383c3a6d9d480e0ee79d90d9446e3a521dffe689da370bb11d616f1bf93caa"
-filename = "emi_loot-0.7.6+1.20.1+forge.jar"
+url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/jpsoDtJz/emi_loot-0.7.8%2B1.20.1-fix1%2Bforge.jar"
+sha1 = "9df02cff0f37498510ae90f007dae4fb8a4ea7c1"
+sha512 = "57ea38755bcd4bfcdf30f34b8373946688d2832cf81f8583c4e376db21e5f11f81b7d72e721f662c5d6864f87ca415b5473553c33d857b5a9b8ae8d60627ee3c"
+filename = "emi_loot-0.7.8+1.20.1-fix1+forge.jar"
 
 [[mods.emi-loot.deps]]
 name = "emi"
@@ -937,7 +937,7 @@ sha512 = "d1aa78d400796abea326498d3143af8ae4d61fa9635339be36ae38f342c586e309216c
 filename = "emiffect-forge-1.1.2+mc1.20.1.jar"
 
 [mods.enderio]
-version = "6.2.15-beta"
+version = "6.2.16-beta"
 deps = []
 server_side = true
 client_side = true
@@ -945,10 +945,10 @@ client_side = true
 [[mods.enderio.source]]
 
 [mods.enderio.source.Download]
-url = "https://cdn.modrinth.com/data/49ZofO4f/versions/RstESTNG/EnderIO-1.20.1-6.2.15-beta-all.jar"
-sha1 = "05f569ba82d0707fb2e92ed06b63976e9e8d89a1"
-sha512 = "f480b9b2df6a27306d35730d6147c420123b10a927a4362780c5cd1f51dd24f8c34cad307f0844353d723548d5ff90d65007bd052a814a8897f23351167ed65c"
-filename = "EnderIO-1.20.1-6.2.15-beta-all.jar"
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/gUoYa2ko/EnderIO-1.20.1-6.2.16-beta-all.jar"
+sha1 = "f75ddee7d531efa47c91799539099935a6d3f927"
+sha512 = "d69db9378bf6b28f514c8932c38615e0d5b4fc9d6a588328a198d9906cc7eaca783cb8734ac140c11fb70b873d506f2d24d1cd509a066f9864016e16a6f0d94f"
+filename = "EnderIO-1.20.1-6.2.16-beta-all.jar"
 
 [mods.entityculling]
 version = "1.9.3"
@@ -964,17 +964,17 @@ sha512 = "62429153a72f509877bae38c6e3e651ff241114c3608fdf6f2e412a6df0acec1da318e
 filename = "entityculling-forge-1.9.3-mc1.20.1.jar"
 
 [mods.every-compat]
-version = "1.20-2.9.11-forge"
+version = "1.20-2.9.12-forge"
 server_side = true
 client_side = true
 
 [[mods.every-compat.source]]
 
 [mods.every-compat.source.Download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/povHb769/everycomp-1.20-2.9.11-forge.jar"
-sha1 = "416f98724bc92666714c440a803f7498dd4b416c"
-sha512 = "6b92774809517d58414597ad94e4cf2d8e56394f338c0a3f0343c01320307ff7102e1ec1faf1ed792c077a4ea99f6f7cc55fb462b1576606698f99fb3804e15f"
-filename = "everycomp-1.20-2.9.11-forge.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/Wa7DK8Yb/everycomp-1.20-2.9.12-forge.jar"
+sha1 = "1a9fab9e9273ab45f0a312b7a71aeade41716a4a"
+sha512 = "db03a2c4724a347428ba15c7a8979838aea8e92d221db16baba0b2a05a59d774b9da24791063060000244de9a2eaa9b4ea3e208cbbea91a7eed044b3b3a763db"
+filename = "everycomp-1.20-2.9.12-forge.jar"
 
 [[mods.every-compat.deps]]
 name = "moonlight"
@@ -1128,17 +1128,17 @@ version = "7.3.37+forge-1.20.1"
 providers = ["Modrinth"]
 
 [mods.hypertube]
-version = "0.2.6-hotfix"
+version = "0.3.0"
 server_side = true
 client_side = true
 
 [[mods.hypertube.source]]
 
 [mods.hypertube.source.Download]
-url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/iRjDdZIt/create_hypertube-0.2.6-hotfix-FORGE.jar"
-sha1 = "83c1728344eef7669b933e36a42a1d0e4f529ea8"
-sha512 = "3883609379fed3cde7a046667cb1d04af5816d007bb9c875603d7fb4f3292926663dd22ecc660faa733743fb1adae52cde8dbf2667655846f6bb00af4825e748"
-filename = "create_hypertube-0.2.6-hotfix-FORGE.jar"
+url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/pX1oNdBc/create_hypertube-0.3.0-FORGE.jar"
+sha1 = "476ae93802024b766badb15e538e0cf65a2e3fbd"
+sha512 = "4ffaff34cdd31c6ff11364809992cb4f15e1e00fd3d87a5be6a9006e95ad9c4636ffbe6845ee2d59b55d20e9896bedb1e5ada699202e9b71a90195833161a140"
+filename = "create_hypertube-0.3.0-FORGE.jar"
 
 [[mods.hypertube.deps]]
 name = "create"
@@ -1313,17 +1313,17 @@ sha512 = "612c7535d28ae0cb336f31b790770b3dcb5173d496fb74eabcb28d06e3b88e72733128
 filename = "Jade-1.20.1-Forge-11.13.2.jar"
 
 [mods.jei]
-version = "15.20.0.117"
+version = "15.20.0.127"
 server_side = true
 client_side = true
 
 [[mods.jei.source]]
 
 [mods.jei.source.Download]
-url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/FeUpMvfq/jei-1.20.1-forge-15.20.0.117.jar"
-sha1 = "36fd41cd0b9646409b8942228e268dda520ee3e9"
-sha512 = "c1d940a54d3049550627e21de4b0477c9585c2d2a39d6312af1a9c4bdc40c610676e13d41c953d7bc89237d1fe71700d2a78a1d11100fd6cae7896f021173ccf"
-filename = "jei-1.20.1-forge-15.20.0.117.jar"
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ruHSy16N/jei-1.20.1-forge-15.20.0.127.jar"
+sha1 = "6c7684a0e9356f6d60d7b12a14caf6c644ee11ef"
+sha512 = "131854c53f9c16376bf6428fc9f99435dbe16d13c9de9c8d7a8cbaa362f3b40e50a8d30bf1fffad95bfa568e42d5dcd8febdc9b7a0da5956a96b36f12251e8a5"
+filename = "jei-1.20.1-forge-15.20.0.127.jar"
 
 [mods.kotlin-for-forge]
 version = "4.11.0"
@@ -1496,17 +1496,17 @@ version = "1.20.1-1.3.7"
 providers = ["Modrinth"]
 
 [mods.modernfix]
-version = "5.24.4+mc1.20.1"
+version = "5.25.1+mc1.20.1"
 server_side = true
 client_side = true
 
 [[mods.modernfix.source]]
 
 [mods.modernfix.source.Download]
-url = "https://cdn.modrinth.com/data/nmDcB62a/versions/CixO1IdG/modernfix-forge-5.24.4%2Bmc1.20.1.jar"
-sha1 = "daeccb1fbe1d67d426fcc8135cfff463ff0f7e1d"
-sha512 = "8feb0282084196571489b6c1005c32ce4a3f03a6bff05c2cfe448677e4e36d6580f5f0eb428ef839de1dd9c307bfbd15567fd508fb405d2ae7eaec90796e9b14"
-filename = "modernfix-forge-5.24.4+mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/nmDcB62a/versions/PbIMs8a8/modernfix-forge-5.25.1%2Bmc1.20.1.jar"
+sha1 = "124ea5db8c3b7dc00166806ef0fc412177882fda"
+sha512 = "16ed32ed2e9e153cd6adad6d5d32280f33ce79b5b9829576f26bab9c8f37e1c415a49c86d11839de9527ab1c5222e32946792b5819d9f6a76daffeea305a3848"
+filename = "modernfix-forge-5.25.1+mc1.20.1.jar"
 
 [mods.moonlight]
 version = "1.20-2.16.16-forge"
@@ -1831,26 +1831,21 @@ version = "1.20-2.1.5"
 providers = ["Modrinth"]
 
 [mods.slice-and-dice]
-version = "3.5.2"
+version = "3.6.0"
 server_side = true
 client_side = true
 
 [[mods.slice-and-dice.source]]
 
 [mods.slice-and-dice.source.Download]
-url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/qa7eMq5Z/sliceanddice-forge-3.5.2.jar"
-sha1 = "bdd6d2be506b584f115996159fe48cc0a7894d6f"
-sha512 = "7c8cf6a10eb99b06fd69d8ab570db1a4490eda3de9c756ff74b9888ecee380652c7f24d1b0c2002823c5cecbbb91d25e08a2a20879b4019e5d14bd67b0ac7509"
-filename = "sliceanddice-forge-3.5.2.jar"
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/KWLI8Ng7/sliceanddice-forge-3.6.0.jar"
+sha1 = "a4e47dbf4382ebe092b6c2cb71919e412b456d84"
+sha512 = "b6108218d933ba6b612f2018efe1329957c0cde473f07bc405f7defa76602bb2f6749763db5734ec8547e8c5c1908ef57a9c539c90c23068ed9ab5be267e73a0"
+filename = "sliceanddice-forge-3.6.0.jar"
 
 [[mods.slice-and-dice.deps]]
 name = "create"
 version = "mc1.20.1-6.0.8"
-providers = ["Modrinth"]
-
-[[mods.slice-and-dice.deps]]
-name = "kotlin-for-forge"
-version = "4.11.0"
 providers = ["Modrinth"]
 
 [mods.sophisticated-backpacks]
