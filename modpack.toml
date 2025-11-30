@@ -399,6 +399,11 @@ version = "*"
 name = "spark"
 version = "*"
 
+[mods.spectrum]
+name = "spectrum"
+version = "*"
+loader = "Fabric"
+
 [mods.tcintegrations]
 name = "tcintegrations"
 version = "*"

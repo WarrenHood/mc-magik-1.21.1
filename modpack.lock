@@ -1521,6 +1521,20 @@ sha1 = "124ea5db8c3b7dc00166806ef0fc412177882fda"
 sha512 = "16ed32ed2e9e153cd6adad6d5d32280f33ce79b5b9829576f26bab9c8f37e1c415a49c86d11839de9527ab1c5222e32946792b5819d9f6a76daffeea305a3848"
 filename = "modernfix-forge-5.25.1+mc1.20.1.jar"
 
+[mods.modonomicon]
+version = "1.20.1-1.79.2"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.modonomicon.source]]
+
+[mods.modonomicon.source.Download]
+url = "https://cdn.modrinth.com/data/692GClaE/versions/c7ZjkJNp/modonomicon-1.20.1-fabric-1.79.2.jar"
+sha1 = "26955be3fb3232ea6539ee7322cc51c88cdac9c1"
+sha512 = "33871daadd8bed8dc41c517220f0975859fb932e2148f36c3ab05d586bcb640eea7a508644b32fa34085e01edb6ba973c5f235d202d00c3df7093d2098f0595c"
+filename = "modonomicon-1.20.1-fabric-1.79.2.jar"
+
 [mods.moonlight]
 version = "1.20-2.16.16-forge"
 server_side = true
@@ -1750,6 +1764,19 @@ name = "terrablender"
 version = "3.0.1.10"
 providers = ["Modrinth"]
 
+[mods.revelationary]
+version = "1.3.9+1.20.1"
+server_side = true
+client_side = true
+
+[[mods.revelationary.source]]
+
+[mods.revelationary.source.Download]
+url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/SGmfdrZ1/revelationary-1.3.9%2B1.20.1.jar"
+sha1 = "ce225c1264115a9cc5d6772180b6dcdaf56080ca"
+sha512 = "d8e75423eb9975e3349935a91b8ae02bc1bf826f7be091b3c136b685cdb2026d3ee5570405f95821af662e2260d25b95015b9378575dcf795bd4933c4a94b4f0"
+filename = "revelationary-1.3.9+1.20.1.jar"
+
 [mods.rubidium-extra]
 version = "0.5.4.4+mc1.20.1-build.131"
 server_side = false
@@ -1933,6 +1960,49 @@ sha1 = "231fb325368c0660954f47bfb03493f5246fa4d1"
 sha512 = "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac86405c806273842975e0b7270af93ea9b1db5cf575a3853e54e1088cf7343"
 filename = "spark-1.10.53-forge.jar"
 
+[mods.spectrum]
+version = "1.8.9"
+server_side = true
+client_side = true
+
+[[mods.spectrum.source]]
+
+[mods.spectrum.source.Download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/kr5nzyJP/spectrum-1.8.9.jar"
+sha1 = "e95feff31852ea01b1ade70fe7644e2a813de2ec"
+sha512 = "4f6123d552ba717508690c4cae8a4e219a51b5998000ff5a4cb042da73fea44e1e94c366ce8b7898bbafcc5bd92ee304b61a8dbd6eea8d563c3c6906fa14d39c"
+filename = "spectrum-1.8.9.jar"
+
+[[mods.spectrum.deps]]
+name = "cloth-config"
+version = "11.1.136+fabric"
+providers = ["Modrinth"]
+loader = "Fabric"
+
+[[mods.spectrum.deps]]
+name = "fabric-api"
+version = "0.92.6+1.20.1"
+providers = ["Modrinth"]
+loader = "Fabric"
+
+[[mods.spectrum.deps]]
+name = "modonomicon"
+version = "1.20.1-1.79.2"
+providers = ["Modrinth"]
+loader = "Fabric"
+
+[[mods.spectrum.deps]]
+name = "revelationary"
+version = "1.3.9+1.20.1"
+providers = ["Modrinth"]
+loader = "Fabric"
+
+[[mods.spectrum.deps]]
+name = "trinkets"
+version = "3.7.2"
+providers = ["Modrinth"]
+loader = "Fabric"
+
 [mods.supermartijn642s-config-lib]
 version = "1.1.8-forge-mc1.20"
 server_side = true
@@ -2097,6 +2167,19 @@ url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/8krhHkrZ/titanium-1.20.1-
 sha1 = "4672c64a8019e81a4a6c8239f20661d5edbd5da1"
 sha512 = "c4563176fad77499859691d8b5e18c35e08fec0a31f57f9e51f3538462f1ad738fb29335fc46d5857bffbdfc2dbd49bb32dc96614876d1f858b8cc81d6264057"
 filename = "titanium-1.20.1-3.8.32.jar"
+
+[mods.trinkets]
+version = "3.7.2"
+server_side = true
+client_side = true
+
+[[mods.trinkets.source]]
+
+[mods.trinkets.source.Download]
+url = "https://cdn.modrinth.com/data/5aaWibi9/versions/AHxQGtuC/trinkets-3.7.2.jar"
+sha1 = "d58cc8759587f03f320f188972ca66baa788d008"
+sha512 = "bedf97c87c5e556416410267108ad358b32806448be24ef8ae1a79ac63b78b48b9c851c00c845b8aedfc7805601385420716b9e65326fdab21340e8ba3cc4274"
+filename = "trinkets-3.7.2.jar"
 
 [mods.twilightforest]
 version = "Unknown"
