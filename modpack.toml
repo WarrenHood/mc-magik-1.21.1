@@ -54,6 +54,10 @@ version = "*"
 name = "aquamirae"
 version = "*"
 
+[mods.athena-ctm]
+name = "athena-ctm"
+version = "*"
+
 [mods.badoptimizations]
 name = "badoptimizations"
 version = "*"
