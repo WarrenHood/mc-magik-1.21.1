@@ -123,6 +123,10 @@ version = "*"
 name = "crafting-tweaks"
 version = "*"
 
+[mods.crafttweaker]
+name = "crafttweaker"
+version = "*"
+
 [mods.create]
 name = "create"
 version = "*"

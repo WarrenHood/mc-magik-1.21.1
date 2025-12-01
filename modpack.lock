@@ -554,6 +554,19 @@ name = "balm"
 version = "7.3.37+forge-1.20.1"
 providers = ["Modrinth"]
 
+[mods.crafttweaker]
+version = "14.0.59"
+server_side = true
+client_side = true
+
+[[mods.crafttweaker.source]]
+
+[mods.crafttweaker.source.Download]
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/EKnWm7CI/CraftTweaker-forge-1.20.1-14.0.59.jar"
+sha1 = "6f223f2867a12cee2fb9d0951123826456a8b464"
+sha512 = "6265ff4b290889b4950fa4c44823ccaaaa568aa511b5ad00efff190b44c665b15407846809154a19070f1c75fb894837c8f7a385a18d22a5e9ee64800054f3c6"
+filename = "CraftTweaker-forge-1.20.1-14.0.59.jar"
+
 [mods.craterlib]
 version = "1.20-2.1.5"
 deps = []
