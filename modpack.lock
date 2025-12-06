@@ -1889,17 +1889,17 @@ sha512 = "650f54dcf6d44e26cbc180ca5779857574692f02ff2a55146ed085db1665dde7fb578c
 filename = "servercore-forge-1.5.2+1.20.1.jar"
 
 [mods.simple-discord-rpc]
-version = "4.0.5"
+version = "4.0.4"
 server_side = false
 client_side = true
 
 [[mods.simple-discord-rpc.source]]
 
 [mods.simple-discord-rpc.source.Download]
-url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/Ttdlq9TH/SimpleRPC-4.0.5.jar"
-sha1 = "6ec6f18ac26b82101e5d78974a541f3dff6ca1c4"
-sha512 = "929f28dc678e43b731f9f2792504baf7bcfc86090fd6ce18a1bcaeeb74a8d6d83ab7ecb17854e777d124a6c21d019236ab8b1c3706ce2045a11a69aeae19df4a"
-filename = "SimpleRPC-4.0.5.jar"
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/nkRAWFxK/SimpleRPC-4.0.4.jar"
+sha1 = "36b4246bb5ce216ecc3e3b92a56fa5eb103a9786"
+sha512 = "69362a4ceb69030f8a784e329db3ee960f1e61755b3eb7058019722611ce6c700954aaf6c2302dbf3a3cc23ad21cef6c7c366421639c90b586f6da72fad5f600"
+filename = "SimpleRPC-4.0.4.jar"
 
 [[mods.simple-discord-rpc.deps]]
 name = "craterlib"

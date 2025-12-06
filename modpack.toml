@@ -389,7 +389,7 @@ version = "*"
 
 [mods.simple-discord-rpc]
 name = "simple-discord-rpc"
-version = "*"
+version = "4.0.4"
 
 [mods.slice-and-dice]
 name = "slice-and-dice"
