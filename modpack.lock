@@ -186,6 +186,19 @@ name = "obscure-api"
 version = "18"
 providers = ["Modrinth"]
 
+[mods.architectury-api]
+version = "9.2.14+forge"
+server_side = true
+client_side = true
+
+[[mods.architectury-api.source]]
+
+[mods.architectury-api.source.Download]
+url = "https://cdn.modrinth.com/data/lhGA9TYQ/versions/1MKTLiiG/architectury-9.2.14-forge.jar"
+sha1 = "a52918a500ff421180a1cbd1a0cabee712134ec4"
+sha512 = "cf67f2050cafa00f0bee42e6d7bef77fdb808ac4f71742f7b4d6d5c1e6ffb49561a5a252f332d2b78a9767bdb5faa284611790dba303fbdc736ae36d794f61c7"
+filename = "architectury-9.2.14-forge.jar"
+
 [mods.athena-ctm]
 version = "3.1.2"
 server_side = false
@@ -1643,6 +1656,29 @@ url = "https://cdn.modrinth.com/data/fU7jbFHc/versions/7sZmDObM/obscure_api-18.j
 sha1 = "d395153341a9a732fc80463c475b202d78675e28"
 sha512 = "c266efd30b8814166b457e421517c1afebdab1b3406d863acc894e778287482c2b0e63133d7fdf05c5758c480f65c008b70e6f67f82eac22c8dbb4dce5b369ce"
 filename = "obscure_api-18.jar"
+
+[mods.observable]
+version = "4.4.2+forge"
+server_side = true
+client_side = true
+
+[[mods.observable.source]]
+
+[mods.observable.source.Download]
+url = "https://cdn.modrinth.com/data/VYRu7qmG/versions/QtSVNyjm/observable-4.4.2.jar"
+sha1 = "c8a0ae25512d0cedef478df411c87e43703ae237"
+sha512 = "edb20a8f7d27f7a01340cd3bc0fa08124de4ba651ce2872bec5cfcf8d275f03e7b160f38073143f0da61c0916aba2c5628b9a7ca657d10e397aa9ced6898dff7"
+filename = "observable-4.4.2.jar"
+
+[[mods.observable.deps]]
+name = "architectury-api"
+version = "9.2.14+forge"
+providers = ["Modrinth"]
+
+[[mods.observable.deps]]
+name = "kotlin-for-forge"
+version = "4.12.0"
+providers = ["Modrinth"]
 
 [mods.oculus]
 version = "1.20.1-1.8.0"

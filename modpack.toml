@@ -343,6 +343,10 @@ version = "*"
 name = "noisium"
 version = "*"
 
+[mods.observable]
+name = "observable"
+version = "*"
+
 [mods.oculus]
 name = "oculus"
 version = "*"
