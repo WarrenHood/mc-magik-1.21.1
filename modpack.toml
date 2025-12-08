@@ -87,10 +87,6 @@ loader = "Fabric"
 name = "caelus"
 version = "*"
 
-[mods.canary]
-name = "canary"
-version = "*"
-
 [mods.chunky]
 name = "chunky"
 version = "*"
@@ -370,6 +366,12 @@ version = "*"
 [mods.projectile-damage-attribute]
 name = "projectile-damage-attribute"
 version = "3.2.2+1.20.1-forge"
+
+[mods.radium]
+name = "radium"
+version = "*"
+server_side = true
+client_side = true
 
 [mods.regions-unexplored]
 name = "regions-unexplored"
