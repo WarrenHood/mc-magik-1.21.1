@@ -265,6 +265,12 @@ version = "*"
 name = "immersive-melodies"
 version = "*"
 
+[mods.immersive-optimization]
+name = "immersive-optimization"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.invmove]
 name = "invmove"
 version = "*"
