@@ -43,6 +43,19 @@ sha1 = "e2fdd161f35ca1b6db774906e88e266d7f12eab6"
 sha512 = "60b23e439b244645eafda5f3ddd620ac37e94bd75441d2deea9c328e1e154362f48b08aff1959849a7428ae7664422723fdbdb12aaeddfd56409ba4b54a7eaaf"
 filename = "aether-1.20.1-1.5.2-neoforge.jar"
 
+[mods.ai-improvements]
+version = "0.5.2"
+server_side = true
+client_side = true
+
+[[mods.ai-improvements.source]]
+
+[mods.ai-improvements.source.Download]
+url = "https://cdn.modrinth.com/data/DSVgwcji/versions/eJihmpNQ/AI-Improvements-1.20-0.5.2.jar"
+sha1 = "11ad483d1fd1f7ebd84b4940b1dc0926b3e9daa8"
+sha512 = "eb932308aceb30f5157e967f1bd4b57eb1a1b2093886cbfaef6524b780337b8b0e2bd41c5103694c3a275827ceb7d63e7c55637a7a46f8e21f0a6770346b757d"
+filename = "AI-Improvements-1.20-0.5.2.jar"
+
 [mods.akashic-tome]
 version = "1.20.1-1.7-27"
 server_side = true

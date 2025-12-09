@@ -18,6 +18,12 @@ version = "*"
 name = "aether"
 version = "*"
 
+[mods.ai-improvements]
+name = "ai-improvements"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.akashic-tome]
 name = "akashic-tome"
 version = "*"
