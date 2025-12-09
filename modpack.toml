@@ -504,6 +504,11 @@ target_path = "config/Weather2"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/config/aiimprovements-common.toml"]
+target_path = "config/aiimprovements-common.toml"
+side = "Both"
+apply_policy = "Always"
+
 [files."./common/config/canary.properties"]
 target_path = "config/canary.properties"
 side = "Both"
