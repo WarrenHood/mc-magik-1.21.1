@@ -4,6 +4,18 @@ modloader = "Forge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
 
+[mods.adaptive-performance-tweaks-core]
+name = "adaptive-performance-tweaks-core"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.adaptive-performance-tweaks-items]
+name = "adaptive-performance-tweaks-items"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.advanced-backups]
 name = "advanced-backups"
 version = "*"

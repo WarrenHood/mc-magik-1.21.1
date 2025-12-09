@@ -1,3 +1,34 @@
+[mods.adaptive-performance-tweaks-core]
+version = "11.5.0"
+server_side = true
+client_side = true
+
+[[mods.adaptive-performance-tweaks-core.source]]
+
+[mods.adaptive-performance-tweaks-core.source.Download]
+url = "https://cdn.modrinth.com/data/L5xaBiBb/versions/W5qP6P9L/adaptive_performance_tweaks_core_1.20.1-11.5.0.jar"
+sha1 = "5bde863758963b34de37f7c20d58856106328990"
+sha512 = "331f03dd3c35404ec1f8e0dc99bd3b8ba0f019d4165462033e2924ca4e23ffa966161ddee239b43466f876163dbe194a69f3a404b24cf4045c14edff80b7bde8"
+filename = "adaptive_performance_tweaks_core_1.20.1-11.5.0.jar"
+
+[mods.adaptive-performance-tweaks-items]
+version = "11.5.0"
+server_side = true
+client_side = true
+
+[[mods.adaptive-performance-tweaks-items.source]]
+
+[mods.adaptive-performance-tweaks-items.source.Download]
+url = "https://cdn.modrinth.com/data/z3TjJLQ0/versions/EkO6vEVt/adaptive_performance_tweaks_items_1.20.1-11.5.0.jar"
+sha1 = "773f2a13db5f7900ff760a567678a4021fafc7bb"
+sha512 = "633e8077a9b4f568b9747c9b7cf1ac8d37ce39cd4516b2debfff6491508a43236a0f8a3ba7e2a4a882d5f2158ac8c6ea6b669dcf036bb5de6f4bf32da8e4f7dc"
+filename = "adaptive_performance_tweaks_items_1.20.1-11.5.0.jar"
+
+[[mods.adaptive-performance-tweaks-items.deps]]
+name = "adaptive-performance-tweaks-core"
+version = "11.5.0"
+providers = ["Modrinth"]
+
 [mods.advanced-backups]
 version = "3.7.1"
 server_side = true
