@@ -1287,19 +1287,6 @@ sha1 = "688f2b905c99a2d2c86f016eb09712d978f99102"
 sha512 = "4bcaad08a6a9e0aa6f62dae336ac207ea5c80cbf31cf9aa486d8453aa5bfa6791c3e30d1a6f7c846f144863dbe2c948b61265562aceeaa736e9bafaecfc54a85"
 filename = "immersive_melodies-0.6.0+1.20.1-forge.jar"
 
-[mods.immersive-optimization]
-version = "0.1.0+1.20.1"
-server_side = true
-client_side = true
-
-[[mods.immersive-optimization.source]]
-
-[mods.immersive-optimization.source.Download]
-url = "https://cdn.modrinth.com/data/vNZgQmjg/versions/IbAHAwYb/immersive_optimization-forge-1.20.1-0.1.0.jar"
-sha1 = "58a2e199bf7992edb6ac765e7694be96cb53efde"
-sha512 = "38f833638b29c098005e18068fb5f3957462dea496176d446b400c37bf4fb19343dd250993cd458465bfe29c0b1f27afbb5bc3a7245b972fed82ea8e70a0c8c8"
-filename = "immersive_optimization-forge-1.20.1-0.1.0.jar"
-
 [mods.integrated-api]
 version = "1.5.1+1.20.1-forge"
 server_side = true
