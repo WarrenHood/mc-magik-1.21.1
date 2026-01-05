@@ -299,10 +299,6 @@ version = "*"
 name = "hypertube"
 version = "*"
 
-[mods.idas]
-name = "idas"
-version = "*"
-
 [mods.immediatelyfast]
 name = "immediatelyfast"
 version = "*"
@@ -426,6 +422,10 @@ version = "*"
 [mods.projectile-damage-attribute]
 name = "projectile-damage-attribute"
 version = "3.2.2+1.20.1-forge"
+
+[mods.quark]
+name = "quark"
+version = "*"
 
 [mods.radium]
 name = "radium"
