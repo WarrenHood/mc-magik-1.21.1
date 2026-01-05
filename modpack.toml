@@ -191,6 +191,10 @@ version = "*"
 name = "create-deco"
 version = "*"
 
+[mods.create-diesel-generators]
+name = "create-diesel-generators"
+version = "*"
+
 [mods.create-enchantment-industry]
 name = "create-enchantment-industry"
 version = "*"
