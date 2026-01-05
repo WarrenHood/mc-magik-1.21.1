@@ -525,11 +525,6 @@ target_path = "config/aiimprovements-common.toml"
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/config/lithium.properties"]
-target_path = "config/lithium.properties"
-side = "Both"
-apply_policy = "Always"
-
 [files."./common/config/createappliedkinetics-common.toml"]
 target_path = "config/createappliedkinetics-common.toml"
 side = "Both"
@@ -542,6 +537,11 @@ apply_policy = "Always"
 
 [files."./common/config/item_obliterator.json5"]
 target_path = "config/item_obliterator.json5"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/lithium.properties"]
+target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
