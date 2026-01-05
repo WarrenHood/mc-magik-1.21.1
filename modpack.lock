@@ -1,3 +1,31 @@
+[mods.ad-astra]
+version = "1.15.20"
+server_side = true
+client_side = true
+
+[[mods.ad-astra.source]]
+
+[mods.ad-astra.source.Download]
+url = "https://cdn.modrinth.com/data/3ufwT9JF/versions/Qf7QFXk2/ad_astra-forge-1.20.1-1.15.20.jar"
+sha1 = "537ac3e358a97efd7b03648a9bfd7b11f1ae7ff7"
+sha512 = "c7337add217258cea0cb7d9f9136b5a7c8a17600bc2cc9c722321af838690b6c285628dcaebfccedb3e1274683591ef7a45a3514094e5a3bcd8fe1c1f25626bf"
+filename = "ad_astra-forge-1.20.1-1.15.20.jar"
+
+[[mods.ad-astra.deps]]
+name = "botarium"
+version = "2.3.4"
+providers = ["Modrinth"]
+
+[[mods.ad-astra.deps]]
+name = "resourceful-config"
+version = "2.1.3"
+providers = ["Modrinth"]
+
+[[mods.ad-astra.deps]]
+name = "resourceful-lib"
+version = "2.1.29"
+providers = ["Modrinth"]
+
 [mods.adaptive-performance-tweaks-core]
 version = "11.5.0"
 server_side = true
@@ -336,6 +364,19 @@ name = "cloth-config"
 version = "11.1.136+forge"
 providers = ["Modrinth"]
 
+[mods.beyond-oxygen]
+version = "0.12.6"
+server_side = true
+client_side = true
+
+[[mods.beyond-oxygen.source]]
+
+[mods.beyond-oxygen.source.Download]
+url = "https://cdn.modrinth.com/data/2T6G6FBO/versions/SujDA6su/beyond_oxygen-0.12.6-vs2.4.jar"
+sha1 = "6c1cda118e1752aa81d78f90012cac752c29798b"
+sha512 = "c53446d191dd9ba3c9611d663d1d35a394009d267564b88251235b39d3eb958202373d14a0a9e03c0058a641bf331e16df8438fd217ebc2977d5c5361816a325"
+filename = "beyond_oxygen-0.12.6-vs2.4.jar"
+
 [mods.block-runner]
 version = "v8.0.4-1.20.1-Forge"
 server_side = true
@@ -415,6 +456,70 @@ url = "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2
 sha1 = "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
 sha512 = "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"
 filename = "caelus-forge-3.2.0+1.20.1.jar"
+
+[mods.cc-tweaked]
+version = "1.117.0"
+server_side = true
+client_side = true
+
+[[mods.cc-tweaked.source]]
+
+[mods.cc-tweaked.source.Download]
+url = "https://cdn.modrinth.com/data/gu7yAYhd/versions/W45ytlaC/cc-tweaked-1.20.1-forge-1.117.0.jar"
+sha1 = "ac55aeb61eb0da16467145208d719ddcd4e9bdf3"
+sha512 = "1dce8ee17e600f9d81c44281631b5dd1883edd344d1a9f67d0361064d4a03cf31a26ff5508ae95dd0a122e322d85c6221ce5619b95c8a672dc53cdedfbc70a6c"
+filename = "cc-tweaked-1.20.1-forge-1.117.0.jar"
+
+[mods.cc-vs]
+version = "0.6.0"
+server_side = true
+client_side = true
+
+[[mods.cc-vs.source]]
+
+[mods.cc-vs.source.Download]
+url = "https://cdn.modrinth.com/data/bvgy8HrZ/versions/BTJW2a72/cc_vs-1.20.1-forge-0.6.0.jar"
+sha1 = "338cb514d7f2daec6c9c976ecf055ea2fae279eb"
+sha512 = "21996654ce597ed83fe21c3e4ade2c75463f13ed8b78e088f62e0a22e6b58b0a374d8b957ddce7e3697db3fd1b9a103228642b633558f55fe517310c6fd88120"
+filename = "cc_vs-1.20.1-forge-0.6.0.jar"
+
+[[mods.cc-vs.deps]]
+name = "cc-tweaked"
+version = "1.117.0"
+providers = ["Modrinth"]
+
+[[mods.cc-vs.deps]]
+name = "kotlin-for-forge"
+version = "4.12.0"
+providers = ["Modrinth"]
+
+[[mods.cc-vs.deps]]
+name = "valkyrien-skies"
+version = "1.20.1-forge-2.4.6"
+providers = ["Modrinth"]
+
+[mods.cccbridge]
+version = "1.7.1"
+server_side = true
+client_side = true
+
+[[mods.cccbridge.source]]
+
+[mods.cccbridge.source.Download]
+url = "https://cdn.modrinth.com/data/fXt291FO/versions/yxrimuPr/cccbridge-mc1.20.1-v1.7.1-forge.jar"
+sha1 = "288ed8a391c891901181bc2116b19f71c28f22c0"
+sha512 = "23d6cb811e731581fd33b898ab055b3ba32ee53aa60e0fcc6df4c8bcdda93dcd20681e7ca25a6043903c483158c9b8c9b2867747e6bbda14dc58cf04fbbeaa95"
+filename = "cccbridge-mc1.20.1-v1.7.1-forge.jar"
+
+[[mods.cccbridge.deps]]
+name = "cc-tweaked"
+version = "1.117.0"
+providers = ["Modrinth"]
+
+[[mods.cccbridge.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
 
 [mods.chunky]
 version = "1.3.146"
@@ -660,6 +765,29 @@ name = "create"
 version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
 
+[mods.create-big-cannons]
+version = "5.10.1"
+server_side = true
+client_side = true
+
+[[mods.create-big-cannons.source]]
+
+[mods.create-big-cannons.source.Download]
+url = "https://cdn.modrinth.com/data/GWp4jCJj/versions/NVZbqu2m/createbigcannons-5.10.1%2Bmc.1.20.1-forge.jar"
+sha1 = "7a1189605e1057d1ffc480ce20bb3b921e6c9f38"
+sha512 = "a6d7faa2599ce662a2721e7569d4497f8425c7f9fc9b861160131431dda28ed98c89690bf02b4872b117d465200b665792b9af3e4e02512e0affbc6d513e12e5"
+filename = "createbigcannons-5.10.1+mc.1.20.1-forge.jar"
+
+[[mods.create-big-cannons.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[[mods.create-big-cannons.deps]]
+name = "rpl"
+version = "2.1.1"
+providers = ["Modrinth"]
+
 [mods.create-central-kitchen]
 version = "1.4.3b"
 server_side = true
@@ -710,6 +838,24 @@ sha512 = "0b885e09e0f074051120669337e0f53f42ca43a244cfde02f90b43da5a09853f927153
 filename = "create_connected-1.1.10-mc1.20.1-all.jar"
 
 [[mods.create-connected.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[mods.create-deco]
+version = "2.0.3-1.20.1-forge"
+server_side = true
+client_side = true
+
+[[mods.create-deco.source]]
+
+[mods.create-deco.source.Download]
+url = "https://cdn.modrinth.com/data/sMvUb4Rb/versions/e9gaSRMd/createdeco-2.0.3-1.20.1-forge.jar"
+sha1 = "54c8ad5686b846310bca9e69982a455e668dede3"
+sha512 = "50b7e9bb7b09d720160b2491528f2ab751ad2299541be75cc6941e6b6c3d2d40faff5c5fa07a1bea9e3f43b73146ef6e0fdf6a106e65246b9767dd81053766bf"
+filename = "createdeco-2.0.3-1.20.1-forge.jar"
+
+[[mods.create-deco.deps]]
 name = "create"
 version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
@@ -1404,6 +1550,29 @@ sha1 = "1997e5fe2db3a0575ca79bfe4720019f01fd2b8c"
 sha512 = "612c7535d28ae0cb336f31b790770b3dcb5173d496fb74eabcb28d06e3b88e72733128060cefc4ae4147cce528a8e8c09688a36d8f9e11dbf77e93d89b743560"
 filename = "Jade-1.20.1-Forge-11.13.2.jar"
 
+[mods.jade-vs]
+version = "1.2.3"
+server_side = true
+client_side = true
+
+[[mods.jade-vs.source]]
+
+[mods.jade-vs.source.Download]
+url = "https://cdn.modrinth.com/data/zNKzjsZM/versions/u49aZqK9/Jade-VS-forge-1.20.1-1.2.3.jar"
+sha1 = "e4a60c1dd20eab07f4b7753c6e999427389ba18d"
+sha512 = "00f09eefeeda4f6c3e855bb1fd74ddefb992c3d85304f3ece90edd39d853bdd8d6682d473c0b66062a18e03a1b70e7924841e5a5e2f8ef13430a640c2cf7a45f"
+filename = "Jade-VS-forge-1.20.1-1.2.3.jar"
+
+[[mods.jade-vs.deps]]
+name = "jade"
+version = "11.13.2+forge"
+providers = ["Modrinth"]
+
+[[mods.jade-vs.deps]]
+name = "valkyrien-skies"
+version = "1.20.1-forge-2.4.6"
+providers = ["Modrinth"]
+
 [mods.jei]
 version = "15.20.0.127"
 server_side = true
@@ -1880,6 +2049,32 @@ name = "terrablender"
 version = "3.0.1.10"
 providers = ["Modrinth"]
 
+[mods.resourceful-config]
+version = "2.1.3"
+server_side = true
+client_side = true
+
+[[mods.resourceful-config.source]]
+
+[mods.resourceful-config.source.Download]
+url = "https://cdn.modrinth.com/data/M1953qlQ/versions/DERs8u7v/resourcefulconfig-forge-1.20.1-2.1.3.jar"
+sha1 = "597d40920dcc935f963842c817dcc4901862ab14"
+sha512 = "2e05fe27529d00d7808a83dbe0c475a0fb96a20ebfd5c9767f4cc8dcd9a865e20a18de41fb9ed710e5cd2e0211c30303b43c1f22702af1d50ee7212ad83a54d3"
+filename = "resourcefulconfig-forge-1.20.1-2.1.3.jar"
+
+[mods.resourceful-lib]
+version = "2.1.29"
+server_side = true
+client_side = true
+
+[[mods.resourceful-lib.source]]
+
+[mods.resourceful-lib.source.Download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/OhsHaCcW/resourcefullib-forge-1.20.1-2.1.29.jar"
+sha1 = "6fc590a7c56a720fec57e290cbb0a106efbb3ffa"
+sha512 = "8dbe951d431545a7d18081a8b11a52a248e6d8ff9862ae6462b0f5a6f57ff523af12704c3adb071ae99a7c5c1dd895bd7875dea59f9c4956c1597a668b6e8820"
+filename = "resourcefullib-forge-1.20.1-2.1.29.jar"
+
 [mods.revelationary]
 version = "1.3.9+1.20.1"
 server_side = true
@@ -1892,6 +2087,19 @@ url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/SGmfdrZ1/revelationary-1.
 sha1 = "ce225c1264115a9cc5d6772180b6dcdaf56080ca"
 sha512 = "d8e75423eb9975e3349935a91b8ae02bc1bf826f7be091b3c136b685cdb2026d3ee5570405f95821af662e2260d25b95015b9378575dcf795bd4933c4a94b4f0"
 filename = "revelationary-1.3.9+1.20.1.jar"
+
+[mods.rpl]
+version = "2.1.1"
+server_side = true
+client_side = true
+
+[[mods.rpl.source]]
+
+[mods.rpl.source.Download]
+url = "https://cdn.modrinth.com/data/B3pb093D/versions/PdGBsNte/ritchiesprojectilelib-2.1.1%2Bmc.1.20.1-forge.jar"
+sha1 = "3e13ad86b2cc4107b8a18eec1d980ed19cdc37aa"
+sha512 = "454e1808261940dc135ed8af4f0fa44296ec502b985104e42178146adc539a29cd7c56369c075f78d60da4f9465229aceaafa8f5724a008205aa65b5a81e4419"
+filename = "ritchiesprojectilelib-2.1.1+mc.1.20.1-forge.jar"
 
 [mods.rubidium-extra]
 version = "0.5.4.4+mc1.20.1-build.131"
@@ -2306,6 +2514,19 @@ url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/8krhHkrZ/titanium-1.20.1-
 sha1 = "4672c64a8019e81a4a6c8239f20661d5edbd5da1"
 sha512 = "c4563176fad77499859691d8b5e18c35e08fec0a31f57f9e51f3538462f1ad738fb29335fc46d5857bffbdfc2dbd49bb32dc96614876d1f858b8cc81d6264057"
 filename = "titanium-1.20.1-3.8.32.jar"
+
+[mods.trackwork]
+version = "1.20.1-1.2.2"
+server_side = true
+client_side = true
+
+[[mods.trackwork.source]]
+
+[mods.trackwork.source.Download]
+url = "https://cdn.modrinth.com/data/FXDpZRJG/versions/Jut91y7U/trackwork-1.20.1-1.2.2.jar"
+sha1 = "179e295a00e1d8b4043b763ea2a32fc5a13ea008"
+sha512 = "35aa3b0cb1139ed531f6adb5b5102b0e0c2af5fe2fc6885b9c5cb1e40c22ada214efdbacb9cd8f7942097b69a03f534d6f53cd0521739c4eafc489a9e86f7405"
+filename = "trackwork-1.20.1-1.2.2.jar"
 
 [mods.trinkets]
 version = "3.7.2"

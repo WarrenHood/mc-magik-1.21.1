@@ -4,6 +4,10 @@ modloader = "Forge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
 
+[mods.ad-astra]
+name = "ad-astra"
+version = "*"
+
 [mods.adaptive-performance-tweaks-core]
 name = "adaptive-performance-tweaks-core"
 version = "*"
@@ -88,6 +92,10 @@ version = "*"
 name = "betterf3"
 version = "*"
 
+[mods.beyond-oxygen]
+name = "beyond-oxygen"
+version = "*"
+
 [mods.block-runner]
 name = "block-runner"
 version = "*"
@@ -103,6 +111,20 @@ loader = "Fabric"
 
 [mods.caelus]
 name = "caelus"
+version = "*"
+
+[mods.cc-tweaked]
+name = "cc-tweaked"
+version = "*"
+
+[mods.cc-vs]
+name = "cc-vs"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.cccbridge]
+name = "cccbridge"
 version = "*"
 
 [mods.chunky]
@@ -149,6 +171,10 @@ version = "*"
 name = "create-applied-kinetics"
 version = "*"
 
+[mods.create-big-cannons]
+name = "create-big-cannons"
+version = "*"
+
 [mods.create-central-kitchen]
 name = "create-central-kitchen"
 version = "*"
@@ -159,6 +185,10 @@ version = "*"
 
 [mods.create-connected]
 name = "create-connected"
+version = "*"
+
+[mods.create-deco]
+name = "create-deco"
 version = "*"
 
 [mods.create-enchantment-industry]
@@ -299,6 +329,10 @@ version = "*"
 
 [mods.jade]
 name = "jade"
+version = "*"
+
+[mods.jade-vs]
+name = "jade-vs"
 version = "*"
 
 [mods.jei]
@@ -458,6 +492,10 @@ version = "*"
 
 [mods.tinkers-construct]
 name = "tinkers-construct"
+version = "*"
+
+[mods.trackwork]
+name = "trackwork"
 version = "*"
 
 [mods.twilightforest]
