@@ -673,6 +673,29 @@ sha1 = "4e1048ce2b5453d657b42ea5dcec5ada1842b0ea"
 sha512 = "0578fdcfc9e8f5f3717e2dab468fadca35480e6a2c6a701b43004c57ea1ff0d979c790148d68b6c9233c4c697e9e972d82e7ffd22d11db514b69d23b06f80bbc"
 filename = "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
 
+[mods.create-clockwork]
+version = "1.20.1-forge-0.5.4.3"
+server_side = true
+client_side = true
+
+[[mods.create-clockwork.source]]
+
+[mods.create-clockwork.source.Download]
+url = "https://cdn.modrinth.com/data/84USeAvk/versions/BM7snH6L/clockwork-0.5.4.3.jar"
+sha1 = "ec877495ae82f91f6abed2db0974c81e9fc11cd1"
+sha512 = "5ed9e56f7fca3f91e48bacd371b38203cdff9e5d0c8b76b166186d25529d275939f6cdbd66eaa809b60ae84358a6102ef134c46584a0c5617ee5da5e9f268f96"
+filename = "clockwork-0.5.4.3.jar"
+
+[[mods.create-clockwork.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[[mods.create-clockwork.deps]]
+name = "valkyrien-skies"
+version = "1.20.1-forge-2.4.6"
+providers = ["Modrinth"]
+
 [mods.create-connected]
 version = "1.1.10-mc1.20.1"
 server_side = true
@@ -2309,6 +2332,24 @@ url = "https://mediafilez.forgecdn.net/files/5468/648/twilightforest-1.20.1-4.3.
 sha1 = "fa3b506a45d3e9c465551cd533fd50c899496e9f"
 sha512 = "340b42ca27cac8c011a97eff5999b675e5f7e13f9d5b035ca94767ce3868d2168dd3ad81448a2d5e7bdf06cf08ed6b4bcf90edf8df68e452d222448868aa6a7c"
 filename = "twilightforest-1.20.1-4.3.2508-universal.jar"
+
+[mods.valkyrien-skies]
+version = "1.20.1-forge-2.4.6"
+server_side = true
+client_side = true
+
+[[mods.valkyrien-skies.source]]
+
+[mods.valkyrien-skies.source.Download]
+url = "https://cdn.modrinth.com/data/V5ujR2yw/versions/BjOYUTLA/valkyrienskies-120-2.4.6.jar"
+sha1 = "1e46bde9f7a0543e650f1acbd82f1bbefe4ae010"
+sha512 = "a45098834c4fd674100375899b2e770be68509c7b976c8b7311f2e80e70a2caf71417c8a93253a33fbe18694db21aa5a626135d4b2ab2b60ed122b9479060d4e"
+filename = "valkyrienskies-120-2.4.6.jar"
+
+[[mods.valkyrien-skies.deps]]
+name = "kotlin-for-forge"
+version = "4.12.0"
+providers = ["Modrinth"]
 
 [mods.weather-storms-tornadoes]
 version = "1.20.1-2.8.3"

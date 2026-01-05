@@ -153,6 +153,10 @@ version = "*"
 name = "create-central-kitchen"
 version = "*"
 
+[mods.create-clockwork]
+name = "create-clockwork"
+version = "*"
+
 [mods.create-connected]
 name = "create-connected"
 version = "*"
