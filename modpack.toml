@@ -521,8 +521,8 @@ target_path = "config/aiimprovements-common.toml"
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/config/canary.properties"]
-target_path = "config/canary.properties"
+[files."./common/config/lithium.properties"]
+target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
