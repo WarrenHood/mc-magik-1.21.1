@@ -594,11 +594,6 @@ target_path = "scripts/raw_redstone_block.zs"
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/scripts/rod_o_lightning.zs"]
-target_path = "scripts/rod_o_lightning.zs"
-side = "Both"
-apply_policy = "Always"
-
 [files."./server/config/AdvancedBackups.properties"]
 target_path = "config/AdvancedBackups.properties"
 side = "Server"
