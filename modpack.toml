@@ -199,6 +199,12 @@ version = "*"
 name = "create-enchantment-industry"
 version = "*"
 
+[mods.create-let-the-adventure-begin]
+name = "create-let-the-adventure-begin"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.create-new-age]
 name = "create-new-age"
 version = "*"
