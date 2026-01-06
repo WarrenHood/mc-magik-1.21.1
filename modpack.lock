@@ -2293,17 +2293,17 @@ sha512 = "15c6a3753dcba380624643a1e19c856240e8f6bed280f908e1be12c6154a86284ac864
 filename = "spark-1.10.53-forge.jar"
 
 [mods.spectrum]
-version = "1.8.11"
+version = "1.8.12"
 server_side = true
 client_side = true
 
 [[mods.spectrum.source]]
 
 [mods.spectrum.source.Download]
-url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/XUbJjzng/spectrum-1.8.11.jar"
-sha1 = "b87bd3559cdd81952d381df035e0a4d34ac608b5"
-sha512 = "e1b3fa4ebfe7a06f129079410344a0e3353117d9562679aaa7fd0e31009f268535c7ea631ed59f1ffa1de2fc63cc187845c61065b693b38a12a9c20cdacb290d"
-filename = "spectrum-1.8.11.jar"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/AOD8GFlh/spectrum-1.8.12.jar"
+sha1 = "48e22cfff53d4c6bfbac8b5ac84434d97c1dc8eb"
+sha512 = "a61d74b92da67bcb9d8125499d6382d2eb093f1d3b3fc3aa4507621cf04ea4cb836d6f367b7b13ad7a4657f62379476c3d9a77ca36d2f275e3c48745f77368ff"
+filename = "spectrum-1.8.12.jar"
 
 [[mods.spectrum.deps]]
 name = "cloth-config"
