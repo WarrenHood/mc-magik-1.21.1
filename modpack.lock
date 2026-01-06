@@ -2539,24 +2539,6 @@ name = "kotlin-for-forge"
 version = "4.12.0"
 providers = ["Modrinth"]
 
-[mods.weather-storms-tornadoes]
-version = "1.20.1-2.8.3"
-server_side = true
-client_side = true
-
-[[mods.weather-storms-tornadoes.source]]
-
-[mods.weather-storms-tornadoes.source.Download]
-url = "https://cdn.modrinth.com/data/dv5SFk5T/versions/ZKVtwI5D/weather2-1.20.1-2.8.3.jar"
-sha1 = "4ec7a372945874dd734a20fa61574f08d2b6763a"
-sha512 = "240bd2eadfb47c6f8e201105e0d69f4ffe6957ec97d95200c01904edd6eca6b42cb61c67b58492a5fd0b0c306108519980f89c5382d168c5c71dbae95e72bb49"
-filename = "weather2-1.20.1-2.8.3.jar"
-
-[[mods.weather-storms-tornadoes.deps]]
-name = "coroutil"
-version = "1.20.1-1.3.7"
-providers = ["Modrinth"]
-
 [mods.xaeros-minimap]
 version = "25.2.10_Forge_1.20"
 deps = []
