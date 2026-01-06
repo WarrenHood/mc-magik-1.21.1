@@ -433,12 +433,6 @@ version = "3.2.2+1.20.1-forge"
 name = "quark"
 version = "*"
 
-[mods.radium]
-name = "radium"
-version = "*"
-server_side = true
-client_side = true
-
 [mods.regions-unexplored]
 name = "regions-unexplored"
 version = "*"

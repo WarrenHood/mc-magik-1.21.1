@@ -2002,20 +2002,6 @@ name = "zeta"
 version = "1.20.1-1.0-31"
 providers = ["Modrinth"]
 
-[mods.radium]
-version = "0.12.4"
-deps = []
-server_side = true
-client_side = true
-
-[[mods.radium.source]]
-
-[mods.radium.source.Download]
-url = "https://cdn.modrinth.com/data/2gvRmQXx/versions/n947JjJH/radium-mc1.20.1-0.12.4%2Bgit.26c9d8e.jar"
-sha1 = "f5f5f792473bb7b85ec221f75c5afb3740afb13a"
-sha512 = "7b59c491d72801257c740626faab8c14ed580db28493c474147341531bca3de5ea822d4042d3786ae619449b6f6ffc1001a1cdc1b9276ec900e57ab17dd8989a"
-filename = "radium-mc1.20.1-0.12.4+git.26c9d8e.jar"
-
 [mods.regions-unexplored]
 version = "F-0.5.6+1.20.1"
 server_side = true
