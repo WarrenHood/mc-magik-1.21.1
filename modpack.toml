@@ -104,11 +104,6 @@ version = "*"
 name = "botania"
 version = "*"
 
-[mods.c2me-fabric]
-name = "c2me-fabric"
-version = "*"
-loader = "Fabric"
-
 [mods.caelus]
 name = "caelus"
 version = "*"
@@ -375,16 +370,6 @@ version = "*"
 name = "miners-delight"
 version = "*"
 
-[mods.mobtimizations]
-name = "mobtimizations"
-version = "*"
-
-[mods.modernfix]
-name = "modernfix"
-version = "*"
-server_side = true
-client_side = true
-
 [mods.mouse-tweaks]
 name = "mouse-tweaks"
 version = "*"
@@ -447,10 +432,6 @@ version = "*"
 
 [mods.schematic-energistics]
 name = "schematic-energistics"
-version = "*"
-
-[mods.servercore]
-name = "servercore"
 version = "*"
 
 [mods.simple-discord-rpc]
