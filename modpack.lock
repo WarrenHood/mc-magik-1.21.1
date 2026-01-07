@@ -178,7 +178,7 @@ version = "2.6.2"
 providers = ["Modrinth"]
 
 [mods.almost-unified]
-version = "1.20.1-0.10.1+forge"
+version = "1.20.1-0.11.0+forge"
 deps = []
 server_side = true
 client_side = true
@@ -186,10 +186,10 @@ client_side = true
 [[mods.almost-unified.source]]
 
 [mods.almost-unified.source.Download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/803fRd97/almostunified-forge-1.20.1-0.10.1.jar"
-sha1 = "908bb8c851a38e2ad4f3e5965b1b9a6668070d66"
-sha512 = "2274052de29fd1f93ee34362d2308c1688736987ca5dacebe37c2a96b7825cfc3fda08c56cb3d97e6ad3c930dc1b84e1069947eb9ecf96ed7aa8ab4bb4bd8d86"
-filename = "almostunified-forge-1.20.1-0.10.1.jar"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/9qc7KIeg/almostunified-forge-1.20.1-0.11.0.jar"
+sha1 = "24943e5efe95c10367259a7bbd13874ca56ebf0a"
+sha512 = "fcd7da643e84d7779e32af6916c6f8e808559d4724d565cc6d23fc96527f3bf50ea0b686eca1916c5dfeac146d836cf593a85374b6f04b60215f748aa00e3824"
+filename = "almostunified-forge-1.20.1-0.11.0.jar"
 
 [mods.alternate-current]
 version = "forge-mc1.20-1.7.0"
@@ -218,17 +218,17 @@ sha512 = "3176f928fb6c60d27f5edb610ca4ab0236175404eebf32797a1ec6cdd794bb294a2602
 filename = "appleskin-forge-mc1.20.1-2.5.1.jar"
 
 [mods.applied-botanics]
-version = "1.5.1-forge"
+version = "1.5.2-forge"
 server_side = true
 client_side = true
 
 [[mods.applied-botanics.source]]
 
 [mods.applied-botanics.source.Download]
-url = "https://cdn.modrinth.com/data/545hUrw9/versions/CBTiHbQs/applied-botanics-forge-1.5.1.jar"
-sha1 = "dbc71f3d820ac117c17b56e9ad57e3290d17a8ee"
-sha512 = "839515fd273dc21f0ae343c24e052d59f227265dd6ff432641c4df4fa52bc56140e11cfdcdd349398e7c4c17d877dca955a6a2ec970abdf8e4025e7cabe9b969"
-filename = "applied-botanics-forge-1.5.1.jar"
+url = "https://cdn.modrinth.com/data/545hUrw9/versions/ByiqRpj3/applied-botanics-forge-1.5.2.jar"
+sha1 = "4129b8379681449779803319a8a8a34e0435084b"
+sha512 = "f79cfb6deeeb915737685bd3956a91418a16e73356c8c5dcee49403b7327daa0dfbae8988dd68f42083e622f0b118be2b3c415f33b2989cd6587a21ece8ba8cc"
+filename = "applied-botanics-forge-1.5.2.jar"
 
 [[mods.applied-botanics.deps]]
 name = "ae2"
@@ -298,30 +298,30 @@ sha512 = "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde
 filename = "AttributeFix-Forge-1.20.1-21.0.4.jar"
 
 [mods.badoptimizations]
-version = "2.4.0"
+version = "2.4.1"
 server_side = false
 client_side = true
 
 [[mods.badoptimizations.source]]
 
 [mods.badoptimizations.source.Download]
-url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/7JVYse6h/BadOptimizations-2.4.0-1.20.1.jar"
-sha1 = "d664f5e16a4ddef2a207146155716cfb299eb4f7"
-sha512 = "1e47a309bc7f8669104b15739f9b803a90dde1d4e31c5df53f65c926b75b5e3a9f44ba04ab02f2250b70275ed8c3ca374af81889937e2b02bc45cd15cf49fab0"
-filename = "BadOptimizations-2.4.0-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/g96Z4WVZ/versions/DIugITgU/BadOptimizations-2.4.1-1.20.1.jar"
+sha1 = "304007dcb0fb15ed1a1bc3771736470dafc5be0f"
+sha512 = "5e02d9c5a5bc3dccfccbfac4809cda4eb755c015060063b696e92568e0be3d8354a01f6ac5dae99bd27111b7e20bb680512287119459ad069dcf3e7d17cace0f"
+filename = "BadOptimizations-2.4.1-1.20.1.jar"
 
 [mods.balm]
-version = "7.3.37+forge-1.20.1"
+version = "7.3.38+forge-1.20.1"
 server_side = true
 client_side = true
 
 [[mods.balm.source]]
 
 [mods.balm.source.Download]
-url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/Ue8C6cKq/balm-forge-1.20.1-7.3.37-all.jar"
-sha1 = "8ed877e61adf550c68aa4fc75d163ff97c0c5006"
-sha512 = "3f01038d48f068ebc9941ad9ea23266e7f25a8851bb8f4ac4dd150bb2eddf10f6b2c0dac6e2a8d2cf4af2febfb884766f5ca000cf460d53ccde87cead2b0b5a8"
-filename = "balm-forge-1.20.1-7.3.37-all.jar"
+url = "https://cdn.modrinth.com/data/MBAkmtvl/versions/8rz04Kha/balm-forge-1.20.1-7.3.38-all.jar"
+sha1 = "c689f4cbe1a5250177aced15b66ca251d9476d35"
+sha512 = "7b7e100a9de75750e402ecc1e2d1c88bf2f16fa1cf095656d87918d37a0472f163b0c6242c68b38285410513ff6a66b31c5620139c2901e7b235657027c71f50"
+filename = "balm-forge-1.20.1-7.3.38-all.jar"
 
 [mods.better-archeology]
 version = "1.2.1-1.20.1"
@@ -610,17 +610,17 @@ version = "1.0.0-beta.47+1.20.1"
 providers = ["Modrinth"]
 
 [mods.continents]
-version = "1.1.11"
+version = "1.1.12"
 server_side = true
 client_side = true
 
 [[mods.continents.source]]
 
 [mods.continents.source.Download]
-url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/vQJAd3ti/Continents_1.21.x_v1.1.11.jar"
-sha1 = "3f3d1b0a4c46f64dc6dc86703c27288786feccd3"
-sha512 = "9d2d16d5089d50d1b1b0e2bbdcc8ee89d9e1fa0c1ffb3c8bb845da8dcaa847977f6e4095564172fd2471e09eb1f366cdf67d402fa63296ff6a5bc5548d9725ce"
-filename = "Continents_1.21.x_v1.1.11.jar"
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/3hhSlpEU/Continents_1.21.x_v1.1.12.jar"
+sha1 = "9b681723c641bf9e9dcee58ed29a8f04dbe7c40e"
+sha512 = "11561bd4f8c1f315376a7807669397f5f4c9d2419df83597fbc073d7f59a51708b854ab7361e4e305bb91ec3c8dbbfd17bef5f28a95fa193f9ef5d5b32f9a1a4"
+filename = "Continents_1.21.x_v1.1.12.jar"
 
 [mods.controlling]
 version = "12.0.2"
@@ -673,7 +673,7 @@ filename = "craftingtweaks-forge-1.20.1-18.2.6.jar"
 
 [[mods.crafting-tweaks.deps]]
 name = "balm"
-version = "7.3.37+forge-1.20.1"
+version = "7.3.38+forge-1.20.1"
 providers = ["Modrinth"]
 
 [mods.crafttweaker]
@@ -690,18 +690,17 @@ sha512 = "6265ff4b290889b4950fa4c44823ccaaaa568aa511b5ad00efff190b44c665b1540784
 filename = "CraftTweaker-forge-1.20.1-14.0.59.jar"
 
 [mods.craterlib]
-version = "1.20-2.1.5"
-deps = []
+version = "1.20-3.0.1"
 server_side = true
 client_side = true
 
 [[mods.craterlib.source]]
 
 [mods.craterlib.source.Download]
-url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/ONJR7uAd/CraterLib-Forge-1.20-2.1.5.jar"
-sha1 = "8ce089dc8006558e1d61bc859b2421e63ed6366e"
-sha512 = "f667456e3a301a149ddea2a2074830c333828413ffbe7e41b01847eca9f8ce8ad3499ec972abbee8e8583c29e6da42a68864413198cc8f34a3adb37a0c086ba7"
-filename = "CraterLib-Forge-1.20-2.1.5.jar"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/NsbwPQBC/CraterLib-Forge-1.20-3.0.1.jar"
+sha1 = "fc59868e0f67363ba19d76e7edd63bfcc57ac470"
+sha512 = "35699463b0fe30e3aade0a1bce66646c8a53aa8c1e4ac088e4f385f12905815d0ede20f7548cc7c2a68b34d76bb7135c8b4e5bf5a33e4c6a5d1380d9ca9bc2b1"
+filename = "CraterLib-Forge-1.20-3.0.1.jar"
 
 [mods.create]
 version = "mc1.20.1-6.0.8"
@@ -879,22 +878,17 @@ sha512 = "90f414ec95d94d42aeb0e7d258372f6383a7f808f2c94c4f6619755206867a48dd04c0
 filename = "create_ltab-3.6.1.jar"
 
 [mods.create-new-age]
-version = "1.1.4"
+version = "1.1.7e+mc1.20.1"
 server_side = true
 client_side = true
 
 [[mods.create-new-age.source]]
 
 [mods.create-new-age.source.Download]
-url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/8pm2JUQy/create-new-age-forge-1.20.1-1.1.4.jar"
-sha1 = "46687106ee5753ff3a92580ce514c6abc6216045"
-sha512 = "c1e8b474fb1757b1c227233bece734e4f8e496497f0e23ab9ecb0562e41fcee782b706e22861a1a8915bca6b8d77d787a74a9e8ecad2bf78fdaa289eab8d008b"
-filename = "create-new-age-forge-1.20.1-1.1.4.jar"
-
-[[mods.create-new-age.deps]]
-name = "botarium"
-version = "2.3.4"
-providers = ["Modrinth"]
+url = "https://cdn.modrinth.com/data/FTeXqI9v/versions/mBY9X7fu/create-new-age-1.1.7e%2Bforge-mc1.20.1.jar"
+sha1 = "8f5ed6c35a47690e4c886b744c0cbf6152a55197"
+sha512 = "33559235f97c56825ed6cf56f20a87ecc7fe694777fd215dbd0cc24987faae19a27c8d200e8df10e43152d252b9de98da064186b052506235b32339b9fbd4e0f"
+filename = "create-new-age-1.1.7e+forge-mc1.20.1.jar"
 
 [[mods.create-new-age.deps]]
 name = "create"
@@ -908,17 +902,17 @@ server_side = true
 client_side = true
 
 [mods.create-structures-arise]
-version = "167.40.39"
+version = "169.42.41"
 server_side = true
 client_side = true
 
 [[mods.create-structures-arise.source]]
 
 [mods.create-structures-arise.source.Download]
-url = "https://cdn.modrinth.com/data/9enMEvoc/versions/OO1l7lHU/create_structures_arise-167.40.39%20Release-forge-1.20.1.jar"
-sha1 = "992a78fbf059c12c49db5f2d856b648f8ede3972"
-sha512 = "7905469656fc3666ef649e6f4e8ec17636de86f77de65af3cf21be4de7b86d753db098193bf743b34405dfa6149e77dccf080987c9fbe1e71b60d0d0d6d39374"
-filename = "create_structures_arise-167.40.39 Release-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/9enMEvoc/versions/MtIgapt5/create_structures_arise-169.42.41%20Release-forge-1.20.1.jar"
+sha1 = "351e49ec8c572dbbc99bf060bf6589ab26c04eb5"
+sha512 = "4cf6837b3deb288afc5497644247921e2d34553a4470d560556d43a8f8cecce395d2d89b8e5f3ab635ada41ece9003f6a0cd0b54a25e371fbae245fbc19d84f9"
+filename = "create_structures_arise-169.42.41 Release-forge-1.20.1.jar"
 
 [mods.create-teleporters]
 version = "2.3"
@@ -940,7 +934,7 @@ providers = ["Modrinth"]
 
 [[mods.create-teleporters.deps]]
 name = "fusion-connected-textures"
-version = "1.2.11a-forge-mc1.20.1"
+version = "1.2.11c-forge-mc1.20.1"
 providers = ["Modrinth"]
 
 [[mods.create-teleporters.deps]]
@@ -983,7 +977,7 @@ providers = ["Modrinth"]
 
 [[mods.create-wizardry.deps]]
 name = "irons-spells-n-spellbooks"
-version = "1.20.1-3.4.0.9"
+version = "1.20.1-3.15.0"
 providers = ["Modrinth"]
 
 [[mods.create-wizardry.deps]]
@@ -1108,17 +1102,17 @@ sha512 = "fcc80ee419a96682d157e8fd0993e0f13031dafc6399dabb17b9696636e791a903e7d3
 filename = "emi-1.1.22+1.20.1+forge.jar"
 
 [mods.emi-loot]
-version = "0.7.8+1.20.1-fix1+forge"
+version = "0.7.9+1.20.1+forge"
 server_side = true
 client_side = true
 
 [[mods.emi-loot.source]]
 
 [mods.emi-loot.source.Download]
-url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/jpsoDtJz/emi_loot-0.7.8%2B1.20.1-fix1%2Bforge.jar"
-sha1 = "9df02cff0f37498510ae90f007dae4fb8a4ea7c1"
-sha512 = "57ea38755bcd4bfcdf30f34b8373946688d2832cf81f8583c4e376db21e5f11f81b7d72e721f662c5d6864f87ca415b5473553c33d857b5a9b8ae8d60627ee3c"
-filename = "emi_loot-0.7.8+1.20.1-fix1+forge.jar"
+url = "https://cdn.modrinth.com/data/qbbO7Jns/versions/KKWmdLti/emi_loot-0.7.9%2B1.20.1%2Bforge.jar"
+sha1 = "e3f6289abd4de8ebbbb0ffc162b35346c3acd54f"
+sha512 = "906af51f2046522d07ed47e5c41a1e711502c75a186e616ce0bd1d4ae5bb5401111501b0c3f9a93c8106aeec5c5a73a3920fc6f1261219e24b7e29a901996735"
+filename = "emi_loot-0.7.9+1.20.1+forge.jar"
 
 [[mods.emi-loot.deps]]
 name = "emi"
@@ -1127,7 +1121,7 @@ providers = ["Modrinth"]
 
 [[mods.emi-loot.deps]]
 name = "fzzy-config"
-version = "0.7.3+1.20.1+forge"
+version = "0.7.4+1.20.1+forge"
 providers = ["Modrinth"]
 
 [mods.emi-ores]
@@ -1194,34 +1188,34 @@ sha512 = "d69db9378bf6b28f514c8932c38615e0d5b4fc9d6a588328a198d9906cc7eaca783cb8
 filename = "EnderIO-1.20.1-6.2.16-beta-all.jar"
 
 [mods.entityculling]
-version = "1.9.3"
+version = "1.9.5"
 server_side = false
 client_side = true
 
 [[mods.entityculling.source]]
 
 [mods.entityculling.source.Download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/H7zaVcD6/entityculling-forge-1.9.3-mc1.20.1.jar"
-sha1 = "8faea4818faab6b870ee370b52434b016542b519"
-sha512 = "62429153a72f509877bae38c6e3e651ff241114c3608fdf6f2e412a6df0acec1da318e50a8dd3a2468fbddcc16c3e412910e0e09b9d1f94d6b0312bfe8b07e9d"
-filename = "entityculling-forge-1.9.3-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/ZqOeqW60/entityculling-forge-1.9.5-mc1.20.1.jar"
+sha1 = "524be2ed63e9f131a17393ead67cd3fddc97ca2b"
+sha512 = "f102a06dbe5f77d2b5737da4ed9484cdd6ab604a0e068245520247016b28c2936cef743038a2c7f3756ed0d07d140d6f21d0d1c47dea396e75e4a25165428a02"
+filename = "entityculling-forge-1.9.5-mc1.20.1.jar"
 
 [mods.every-compat]
-version = "1.20-2.9.12-forge"
+version = "1.20-2.9.14-forge"
 server_side = true
 client_side = true
 
 [[mods.every-compat.source]]
 
 [mods.every-compat.source.Download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/Wa7DK8Yb/everycomp-1.20-2.9.12-forge.jar"
-sha1 = "1a9fab9e9273ab45f0a312b7a71aeade41716a4a"
-sha512 = "db03a2c4724a347428ba15c7a8979838aea8e92d221db16baba0b2a05a59d774b9da24791063060000244de9a2eaa9b4ea3e208cbbea91a7eed044b3b3a763db"
-filename = "everycomp-1.20-2.9.12-forge.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/1NKRJyBB/everycomp-1.20-2.9.14-forge.jar"
+sha1 = "c661fb5f32f9494d63515dff9c16dc567917ab04"
+sha512 = "56f617e74b89c49856b950f9174c4e651f902b0059699f367d8b9735dd4b6b0929ea2eac45c499f00747bdf9fa1f7929bd64187e8481ff1a9032a4813cc11c7d"
+filename = "everycomp-1.20-2.9.14-forge.jar"
 
 [[mods.every-compat.deps]]
 name = "moonlight"
-version = "1.20-2.16.16-forge"
+version = "1.20-2.16.19-forge"
 providers = ["Modrinth"]
 
 [mods.farmers-delight]
@@ -1282,30 +1276,30 @@ version = "1.20.1-3.8.32"
 providers = ["Modrinth"]
 
 [mods.fusion-connected-textures]
-version = "1.2.11a-forge-mc1.20.1"
+version = "1.2.11c-forge-mc1.20.1"
 server_side = false
 client_side = true
 
 [[mods.fusion-connected-textures.source]]
 
 [mods.fusion-connected-textures.source.Download]
-url = "https://cdn.modrinth.com/data/p19vrgc2/versions/QQQGRmiY/fusion-1.2.11a-forge-mc1.20.1.jar"
-sha1 = "d356430ff9fe588998f4b85eb3a6b5b0e57e2b85"
-sha512 = "825a5e40cbef69f2b346d6b15a9bdd1bd6129bd9ea165651326826e37d9ca54c073d5c4da090cb76c043bd15de8fa37ca26076a99f0f22a511f954a22d792f81"
-filename = "fusion-1.2.11a-forge-mc1.20.1.jar"
+url = "https://cdn.modrinth.com/data/p19vrgc2/versions/G1mAiK1w/fusion-1.2.11c-forge-mc1.20.1.jar"
+sha1 = "f665d7798eee078084585238ec53b745d0093c76"
+sha512 = "2f8e6550fb1fdd551de239208b17bba9453952d5803514b1e143fb5751e1b8487d03bf38285960927ddb3e4e88437cdf1211182a463f587dd5810f1d7514265f"
+filename = "fusion-1.2.11c-forge-mc1.20.1.jar"
 
 [mods.fzzy-config]
-version = "0.7.3+1.20.1+forge"
+version = "0.7.4+1.20.1+forge"
 server_side = true
 client_side = true
 
 [[mods.fzzy-config.source]]
 
 [mods.fzzy-config.source.Download]
-url = "https://cdn.modrinth.com/data/hYykXjDp/versions/17Wzgyxp/fzzy_config-0.7.3%2B1.20.1%2Bforge.jar"
-sha1 = "e771e543e930bd7c733f803bdbc0d3f2ecfb46c4"
-sha512 = "32d44d05790f9ac9fb4d04385beefbd2d59822d48288239068ae1cc0c10d3b60567b388a0bcd4b98b4bf8716bd94b6a934596c1766f31e8788aa069e76bb178c"
-filename = "fzzy_config-0.7.3+1.20.1+forge.jar"
+url = "https://cdn.modrinth.com/data/hYykXjDp/versions/wnhd0CI1/fzzy_config-0.7.4%2B1.20.1%2Bforge.jar"
+sha1 = "b0213984f7591c3d1ec4ab5eebd87c605728d451"
+sha512 = "108f00ce546fd87ae2be853233bfe8f4deeb6abad6a61769a4ddf2735db098fd42d9b0a6ab1f98974717235e9fdf122767bdff82c042cd972cdbc14add039ebf"
+filename = "fzzy_config-0.7.4+1.20.1+forge.jar"
 
 [[mods.fzzy-config.deps]]
 name = "kotlin-for-forge"
@@ -1367,7 +1361,7 @@ filename = "hardcorerevival-forge-1.20.1-12.0.9.jar"
 
 [[mods.hardcore-revival.deps]]
 name = "balm"
-version = "7.3.37+forge-1.20.1"
+version = "7.3.38+forge-1.20.1"
 providers = ["Modrinth"]
 
 [mods.hypertube]
@@ -1389,17 +1383,17 @@ version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
 
 [mods.immediatelyfast]
-version = "1.5.2+1.20.4-forge"
+version = "1.5.3+1.20.4-forge"
 server_side = false
 client_side = true
 
 [[mods.immediatelyfast.source]]
 
 [mods.immediatelyfast.source.Download]
-url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/aFMmx5Ig/ImmediatelyFast-Forge-1.5.2%2B1.20.4.jar"
-sha1 = "2eeca5deb063ed49bb9c6be8b162ca6270202239"
-sha512 = "648cd5c451f8e5b4c7404179b75d4044aa14501c832a38e09877de74902e2ce3156af1cb936c91b48cd6210d1e576f0808142ca24a0d291990fdf245ff2da993"
-filename = "ImmediatelyFast-Forge-1.5.2+1.20.4.jar"
+url = "https://cdn.modrinth.com/data/5ZwdcRci/versions/a4stvpj6/ImmediatelyFast-Forge-1.5.3%2B1.20.4.jar"
+sha1 = "d4695d013e9da7089e2906db3f56bc5398e478e2"
+sha512 = "ef57ecc7aa7138c1b06fac6d6b49707d6ef324b6220cd604f567cfdbabd5b9ca0e76a2a4ed354d08029976c773f40c65b7692372a3f70637d7ae446be2b3ace0"
+filename = "ImmediatelyFast-Forge-1.5.3+1.20.4.jar"
 
 [mods.immersive-aircraft]
 version = "1.4.0+1.20.1"
@@ -1429,17 +1423,17 @@ sha512 = "4bcaad08a6a9e0aa6f62dae336ac207ea5c80cbf31cf9aa486d8453aa5bfa6791c3e30
 filename = "immersive_melodies-0.6.0+1.20.1-forge.jar"
 
 [mods.invmove]
-version = "0.9.2+1.20.1-forge"
+version = "0.9.3+1.20.1-forge"
 server_side = false
 client_side = true
 
 [[mods.invmove.source]]
 
 [mods.invmove.source.Download]
-url = "https://cdn.modrinth.com/data/REfW2AEX/versions/G1ab6lrz/InvMove-0.9.2%2B1.20.1-Forge.jar"
-sha1 = "61fbcd6ca603d0a3e2d75716cd9e79e643d4fb7d"
-sha512 = "01a8cb571d9e52befec052e62976297bc66d862aa0478013ce35a0f69e715e97cf91e2a6638ac084dd8a67e6c39587028da5cd9b6ff2dfa30d9c1ae2efa77d75"
-filename = "InvMove-0.9.2+1.20.1-Forge.jar"
+url = "https://cdn.modrinth.com/data/REfW2AEX/versions/RLzFQg0l/InvMove-0.9.3%2B1.20.1-Forge.jar"
+sha1 = "5ce261a448fb8417a40429bae9dc634d0cd0b1d5"
+sha512 = "ce0eb2fc9e1e51641f9fd763602d92e3014a452263ed41ad6a8ecda5670c036c80e834338dd9e0a1adf23ec6ccf23f29827ac4896b85257d4ccf7789f3cb4541"
+filename = "InvMove-0.9.3+1.20.1-Forge.jar"
 
 [[mods.invmove.deps]]
 name = "cloth-config"
@@ -1465,17 +1459,17 @@ version = "1.20.1-1.8.0"
 providers = ["Modrinth"]
 
 [mods.irons-spells-n-spellbooks]
-version = "1.20.1-3.4.0.9"
+version = "1.20.1-3.15.0"
 server_side = true
 client_side = true
 
 [[mods.irons-spells-n-spellbooks.source]]
 
 [mods.irons-spells-n-spellbooks.source.Download]
-url = "https://cdn.modrinth.com/data/s4OWxYQQ/versions/9dM8iFPD/irons_spellbooks-1.20.1-3.4.0.9.jar"
-sha1 = "161d71d83a5e5962062ef1fe83c36e398a5668df"
-sha512 = "0bce6b31ac7c930879e7b58cf72de187baa61e6bbca4373ce83f7343dfcc3d7d9a02416b4e408b135b148f82667c84ff33e31194574d93eac0fbfdac9b126f71"
-filename = "irons_spellbooks-1.20.1-3.4.0.9.jar"
+url = "https://cdn.modrinth.com/data/s4OWxYQQ/versions/Ig16do6R/irons_spellbooks-1.20.1-3.15.0.jar"
+sha1 = "2a0cff4f780fa110145d375fdaec83b8950e9345"
+sha512 = "5d114fac1aecb8f4298dc93aad17929c7929b010e9da2b5ee8164f4b1622a1f58d57b167da2dc5d1cbd1af318241ed9ab5932436c2303cfbc91c99a331e63fab"
+filename = "irons_spellbooks-1.20.1-3.15.0.jar"
 
 [mods.item-obliterator]
 version = "2.3.1"
@@ -1533,17 +1527,17 @@ version = "1.20.1-forge-2.4.6"
 providers = ["Modrinth"]
 
 [mods.jei]
-version = "15.20.0.127"
+version = "15.20.0.129"
 server_side = true
 client_side = true
 
 [[mods.jei.source]]
 
 [mods.jei.source.Download]
-url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/ruHSy16N/jei-1.20.1-forge-15.20.0.127.jar"
-sha1 = "6c7684a0e9356f6d60d7b12a14caf6c644ee11ef"
-sha512 = "131854c53f9c16376bf6428fc9f99435dbe16d13c9de9c8d7a8cbaa362f3b40e50a8d30bf1fffad95bfa568e42d5dcd8febdc9b7a0da5956a96b36f12251e8a5"
-filename = "jei-1.20.1-forge-15.20.0.127.jar"
+url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/p7yZWpEg/jei-1.20.1-forge-15.20.0.129.jar"
+sha1 = "eba88424bd28c8bce0e49da13ada71cd47148b47"
+sha512 = "280dff664abf3c04ecdf9e13a49619a25b7ba1c1f9d0f5c47394a4f9f71dc96628cf2e73de2143b75a16955e820de11dd87e06a6902088f2fbc4a48da92555a4"
+filename = "jei-1.20.1-forge-15.20.0.129.jar"
 
 [mods.kotlin-for-forge]
 version = "4.12.0"
@@ -1626,30 +1620,30 @@ sha512 = "4e50a0fb4f054b429803cb20fc0820011b12098ebca1f17b1b0634cab832369e084469
 filename = "lithostitched-forge-1.20.1-1.4.11.jar"
 
 [mods.mantle]
-version = "1.11.79"
+version = "1.11.97"
 server_side = true
 client_side = true
 
 [[mods.mantle.source]]
 
 [mods.mantle.source.Download]
-url = "https://cdn.modrinth.com/data/Cg6Uc79H/versions/ATZFAPLK/Mantle-1.20.1-1.11.79.jar"
-sha1 = "db1ab527fcc48852775e01f9504c7a3ec3083743"
-sha512 = "65042445a59c0c439abd7200f81f4f35b1f700969ff0d2665582e8947c7391880cf1ff349375dbeb8d9ed68c8b19baf3c80c89f72327816b42539a5d0b3a237d"
-filename = "Mantle-1.20.1-1.11.79.jar"
+url = "https://cdn.modrinth.com/data/Cg6Uc79H/versions/E5Nuh0oh/Mantle-1.20.1-1.11.97.jar"
+sha1 = "90700ee1d062b42048f37b084df745677a86e184"
+sha512 = "748ee46f5e1ddcbfc06a44a727ae94501b8a0cd566ed27ccf9c11f4bca42c27ccf76059c4689809c1953e89a48a9326476f55dfe205bd6ef0f8200bde0efd6e6"
+filename = "Mantle-1.20.1-1.11.97.jar"
 
 [mods.mariums-soulslike-weaponry]
-version = "1.2.4-1.20.1-forge"
+version = "1.3.1-1.20.1-forge"
 server_side = true
 client_side = true
 
 [[mods.mariums-soulslike-weaponry.source]]
 
 [mods.mariums-soulslike-weaponry.source.Download]
-url = "https://cdn.modrinth.com/data/oX6SohLj/versions/rZ2vsxRi/soulslike-weaponry-1.2.4-1.20.1-forge.jar"
-sha1 = "5b897330799b6f24c062dcc4b6e83de58b2890f3"
-sha512 = "3743c1990a2bcba50093b9a2219db24a32a4539484400e76bac4ff59be4264f06de2614eca9308c90897385834d36866f2ce20b81de5edb4b11adcff398c45dd"
-filename = "soulslike-weaponry-1.2.4-1.20.1-forge.jar"
+url = "https://cdn.modrinth.com/data/oX6SohLj/versions/BzcVOhem/soulslike-weaponry-1.3.1-1.20.1-forge.jar"
+sha1 = "a771d8891947dc2a7c48e90e0aad58962c133906"
+sha512 = "1d8723af9400b6178b13bd6b97f003809a9b44e9586ea455cd76bc045900caea67c6eaa66ae5b15340a65fcd9c44a3e040d477562ca7598a092377530f134cc9"
+filename = "soulslike-weaponry-1.3.1-1.20.1-forge.jar"
 
 [[mods.mariums-soulslike-weaponry.deps]]
 name = "attributefix"
@@ -1712,17 +1706,17 @@ sha512 = "33871daadd8bed8dc41c517220f0975859fb932e2148f36c3ab05d586bcb640eea7a50
 filename = "modonomicon-1.20.1-fabric-1.79.2.jar"
 
 [mods.moonlight]
-version = "1.20-2.16.16-forge"
+version = "1.20-2.16.19-forge"
 server_side = true
 client_side = true
 
 [[mods.moonlight.source]]
 
 [mods.moonlight.source.Download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/DhH5mm9z/moonlight-1.20-2.16.16-forge.jar"
-sha1 = "f1ad21bce5a4b96a1152d6cf83cfb27684fc4b6a"
-sha512 = "1fd7d3aca0fa88bcc7c805b4afb0e2662756d5bac390234197896875334f136a52a46e1d26efd0da05c1da3a26f1c66ee8c070ec053895a15010047c8be5e344"
-filename = "moonlight-1.20-2.16.16-forge.jar"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/ZBeK8kT5/moonlight-1.20-2.16.19-forge.jar"
+sha1 = "de55e348bdf3a3ac7520fde157654d615967f9b1"
+sha512 = "d687d18d8796c9bb1bfa8f6cbf08a41594c96ecbf5bd97253d59d5f2fbd15841c63cf159dc89a7157c8e71058d88f15b2f03beef5fe7bcd672e4d9eed84d3cf8"
+filename = "moonlight-1.20-2.16.19-forge.jar"
 
 [mods.mouse-tweaks]
 version = "1.20.1-2.25.1-forge"
@@ -1875,17 +1869,17 @@ sha512 = "e4660f0b5af6bfe2902ab39a6fbfa911856e0567bffc47842b482731da373afa4424b9
 filename = "Pehkui-3.8.2+1.20.1-forge.jar"
 
 [mods.ping-wheel]
-version = "1.12.0"
+version = "1.12.1"
 server_side = true
 client_side = true
 
 [[mods.ping-wheel.source]]
 
 [mods.ping-wheel.source.Download]
-url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/ay8iQUyh/Ping-Wheel-1.12.0-forge-1.20.1.jar"
-sha1 = "295637cddcc338a7741cd7891929b1ff99706da2"
-sha512 = "2e58b981cc25127d4f3b8fb311f79d0f94bb3ad81b713afa3d5197984d0d735948038b12080b6e1816d23f22f55d413992b041ae7a5e5a452a4c63971798ba55"
-filename = "Ping-Wheel-1.12.0-forge-1.20.1.jar"
+url = "https://cdn.modrinth.com/data/QQXAdCzh/versions/OIvI752z/Ping-Wheel-1.12.1-forge-1.20.1.jar"
+sha1 = "54a5964c89ed073a2856d22799ceb174febd9329"
+sha512 = "8a57040eeb6f57f6b88c50e619db7b3389dc5afd6b9bdc2215ada148511243e71514ffc497a0209539130ad721382c0c771eb115cfe2141367a11a7950f15795"
+filename = "Ping-Wheel-1.12.1-forge-1.20.1.jar"
 
 [mods.playeranimator]
 version = "1.0.2-rc1+1.20-forge"
@@ -2065,27 +2059,17 @@ version = "4.8.2"
 providers = ["Modrinth"]
 
 [mods.schematic-energistics]
-version = "1.3.1"
+version = "1.3.1-hotfix"
 server_side = true
 client_side = true
 
 [[mods.schematic-energistics.source]]
 
 [mods.schematic-energistics.source.Download]
-url = "https://cdn.modrinth.com/data/2qXuuYu8/versions/aQWrhxAV/schematicenergistics-1.20.1-1.3.1.jar"
-sha1 = "cfe75705f0f9fb98b34dbf1ddd2734c046b35da9"
-sha512 = "912733cecd87d2249da2c8634734c7ef145c5f8bb53959cf710cd2fd0b1d2259eb1d7f3c7bf409b6d8a12d87c81ace6b81151dd9dd65ed601c6a1551c2af599a"
-filename = "schematicenergistics-1.20.1-1.3.1.jar"
-
-[[mods.schematic-energistics.deps]]
-name = "ae2"
-version = "15.4.10"
-providers = ["Modrinth"]
-
-[[mods.schematic-energistics.deps]]
-name = "create"
-version = "mc1.20.1-6.0.8"
-providers = ["Modrinth"]
+url = "https://cdn.modrinth.com/data/2qXuuYu8/versions/5k1SAgNl/schematicenergistics-1.20.1-1.3.1-hotfix.jar"
+sha1 = "cc68e738013c87645b69e090ed21bc20217cd182"
+sha512 = "a98a00025f239f900cae8ef70628f4991292af9d65ec602f7f4402bade76ffd5dd40efc4f694c5ea5db279c94953a57d3ee9d3e8f2b5677afa5bd42c7ad99071"
+filename = "schematicenergistics-1.20.1-1.3.1-hotfix.jar"
 
 [mods.searchables]
 version = "1.0.3"
@@ -2115,7 +2099,7 @@ filename = "SimpleRPC-4.0.4.jar"
 
 [[mods.simple-discord-rpc.deps]]
 name = "craterlib"
-version = "1.20-2.1.5"
+version = "1.20-3.0.1"
 providers = ["Modrinth"]
 
 [mods.slice-and-dice]
@@ -2137,21 +2121,21 @@ version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
 
 [mods.sophisticated-backpacks]
-version = "1.20.1-3.24.12.1411"
+version = "1.20.1-3.24.18.1488"
 server_side = true
 client_side = true
 
 [[mods.sophisticated-backpacks.source]]
 
 [mods.sophisticated-backpacks.source.Download]
-url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/ePNVFnS7/sophisticatedbackpacks-1.20.1-3.24.12.1411.jar"
-sha1 = "c6624f4719cfa8c15ef87860570a2748afd715da"
-sha512 = "880d192072c5ef2683fcdd65cfaa0ab1c53c2dacf2194f5d1f4f616bc482ac554bc8968e8fae016234a021c25831915d8b5f6bf17af4a670a3611ca43bcd2f31"
-filename = "sophisticatedbackpacks-1.20.1-3.24.12.1411.jar"
+url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/LSIgif9P/sophisticatedbackpacks-1.20.1-3.24.18.1488.jar"
+sha1 = "9fbae84dbfc591877da3e4062fd3c23cadd57709"
+sha512 = "12bfb728d78a8f2dd4e56ffffccfd15f13163cce4f6a22af748db64a88eb9f64acab86660477137304bc86bd58bb1cbaeae5cfc6d6bef3e08f6cffbbcfbcd585"
+filename = "sophisticatedbackpacks-1.20.1-3.24.18.1488.jar"
 
 [[mods.sophisticated-backpacks.deps]]
 name = "sophisticated-core"
-version = "1.20.1-1.2.107.1240"
+version = "1.20.1-1.2.117.1347"
 providers = ["Modrinth"]
 
 [mods.sophisticated-backpacks-create-integration]
@@ -2174,26 +2158,26 @@ providers = ["Modrinth"]
 
 [[mods.sophisticated-backpacks-create-integration.deps]]
 name = "sophisticated-backpacks"
-version = "1.20.1-3.24.12.1411"
+version = "1.20.1-3.24.18.1488"
 providers = ["Modrinth"]
 
 [[mods.sophisticated-backpacks-create-integration.deps]]
 name = "sophisticated-core"
-version = "1.20.1-1.2.107.1240"
+version = "1.20.1-1.2.117.1347"
 providers = ["Modrinth"]
 
 [mods.sophisticated-core]
-version = "1.20.1-1.2.107.1240"
+version = "1.20.1-1.2.117.1347"
 server_side = true
 client_side = true
 
 [[mods.sophisticated-core.source]]
 
 [mods.sophisticated-core.source.Download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/qpP3IdRu/sophisticatedcore-1.20.1-1.2.107.1240.jar"
-sha1 = "a0a8e69b482e18bc82404c57f868db06d827ffca"
-sha512 = "64402513db4d8285732795c72712aff2944b14e91f0cce866472702622e20a65d7e9cb67988dab77383dd6a9639ae693ee43916cb5380ca5c74d309b3e50c1d8"
-filename = "sophisticatedcore-1.20.1-1.2.107.1240.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/IsOiY3yQ/sophisticatedcore-1.20.1-1.2.117.1347.jar"
+sha1 = "d9aa06ea82683cb30d9636f796795db909c262d3"
+sha512 = "16dedf1a1036d39dc12f10ad166efc3a77c0290b9e4fc9855541565ecf48727db5d20b76485729a5b0470b7beee50b83f032cf732a11949ba69bde2f83ca7384"
+filename = "sophisticatedcore-1.20.1-1.2.117.1347.jar"
 
 [mods.spark]
 version = "1.10.53-forge"
@@ -2279,12 +2263,12 @@ filename = "TCIntegrations-1.20.1-2.0.25.17.jar"
 
 [[mods.tcintegrations.deps]]
 name = "mantle"
-version = "1.11.79"
+version = "1.11.97"
 providers = ["Modrinth"]
 
 [[mods.tcintegrations.deps]]
 name = "tinkers-construct"
-version = "3.10.2.92"
+version = "3.11.1.158"
 providers = ["Modrinth"]
 
 [mods.tectonic]
@@ -2368,21 +2352,21 @@ version = "11.0.6"
 providers = ["Modrinth"]
 
 [mods.tinkers-construct]
-version = "3.10.2.92"
+version = "3.11.1.158"
 server_side = true
 client_side = true
 
 [[mods.tinkers-construct.source]]
 
 [mods.tinkers-construct.source.Download]
-url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/FGU09YgL/TConstruct-1.20.1-3.10.2.92.jar"
-sha1 = "74cc057cc01fdb0186504d71623b5811bbe705f9"
-sha512 = "a2d2df3e886560f54ec26eb434362a03e5e14cdf50de32ad887d2a661e4ae1571f3a27b7808b5a6c76332a2fb7776040e3efaa8cc955815d68d56ac5ee619588"
-filename = "TConstruct-1.20.1-3.10.2.92.jar"
+url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/WrXzoWRa/TConstruct-1.20.1-3.11.1.158.jar"
+sha1 = "5084f883390b2dbb337ce53213fd5dfdd3cc57e5"
+sha512 = "06f988a89b5d6b102b1f5971194d0ad0053a45d645afdff866692a81f8db6296fcf8f098b5c2c4f6024ac26118e60f6930e641bff16f85a64b9a2218ed747eca"
+filename = "TConstruct-1.20.1-3.11.1.158.jar"
 
 [[mods.tinkers-construct.deps]]
 name = "mantle"
-version = "1.11.79"
+version = "1.11.97"
 providers = ["Modrinth"]
 
 [mods.titanium]
@@ -2399,17 +2383,27 @@ sha512 = "c4563176fad77499859691d8b5e18c35e08fec0a31f57f9e51f3538462f1ad738fb293
 filename = "titanium-1.20.1-3.8.32.jar"
 
 [mods.trackwork]
-version = "1.20.1-1.2.2"
+version = "1.20.1-1.2.3"
 server_side = true
 client_side = true
 
 [[mods.trackwork.source]]
 
 [mods.trackwork.source.Download]
-url = "https://cdn.modrinth.com/data/FXDpZRJG/versions/Jut91y7U/trackwork-1.20.1-1.2.2.jar"
-sha1 = "179e295a00e1d8b4043b763ea2a32fc5a13ea008"
-sha512 = "35aa3b0cb1139ed531f6adb5b5102b0e0c2af5fe2fc6885b9c5cb1e40c22ada214efdbacb9cd8f7942097b69a03f534d6f53cd0521739c4eafc489a9e86f7405"
-filename = "trackwork-1.20.1-1.2.2.jar"
+url = "https://cdn.modrinth.com/data/FXDpZRJG/versions/i5GpwEF8/trackwork-1.20.1-1.2.3.jar"
+sha1 = "458e00fcd2afb2fabf634edc118f8d651c8857f5"
+sha512 = "e9451d16696a68b313c8fb5a8a239dfad1af4595496db83f15bfbf76685fbfd41af620150a257f860f6465e151f1e8d0f856954e7972c90f1d6cc13a70bff20b"
+filename = "trackwork-1.20.1-1.2.3.jar"
+
+[[mods.trackwork.deps]]
+name = "create"
+version = "mc1.20.1-6.0.8"
+providers = ["Modrinth"]
+
+[[mods.trackwork.deps]]
+name = "valkyrien-skies"
+version = "1.20.1-forge-2.4.6"
+providers = ["Modrinth"]
 
 [mods.trinkets]
 version = "3.7.2"
@@ -2456,7 +2450,7 @@ version = "4.12.0"
 providers = ["Modrinth"]
 
 [mods.xaeros-minimap]
-version = "25.2.10_Forge_1.20"
+version = "forge-1.20.1-25.3.5"
 deps = []
 server_side = true
 client_side = true
@@ -2464,13 +2458,13 @@ client_side = true
 [[mods.xaeros-minimap.source]]
 
 [mods.xaeros-minimap.source.Download]
-url = "https://cdn.modrinth.com/data/1bokaNcj/versions/VfhlV9am/Xaeros_Minimap_25.2.10_Forge_1.20.jar"
-sha1 = "1f23df114da3a8603dbe4781c07e8acf20f6d1ce"
-sha512 = "936d2608d74c9a4d702efce51e0197f19f947997af768cb558f4cc5323ea4c5f12ee11b519df4071bdbc8c2aca8caa1baa18f702ef32c24bc4ea78fdbac483b2"
-filename = "Xaeros_Minimap_25.2.10_Forge_1.20.jar"
+url = "https://cdn.modrinth.com/data/1bokaNcj/versions/8SbF22u3/xaerominimap-forge-1.20.1-25.3.5.jar"
+sha1 = "6fe3d41ca625d2f8caa1163d98b6b22819d79c83"
+sha512 = "0811f254ad5c764e3d9f1a00c3eb2840ed470dc3919f345bfefe6dc3f327c909ca07b847979c22e2ffba3a5d62712a4cbe8619e7b3a1695a1b67e4ae2a1fb148"
+filename = "xaerominimap-forge-1.20.1-25.3.5.jar"
 
 [mods.xaeros-world-map]
-version = "1.39.12_Forge_1.20"
+version = "forge-1.20.1-1.40.6"
 deps = []
 server_side = true
 client_side = true
@@ -2478,10 +2472,10 @@ client_side = true
 [[mods.xaeros-world-map.source]]
 
 [mods.xaeros-world-map.source.Download]
-url = "https://cdn.modrinth.com/data/NcUtCpym/versions/ATTRzxT3/XaerosWorldMap_1.39.12_Forge_1.20.jar"
-sha1 = "3c4005a400ba8270738bbe4c573526749ecf2f8f"
-sha512 = "06d68367ec0a3eed9c13a6c02ce4a93d9375c6b32cb8c3e77a7c62f3e3ea6bfadbfae70d0e5f115e2b353d4b186e6cf80bcc73df5b13362d5d18f25fb2a9d6d1"
-filename = "XaerosWorldMap_1.39.12_Forge_1.20.jar"
+url = "https://cdn.modrinth.com/data/NcUtCpym/versions/LYdIykWO/xaeroworldmap-forge-1.20.1-1.40.6.jar"
+sha1 = "a401e889018962bf2b99f2020e192329c3709c96"
+sha512 = "0867694b97f81649c2378c47e27081fdcef7b4580a499090c1f68faf8cb52634727d83f54a2580cd74e63e7ed0c959328e15bb17e3084e0daf921b35d49d02d1"
+filename = "xaeroworldmap-forge-1.20.1-1.40.6.jar"
 
 [mods.yungs-api]
 version = "1.20-Forge-4.0.6"
