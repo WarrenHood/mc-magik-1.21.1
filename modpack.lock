@@ -1030,6 +1030,19 @@ sha1 = "452175b95ad3db6ff58bb8968f6bf7a9d1e0f480"
 sha512 = "1373f95fd111c977db2f6adcef8e4eb486a2d926a3e17374692dee4ac3d65857de6446c16922b531aa5ace2c23c666a7fcc28c720b2917c1e04808d15648ba87"
 filename = "curios-forge-5.14.1+1.20.1.jar"
 
+[mods.drive-by-wire]
+version = "0.1.0"
+server_side = true
+client_side = true
+
+[[mods.drive-by-wire.source]]
+
+[mods.drive-by-wire.source.Download]
+url = "https://cdn.modrinth.com/data/I9AkDJzr/versions/BaodQBiU/drivebywire-1.20.1-0.1.0.jar"
+sha1 = "4a47229a5ba20249763afad9714a21c354795446"
+sha512 = "be09aa07c0b2e4f4506439e57cc49a818552eccddb3ebed82c84e84261f8f8e81d8ebba4573353ac6052f1f6c277d736acb3e5ca5c215c92832ae3baba7b3314"
+filename = "drivebywire-1.20.1-0.1.0.jar"
+
 [mods.dungeon-now-loading]
 version = "2.11"
 server_side = true

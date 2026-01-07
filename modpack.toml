@@ -228,6 +228,10 @@ version = "*"
 name = "cubes-without-borders"
 version = "*"
 
+[mods.drive-by-wire]
+name = "drive-by-wire"
+version = "*"
+
 [mods.dungeon-now-loading]
 name = "dungeon-now-loading"
 version = "*"
