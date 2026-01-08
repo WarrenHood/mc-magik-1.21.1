@@ -559,8 +559,8 @@ target_path = "./config/irons_spellbooks_spell_config/irons_spellbooks/angel_win
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/config/irons_spellbooks_spell_config/irons_spellbooks/example.json"]
-target_path = "./config/irons_spellbooks_spell_config/irons_spellbooks/example.json"
+[files."./common/config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"]
+target_path = "./config/irons_spellbooks_spell_config/irons_spellbooks/example.txt"
 side = "Both"
 apply_policy = "Always"
 
