@@ -460,7 +460,7 @@ version = "*"
 
 [mods.spectrum]
 name = "spectrum"
-version = "*"
+version = "1.8.11"
 loader = "Fabric"
 
 [mods.tcintegrations]
