@@ -721,17 +721,17 @@ sha512 = "0578fdcfc9e8f5f3717e2dab468fadca35480e6a2c6a701b43004c57ea1ff0d979c790
 filename = "create_central_kitchen-1.20.1-for-create-6.0.6-1.4.3b.jar"
 
 [mods.create-clockwork]
-version = "1.20.1-forge-0.5.4.3"
+version = "1.20.1-forge-0.5.4.4"
 server_side = true
 client_side = true
 
 [[mods.create-clockwork.source]]
 
 [mods.create-clockwork.source.Download]
-url = "https://cdn.modrinth.com/data/84USeAvk/versions/BM7snH6L/clockwork-0.5.4.3.jar"
-sha1 = "ec877495ae82f91f6abed2db0974c81e9fc11cd1"
-sha512 = "5ed9e56f7fca3f91e48bacd371b38203cdff9e5d0c8b76b166186d25529d275939f6cdbd66eaa809b60ae84358a6102ef134c46584a0c5617ee5da5e9f268f96"
-filename = "clockwork-0.5.4.3.jar"
+url = "https://cdn.modrinth.com/data/84USeAvk/versions/ZyJYZ6kU/clockwork-0.5.4.4.jar"
+sha1 = "78af626c1aaf75688aa4791aed2f798e2ba67a44"
+sha512 = "8c732888b30752a1408e3bcb6d5468594097ce7b01ddcde0f9465f2917353d60230286aa86c3e45cd7bbe7d3bf9a16cebb78d35b917e3fc3ee8534de36e9be94"
+filename = "clockwork-0.5.4.4.jar"
 
 [[mods.create-clockwork.deps]]
 name = "create"
