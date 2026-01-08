@@ -554,6 +554,16 @@ target_path = "config/effortless.toml"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/config/irons_spellbooks_spell_config/irons_spellbooks/angel_wing.json"]
+target_path = "./config/irons_spellbooks_spell_config/irons_spellbooks/angel_wing.json"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/config/irons_spellbooks_spell_config/irons_spellbooks/example.json"]
+target_path = "./config/irons_spellbooks_spell_config/irons_spellbooks/example.json"
+side = "Both"
+apply_policy = "Always"
+
 [files."./common/config/item_obliterator.json5"]
 target_path = "config/item_obliterator.json5"
 side = "Both"
