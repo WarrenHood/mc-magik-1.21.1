@@ -297,6 +297,19 @@ sha1 = "6eb69343eb21d38f95d1b1d00e6bc777bdb336fa"
 sha512 = "a4f1431c3abb23d97ae6d742721fcc2d1d97b6f9e72e492cc13f2471b608614b8cbbde513fa0a6f8d002f27168130850bf358d405cd2120c979927d7e88fe3d3"
 filename = "AttributeFix-Forge-1.20.1-21.0.4.jar"
 
+[mods.azurelib]
+version = "3.1.3"
+server_side = true
+client_side = true
+
+[[mods.azurelib.source]]
+
+[mods.azurelib.source.Download]
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/A0cHpbIs/azurelib-neo-1.20.1-3.1.3.jar"
+sha1 = "37ba8009f7d44db5701738462acc0874e828cf8c"
+sha512 = "e153972e8822d01c611b7465fce283482aa681c45287f06aec62687716bf72cfcee98b9659a26ebd31144f03fe16aa69525e13a8bdbc6bcda358aaa33c9c3901"
+filename = "azurelib-neo-1.20.1-3.1.3.jar"
+
 [mods.badoptimizations]
 version = "2.4.1"
 server_side = false
@@ -443,6 +456,34 @@ url = "https://cdn.modrinth.com/data/40FYwb4z/versions/mRry0DgY/caelus-forge-3.2
 sha1 = "d14e8ee892d4d8764f523ad0e89bdcfc061fb007"
 sha512 = "906baad404c33288d8daf8937bc6a85d3bcc03db67a4a68395b8f01eea57f773420ff97919aadb08a7618b62b0c6c3db72270f9c3af836b822385464f509cf78"
 filename = "caelus-forge-3.2.0+1.20.1.jar"
+
+[mods.cataclysm-spellbooks]
+version = "1.2.7-1.20.1"
+server_side = true
+client_side = true
+
+[[mods.cataclysm-spellbooks.source]]
+
+[mods.cataclysm-spellbooks.source.Download]
+url = "https://cdn.modrinth.com/data/3FEg0A8D/versions/p3IVvh83/cataclysm_spellbooks-1.2.7-1.20.1-all.jar"
+sha1 = "16fa5aed8c6834bd56f04f44ebb21c8cb2b2dc8d"
+sha512 = "17efa640c00617fbfc56161a5fef2c0f4e144f0b5f7f0207e9ef9a466ed2be71a3906c99860be98079514e056d8dde9ff5a2e3e95539a889ffae0eaec714c7ab"
+filename = "cataclysm_spellbooks-1.2.7-1.20.1-all.jar"
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "azurelib"
+version = "3.1.3"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.20.1-3.15.0"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "l_enders-cataclysm"
+version = "3.16"
+providers = ["Modrinth"]
 
 [mods.cc-tweaked]
 version = "1.117.0"
@@ -1969,6 +2010,19 @@ filename = "RegionsUnexploredForge-0.5.6+1.20.1.jar"
 name = "terrablender"
 version = "3.0.1.10"
 providers = ["Modrinth"]
+
+[mods.repurposed-structures-forge]
+version = "7.1.19+1.20.1-forge"
+server_side = true
+client_side = false
+
+[[mods.repurposed-structures-forge.source]]
+
+[mods.repurposed-structures-forge.source.Download]
+url = "https://cdn.modrinth.com/data/QDNS5oAT/versions/VS1Ba49d/repurposed_structures-7.1.19%2B1.20.1-forge.jar"
+sha1 = "8605ad00f483bb6d6ac0afc5b1c7b07a5cd5c476"
+sha512 = "e006e2739f1c129a57e815c3e1b155c2fdc9c734693b482dd17ed8350f98a5d38635e7a1d3c9d659384f469c1220f29b22d277865ca54aa744238c326620e379"
+filename = "repurposed_structures-7.1.19+1.20.1-forge.jar"
 
 [mods.resourceful-config]
 version = "2.1.3"
