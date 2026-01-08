@@ -4,10 +4,6 @@ modloader = "Forge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
 
-[mods.ad-astra]
-name = "ad-astra"
-version = "*"
-
 [mods.adaptive-performance-tweaks-core]
 name = "adaptive-performance-tweaks-core"
 version = "*"
@@ -90,10 +86,6 @@ version = "*"
 
 [mods.betterf3]
 name = "betterf3"
-version = "*"
-
-[mods.beyond-oxygen]
-name = "beyond-oxygen"
 version = "*"
 
 [mods.block-runner]
