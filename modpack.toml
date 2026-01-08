@@ -100,10 +100,6 @@ version = "*"
 name = "caelus"
 version = "*"
 
-[mods.cataclysm-spellbooks]
-name = "cataclysm-spellbooks"
-version = "*"
-
 [mods.cc-tweaked]
 name = "cc-tweaked"
 version = "*"
