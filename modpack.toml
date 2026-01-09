@@ -354,6 +354,14 @@ version = "*"
 server_side = true
 client_side = true
 
+[mods.longerlogintimes]
+name = "longerlogintimes"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/4594/800/longerlogintimes-1.0.0-forge-mc1.20.jar"
+server_side = true
+client_side = false
+
 [mods.mariums-soulslike-weaponry]
 name = "mariums-soulslike-weaponry"
 version = "*"

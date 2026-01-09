@@ -1578,6 +1578,19 @@ sha1 = "d1a755de84ee5d8910ff1e65e815473056e93ece"
 sha512 = "4e50a0fb4f054b429803cb20fc0820011b12098ebca1f17b1b0634cab832369e08446901d5e97fd35b01e99cf6066d20a16cc673c5b7bc8196568b3db67128c2"
 filename = "lithostitched-forge-1.20.1-1.4.11.jar"
 
+[mods.longerlogintimes]
+version = "Unknown"
+server_side = true
+client_side = false
+
+[[mods.longerlogintimes.source]]
+
+[mods.longerlogintimes.source.Download]
+url = "https://mediafilez.forgecdn.net/files/4594/800/longerlogintimes-1.0.0-forge-mc1.20.jar"
+sha1 = "708e7f8f1dc2955c0331b5fb028fa97720762df3"
+sha512 = "2d7839b07c8af4e9cedd3578c67c5d3310ff2c2ec117c6ba132b6a75b27a8c86b5a7ba26a72a42710ba559e06d4216b746b6c76a8d9e82aedb70ba09e4a6bc61"
+filename = "longerlogintimes-1.0.0-forge-mc1.20.jar"
+
 [mods.mantle]
 version = "1.11.97"
 server_side = true
