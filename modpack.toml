@@ -68,6 +68,10 @@ version = "*"
 name = "applied-botanics"
 version = "*"
 
+[mods.applied-energistics-2-wireless-terminals]
+name = "applied-energistics-2-wireless-terminals"
+version = "*"
+
 [mods.aquamirae]
 name = "aquamirae"
 version = "*"

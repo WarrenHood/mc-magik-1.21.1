@@ -212,6 +212,39 @@ name = "botania"
 version = "1.20.1-450-forge"
 providers = ["Modrinth"]
 
+[mods.applied-energistics-2-wireless-terminals]
+version = "15.3.3-forge"
+server_side = true
+client_side = true
+
+[[mods.applied-energistics-2-wireless-terminals.source]]
+
+[mods.applied-energistics-2-wireless-terminals.source.Download]
+url = "https://cdn.modrinth.com/data/pNabrMMw/versions/z8QXeyI0/ae2wtlib-15.3.3-forge.jar"
+sha1 = "1a546af04844677542b6914191783c7de15364fc"
+sha512 = "f036f278e6d1360147b04f2090829154e75e456f3b2c0af7571b537bf0fd13e97f29211f7a044f9437a171a1c525195737860895118eab70b2b4af54485367d4"
+filename = "ae2wtlib-15.3.3-forge.jar"
+
+[[mods.applied-energistics-2-wireless-terminals.deps]]
+name = "ae2"
+version = "15.4.10"
+providers = ["Modrinth"]
+
+[[mods.applied-energistics-2-wireless-terminals.deps]]
+name = "architectury-api"
+version = "9.2.14+forge"
+providers = ["Modrinth"]
+
+[[mods.applied-energistics-2-wireless-terminals.deps]]
+name = "cloth-config"
+version = "11.1.136+forge"
+providers = ["Modrinth"]
+
+[[mods.applied-energistics-2-wireless-terminals.deps]]
+name = "curios"
+version = "5.14.1+1.20.1"
+providers = ["Modrinth"]
+
 [mods.aquamirae]
 version = "6.1.2"
 server_side = true
