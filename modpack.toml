@@ -312,6 +312,12 @@ version = "*"
 name = "immersive-melodies"
 version = "*"
 
+[mods.inv-view-forge]
+name = "inv-view-forge"
+version = "*"
+server_side = true
+client_side = false
+
 [mods.invmove]
 name = "invmove"
 version = "*"

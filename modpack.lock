@@ -1414,6 +1414,20 @@ sha1 = "688f2b905c99a2d2c86f016eb09712d978f99102"
 sha512 = "4bcaad08a6a9e0aa6f62dae336ac207ea5c80cbf31cf9aa486d8453aa5bfa6791c3e30d1a6f7c846f144863dbe2c948b61265562aceeaa736e9bafaecfc54a85"
 filename = "immersive_melodies-0.6.0+1.20.1-forge.jar"
 
+[mods.inv-view-forge]
+version = "2.1.0-1.20.1"
+deps = []
+server_side = true
+client_side = false
+
+[[mods.inv-view-forge.source]]
+
+[mods.inv-view-forge.source.Download]
+url = "https://cdn.modrinth.com/data/RXM1nxge/versions/nEsTLkcQ/inv_view_forge-2.1.0-1.20.1.jar"
+sha1 = "1de4e82a887438ff1ea3030b1182391218d6de32"
+sha512 = "6d385209a227cf4111d4ae2e5d94f733327d57d93c11bbd58b6065ae63e291cfc10508585dd60d84a41bae5638b0ef0e93ce2fb9a31858052df300298c60b80e"
+filename = "inv_view_forge-2.1.0-1.20.1.jar"
+
 [mods.invmove]
 version = "0.9.3+1.20.1-forge"
 server_side = false
