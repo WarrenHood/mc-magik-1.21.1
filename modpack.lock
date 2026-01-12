@@ -461,7 +461,7 @@ providers = ["Modrinth"]
 
 [[mods.cc-vs.deps]]
 name = "valkyrien-skies"
-version = "1.20.1-forge-2.4.6"
+version = "1.20.1-forge-2.4.7"
 providers = ["Modrinth"]
 
 [mods.cccbridge]
@@ -786,7 +786,7 @@ providers = ["Modrinth"]
 
 [[mods.create-clockwork.deps]]
 name = "valkyrien-skies"
-version = "1.20.1-forge-2.4.6"
+version = "1.20.1-forge-2.4.7"
 providers = ["Modrinth"]
 
 [mods.create-connected]
@@ -1179,7 +1179,7 @@ sha512 = "d1aa78d400796abea326498d3143af8ae4d61fa9635339be36ae38f342c586e309216c
 filename = "emiffect-forge-1.1.2+mc1.20.1.jar"
 
 [mods.enderio]
-version = "6.2.16-beta"
+version = "6.2.17-beta"
 deps = []
 server_side = true
 client_side = true
@@ -1187,10 +1187,10 @@ client_side = true
 [[mods.enderio.source]]
 
 [mods.enderio.source.Download]
-url = "https://cdn.modrinth.com/data/49ZofO4f/versions/gUoYa2ko/EnderIO-1.20.1-6.2.16-beta-all.jar"
-sha1 = "f75ddee7d531efa47c91799539099935a6d3f927"
-sha512 = "d69db9378bf6b28f514c8932c38615e0d5b4fc9d6a588328a198d9906cc7eaca783cb8734ac140c11fb70b873d506f2d24d1cd509a066f9864016e16a6f0d94f"
-filename = "EnderIO-1.20.1-6.2.16-beta-all.jar"
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/LKwYlIgV/EnderIO-1.20.1-6.2.17-beta-all.jar"
+sha1 = "8b5aad2aa546d2ff8f2408a77c74e8dbb5d2c6d8"
+sha512 = "7d5fd43e03e2d19ac668a5adf1ee96fd88f1b45cf592794182f9ac1bcc2e55a01d4c1333432e324cad2495a6812e26442f0101207cb606a27ec343554c291a1a"
+filename = "EnderIO-1.20.1-6.2.17-beta-all.jar"
 
 [mods.entityculling]
 version = "1.9.5"
@@ -1206,21 +1206,21 @@ sha512 = "f102a06dbe5f77d2b5737da4ed9484cdd6ab604a0e068245520247016b28c2936cef74
 filename = "entityculling-forge-1.9.5-mc1.20.1.jar"
 
 [mods.every-compat]
-version = "1.20-2.9.14-forge"
+version = "1.20-2.9.15-forge"
 server_side = true
 client_side = true
 
 [[mods.every-compat.source]]
 
 [mods.every-compat.source.Download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/1NKRJyBB/everycomp-1.20-2.9.14-forge.jar"
-sha1 = "c661fb5f32f9494d63515dff9c16dc567917ab04"
-sha512 = "56f617e74b89c49856b950f9174c4e651f902b0059699f367d8b9735dd4b6b0929ea2eac45c499f00747bdf9fa1f7929bd64187e8481ff1a9032a4813cc11c7d"
-filename = "everycomp-1.20-2.9.14-forge.jar"
+url = "https://cdn.modrinth.com/data/eiktJyw1/versions/tkWAtsse/everycomp-1.20-2.9.15-forge.jar"
+sha1 = "9199f9a117e655ba64186b76c5ff1f78236034ae"
+sha512 = "1628b4518f6ade1709a8c5823d92fb9e4f728aac77a1c3e4e1e5ece02920652babf3851d902f1a6dd1dc617227bb37c965a894a803b78b6fa9896d23e1e7980a"
+filename = "everycomp-1.20-2.9.15-forge.jar"
 
 [[mods.every-compat.deps]]
 name = "moonlight"
-version = "1.20-2.16.19-forge"
+version = "1.20-2.16.21-forge"
 providers = ["Modrinth"]
 
 [mods.farmers-delight]
@@ -1542,7 +1542,7 @@ providers = ["Modrinth"]
 
 [[mods.jade-vs.deps]]
 name = "valkyrien-skies"
-version = "1.20.1-forge-2.4.6"
+version = "1.20.1-forge-2.4.7"
 providers = ["Modrinth"]
 
 [mods.jei]
@@ -1755,7 +1755,7 @@ sha512 = "016940bd76b36865f507c07fc7834ea7dc6f7a6c0016aebf6375ee05a9405f2730e07c
 filename = "modernfix-forge-5.25.2+mc1.20.1.jar"
 
 [mods.modonomicon]
-version = "1.20.1-1.79.2"
+version = "1.20.1-1.79.3"
 deps = []
 server_side = true
 client_side = true
@@ -1763,23 +1763,23 @@ client_side = true
 [[mods.modonomicon.source]]
 
 [mods.modonomicon.source.Download]
-url = "https://cdn.modrinth.com/data/692GClaE/versions/c7ZjkJNp/modonomicon-1.20.1-fabric-1.79.2.jar"
-sha1 = "26955be3fb3232ea6539ee7322cc51c88cdac9c1"
-sha512 = "33871daadd8bed8dc41c517220f0975859fb932e2148f36c3ab05d586bcb640eea7a508644b32fa34085e01edb6ba973c5f235d202d00c3df7093d2098f0595c"
-filename = "modonomicon-1.20.1-fabric-1.79.2.jar"
+url = "https://cdn.modrinth.com/data/692GClaE/versions/bd3nitTk/modonomicon-1.20.1-fabric-1.79.3.jar"
+sha1 = "7541878002695a6b62a21f1e063c694bbfb6c891"
+sha512 = "cc0c2f206ea7c4f286376f48b7a0d3ecfb27ba9aadda1f2fa3404b675251ebfe51de9dda11a100eb263838b98f8c0c083edbd2a4aef03bf97cdc4da2f59cf0db"
+filename = "modonomicon-1.20.1-fabric-1.79.3.jar"
 
 [mods.moonlight]
-version = "1.20-2.16.19-forge"
+version = "1.20-2.16.21-forge"
 server_side = true
 client_side = true
 
 [[mods.moonlight.source]]
 
 [mods.moonlight.source.Download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/ZBeK8kT5/moonlight-1.20-2.16.19-forge.jar"
-sha1 = "de55e348bdf3a3ac7520fde157654d615967f9b1"
-sha512 = "d687d18d8796c9bb1bfa8f6cbf08a41594c96ecbf5bd97253d59d5f2fbd15841c63cf159dc89a7157c8e71058d88f15b2f03beef5fe7bcd672e4d9eed84d3cf8"
-filename = "moonlight-1.20-2.16.19-forge.jar"
+url = "https://cdn.modrinth.com/data/twkfQtEc/versions/jToYHMM9/moonlight-1.20-2.16.21-forge.jar"
+sha1 = "81054a1ec290b7a5263c60d3ab8fa73005b79274"
+sha512 = "9dcda73161f86e752b079a5855c936977b15b8ded3ac1407b191ce605b8de5c2ed18c33ccef5f85b6bd7080b8b81ca3ea5f7dfafb51b8d237e2078e2b01904f9"
+filename = "moonlight-1.20-2.16.21-forge.jar"
 
 [mods.mouse-tweaks]
 version = "1.20.1-2.25.1-forge"
@@ -2184,21 +2184,21 @@ version = "mc1.20.1-6.0.8"
 providers = ["Modrinth"]
 
 [mods.sophisticated-backpacks]
-version = "1.20.1-3.24.18.1488"
+version = "1.20.1-3.24.19.1492"
 server_side = true
 client_side = true
 
 [[mods.sophisticated-backpacks.source]]
 
 [mods.sophisticated-backpacks.source.Download]
-url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/LSIgif9P/sophisticatedbackpacks-1.20.1-3.24.18.1488.jar"
-sha1 = "9fbae84dbfc591877da3e4062fd3c23cadd57709"
-sha512 = "12bfb728d78a8f2dd4e56ffffccfd15f13163cce4f6a22af748db64a88eb9f64acab86660477137304bc86bd58bb1cbaeae5cfc6d6bef3e08f6cffbbcfbcd585"
-filename = "sophisticatedbackpacks-1.20.1-3.24.18.1488.jar"
+url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/LpErSIaM/sophisticatedbackpacks-1.20.1-3.24.19.1492.jar"
+sha1 = "f57a4b40467728db3c270267be86acf79d79d2d3"
+sha512 = "35295f3bbe540e84595bfa6c71e9d5995ad6f670953f0fac24a1a311e12f5445b3ba22dd95053b79793e89b65d255fde79ba2799802c39da2742fb2a2e56f501"
+filename = "sophisticatedbackpacks-1.20.1-3.24.19.1492.jar"
 
 [[mods.sophisticated-backpacks.deps]]
 name = "sophisticated-core"
-version = "1.20.1-1.2.117.1347"
+version = "1.20.1-1.2.118.1357"
 providers = ["Modrinth"]
 
 [mods.sophisticated-backpacks-create-integration]
@@ -2221,26 +2221,26 @@ providers = ["Modrinth"]
 
 [[mods.sophisticated-backpacks-create-integration.deps]]
 name = "sophisticated-backpacks"
-version = "1.20.1-3.24.18.1488"
+version = "1.20.1-3.24.19.1492"
 providers = ["Modrinth"]
 
 [[mods.sophisticated-backpacks-create-integration.deps]]
 name = "sophisticated-core"
-version = "1.20.1-1.2.117.1347"
+version = "1.20.1-1.2.118.1357"
 providers = ["Modrinth"]
 
 [mods.sophisticated-core]
-version = "1.20.1-1.2.117.1347"
+version = "1.20.1-1.2.118.1357"
 server_side = true
 client_side = true
 
 [[mods.sophisticated-core.source]]
 
 [mods.sophisticated-core.source.Download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/IsOiY3yQ/sophisticatedcore-1.20.1-1.2.117.1347.jar"
-sha1 = "d9aa06ea82683cb30d9636f796795db909c262d3"
-sha512 = "16dedf1a1036d39dc12f10ad166efc3a77c0290b9e4fc9855541565ecf48727db5d20b76485729a5b0470b7beee50b83f032cf732a11949ba69bde2f83ca7384"
-filename = "sophisticatedcore-1.20.1-1.2.117.1347.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/HAVquHKr/sophisticatedcore-1.20.1-1.2.118.1357.jar"
+sha1 = "e31bc3189334ecb158a8dc25983674dd1c513eab"
+sha512 = "c9f1d964d041f8c7dcab629b16e5276402e4b8bccbe5ff7ba57868004e717be065771c2824f7e5b155539b95718a2984ecbc9c95b83b42f52063454253a4a515"
+filename = "sophisticatedcore-1.20.1-1.2.118.1357.jar"
 
 [mods.spark]
 version = "1.10.53-forge"
@@ -2282,7 +2282,7 @@ loader = "Fabric"
 
 [[mods.spectrum.deps]]
 name = "modonomicon"
-version = "1.20.1-1.79.2"
+version = "1.20.1-1.79.3"
 providers = ["Modrinth"]
 loader = "Fabric"
 
@@ -2331,7 +2331,7 @@ providers = ["Modrinth"]
 
 [[mods.tcintegrations.deps]]
 name = "tinkers-construct"
-version = "3.11.1.158"
+version = "3.11.2.166"
 providers = ["Modrinth"]
 
 [mods.tectonic]
@@ -2415,17 +2415,17 @@ version = "11.0.6"
 providers = ["Modrinth"]
 
 [mods.tinkers-construct]
-version = "3.11.1.158"
+version = "3.11.2.166"
 server_side = true
 client_side = true
 
 [[mods.tinkers-construct.source]]
 
 [mods.tinkers-construct.source.Download]
-url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/WrXzoWRa/TConstruct-1.20.1-3.11.1.158.jar"
-sha1 = "5084f883390b2dbb337ce53213fd5dfdd3cc57e5"
-sha512 = "06f988a89b5d6b102b1f5971194d0ad0053a45d645afdff866692a81f8db6296fcf8f098b5c2c4f6024ac26118e60f6930e641bff16f85a64b9a2218ed747eca"
-filename = "TConstruct-1.20.1-3.11.1.158.jar"
+url = "https://cdn.modrinth.com/data/rxIIYO6c/versions/kJ9LD194/TConstruct-1.20.1-3.11.2.166.jar"
+sha1 = "94d07ec0ff45c49f5908beff7acb9fbec43fdde5"
+sha512 = "69da7399162b4de18b3eedf701f6013727ec4ae14b1b746265513bea6c4e88ad64ccb1187d3abca2387aafd37a91c21c56ce9b6fa7b0c26df17dfc1ac8d6a916"
+filename = "TConstruct-1.20.1-3.11.2.166.jar"
 
 [[mods.tinkers-construct.deps]]
 name = "mantle"
@@ -2465,7 +2465,7 @@ providers = ["Modrinth"]
 
 [[mods.trackwork.deps]]
 name = "valkyrien-skies"
-version = "1.20.1-forge-2.4.6"
+version = "1.20.1-forge-2.4.7"
 providers = ["Modrinth"]
 
 [mods.trinkets]
@@ -2495,17 +2495,17 @@ sha512 = "340b42ca27cac8c011a97eff5999b675e5f7e13f9d5b035ca94767ce3868d2168dd3ad
 filename = "twilightforest-1.20.1-4.3.2508-universal.jar"
 
 [mods.valkyrien-skies]
-version = "1.20.1-forge-2.4.6"
+version = "1.20.1-forge-2.4.7"
 server_side = true
 client_side = true
 
 [[mods.valkyrien-skies.source]]
 
 [mods.valkyrien-skies.source.Download]
-url = "https://cdn.modrinth.com/data/V5ujR2yw/versions/BjOYUTLA/valkyrienskies-120-2.4.6.jar"
-sha1 = "1e46bde9f7a0543e650f1acbd82f1bbefe4ae010"
-sha512 = "a45098834c4fd674100375899b2e770be68509c7b976c8b7311f2e80e70a2caf71417c8a93253a33fbe18694db21aa5a626135d4b2ab2b60ed122b9479060d4e"
-filename = "valkyrienskies-120-2.4.6.jar"
+url = "https://cdn.modrinth.com/data/V5ujR2yw/versions/3n0y4ZR3/valkyrienskies-120-2.4.7.jar"
+sha1 = "4b612bd80f782cc0c070c59aa2a47ec7bea03792"
+sha512 = "6e77cafe37c1741317d34cd14fe4c225269588284602e031f43550bb56eac5ecfe310df52f69b5720607dbe39d0f903e5b8872d0b5bbb3d9536704a995aef2f0"
+filename = "valkyrienskies-120-2.4.7.jar"
 
 [[mods.valkyrien-skies.deps]]
 name = "kotlin-for-forge"
