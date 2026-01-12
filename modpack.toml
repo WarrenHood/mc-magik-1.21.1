@@ -384,6 +384,14 @@ version = "*"
 name = "miners-delight"
 version = "*"
 
+[mods.mobtimizations]
+name = "mobtimizations"
+version = "*"
+
+[mods.modernfix]
+name = "modernfix"
+version = "*"
+
 [mods.mouse-tweaks]
 name = "mouse-tweaks"
 version = "*"
@@ -450,6 +458,10 @@ version = "*"
 
 [mods.schematic-energistics]
 name = "schematic-energistics"
+version = "*"
+
+[mods.servercore]
+name = "servercore"
 version = "*"
 
 [mods.simple-discord-rpc]
