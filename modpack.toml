@@ -296,10 +296,6 @@ version = "*"
 name = "hardcore-revival"
 version = "*"
 
-[mods.hypertube]
-name = "hypertube"
-version = "*"
-
 [mods.immediatelyfast]
 name = "immediatelyfast"
 version = "*"

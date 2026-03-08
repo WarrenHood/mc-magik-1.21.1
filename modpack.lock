@@ -1334,24 +1334,6 @@ name = "balm"
 version = "7.3.38+forge-1.20.1"
 providers = ["Modrinth"]
 
-[mods.hypertube]
-version = "0.4.0"
-server_side = true
-client_side = true
-
-[[mods.hypertube.source]]
-
-[mods.hypertube.source.Download]
-url = "https://cdn.modrinth.com/data/ATDdrG1y/versions/ngA99IQz/create_hypertube-0.4.0-FORGE.jar"
-sha1 = "49712554e365e4412fa6362f0394e919fe7eb261"
-sha512 = "67e200c36bd0f8571089c99f489af6987e40e6b6c912c7b4b7830f605943cd25b6d727f707c7dbcd91faea30ee67385b635e3a61dd6f813460e68f5b49c0ff40"
-filename = "create_hypertube-0.4.0-FORGE.jar"
-
-[[mods.hypertube.deps]]
-name = "create"
-version = "mc1.20.1-6.0.8"
-providers = ["Modrinth"]
-
 [mods.immediatelyfast]
 version = "1.5.4+1.20.4-forge"
 server_side = false
