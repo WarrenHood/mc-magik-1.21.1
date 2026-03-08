@@ -1227,6 +1227,19 @@ sha1 = "285c22b2567b9fdf98ef9808eceb5557de9611d3"
 sha512 = "3b84ea415d9255861bcbf78cfda3987b78aa452361bf44ba6a0223501a25ab5c5c55cb0eac6f460c88b8cec958f2b59211e488277c26e3432a08196f62049e7c"
 filename = "fabric-api-0.92.6+1.11.14+1.20.1.jar"
 
+[mods.from-the-fog]
+version = "1.9.2"
+server_side = true
+client_side = true
+
+[[mods.from-the-fog.source]]
+
+[mods.from-the-fog.source.Download]
+url = "https://cdn.modrinth.com/data/p1WH6sHr/versions/JTd3TFcc/From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
+sha1 = "8508868b645b4c8bcdfef1437f0278173eaadbbb"
+sha512 = "918386274b05335b4fcb0f8f42e8a2b5bdff699853fe39cc41709adff1aedbec151e1ab90ec2158db8e4aba89e4130bc9f6a4f0fe956fe155c8c970c1f8e341d"
+filename = "From-The-Fog-1.20-v1.9.2-Forge-Fabric.jar"
+
 [mods.functional-storage]
 version = "1.20.1-1.2.13"
 server_side = true

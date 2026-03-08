@@ -284,6 +284,10 @@ version = "*"
 name = "ferrite-core"
 version = "*"
 
+[mods.from-the-fog]
+name = "from-the-fog"
+version = "*"
+
 [mods.functional-storage]
 name = "functional-storage"
 version = "*"
