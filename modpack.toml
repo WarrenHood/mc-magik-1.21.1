@@ -1,20 +1,8 @@
-pack_name = "forge-1.20.1-tech-n-adventure-stuff"
-mc_version = "1.20.1"
-modloader = "Forge"
+pack_name = "forge-1.21.1-tech-n-adventure-stuff"
+mc_version = "1.21.1"
+modloader = "NeoForge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
-
-[mods.adaptive-performance-tweaks-core]
-name = "adaptive-performance-tweaks-core"
-version = "*"
-server_side = true
-client_side = true
-
-[mods.adaptive-performance-tweaks-items]
-name = "adaptive-performance-tweaks-items"
-version = "*"
-server_side = true
-client_side = true
 
 [mods.advanced-backups]
 name = "advanced-backups"
@@ -30,26 +18,8 @@ version = "*"
 name = "aether"
 version = "*"
 
-[mods.ai-improvements]
-name = "ai-improvements"
-version = "*"
-server_side = true
-client_side = true
-
 [mods.akashic-tome]
 name = "akashic-tome"
-version = "*"
-
-[mods.alekiships]
-name = "alekiships"
-version = "*"
-
-[mods.alexs-caves]
-name = "alexs-caves"
-version = "*"
-
-[mods.alexs-mobs]
-name = "alexs-mobs"
 version = "*"
 
 [mods.almost-unified]
@@ -64,16 +34,8 @@ version = "*"
 name = "appleskin"
 version = "*"
 
-[mods.applied-botanics]
-name = "applied-botanics"
-version = "*"
-
 [mods.applied-energistics-2-wireless-terminals]
 name = "applied-energistics-2-wireless-terminals"
-version = "*"
-
-[mods.aquamirae]
-name = "aquamirae"
 version = "*"
 
 [mods.athena-ctm]
@@ -96,10 +58,6 @@ version = "*"
 name = "block-runner"
 version = "*"
 
-[mods.botania]
-name = "botania"
-version = "*"
-
 [mods.caelus]
 name = "caelus"
 version = "*"
@@ -107,12 +65,6 @@ version = "*"
 [mods.cc-tweaked]
 name = "cc-tweaked"
 version = "*"
-
-[mods.cc-vs]
-name = "cc-vs"
-version = "*"
-server_side = true
-client_side = true
 
 [mods.cccbridge]
 name = "cccbridge"
@@ -170,10 +122,6 @@ version = "*"
 name = "create-central-kitchen"
 version = "*"
 
-[mods.create-clockwork]
-name = "create-clockwork"
-version = "*"
-
 [mods.create-connected]
 name = "create-connected"
 version = "*"
@@ -200,10 +148,6 @@ client_side = true
 name = "create-new-age"
 version = "*"
 
-[mods.create-structures]
-name = "create-structures"
-version = "*"
-
 [mods.create-structures-arise]
 name = "create-structures-arise"
 version = "*"
@@ -224,12 +168,8 @@ version = "*"
 name = "cubes-without-borders"
 version = "*"
 
-[mods.drive-by-wire]
-name = "drive-by-wire"
-version = "*"
-
-[mods.dungeon-now-loading]
-name = "dungeon-now-loading"
+[mods.curios]
+name = "curios"
 version = "*"
 
 [mods.dungeons_delight]
@@ -238,10 +178,6 @@ version = "*"
 
 [mods.effortless]
 name = "effortless"
-version = "*"
-
-[mods.embeddium]
-name = "embeddium"
 version = "*"
 
 [mods.emi]
@@ -256,10 +192,6 @@ version = "*"
 name = "emi-ores"
 version = "*"
 
-[mods.emienchants]
-name = "emienchants"
-version = "*"
-
 [mods.emiffect]
 name = "emiffect"
 version = "*"
@@ -268,8 +200,16 @@ version = "*"
 name = "enderio"
 version = "*"
 
+[mods.entity-model-features]
+name = "entity-model-features"
+version = "*"
+
 [mods.entityculling]
 name = "entityculling"
+version = "*"
+
+[mods.entitytexturefeatures]
+name = "entitytexturefeatures"
 version = "*"
 
 [mods.every-compat]
@@ -284,12 +224,12 @@ version = "*"
 name = "ferrite-core"
 version = "*"
 
-[mods.from-the-fog]
-name = "from-the-fog"
-version = "*"
-
 [mods.functional-storage]
 name = "functional-storage"
+version = "*"
+
+[mods.geckolib]
+name = "geckolib"
 version = "*"
 
 [mods.gravestone-mod]
@@ -322,6 +262,10 @@ client_side = false
 name = "invmove"
 version = "*"
 
+[mods.iris]
+name = "iris"
+version = "*"
+
 [mods.iris-flw-compat]
 name = "iris-flw-compat"
 version = "*"
@@ -336,10 +280,6 @@ version = "*"
 
 [mods.jade]
 name = "jade"
-version = "*"
-
-[mods.jade-vs]
-name = "jade-vs"
 version = "*"
 
 [mods.jei]
@@ -358,34 +298,18 @@ version = "*"
 server_side = true
 client_side = true
 
+[mods.lionfish-api]
+name = "lionfish-api"
+version = "*"
+
 [mods.lithostitched]
 name = "lithostitched"
 version = "*"
 server_side = true
 client_side = true
 
-[mods.longerlogintimes]
-name = "longerlogintimes"
-version = "*"
-providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/4594/800/longerlogintimes-1.0.0-forge-mc1.20.jar"
-server_side = true
-client_side = false
-
-[mods.mariums-soulslike-weaponry]
-name = "mariums-soulslike-weaponry"
-version = "*"
-
-[mods.memoryleakfix]
-name = "memoryleakfix"
-version = "*"
-
 [mods.miners-delight]
 name = "miners-delight"
-version = "*"
-
-[mods.mobtimizations]
-name = "mobtimizations"
 version = "*"
 
 [mods.modernfix]
@@ -412,10 +336,6 @@ version = "*"
 name = "observable"
 version = "*"
 
-[mods.oculus]
-name = "oculus"
-version = "*"
-
 [mods.patchouli]
 name = "patchouli"
 version = "*"
@@ -432,10 +352,6 @@ version = "*"
 name = "playeranimator"
 version = "*"
 
-[mods.projectile-damage-attribute]
-name = "projectile-damage-attribute"
-version = "3.2.2+1.20.1-forge"
-
 [mods.quark]
 name = "quark"
 version = "*"
@@ -448,8 +364,8 @@ version = "*"
 name = "repurposed-structures-forge"
 version = "*"
 
-[mods.rubidium-extra]
-name = "rubidium-extra"
+[mods.runiclib]
+name = "runiclib"
 version = "*"
 
 [mods.rustic-engineer]
@@ -472,6 +388,10 @@ version = "4.0.4"
 name = "slice-and-dice"
 version = "*"
 
+[mods.sodium]
+name = "sodium"
+version = "*"
+
 [mods.sophisticated-backpacks]
 name = "sophisticated-backpacks"
 version = "*"
@@ -484,40 +404,15 @@ version = "*"
 name = "spark"
 version = "*"
 
-[mods.spectrum]
-name = "spectrum"
-version = "1.8.11"
-loader = "Fabric"
-
-[mods.tcintegrations]
-name = "tcintegrations"
-version = "*"
-
-[mods.tectonic]
-name = "tectonic"
-version = "2.4.1"
-
-[mods.thermal-expansion]
-name = "thermal-expansion"
-version = "*"
-
-[mods.thermal-integration]
-name = "thermal-integration"
-version = "*"
-
-[mods.tinkers-construct]
-name = "tinkers-construct"
-version = "*"
-
-[mods.trackwork]
-name = "trackwork"
+[mods.terrablender]
+name = "terrablender"
 version = "*"
 
 [mods.twilightforest]
 name = "twilightforest"
 version = "*"
 providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/5468/648/twilightforest-1.20.1-4.3.2508-universal.jar"
+download_url = "https://mediafilez.forgecdn.net/files/7398/100/twilightforest-1.21.1-4.8.3287-universal.jar"
 server_side = true
 client_side = true
 
