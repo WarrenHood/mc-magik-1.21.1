@@ -78,14 +78,6 @@ version = "*"
 name = "clumps"
 version = "*"
 
-[mods.connector]
-name = "connector"
-version = "*"
-
-[mods.connector-extras]
-name = "connector-extras"
-version = "*"
-
 [mods.continents]
 name = "continents"
 version = "*"
@@ -316,6 +308,10 @@ version = "*"
 name = "modernfix"
 version = "*"
 
+[mods.modonomicon]
+name = "modonomicon"
+version = "*"
+
 [mods.mouse-tweaks]
 name = "mouse-tweaks"
 version = "*"
@@ -364,6 +360,10 @@ version = "*"
 name = "repurposed-structures-forge"
 version = "*"
 
+[mods.revelationary]
+name = "revelationary"
+version = "*"
+
 [mods.runiclib]
 name = "runiclib"
 version = "*"
@@ -402,6 +402,10 @@ version = "*"
 
 [mods.spark]
 name = "spark"
+version = "*"
+
+[mods.spectrum]
+name = "spectrum"
 version = "*"
 
 [mods.terrablender]

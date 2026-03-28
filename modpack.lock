@@ -317,42 +317,6 @@ sha1 = "fa2576297c7bd12b28aa7070e8141792bd66da4c"
 sha512 = "314d8d8e640d73041f27e0f3f2cad7aad8b4c77dbd7fb31700ef7760362261f77085eed5289555c725d99c3f47a114e7290cd608f39c9f0f12ef74958463bdcc"
 filename = "Clumps-neoforge-1.21.1-19.0.0.1.jar"
 
-[mods.connector]
-version = "2.0.0-beta.14+1.21.1"
-server_side = true
-client_side = true
-
-[[mods.connector.source]]
-
-[mods.connector.source.Download]
-url = "https://cdn.modrinth.com/data/u58R1TMW/versions/1i8teo7m/connector-2.0.0-beta.14%2B1.21.1-full.jar"
-sha1 = "930067497b5c1249e51b3e33620ab4e72dc92f4c"
-sha512 = "6ed3168c2c7dad2606ada1fdf63ee412bb8bb5620718a702f6ac51310e671f2f93ab46fc96400e258f4433e51b96f9dd21441e1a8963d8b356c75b578e156dcc"
-filename = "connector-2.0.0-beta.14+1.21.1-full.jar"
-
-[[mods.connector.deps]]
-name = "forgified-fabric-api"
-version = "0.116.7+2.2.4+1.21.1"
-providers = ["Modrinth"]
-
-[mods.connector-extras]
-version = "1.12.1+1.21.1"
-server_side = true
-client_side = true
-
-[[mods.connector-extras.source]]
-
-[mods.connector-extras.source.Download]
-url = "https://cdn.modrinth.com/data/FYpiwiBR/versions/dgLCqZyo/ConnectorExtras-1.12.1%2B1.21.1.jar"
-sha1 = "8ea07df55b26c8343d06df77936505a23e0d2140"
-sha512 = "ff9fc5d48a81e820c8c26b8a045e0ab7a3b0e9b5eaee7369b2eadb3f93d7eb423255073dfc327d131cb667df93be066560f3704b4cc8a12b07486b98a12bad1d"
-filename = "ConnectorExtras-1.12.1+1.21.1.jar"
-
-[[mods.connector-extras.deps]]
-name = "connector"
-version = "2.0.0-beta.14+1.21.1"
-providers = ["Modrinth"]
-
 [mods.continents]
 version = "1.1.12"
 server_side = true
@@ -928,19 +892,6 @@ sha1 = "9563692efb708b6b568df27a01ec52f6311928ef"
 sha512 = "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
 filename = "ferritecore-7.0.3-neoforge.jar"
 
-[mods.forgified-fabric-api]
-version = "0.116.7+2.2.4+1.21.1"
-server_side = true
-client_side = true
-
-[[mods.forgified-fabric-api.source]]
-
-[mods.forgified-fabric-api.source.Download]
-url = "https://cdn.modrinth.com/data/Aqlf1Shp/versions/7nHK7hMg/forgified-fabric-api-0.116.7%2B2.2.4%2B1.21.1.jar"
-sha1 = "459b5f4c7297b2f7649d43137f3e5a069b69b707"
-sha512 = "858acb32a79e7ed1f37472bd7c50e3d2f47c7d7f6e734a8cece3800eb30d565a09580c261778ea73a0ae25e10e9eb9b16866012fe61d24f671b0ffe3ae2377dd"
-filename = "forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-
 [mods.functional-storage]
 version = "1.21-1.5.5"
 server_side = true
@@ -1331,6 +1282,20 @@ sha1 = "50abc7ff4ef2fcbc3baf4c6b96e2a7141cbd1b8a"
 sha512 = "d6df16e21c454b86b07991408dd0eb0f611942ee01d9598375a6b0907167aaf29e2906c8ad11c5f0971979e68ea8267d9a8deb82ba638bd85ccd4265d2448a1d"
 filename = "modernfix-neoforge-5.26.1+mc1.21.1.jar"
 
+[mods.modonomicon]
+version = "1.21.1-1.120.1"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.modonomicon.source]]
+
+[mods.modonomicon.source.Download]
+url = "https://cdn.modrinth.com/data/692GClaE/versions/Uw0AZJKz/modonomicon-1.21.1-neoforge-1.120.1.jar"
+sha1 = "e127c8ba3d194678e11a00af6422394a7ed476b1"
+sha512 = "679cffa56d2e512201c2fc8dd271c8729e0800d76d8260e7b511ade4a73aee567a908cec0ff64e2170d19b82c2726191de5258c16974de5b423a5a3269175ef0"
+filename = "modonomicon-1.21.1-neoforge-1.120.1.jar"
+
 [mods.moonlight]
 version = "1.21-2.29.20-neoforge"
 server_side = true
@@ -1569,6 +1534,19 @@ sha1 = "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
 sha512 = "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87"
 filename = "resourcefulconfig-neoforge-1.21-3.0.11.jar"
 
+[mods.revelationary]
+version = "1.4.1+1.21.1"
+server_side = true
+client_side = true
+
+[[mods.revelationary.source]]
+
+[mods.revelationary.source.Download]
+url = "https://cdn.modrinth.com/data/eXrl5E3G/versions/FX1mVRky/revelationary-neoforge-1.4.1%2B1.21.1.jar"
+sha1 = "7e54917c6bdf638719c25f4901876ad2929bfd18"
+sha512 = "5224d36cf397d0da1caf5ee6344a4b265779bf20608bb1818be287bad8e0ece4b113053aeec637bc7fc326f1da7056cd17b326de1ef4c76f1ec2d0af8d5feb12"
+filename = "revelationary-neoforge-1.4.1+1.21.1.jar"
+
 [mods.rpl]
 version = "2.1.2"
 server_side = true
@@ -1772,6 +1750,19 @@ url = "https://cdn.modrinth.com/data/l6YH9Als/versions/v5qtqRQi/spark-1.10.124-n
 sha1 = "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
 sha512 = "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bfef4772af7f963c4f4868e5e2d9aef6b99c1d51bab55bf45e0e6e6b5ed4"
 filename = "spark-1.10.124-neoforge.jar"
+
+[mods.spectrum]
+version = "1.11.2-1.21.1-neo"
+server_side = true
+client_side = true
+
+[[mods.spectrum.source]]
+
+[mods.spectrum.source.Download]
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/LSuF5NfC/spectrum-1.11.2-1.21.1-neo.jar"
+sha1 = "5eb573e4b099277d3aacc892dcbe8a5e1d550197"
+sha512 = "cd626263ff9417b7249a1eaf4ecce394cd9d30b699521fcf90e8bcebca50860f49f609a022004d5fa300d0d4e145016b7e73af97e5b95e14cd3cc5cfebd9e90c"
+filename = "spectrum-1.11.2-1.21.1-neo.jar"
 
 [mods.terrablender]
 version = "4.1.0.8"
