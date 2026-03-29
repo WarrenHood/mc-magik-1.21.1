@@ -4,10 +4,6 @@ modloader = "NeoForge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
 
-[mods.adorable-hamster-pets]
-name = "adorable-hamster-pets"
-version = "*"
-
 [mods.advanced-backups]
 name = "advanced-backups"
 version = "*"
@@ -84,6 +80,34 @@ version = "*"
 
 [mods.clumps]
 name = "clumps"
+version = "*"
+
+[mods.cobble-caf-forms]
+name = "cobble-caf-forms"
+version = "*"
+
+[mods.cobblemon]
+name = "cobblemon"
+version = "*"
+
+[mods.cobblemon-alpha-project]
+name = "cobblemon-alpha-project"
+version = "*"
+
+[mods.cobblemon-create-industries]
+name = "cobblemon-create-industries"
+version = "*"
+
+[mods.cobblemon-fight-or-flight-reborn]
+name = "cobblemon-fight-or-flight-reborn"
+version = "*"
+
+[mods.cobblemon-integrations]
+name = "cobblemon-integrations"
+version = "*"
+
+[mods.cobblemore-library]
+name = "cobblemore-library"
 version = "*"
 
 [mods.continents]
@@ -198,6 +222,10 @@ version = "*"
 
 [mods.enderio]
 name = "enderio"
+version = "*"
+
+[mods.enhanced-celestials]
+name = "enhanced-celestials"
 version = "*"
 
 [mods.entity-model-features]
@@ -384,6 +412,14 @@ version = "*"
 name = "quark"
 version = "*"
 
+[mods.rad-gyms]
+name = "rad-gyms"
+version = "*"
+
+[mods.rctmod]
+name = "rctmod"
+version = "*"
+
 [mods.regions-unexplored]
 name = "regions-unexplored"
 version = "0.6+beta3"
@@ -406,6 +442,10 @@ version = "*"
 
 [mods.schematic-energistics]
 name = "schematic-energistics"
+version = "*"
+
+[mods.serene-seasons]
+name = "serene-seasons"
 version = "*"
 
 [mods.servercore]

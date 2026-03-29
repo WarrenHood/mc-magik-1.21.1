@@ -1,41 +1,3 @@
-[mods.adorable-hamster-pets]
-version = "3.5.0-1.21.1+neoforge"
-server_side = true
-client_side = true
-
-[[mods.adorable-hamster-pets.source]]
-
-[mods.adorable-hamster-pets.source.Download]
-url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/npUdncph/adorablehamsterpets-3.5.0-1.21.1%2Bneoforge.jar"
-sha1 = "109531ca8dc2e15f49e59c32fc662e05b840a1c8"
-sha512 = "058828a6173bf80406718bfb0bb56ef7247ba7ed8961cd18c4f7ba3415eb69dd932793ec58128cf567f909710396bcb4ecef8ef4486fea6ed0e23a8552137ac8"
-filename = "adorablehamsterpets-3.5.0-1.21.1+neoforge.jar"
-
-[[mods.adorable-hamster-pets.deps]]
-name = "architectury-api"
-version = "13.0.8+neoforge"
-providers = ["Modrinth"]
-
-[[mods.adorable-hamster-pets.deps]]
-name = "fzzy-config"
-version = "0.7.6+1.21+neoforge"
-providers = ["Modrinth"]
-
-[[mods.adorable-hamster-pets.deps]]
-name = "geckolib"
-version = "4.8.4"
-providers = ["Modrinth"]
-
-[[mods.adorable-hamster-pets.deps]]
-name = "kotlin-for-forge"
-version = "5.11.0"
-providers = ["Modrinth"]
-
-[[mods.adorable-hamster-pets.deps]]
-name = "patchouli"
-version = "1.21.1-93-neoforge"
-providers = ["Modrinth"]
-
 [mods.advanced-backups]
 version = "3.7.1"
 server_side = true
@@ -368,6 +330,127 @@ sha1 = "fa2576297c7bd12b28aa7070e8141792bd66da4c"
 sha512 = "314d8d8e640d73041f27e0f3f2cad7aad8b4c77dbd7fb31700ef7760362261f77085eed5289555c725d99c3f47a114e7290cd608f39c9f0f12ef74958463bdcc"
 filename = "Clumps-neoforge-1.21.1-19.0.0.1.jar"
 
+[mods.cobble-caf-forms]
+version = "5.0.0"
+server_side = true
+client_side = true
+
+[[mods.cobble-caf-forms.source]]
+
+[mods.cobble-caf-forms.source.Download]
+url = "https://cdn.modrinth.com/data/469QXqgC/versions/NEndOzch/cobble-caf-forms-5.0.0.jar"
+sha1 = "6ad87cbd0eb23e7a58157b48b4cca9924e66c7b9"
+sha512 = "b012b10ad51b24ada42de89131cade947edb3d9bd90ab4b449d27c41b6e82c73fa45eb20844d07f745739f8f9a8a0bacc4cc799f03b4162f450c2e3b6c1f78df"
+filename = "cobble-caf-forms-5.0.0.jar"
+
+[mods.cobblemon]
+version = "1.7.3"
+server_side = true
+client_side = true
+
+[[mods.cobblemon.source]]
+
+[mods.cobblemon.source.Download]
+url = "https://cdn.modrinth.com/data/MdwFAVRL/versions/S1TrAn8c/Cobblemon-neoforge-1.7.3%2B1.21.1.jar"
+sha1 = "580ea363bbc391c98e548962a47c683155522f38"
+sha512 = "609b435cf0cfedbfb8d54f6355b37b547306c0d3a3aab241ba5643ed8dc82e084d5a7d80d9661b786f9a0fa295b506be78e608281f5972019e6cff691aee50df"
+filename = "Cobblemon-neoforge-1.7.3+1.21.1.jar"
+
+[[mods.cobblemon.deps]]
+name = "kotlin-for-forge"
+version = "5.11.0"
+providers = ["Modrinth"]
+
+[mods.cobblemon-alpha-project]
+version = "1.4.1"
+server_side = true
+client_side = true
+
+[[mods.cobblemon-alpha-project.source]]
+
+[mods.cobblemon-alpha-project.source.Download]
+url = "https://cdn.modrinth.com/data/QnWyhFGf/versions/AiAqRJIo/cobblemonalphas-1.4.1.jar"
+sha1 = "d68af5b3b2a6384ffb5a577545917bd62e7bac5b"
+sha512 = "6bc4d272eb1a8bdd2b94c56706e3e7e43c8acbeee64ff6d647c3369159c7d62b3e73f8cadc952770ab45ceeb5c3aa77e0a7116902e1932f280fd1c842c26ca5a"
+filename = "cobblemonalphas-1.4.1.jar"
+
+[mods.cobblemon-create-industries]
+version = "1.3.2"
+server_side = true
+client_side = true
+
+[[mods.cobblemon-create-industries.source]]
+
+[mods.cobblemon-create-industries.source.Download]
+url = "https://cdn.modrinth.com/data/7BX9lbH9/versions/r37zxfXQ/cobblemon_industries-neoforge-1.3.2.jar"
+sha1 = "0786681db620439b21831244b0c13ce1b8d1af8f"
+sha512 = "e57e10e95cb0761c16db5472e6437a68e8fc8a32aab3ec148b62660c3fef9965d288266142b19d4be7c209bf4da6a012ec9f10fb67779c7c85bae2f43adc2c6a"
+filename = "cobblemon_industries-neoforge-1.3.2.jar"
+
+[mods.cobblemon-fight-or-flight-reborn]
+version = "0.10.7"
+server_side = true
+client_side = true
+
+[[mods.cobblemon-fight-or-flight-reborn.source]]
+
+[mods.cobblemon-fight-or-flight-reborn.source.Download]
+url = "https://cdn.modrinth.com/data/cTdIg5HZ/versions/kyo4qCAc/fightorflight-neoforge-0.10.7.jar"
+sha1 = "f4f468a3e88ab22e4fd36d78cfbc6223a2277332"
+sha512 = "24d5494d4e8421d57f09e22ee0e3e07eb383606205b2bd210bd4bd93e4c52afcb608bb52f944a05b8e287a3e1f9d26b74567877d888e990965660b75bc6d96d7"
+filename = "fightorflight-neoforge-0.10.7.jar"
+
+[[mods.cobblemon-fight-or-flight-reborn.deps]]
+name = "architectury-api"
+version = "13.0.8+neoforge"
+providers = ["Modrinth"]
+
+[[mods.cobblemon-fight-or-flight-reborn.deps]]
+name = "cobblemon"
+version = "1.7.3"
+providers = ["Modrinth"]
+
+[mods.cobblemon-integrations]
+version = "1.1.5"
+server_side = true
+client_side = true
+
+[[mods.cobblemon-integrations.source]]
+
+[mods.cobblemon-integrations.source.Download]
+url = "https://cdn.modrinth.com/data/NPCfuUI4/versions/txt0gaav/cobblemonintegrations-neoforge-1.21.1-1.1.5.jar"
+sha1 = "c4c09ff65502ee82fa311fe1d499c30a03c4cc74"
+sha512 = "34cba49dcd8b5ee8490718774ec45fee522c6e8ecaabb9feb81534cbfd3318baf9eaa5cb4ab8c4f5887e319117c17d5edbcca4d4ef40d9c3fb66b14f626930eb"
+filename = "cobblemonintegrations-neoforge-1.21.1-1.1.5.jar"
+
+[[mods.cobblemon-integrations.deps]]
+name = "cobblemon"
+version = "1.7.3"
+providers = ["Modrinth"]
+
+[[mods.cobblemon-integrations.deps]]
+name = "kotlin-for-forge"
+version = "5.11.0"
+providers = ["Modrinth"]
+
+[mods.cobblemore-library]
+version = "1.2.8"
+server_side = true
+client_side = true
+
+[[mods.cobblemore-library.source]]
+
+[mods.cobblemore-library.source.Download]
+url = "https://cdn.modrinth.com/data/VYP2vmDS/versions/MXul25qY/cobblemore_lib-neoforge-1.2.8.jar"
+sha1 = "2bd30936d33f7a45d0f6bc4df4d67412f0008674"
+sha512 = "04e803fd7844a4af5c15ccdfca80f0f586b79a5a563bbfd5178c981cc20531fe165587a7b96ffa44b7880f9929a6c890da4b5000f47d9928e9f79c9fb5070f8b"
+filename = "cobblemore_lib-neoforge-1.2.8.jar"
+
+[[mods.cobblemore-library.deps]]
+name = "architectury-api"
+version = "13.0.8+neoforge"
+providers = ["Modrinth"]
+
 [mods.continents]
 version = "1.1.12"
 server_side = true
@@ -416,6 +499,19 @@ filename = "copycats-3.0.4+mc.1.21.1-neoforge.jar"
 name = "create"
 version = "mc1.21.1-6.0.9"
 providers = ["Modrinth"]
+
+[mods.corgilib]
+version = "1.21.1-5.0.0.9-NeoForge"
+server_side = true
+client_side = true
+
+[[mods.corgilib.source]]
+
+[mods.corgilib.source.Download]
+url = "https://cdn.modrinth.com/data/ziOp6EO8/versions/nqrTa84r/Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
+sha1 = "6699f876f9e10f936910055f7fe1a283d8bb9e0f"
+sha512 = "d5461d5fab247fe2d30ba5578c7768cf3c4c8758b155acb5c901913c22c43ddd6af6e7dbd5ae4cca8b106f7e2953b4427c0a97e53869861d64b0266c825d178b"
+filename = "Corgilib-NeoForge-1.21.1-5.0.0.9.jar"
 
 [mods.crafting-tweaks]
 version = "21.1.7+neoforge-1.21.1"
@@ -738,6 +834,19 @@ sha1 = "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
 sha512 = "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
 filename = "curios-neoforge-9.5.1+1.21.1.jar"
 
+[mods.data-anchor]
+version = "2.0.0.13-neoforge"
+server_side = true
+client_side = true
+
+[[mods.data-anchor.source]]
+
+[mods.data-anchor.source.Download]
+url = "https://cdn.modrinth.com/data/z2XEADmE/versions/izauCsh5/Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
+sha1 = "6382fb38974844a0508b47330935577f2943de3d"
+sha512 = "4b88cbf5965a5cecdc82ce5d6a3d7ac0bc47b2ed29b907b3ed03939a80694db15925c8e932b650812b8fa3775c9f8fac8daa6dd495aa73702162151da05bc5c8"
+filename = "Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
+
 [mods.dungeons_delight]
 version = "1.4.5"
 server_side = true
@@ -849,6 +958,29 @@ url = "https://cdn.modrinth.com/data/49ZofO4f/versions/j7hVMHNk/enderio-8.2.3-be
 sha1 = "1bbca21faa06f921309dbc57ee5dc5cc23369773"
 sha512 = "9057d8312ec226d4d8c240dc047f8277fb8322049cbaa3a1c5abc73bae6b1deea9f6de4cc2fa0e649a13a2103055be24d1e31866b0f410892e5b93a84d10ab20"
 filename = "enderio-8.2.3-beta.jar"
+
+[mods.enhanced-celestials]
+version = "6.0.2.5-neoforge"
+server_side = true
+client_side = true
+
+[[mods.enhanced-celestials.source]]
+
+[mods.enhanced-celestials.source.Download]
+url = "https://cdn.modrinth.com/data/2rL16t1O/versions/PvmN3OKy/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar"
+sha1 = "120a2f2ad8f9fcbefebd087c60592b8057a834fc"
+sha512 = "9d69f66389d3c8c9a3572854f839b503fee00b67f9c5e8d51fcdc9dd16170448d5ad98abaaccedbb2091ab70ef2b450cbc90e6ff11d9735638bf7672d6f3d5d2"
+filename = "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.5.jar"
+
+[[mods.enhanced-celestials.deps]]
+name = "corgilib"
+version = "1.21.1-5.0.0.9-NeoForge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials.deps]]
+name = "data-anchor"
+version = "2.0.0.13-neoforge"
+providers = ["Modrinth"]
 
 [mods.entity-model-features]
 version = "3.0.17-neoforge-1.21"
@@ -1020,6 +1152,19 @@ url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforg
 sha1 = "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
 sha512 = "340d96149a04c57c09485f5b1c69e7f8ec3b68223c618e38b7d84c58f4280dcba3d0e9480b8fc79735d9ef5fd7da5fc8f3081d575bf4bbcd2c44b6dcf21d98c0"
 filename = "geckolib-neoforge-1.21.1-4.8.4.jar"
+
+[mods.glitchcore]
+version = "2.1.0.0"
+server_side = true
+client_side = true
+
+[[mods.glitchcore.source]]
+
+[mods.glitchcore.source.Download]
+url = "https://cdn.modrinth.com/data/s3dmwKy5/versions/8wmCpbQ2/GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
+sha1 = "b95318c14ef20bd24886480d7640a5eca6aa6cec"
+sha512 = "008ec969716ffa2a45bf74f8c44d2c28e16558688a71806670e307d29fa76a82daf4d2f990a4964345228a7ba77bdb8592d1572c723b7b06c8f9c3ffae63acdb"
+filename = "GlitchCore-neoforge-1.21.1-2.1.0.0.jar"
 
 [mods.gravestone-mod]
 version = "neoforge-1.21.1-1.0.35"
@@ -1575,6 +1720,80 @@ name = "zeta"
 version = "1.1-39"
 providers = ["Modrinth"]
 
+[mods.rad-gyms]
+version = "1.7.3_0.4.4"
+server_side = true
+client_side = true
+
+[[mods.rad-gyms.source]]
+
+[mods.rad-gyms.source.Download]
+url = "https://cdn.modrinth.com/data/eF8kqlHd/versions/mStVpLf6/rad-gyms-neoforge-0.4.4.jar"
+sha1 = "c60e73c52db383dc54f27b0b98fab8b3ad8e491d"
+sha512 = "a2387ad3ca85649e9e25c16d26d7d2c1e7545e6a884f8bbf5fa53eae3f52630c95a65174abb4e21ced61f234650d7cea2b31b5d6def6e5b76d7c6a0815448bf0"
+filename = "rad-gyms-neoforge-0.4.4.jar"
+
+[[mods.rad-gyms.deps]]
+name = "architectury-api"
+version = "13.0.8+neoforge"
+providers = ["Modrinth"]
+
+[[mods.rad-gyms.deps]]
+name = "cobblemon"
+version = "1.7.3"
+providers = ["Modrinth"]
+
+[[mods.rad-gyms.deps]]
+name = "rctapi"
+version = "0.15.0-beta"
+providers = ["Modrinth"]
+
+[mods.rctapi]
+version = "0.15.0-beta"
+server_side = true
+client_side = true
+
+[[mods.rctapi.source]]
+
+[mods.rctapi.source.Download]
+url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/SXmQGjoe/rctapi-neoforge-1.21.1-0.15.0-beta.jar"
+sha1 = "c67bc4c6093e7b1eac1d92f7c762786f7b84d9e4"
+sha512 = "1d47a714f41de4a3805a12b131fa69ec9a537b1b6fbce2ad547d523d7b749918ac1db7f7aaaa29e2da17432c5e9d417f39f4bc0c94b8c3c9573153d34fd325c4"
+filename = "rctapi-neoforge-1.21.1-0.15.0-beta.jar"
+
+[[mods.rctapi.deps]]
+name = "architectury-api"
+version = "13.0.8+neoforge"
+providers = ["Modrinth"]
+
+[[mods.rctapi.deps]]
+name = "cobblemon"
+version = "1.7.3"
+providers = ["Modrinth"]
+
+[mods.rctmod]
+version = "0.17.7-beta"
+server_side = true
+client_side = true
+
+[[mods.rctmod.source]]
+
+[mods.rctmod.source.Download]
+url = "https://cdn.modrinth.com/data/lRwTUnD7/versions/y8MeKW8K/rctmod-neoforge-1.21.1-0.17.7-beta.jar"
+sha1 = "a64202d177bca0158b0fa40f7cfed23f1815fa12"
+sha512 = "7b0290f864c227a72c2b6cde45077f5217ada4f91a47ec98273a8cc251784d98203bf30a1db678b37a16acd3e9876bbd9e95a42dc02412d68be517b1266e9021"
+filename = "rctmod-neoforge-1.21.1-0.17.7-beta.jar"
+
+[[mods.rctmod.deps]]
+name = "cobblemon"
+version = "1.7.3"
+providers = ["Modrinth"]
+
+[[mods.rctmod.deps]]
+name = "rctapi"
+version = "0.15.0-beta"
+providers = ["Modrinth"]
+
 [mods.regions-unexplored]
 version = "0.6+beta3"
 server_side = true
@@ -1696,6 +1915,24 @@ url = "https://cdn.modrinth.com/data/fuuu3xnx/versions/iEE85X0w/Searchables-neof
 sha1 = "5b8a0b43a474c066371b2e16f9bfb88622552a74"
 sha512 = "d0824bac1900142ac9a53e68f7ec3b4c0d33d9366bbd3f1d0d93eed860e5eb6b5e6f5a215a69bfffa70bcb48573ff49b5a12bbaa96096ceac6636000d506027a"
 filename = "Searchables-neoforge-1.21.1-1.0.2.jar"
+
+[mods.serene-seasons]
+version = "10.1.0.3"
+server_side = true
+client_side = true
+
+[[mods.serene-seasons.source]]
+
+[mods.serene-seasons.source.Download]
+url = "https://cdn.modrinth.com/data/e0bNACJD/versions/SPj5bJoM/SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
+sha1 = "127e4a3e699dafebc512e1fa7983f245b49cb420"
+sha512 = "8d6c2712019da586c9f3a1372f2951173cd5f7a821645ffa03e4448e56f6b277aab0651307e1d4d9e0944cb02d32b2caff581bde912cb21fc6fd7b7d84655b8c"
+filename = "SereneSeasons-neoforge-1.21.1-10.1.0.3.jar"
+
+[[mods.serene-seasons.deps]]
+name = "glitchcore"
+version = "2.1.0.0"
+providers = ["Modrinth"]
 
 [mods.servercore]
 version = "1.5.10+1.21.1"
