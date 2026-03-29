@@ -356,6 +356,10 @@ version = "*"
 name = "lithostitched"
 version = "*"
 
+[mods.malum]
+name = "malum"
+version = "*"
+
 [mods.miners-delight]
 name = "miners-delight"
 version = "*"

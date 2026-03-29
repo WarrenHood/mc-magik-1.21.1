@@ -1471,6 +1471,19 @@ sha1 = "d1f7c638fac5192e01b1873f27e694a3c262ad11"
 sha512 = "6917080339b982d96cb4a7c98205ade5d89730191bc9113f4f8cd36bb1a760a91ad2421c8869c7063f8dea22a200d7d1896e0bb5e0e64119bb7590e32a998a23"
 filename = "lodestone-1.21.1-1.8.2.jar"
 
+[mods.malum]
+version = "1.8.2"
+server_side = true
+client_side = true
+
+[[mods.malum.source]]
+
+[mods.malum.source.Download]
+url = "https://cdn.modrinth.com/data/jgzwYsAN/versions/BIbVs1fo/malum-1.21.1-1.8.2.jar"
+sha1 = "7bea3f874f186a17ad3e271df145c179e81c2a1d"
+sha512 = "dd9ccc1dea3b090f69f807be3e7a8b99ec6d3d7d6b047e2893cb49ca505860bbf640cf767082c1a32ea403b35e2a9f9d1755327890bbfb2f8778058a9597a99e"
+filename = "malum-1.21.1-1.8.2.jar"
+
 [mods.miners-delight]
 version = "1.4.2"
 server_side = true
