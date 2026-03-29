@@ -451,6 +451,24 @@ name = "architectury-api"
 version = "13.0.8+neoforge"
 providers = ["Modrinth"]
 
+[mods.compat-delight]
+version = "1.0.1.1"
+server_side = true
+client_side = true
+
+[[mods.compat-delight.source]]
+
+[mods.compat-delight.source.Download]
+url = "https://cdn.modrinth.com/data/iNJJU8Ib/versions/lBjjKnwQ/compatdelight-1.0.1.1.jar"
+sha1 = "fddb6a171217a87b349d7fa086f91620c1266e24"
+sha512 = "b3b0693287a939db42836d176512081583655fab902a6afabbe8d77a37308e51a0057bb937a44618e77b12efbfd69cf75284865237428a6c08c7012a761c268c"
+filename = "compatdelight-1.0.1.1.jar"
+
+[[mods.compat-delight.deps]]
+name = "farmers-delight"
+version = "1.21.1-1.2.11"
+providers = ["Modrinth"]
+
 [mods.continents]
 version = "1.1.12"
 server_side = true
@@ -1622,6 +1640,34 @@ name = "kotlin-for-forge"
 version = "5.11.0"
 providers = ["Modrinth"]
 
+[mods.occultism]
+version = "1.21.1-neoforge-1.205.0"
+server_side = true
+client_side = true
+
+[[mods.occultism.source]]
+
+[mods.occultism.source.Download]
+url = "https://cdn.modrinth.com/data/sbJh4AZw/versions/fXmTszek/occultism-1.21.1-neoforge-1.205.0.jar"
+sha1 = "ace096c344f033c6699bbc0c008923d514b1bdd3"
+sha512 = "a399ff8760f50d5e4709034e3619f24a83498840a343ee6b3960b230bf597fc944462dce89c5233cc2143813fb7a206b22ce748f390ecce0141ca5ab4ae2a294"
+filename = "occultism-1.21.1-neoforge-1.205.0.jar"
+
+[[mods.occultism.deps]]
+name = "geckolib"
+version = "4.8.4"
+providers = ["Modrinth"]
+
+[[mods.occultism.deps]]
+name = "modonomicon"
+version = "1.21.1-1.120.1"
+providers = ["Modrinth"]
+
+[[mods.occultism.deps]]
+name = "smartbrainlib"
+version = "1.16.11"
+providers = ["Modrinth"]
+
 [mods.owo-lib]
 version = "0.12.15.5-beta.1+1.21"
 deps = []
@@ -1995,6 +2041,19 @@ filename = "sliceanddice-forge-4.2.4.jar"
 name = "create"
 version = "mc1.21.1-6.0.9"
 providers = ["Modrinth"]
+
+[mods.smartbrainlib]
+version = "1.16.11"
+server_side = true
+client_side = true
+
+[[mods.smartbrainlib.source]]
+
+[mods.smartbrainlib.source.Download]
+url = "https://cdn.modrinth.com/data/PuyPazRT/versions/O5EpeqI3/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
+sha1 = "0310135a01eeceefbc7f1ab017498a65f3ad6836"
+sha512 = "bfc76f6fd8c388d01b80601ad1b826f6b3f5ec5ea915e5725af129561e6bc4a10890975e6f6d2a0348d842c13042dcf1a9d0a1574fba76bce60119bee76e2dc2"
+filename = "SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
 
 [mods.sodium]
 version = "mc1.21.1-0.6.13-neoforge"

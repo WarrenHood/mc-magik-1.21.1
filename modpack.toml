@@ -110,6 +110,10 @@ version = "*"
 name = "cobblemore-library"
 version = "*"
 
+[mods.compat-delight]
+name = "compat-delight"
+version = "*"
+
 [mods.continents]
 name = "continents"
 version = "*"
@@ -392,6 +396,10 @@ version = "*"
 name = "observable"
 version = "*"
 
+[mods.occultism]
+name = "occultism"
+version = "*"
+
 [mods.patchouli]
 name = "patchouli"
 version = "*"
@@ -463,6 +471,12 @@ version = "*"
 [mods.slice-and-dice]
 name = "slice-and-dice"
 version = "*"
+
+[mods.smartbrainlib]
+name = "smartbrainlib"
+version = "*"
+server_side = true
+client_side = true
 
 [mods.sodium]
 name = "sodium"
