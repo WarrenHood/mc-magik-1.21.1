@@ -212,6 +212,24 @@ version = "*"
 name = "ferrite-core"
 version = "*"
 
+[mods.ftb-library]
+name = "ftb-library"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar"
+
+[mods.ftb-quests]
+name = "ftb-quests"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/7775/452/ftb-quests-neoforge-2101.1.23.jar"
+
+[mods.ftb-teams]
+name = "ftb-teams"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/7369/21/ftb-teams-neoforge-2101.1.9.jar"
+
 [mods.functional-storage]
 name = "functional-storage"
 version = "*"
@@ -348,6 +366,10 @@ version = "*"
 
 [mods.playeranimator]
 name = "playeranimator"
+version = "*"
+
+[mods.polymorph]
+name = "polymorph"
 version = "*"
 
 [mods.quark]

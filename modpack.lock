@@ -869,6 +869,45 @@ sha1 = "9563692efb708b6b568df27a01ec52f6311928ef"
 sha512 = "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
 filename = "ferritecore-7.0.3-neoforge.jar"
 
+[mods.ftb-library]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.ftb-library.source]]
+
+[mods.ftb-library.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7746/959/ftb-library-neoforge-2101.1.31.jar"
+sha1 = "686d4e784c28c14f7760cc22b2de6a8573b56b74"
+sha512 = "af7674d2d12b129b3841df1be8272606d480a6f707cd0b3b112f56068279e286fc5b4cc67e7f7c984d09e54bc5f7dde3fc55c15ff5fd901ad60f14ee9eb9eb01"
+filename = "ftb-library-neoforge-2101.1.31.jar"
+
+[mods.ftb-quests]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.ftb-quests.source]]
+
+[mods.ftb-quests.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7775/452/ftb-quests-neoforge-2101.1.23.jar"
+sha1 = "49ead4db72ab59c129021f0f0b532263650f819e"
+sha512 = "2369154a41b1463d79e678b25c5d7bdbe767a77d4baf0a9bfac53e5419962e19d7cb2aecdf31ae1238806afd06f0b55d3ebc34196a6168eb0bd29c355b68ed77"
+filename = "ftb-quests-neoforge-2101.1.23.jar"
+
+[mods.ftb-teams]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.ftb-teams.source]]
+
+[mods.ftb-teams.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7369/21/ftb-teams-neoforge-2101.1.9.jar"
+sha1 = "328e04bf1a445870aacea8fe7637670f84272a8f"
+sha512 = "f1542136eb2c857c9f278a2fe5b605186f2e1307c1b217812ed3f677b9ef5af01d86cb8269a5ce039325312f7d3f5d2ccb94c364a5aea52c28455de86e1cff9d"
+filename = "ftb-teams-neoforge-2101.1.9.jar"
+
 [mods.functional-storage]
 version = "1.21-1.5.5"
 server_side = true
@@ -1440,6 +1479,19 @@ url = "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation
 sha1 = "05be8ddcc78532b9a5520c718edc6c971cd0057c"
 sha512 = "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f"
 filename = "player-animation-lib-forge-2.0.4+1.21.1.jar"
+
+[mods.polymorph]
+version = "1.1.0+1.21.1"
+server_side = true
+client_side = true
+
+[[mods.polymorph.source]]
+
+[mods.polymorph.source.Download]
+url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neoforge-1.1.0%2B1.21.1.jar"
+sha1 = "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+sha512 = "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
+filename = "polymorph-neoforge-1.1.0+1.21.1.jar"
 
 [mods.puzzles-lib]
 version = "v21.1.39-1.21.1-NeoForge"
