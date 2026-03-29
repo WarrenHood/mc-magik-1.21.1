@@ -204,10 +204,6 @@ version = "*"
 name = "entitytexturefeatures"
 version = "*"
 
-[mods.every-compat]
-name = "every-compat"
-version = "*"
-
 [mods.farmers-delight]
 name = "farmers-delight"
 version = "*"
@@ -262,6 +258,14 @@ version = "*"
 name = "iris-flw-compat"
 version = "*"
 
+[mods.irons-patreon-library]
+name = "irons-patreon-library"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/7830/106/irons_patreon_lib-1.21.1-1.0.1.jar"
+server_side = true
+client_side = true
+
 [mods.irons-spells-n-spellbooks]
 name = "irons-spells-n-spellbooks"
 version = "*"
@@ -297,8 +301,6 @@ version = "*"
 [mods.lithostitched]
 name = "lithostitched"
 version = "*"
-server_side = true
-client_side = true
 
 [mods.miners-delight]
 name = "miners-delight"
@@ -354,7 +356,7 @@ version = "*"
 
 [mods.regions-unexplored]
 name = "regions-unexplored"
-version = "*"
+version = "0.6+beta3"
 
 [mods.repurposed-structures-forge]
 name = "repurposed-structures-forge"
@@ -382,7 +384,7 @@ version = "*"
 
 [mods.simple-discord-rpc]
 name = "simple-discord-rpc"
-version = "4.0.4"
+version = "*"
 
 [mods.slice-and-dice]
 name = "slice-and-dice"
@@ -416,7 +418,7 @@ version = "*"
 name = "twilightforest"
 version = "*"
 providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/7398/100/twilightforest-1.21.1-4.8.3287-universal.jar"
+download_url = "https://mediafilez.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar"
 server_side = true
 client_side = true
 
@@ -443,13 +445,13 @@ target_path = "options.txt"
 side = "Client"
 apply_policy = "Once"
 
-[files."./client/resourcepacks/Faithful 32x - 1.20.1.zip"]
-target_path = "resourcepacks/Faithful 32x - 1.20.1.zip"
+[files."./client/resourcepacks/Faithful 32x - 1.21.1.zip"]
+target_path = "resourcepacks/Faithful 32x - 1.21.1.zip"
 side = "Client"
 apply_policy = "Always"
 
-[files."./client/resourcepacks/Twilight JAPPA Pack 1.0.0.zip"]
-target_path = "resourcepacks/Twilight JAPPA Pack 1.0.0.zip"
+[files."./client/resourcepacks/TwilightJAPPAPack-1.21.1-1.2.0.zip"]
+target_path = "resourcepacks/TwilightJAPPAPack-1.21.1-1.2.0.zip"
 side = "Client"
 apply_policy = "Always"
 
@@ -458,8 +460,8 @@ target_path = "servers.dat"
 side = "Client"
 apply_policy = "Once"
 
-[files."./client/shaderpacks/ComplementaryReimagined_r5.6.1.zip"]
-target_path = "shaderpacks/ComplementaryReimagined_r5.6.1.zip"
+[files."./client/shaderpacks/ComplementaryReimagined_r5.7.1.zip"]
+target_path = "shaderpacks/ComplementaryReimagined_r5.7.1.zip"
 side = "Client"
 apply_policy = "Always"
 

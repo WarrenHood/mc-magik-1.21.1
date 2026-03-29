@@ -48,17 +48,17 @@ version = "0.12.15.5-beta.1+1.21"
 providers = ["Modrinth"]
 
 [mods.akashic-tome]
-version = "1.21.1-1.8-29"
+version = "1.21.1-1.8-30"
 server_side = true
 client_side = true
 
 [[mods.akashic-tome.source]]
 
 [mods.akashic-tome.source.Download]
-url = "https://cdn.modrinth.com/data/JBthPdnp/versions/iezuV4Rx/AkashicTome-1.8-29.jar"
-sha1 = "d5588c9982a8114b17efc703c67bd49f81a94295"
-sha512 = "59eb5167bd671aaeb0c5aba0434b06d597254109b345876bedb0a06d24dd064bfb0ca4102e040b82d3b2f7f04fdbddcbc68cd51ff2310b89d9ad50f96ac242d7"
-filename = "AkashicTome-1.8-29.jar"
+url = "https://cdn.modrinth.com/data/JBthPdnp/versions/MRro5nPG/AkashicTome-1.8-30.jar"
+sha1 = "6493e575f295e18fac1f7c5399c05c53caa1f7ce"
+sha512 = "c0061c263e1d701e71a75355c3db11c9a975dd1e47da0fe6592973bf12d4f5b44aa476f5daaeec42a3146a8d94fe96f1d57f1a4e37dcd18357e4d752b1a194bb"
+filename = "AkashicTome-1.8-30.jar"
 
 [mods.almost-unified]
 version = "1.21.1-1.3.0+neoforge"
@@ -178,9 +178,9 @@ client_side = true
 [[mods.better-archeology.source]]
 
 [mods.better-archeology.source.Download]
-url = "https://cdn.modrinth.com/data/zCh7omyG/versions/XlJUda6G/betterarcheology-neoforge-1.21.1-1.3.4.jar"
-sha1 = "f6d3e3f6d6602f438a06ff118fd05ef50f698a54"
-sha512 = "ca9e5cef74a409741e1b2b82e76d87526f36a751c1e641d75ac6ad5b87afe50ada4c2ccc7830d13e1fea3098cccda46cfc63bdb4ae8f91084a9c1ae565cd203a"
+url = "https://cdn.modrinth.com/data/zCh7omyG/versions/rp4lPDKI/betterarcheology-neoforge-1.21.1-1.3.4.jar"
+sha1 = "7bc67495d5d5ae9410189d94a5235c0ddc9a12f6"
+sha512 = "f745e9747e9e56fbac5a9ae5a60e2b587b0a1c4cf397a486b9a52cf5054bf9f6c249f3b38df3f510cce360dceeb988eaa98c4a18aeecfcd3624c29d3ba9e6d4f"
 filename = "betterarcheology-neoforge-1.21.1-1.3.4.jar"
 
 [[mods.better-archeology.deps]]
@@ -385,30 +385,30 @@ version = "21.0.56+neoforge-1.21.1"
 providers = ["Modrinth"]
 
 [mods.crafttweaker]
-version = "21.0.35"
+version = "21.0.38"
 server_side = true
 client_side = true
 
 [[mods.crafttweaker.source]]
 
 [mods.crafttweaker.source.Download]
-url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/QaCXJ4O7/CraftTweaker-neoforge-1.21.1-21.0.35.jar"
-sha1 = "83f3b549473e702bb52fae3c4f4007c944445248"
-sha512 = "dd32d0ef99b6a94cf2efc1762b183aa87b3c6ee364464c096e144cf45c0b598387336b37c873ea32f6caa6457bc622d2ca4c09c4a0eaae0c48587aa5bd678e50"
-filename = "CraftTweaker-neoforge-1.21.1-21.0.35.jar"
+url = "https://cdn.modrinth.com/data/Xg35A4rS/versions/BVOSHJwc/CraftTweaker-neoforge-1.21.1-21.0.38.jar"
+sha1 = "dba530a29e0dd26333c1a1a82ae33942483306df"
+sha512 = "2534b0914b3323799410dc246c10376e8172f4f01694094831f9beacd202d4244e6cf788a5dfcad09608977df2afdacd2704bdd96e49eb36c9cc0d75ea42fef1"
+filename = "CraftTweaker-neoforge-1.21.1-21.0.38.jar"
 
 [mods.craterlib]
-version = "1.21-3.0.1"
+version = "1.21-3.1.0"
 server_side = true
 client_side = true
 
 [[mods.craterlib.source]]
 
 [mods.craterlib.source.Download]
-url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/cBhYL3vy/CraterLib-Neoforge-1.21-3.0.1.jar"
-sha1 = "25d61724a03e68adcee9d838bbf6bf6f061e1eb3"
-sha512 = "8083a3bb321efcd94824b6253573906652bac2afb7183d796aaad521cb92b6cc5a239cf01040e0da7031bc429db2e84d6da7aaeb2cb8d4410f301645eba3897e"
-filename = "CraterLib-Neoforge-1.21-3.0.1.jar"
+url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/IDi26FjR/CraterLib-Neoforge-1.21-3.1.0.jar"
+sha1 = "269b42adba7b874a58559cbaff3d4c028b09c837"
+sha512 = "dbe736c8fa8dda044d780236f9e48a79fa47be5b151214f8764f562a3cf697d11f431fa257c165c374bfd7e55a9c2b996705b6c808cb440939dc999b72be5a9d"
+filename = "CraterLib-Neoforge-1.21-3.1.0.jar"
 
 [mods.create]
 version = "mc1.21.1-6.0.9"
@@ -424,22 +424,17 @@ sha512 = "8b3b3d9b6874f31a538add81390dff26b5f9475da6349dc52fc20dbde802edfc32ead5
 filename = "create-1.21.1-6.0.9.jar"
 
 [mods.create-applied-kinetics]
-version = "1.5.3-1.21.1"
+version = "1.5.4"
 server_side = true
 client_side = true
 
 [[mods.create-applied-kinetics.source]]
 
 [mods.create-applied-kinetics.source.Download]
-url = "https://cdn.modrinth.com/data/mYGTCuZY/versions/5hxuW9NL/createappliedkinetics-1.5.3-1.21.1.jar"
-sha1 = "050fa78283731de06e8a4046da5d99bc7466d093"
-sha512 = "811381c533257d0fa7f552e4cbc8395c9775530d8c4d3d128e1ee98af6a12dc5317d36f2289579e1b8f4bade99c27049a63e406222efc889f32b1b3c9d460245"
-filename = "createappliedkinetics-1.5.3-1.21.1.jar"
-
-[[mods.create-applied-kinetics.deps]]
-name = "create"
-version = "mc1.21.1-6.0.9"
-providers = ["Modrinth"]
+url = "https://cdn.modrinth.com/data/mYGTCuZY/versions/Sk7TlTkT/createappliedkinetics-1.5.4-1.21.1.jar"
+sha1 = "dd2df3b8febb78721be502aceff16af979a91314"
+sha512 = "1542a8395c91ff8de610206484c3a7acd2b0519854bc3a07e13a0d1230917e4f60a10cc3178de4bd01df733dca05d0a1ccdbf9f855c3252297cf0bbfb23a37ff"
+filename = "createappliedkinetics-1.5.4-1.21.1.jar"
 
 [mods.create-big-cannons]
 version = "5.11.2"
@@ -573,17 +568,17 @@ version = "1.8.7"
 providers = ["Modrinth"]
 
 [mods.create-let-the-adventure-begin]
-version = "3.8.1"
+version = "3.8.4"
 server_side = true
 client_side = true
 
 [[mods.create-let-the-adventure-begin.source]]
 
 [mods.create-let-the-adventure-begin.source.Download]
-url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/B0635kI7/create_ltab-3.8.1.jar"
-sha1 = "e40ede0bb8908ba080a07fbc9953710604ba3315"
-sha512 = "b7f135c16e9ca5cc44d96208734fcd43f5605c92e89270938f7ab266a127b63077a8cae69c0a48bf365fdf2877ca4e3615d42493c5b1e80cf16024c9181448b4"
-filename = "create_ltab-3.8.1.jar"
+url = "https://cdn.modrinth.com/data/fUa6OtBG/versions/uAO8e9oQ/create_ltab-3.8.4.jar"
+sha1 = "835740a05b55baf6f2fb6596ed8ebb9008126182"
+sha512 = "fe8784d1a707fcd3f860378eacc50e7ddb09204c8fd4adbeb7dfda3f17e74779cec7321667fbe86a57f49838560f98e577322358e350c45ce148d616dc9d9b65"
+filename = "create_ltab-3.8.4.jar"
 
 [mods.create-new-age]
 version = "1.1.7c+mc1.21.1"
@@ -604,17 +599,17 @@ version = "mc1.21.1-6.0.9"
 providers = ["Modrinth"]
 
 [mods.create-structures-arise]
-version = "173.46.45"
+version = "174.47.46"
 server_side = true
 client_side = true
 
 [[mods.create-structures-arise.source]]
 
 [mods.create-structures-arise.source.Download]
-url = "https://cdn.modrinth.com/data/9enMEvoc/versions/HSECDqTu/create_structures_arise-173.46.45%20Release-neoforge-1.21.1.jar"
-sha1 = "6b20cce9822bd80e96b9823818edf9bc8995fe92"
-sha512 = "6c10f5d3773432168905aca7f5f496658aee63a08a8f15a33027143fa5d150ada043f724845f45d8c580ffeb8e272b75ef3a4b3826875013ad48fe6223be17c0"
-filename = "create_structures_arise-173.46.45 Release-neoforge-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/9enMEvoc/versions/BqB1xPS9/create_structures_arise-174.47.46%20Release-neoforge-1.21.1.jar"
+sha1 = "53c5811a747c555fe70032f4712bc1e0903cb057"
+sha512 = "6b5078b357f021ead4ff269fc279af86f68281c2ea0f44b681099d4bb840df2893e7b028c93d4bea3f7a33e831c302984d0bed4180cbede801a56179212da517"
+filename = "create_structures_arise-174.47.46 Release-neoforge-1.21.1.jar"
 
 [mods.create-teleporters]
 version = "1.1.0"
@@ -640,17 +635,17 @@ version = "1.2.12-neoforge-mc1.21.1"
 providers = ["Modrinth"]
 
 [mods.create-wizardry]
-version = "1.21.1-0.4.1"
+version = "1.21.1-0.4.2"
 server_side = true
 client_side = true
 
 [[mods.create-wizardry.source]]
 
 [mods.create-wizardry.source.Download]
-url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/mH7u4nCX/create_wizardry-1.21.1-0.4.1.jar"
-sha1 = "4dbbed91842e9022244f8c0dd32536c1c7d88f57"
-sha512 = "6b9fe25ef6dd750fed28cba93d91c61d47eca73468140d0e696122132e6841f78f3c9e26a108d485c3c55c30f08aa930b9fa1350c6b7f7b2a9319f0fa72efc75"
-filename = "create_wizardry-1.21.1-0.4.1.jar"
+url = "https://cdn.modrinth.com/data/OeGdeWEj/versions/kQdA7Ygy/create_wizardry-1.21.1-0.4.2.jar"
+sha1 = "28a8db864c8e0553cd387eedb845bd3fec603d02"
+sha512 = "2f56328d84c15bf41fe689c39c19c11b7c58eaf72f846d35ba78f323fbca6c11229706400826cfaf152043fe3f8943a853d1362d7433e13a2eb76e647d09d2da"
+filename = "create_wizardry-1.21.1-0.4.2.jar"
 
 [mods.createaddition]
 version = "neoforge-1.21.1-1.5.10"
@@ -791,7 +786,7 @@ version = "1.1.22+1.21.1+neoforge"
 providers = ["Modrinth"]
 
 [mods.enderio]
-version = "v8.2.1-alpha"
+version = "v8.2.3-beta"
 deps = []
 server_side = true
 client_side = true
@@ -799,85 +794,67 @@ client_side = true
 [[mods.enderio.source]]
 
 [mods.enderio.source.Download]
-url = "https://cdn.modrinth.com/data/49ZofO4f/versions/a6PXkRkq/enderio-8.2.1-alpha.jar"
-sha1 = "7056395c68a18315d19cb48af4534730b57361bc"
-sha512 = "cbcc5130500bd8dc8c5c30c11ffc8d4811466ca8912740fdf165de38abe1ded25c4ff2b682bb19e39fdfee87c62dac4051da73cd7417b89d1b0e6dfc4ebd521b"
-filename = "enderio-8.2.1-alpha.jar"
+url = "https://cdn.modrinth.com/data/49ZofO4f/versions/j7hVMHNk/enderio-8.2.3-beta.jar"
+sha1 = "1bbca21faa06f921309dbc57ee5dc5cc23369773"
+sha512 = "9057d8312ec226d4d8c240dc047f8277fb8322049cbaa3a1c5abc73bae6b1deea9f6de4cc2fa0e649a13a2103055be24d1e31866b0f410892e5b93a84d10ab20"
+filename = "enderio-8.2.3-beta.jar"
 
 [mods.entity-model-features]
-version = "3.0.12-neoforge-1.21"
+version = "3.0.17-neoforge-1.21"
 server_side = false
 client_side = true
 
 [[mods.entity-model-features.source]]
 
 [mods.entity-model-features.source.Download]
-url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/JHa6X5M3/entity_model_features_1.21-neoforge-3.0.12.jar"
-sha1 = "592166c3d5d6f5c17b31e7fa2607d85038883d09"
-sha512 = "a8bf41309d8606dfc513271d6f25cfe0bc8493aa055a3a922c6ce4b766bd371eb54c24a9446aab4d59f6507f5280b6a0cba79173d9e828b3871ba5ab381890b5"
-filename = "entity_model_features_1.21-neoforge-3.0.12.jar"
+url = "https://cdn.modrinth.com/data/4I1XuqiY/versions/ePlhNKXk/entity_model_features_1.21-neoforge-3.0.17.jar"
+sha1 = "2b8850f70a1cf18a9c9c2d68e4a586dfbf68d30c"
+sha512 = "6bd86b8f79715d3c2f7453dfee7d69b91827871a11dada53e936fc6931078b934838ddad97632e5807bedb901979d3269cf6ce2ee61e316e8ec223c965d246e1"
+filename = "entity_model_features_1.21-neoforge-3.0.17.jar"
 
 [[mods.entity-model-features.deps]]
 name = "entitytexturefeatures"
-version = "7.0.9-neoforge-1.21"
+version = "7.0.13-neoforge-1.21"
 providers = ["Modrinth"]
 
 [mods.entityculling]
-version = "1.9.5"
+version = "1.10.0"
 server_side = false
 client_side = true
 
 [[mods.entityculling.source]]
 
 [mods.entityculling.source.Download]
-url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/DwB2BGbW/entityculling-neoforge-1.9.5-mc1.21.1.jar"
-sha1 = "0b4a085c1b79c86d7054342123a0ce8deaa0b174"
-sha512 = "09fa3cfcf5c4b57291a0ebeb358e7fc2a3c0247647249f490680ba1c931263e49b55cba3e585606c2ce1e554140db6523b9e831220f03464d401834067ee540c"
-filename = "entityculling-neoforge-1.9.5-mc1.21.1.jar"
+url = "https://cdn.modrinth.com/data/NNAgCjsB/versions/f771UfeW/entityculling-neoforge-1.10.0-mc1.21.1.jar"
+sha1 = "3ed524d21dfc679e8f1b9de148c26d49eaf89475"
+sha512 = "98406c96eb7d2314d23bfc51c1bb68730d06c5ce668fdf8edc0e1a87f2e1c061aef6f96ad9244fc8eece07c1dceff6a45b5d1401e1abf0920bafd2543bd410b2"
+filename = "entityculling-neoforge-1.10.0-mc1.21.1.jar"
 
 [mods.entitytexturefeatures]
-version = "7.0.9-neoforge-1.21"
+version = "7.0.13-neoforge-1.21"
 server_side = false
 client_side = true
 
 [[mods.entitytexturefeatures.source]]
 
 [mods.entitytexturefeatures.source.Download]
-url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/Z10hRNc9/entity_texture_features_1.21-neoforge-7.0.9.jar"
-sha1 = "0a31d1b0753ad626b06e14fb5af840bf3d4c7973"
-sha512 = "ffe8cabdda7647ce5362a835fd28446516656e20541fd32f0c985603fd896a7b3fe5ee73680d6bdefb208786532bb0c0d3ecc5275e7acfef2c06b0a620ca21cb"
-filename = "entity_texture_features_1.21-neoforge-7.0.9.jar"
-
-[mods.every-compat]
-version = "1.21-2.11.29-neoforge"
-server_side = true
-client_side = true
-
-[[mods.every-compat.source]]
-
-[mods.every-compat.source.Download]
-url = "https://cdn.modrinth.com/data/eiktJyw1/versions/u6PmiTvJ/everycomp-1.21-2.11.29-neoforge.jar"
-sha1 = "6a1184016ebaa0df4acdbeced802fb97c9a4683f"
-sha512 = "9b8f161407621d9579fb15cf7efed3aa3e8ba2b046b204011c864400d959466df78a5f3c232a3925de2a95376bb4a45408b7a772da4afa4e6f4d4b3ed227f283"
-filename = "everycomp-1.21-2.11.29-neoforge.jar"
-
-[[mods.every-compat.deps]]
-name = "moonlight"
-version = "1.21-2.29.20-neoforge"
-providers = ["Modrinth"]
+url = "https://cdn.modrinth.com/data/BVzZfTc1/versions/njTVIXr7/entity_texture_features_1.21-neoforge-7.0.13.jar"
+sha1 = "22d148a6fc6d0df294ff38b957b7399fbdb95048"
+sha512 = "bd3fdd72b5f43b7d55c6fdb142855128f3e894c743efb34989edb8ce3e5967da692a350322e6aa9d7f1a9da57e0407bddc1a4f3627d8ef15d6912b1213a69f90"
+filename = "entity_texture_features_1.21-neoforge-7.0.13.jar"
 
 [mods.farmers-delight]
-version = "1.21.1-1.2.10"
+version = "1.21.1-1.2.11"
 server_side = true
 client_side = true
 
 [[mods.farmers-delight.source]]
 
 [mods.farmers-delight.source.Download]
-url = "https://cdn.modrinth.com/data/R2OftAxM/versions/EVaDSbPj/FarmersDelight-1.21.1-1.2.10.jar"
-sha1 = "93f4de62fce2b90ee8c87e4f6d9b82edb132003d"
-sha512 = "9c7bf1df38efe6167622938ecd9fcc9d2fb38de7457f3ef4ec189409a2268fd783c2e4a64c3da80ba67a463bb72c841f6510a57eadc88a078e44a085c299fa62"
-filename = "FarmersDelight-1.21.1-1.2.10.jar"
+url = "https://cdn.modrinth.com/data/R2OftAxM/versions/cYqC3svy/FarmersDelight-1.21.1-1.2.11.jar"
+sha1 = "2415b91d6437977e676985b4a2ef877208d202e1"
+sha512 = "0af142f085dbb3178bdb521b80bcbf6fd0d0d767df2a899df9066f0fe5641240da15343fe5ed7441d1e44aeff72e402fe17157f2003932ae03761788417e0332"
+filename = "FarmersDelight-1.21.1-1.2.11.jar"
 
 [mods.ferrite-core]
 version = "7.0.3-neoforge"
@@ -1105,18 +1082,31 @@ name = "iris"
 version = "1.8.12+1.21.1-neoforge"
 providers = ["Modrinth"]
 
+[mods.irons-patreon-library]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.irons-patreon-library.source]]
+
+[mods.irons-patreon-library.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7830/106/irons_patreon_lib-1.21.1-1.0.1.jar"
+sha1 = "b66a7a841a3d9d697df1d897b9da6c6a94e24dc6"
+sha512 = "6bd55db5624356306ca194532b43a7414c8dd0357fdbcff5c3034d497a1a806f02ce88096561242337cfd87b13a7c38c0a4802442120e52f1dac0b22999f842d"
+filename = "irons_patreon_lib-1.21.1-1.0.1.jar"
+
 [mods.irons-spells-n-spellbooks]
-version = "1.21.1-3.15.2"
+version = "1.21.1-3.15.5"
 server_side = true
 client_side = true
 
 [[mods.irons-spells-n-spellbooks.source]]
 
 [mods.irons-spells-n-spellbooks.source.Download]
-url = "https://cdn.modrinth.com/data/s4OWxYQQ/versions/Cu7ovsnN/irons_spellbooks-1.21.1-3.15.2.jar"
-sha1 = "2bd487eda649c1a5cfff10b14a0d9258a12a47fc"
-sha512 = "73e9d978fd64da167c902ca4bcc2a7ac1ab004aeb0dd3092da75f59eb963574037534ec516de5776ad4de1e9447ab0656111afd1d84c12e190f06d011829a318"
-filename = "irons_spellbooks-1.21.1-3.15.2.jar"
+url = "https://cdn.modrinth.com/data/s4OWxYQQ/versions/sPqLXk3a/irons_spellbooks-1.21.1-3.15.5.jar"
+sha1 = "9a0d90780555cb7ccb3a72887a5b302bd5306ec0"
+sha512 = "2cedd83ec44c06c138258b8db2ebbb9e039e38584929531763fffd671abf15d55a4e35ad9039a18813a0ac03c7d0b60cdbf87dfd94aaddff218806461268f468"
+filename = "irons_spellbooks-1.21.1-3.15.5.jar"
 
 [mods.item-obliterator]
 version = "2.3.0"
@@ -1177,17 +1167,17 @@ sha512 = "b32faa6d616511aff4f8b32197877c53b9f8bee103884ec37c632b5d017bb59a498ec9
 filename = "kotlinforforge-5.11.0-all.jar"
 
 [mods.l_enders-cataclysm]
-version = "3.24"
+version = "3.25"
 server_side = true
 client_side = true
 
 [[mods.l_enders-cataclysm.source]]
 
 [mods.l_enders-cataclysm.source.Download]
-url = "https://cdn.modrinth.com/data/46KJle7n/versions/d63cScc1/L_Ender%27s%20Cataclysm%201.21.1-3.24.jar"
-sha1 = "2327d83dc75854ae1637277c74449f5d294a8c89"
-sha512 = "c9a1a40de9845f881cbb746b81edd0ffdfc97335d7525a0b2cb4e6c9702d9decf17ee983d30d26c12e54b327ef40ba97a5812a4e1334bae10acc02a916ce0ada"
-filename = "L_Ender's Cataclysm 1.21.1-3.24.jar"
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/VSTFI2yO/L_Ender%27s%20Cataclysm%201.21.1-3.25.jar"
+sha1 = "39dc0c76e77131fe62844e70ec9bf563581a7f74"
+sha512 = "d424e5f17189777dff9f9fad188075d132ccaa0f514b63b66a637f334a37984b79fa034876e0c50b11e1053fb7b7406b9e2db13613258b89f54147181187aaad"
+filename = "L_Ender's Cataclysm 1.21.1-3.25.jar"
 
 [mods.leaves-be-gone]
 version = "v21.1.0-1.21.1-NeoForge"
@@ -1261,7 +1251,7 @@ filename = "minersdelight-1.21.1-1.4.2.jar"
 
 [[mods.miners-delight.deps]]
 name = "farmers-delight"
-version = "1.21.1-1.2.10"
+version = "1.21.1-1.2.11"
 providers = ["Modrinth"]
 
 [[mods.miners-delight.deps]]
@@ -1296,19 +1286,6 @@ sha1 = "e127c8ba3d194678e11a00af6422394a7ed476b1"
 sha512 = "679cffa56d2e512201c2fc8dd271c8729e0800d76d8260e7b511ade4a73aee567a908cec0ff64e2170d19b82c2726191de5258c16974de5b423a5a3269175ef0"
 filename = "modonomicon-1.21.1-neoforge-1.120.1.jar"
 
-[mods.moonlight]
-version = "1.21-2.29.20-neoforge"
-server_side = true
-client_side = true
-
-[[mods.moonlight.source]]
-
-[mods.moonlight.source.Download]
-url = "https://cdn.modrinth.com/data/twkfQtEc/versions/X7j32itX/moonlight-1.21-2.29.20-neoforge.jar"
-sha1 = "99f9973f69460a772a4e8beccb9ca3f69e0a1291"
-sha512 = "29889fe15f80fbc3f1793289572a8c9dad15d4439a81ac8db5f1ab3b6d347877fc403c96a2021869f24df6f8c2af35b7160bd548a258004f3e59799da4864297"
-filename = "moonlight-1.21-2.29.20-neoforge.jar"
-
 [mods.mouse-tweaks]
 version = "1.21-2.26.1-neoforge"
 server_side = false
@@ -1323,17 +1300,17 @@ sha512 = "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd
 filename = "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
 
 [mods.mowzies-mobs]
-version = "1.8.1"
+version = "1.8.2"
 server_side = true
 client_side = true
 
 [[mods.mowzies-mobs.source]]
 
 [mods.mowzies-mobs.source.Download]
-url = "https://cdn.modrinth.com/data/BFbX9xcm/versions/K4pvUDP4/mowziesmobs-1.21.1-1.8.1.jar"
-sha1 = "71ae2da5cf2a2660c9f873d423f9e4199d8a66d2"
-sha512 = "561387be585b9b3c434c71c49137d61a01c13fa12373af0e8b531acfb8c2bb0b2958ec15d3a72c12db054235a7ae31fb62f8f1fe4b6e88629c37730453fd6c6a"
-filename = "mowziesmobs-1.21.1-1.8.1.jar"
+url = "https://cdn.modrinth.com/data/BFbX9xcm/versions/xgAXTl17/mowziesmobs-1.21.1-1.8.2.jar"
+sha1 = "d64475cd77444b056ece6472c79d40293dc63c6c"
+sha512 = "ab10d2f759df613d5094bac26c5a8bbe144786699018f7e4ae027fc4a86632aa7f96206f2c8be9970338eadef42539614a19b41d0d70b6216c3ed1c4c4421f0a"
+filename = "mowziesmobs-1.21.1-1.8.2.jar"
 
 [mods.natures-compass]
 version = "1.21.1-3.0.3-neoforge"
@@ -1412,17 +1389,17 @@ sha512 = "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f41
 filename = "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 
 [mods.patchouli]
-version = "1.21.1-92-neoforge"
+version = "1.21.1-93-neoforge"
 server_side = true
 client_side = true
 
 [[mods.patchouli.source]]
 
 [mods.patchouli.source.Download]
-url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/h6hKI2ob/Patchouli-1.21.1-92-NEOFORGE.jar"
-sha1 = "97ae42096ee4a0a242cd8468dde293017f3cc39c"
-sha512 = "36cad2a2e5839fd4ee99165c4f275d1c3c0c71ed130413485e43f8506e7d2c3de2e2dbad40f90262378c6c6c5148140a473b0f7acd806e1a4bfede9c9a04600f"
-filename = "Patchouli-1.21.1-92-NEOFORGE.jar"
+url = "https://cdn.modrinth.com/data/nU0bVIaL/versions/BIogJv2D/Patchouli-1.21.1-93-NEOFORGE.jar"
+sha1 = "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
+sha512 = "0b5c172db9a6eeecb5ca44b359a83548c3a60be7ff313959acdfc1e5b8039736c18e57e947d435b52d06da31159d2d02ea36e5742668dbc826308a4c99e4039f"
+filename = "Patchouli-1.21.1-93-NEOFORGE.jar"
 
 [mods.pehkui]
 version = "3.8.3+1.21-neoforge"
@@ -1478,17 +1455,17 @@ sha512 = "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132
 filename = "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
 
 [mods.quark]
-version = "4.1-474"
+version = "4.1-475"
 server_side = true
 client_side = true
 
 [[mods.quark.source]]
 
 [mods.quark.source.Download]
-url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/PRtPti1t/Quark-4.1-474.jar"
-sha1 = "a9634d9631d06a971b190c681bedebb77a7abb8d"
-sha512 = "e04ac52b175ef81cac15d2d2c456133d29d45d6f2456ead2462fab90f7993a321731514a529fabc74b8281c4614e958742c236fe77232c908fafa50713f37dcc"
-filename = "Quark-4.1-474.jar"
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/IvW220rK/Quark-4.1-475.jar"
+sha1 = "ad9f7c9ab935f70d431ceea35976a52f9bcd26e9"
+sha512 = "98557681091c0a2b2289cffc8ca21f36b3e78706f5a1a680edb77f25f3c3644e98772e605db02d323b599f2e0f175941fd6ae9e6649ab2495abe621ddcd5c7d0"
+filename = "Quark-4.1-475.jar"
 
 [[mods.quark.deps]]
 name = "zeta"
@@ -1496,17 +1473,17 @@ version = "1.1-39"
 providers = ["Modrinth"]
 
 [mods.regions-unexplored]
-version = "0.5.9"
+version = "0.6+beta3"
 server_side = true
 client_side = true
 
 [[mods.regions-unexplored.source]]
 
 [mods.regions-unexplored.source.Download]
-url = "https://cdn.modrinth.com/data/Tkikq67H/versions/KrbwbPuJ/regions_unexplored-neoforge-1.21.1-0.5.9.jar"
-sha1 = "064c2da020731fadd07e095707320431df12288d"
-sha512 = "df3e1b95734ec259c6c1ef9e1ce08df96a40868efa171a2009e2b1ea5c9410e86cbcdccc37256e3bd3dbafe77994ad65c801536302bc41d55b3e7915fa0d8a17"
-filename = "regions_unexplored-neoforge-1.21.1-0.5.9.jar"
+url = "https://cdn.modrinth.com/data/Tkikq67H/versions/3qWB25z2/regions-unexplored-0.6%2Bbeta3-neoforge-21.1.jar"
+sha1 = "5d18ae48fcefc229107d45e61d4966bdcbd0dd49"
+sha512 = "8b01d4f0e547ae1f1362256674fabbfca878ac281cfbfeeef0833d1d0bd0e01373575b37c9031c0c4930e7c54ab11b8d89c1f32509ea7d61bc670be4c900fc0e"
+filename = "regions-unexplored-0.6+beta3-neoforge-21.1.jar"
 
 [mods.repurposed-structures-forge]
 version = "7.5.18+1.21.1-neoforge"
@@ -1561,17 +1538,17 @@ sha512 = "6d64c84505a5a8fbb96d106603065465c5a2314ec09636900c5c1a31014c12fa68f1a4
 filename = "ritchiesprojectilelib-2.1.2+mc.1.21.1-neoforge.jar"
 
 [mods.runiclib]
-version = "5.0.5"
+version = "5.0.6"
 server_side = true
 client_side = true
 
 [[mods.runiclib.source]]
 
 [mods.runiclib.source.Download]
-url = "https://cdn.modrinth.com/data/mk0Htq87/versions/exgO1yv5/neoforge-runiclib-1.21.1-5.0.5.1.jar"
-sha1 = "34134adeaa1e56014c66269714548e6bcf353f24"
-sha512 = "cd529520f8be51fa4271745e1793b0b08a5eaea0b6e4d0c8e18314d9c4c1f51412ac090ea31d13e0cf79395268266a37b393e1dd788575162adab94b2c28870b"
-filename = "neoforge-runiclib-1.21.1-5.0.5.1.jar"
+url = "https://cdn.modrinth.com/data/mk0Htq87/versions/DR9yZcRO/neoforge-runiclib-1.21.1-5.0.6.jar"
+sha1 = "4db030cf38899612e364bfc63936d09b246fc69b"
+sha512 = "a1c1d5916d5d9b0c5daea35d8a4d7bc23747b8de6f65b6bde07bdf35039cf95bd89dd5d09d8cc6cf95c255afa7196ba3c40467edd50173bb466b7f356cfba012"
+filename = "neoforge-runiclib-1.21.1-5.0.6.jar"
 
 [mods.rustic-engineer]
 version = "1.1.4"
@@ -1631,35 +1608,35 @@ sha512 = "eb6ed9c72219de80b22d2c9ca63a5cd4c613fd02d72d5bc1de432fe6c501afa2fecf27
 filename = "servercore-neoforge-1.5.10+1.21.1.jar"
 
 [mods.simple-discord-rpc]
-version = "4.0.4"
+version = "4.1.0+hotfix.1"
 server_side = false
 client_side = true
 
 [[mods.simple-discord-rpc.source]]
 
 [mods.simple-discord-rpc.source.Download]
-url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/nkRAWFxK/SimpleRPC-4.0.4.jar"
-sha1 = "36b4246bb5ce216ecc3e3b92a56fa5eb103a9786"
-sha512 = "69362a4ceb69030f8a784e329db3ee960f1e61755b3eb7058019722611ce6c700954aaf6c2302dbf3a3cc23ad21cef6c7c366421639c90b586f6da72fad5f600"
-filename = "SimpleRPC-4.0.4.jar"
+url = "https://cdn.modrinth.com/data/ObXSoyrn/versions/lLHXLt53/SimpleRPC-4.1.0%2Bhotfix.1.jar"
+sha1 = "7477678e20649b2177de64de967b72525fa3556e"
+sha512 = "847ff6f1ae7a27279a7dc10362c47d79a6c4018cd5677a4b6f7f29149fec17ac980dd21374448cb21a988797f865b0d17043dfa59910620e913fc91d0f5f2967"
+filename = "SimpleRPC-4.1.0+hotfix.1.jar"
 
 [[mods.simple-discord-rpc.deps]]
 name = "craterlib"
-version = "1.21-3.0.1"
+version = "1.21-3.1.0"
 providers = ["Modrinth"]
 
 [mods.slice-and-dice]
-version = "4.2.2"
+version = "4.2.4"
 server_side = true
 client_side = true
 
 [[mods.slice-and-dice.source]]
 
 [mods.slice-and-dice.source.Download]
-url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/DwseRoo3/sliceanddice-forge-4.2.2.jar"
-sha1 = "980f26c4ed2b077462950e1710d28c0b6af7aecd"
-sha512 = "6bc2bb30ae523b1b522e3fdd4bd6437e9f69074a4101b0d43bac3867b0e37ee60eb05cdaee55fea434444323f5c1fc4b3cab9bca0b6fda53b3685291b8b734ef"
-filename = "sliceanddice-forge-4.2.2.jar"
+url = "https://cdn.modrinth.com/data/GmjmRQ0A/versions/tyVnEa75/sliceanddice-forge-4.2.4.jar"
+sha1 = "13d8835813b3851d4818c59ec8f7124e4a826c14"
+sha512 = "3834893ba6614befba87e6be13481bedfa7bce1ba196e75a6e8335b4718be772481f7ef6bea10b22fbcf154b0147ea97536102ddcf70912e5843f547ee3f711d"
+filename = "sliceanddice-forge-4.2.4.jar"
 
 [[mods.slice-and-dice.deps]]
 name = "create"
@@ -1680,21 +1657,21 @@ sha512 = "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08
 filename = "sodium-neoforge-0.6.13+mc1.21.1.jar"
 
 [mods.sophisticated-backpacks]
-version = "1.21.1-3.25.31.1560"
+version = "1.21.1-3.25.34.1604"
 server_side = true
 client_side = true
 
 [[mods.sophisticated-backpacks.source]]
 
 [mods.sophisticated-backpacks.source.Download]
-url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/hYFQ3EYa/sophisticatedbackpacks-1.21.1-3.25.31.1560.jar"
-sha1 = "2f2c5e27e0f3ce382dee5a91ed6f872b0061b8e6"
-sha512 = "8a2ce9138247b62a2138fd1f7beb9f59a4b58e8ce8539cbe3b4f4df3007387fcdd4b3a6a98cd5cc3d6263bd08a47596497ad3d5385b53865939af33c509b4a97"
-filename = "sophisticatedbackpacks-1.21.1-3.25.31.1560.jar"
+url = "https://cdn.modrinth.com/data/TyCTlI4b/versions/h91LKaZD/sophisticatedbackpacks-1.21.1-3.25.34.1604.jar"
+sha1 = "45173070d66f23e878309efef2bce49083f88d8e"
+sha512 = "2cba525907e741b631916eb42f2b8b7395d1e574c897513896a75046020e52a45d860af7a10c9a7de77cfaab272fb91d227741239a1bc93af0ea74454e876286"
+filename = "sophisticatedbackpacks-1.21.1-3.25.34.1604.jar"
 
 [[mods.sophisticated-backpacks.deps]]
 name = "sophisticated-core"
-version = "1.21.1-1.4.6.1506"
+version = "1.21.1-1.4.11.1559"
 providers = ["Modrinth"]
 
 [mods.sophisticated-backpacks-create-integration]
@@ -1717,26 +1694,26 @@ providers = ["Modrinth"]
 
 [[mods.sophisticated-backpacks-create-integration.deps]]
 name = "sophisticated-backpacks"
-version = "1.21.1-3.25.31.1560"
+version = "1.21.1-3.25.34.1604"
 providers = ["Modrinth"]
 
 [[mods.sophisticated-backpacks-create-integration.deps]]
 name = "sophisticated-core"
-version = "1.21.1-1.4.6.1506"
+version = "1.21.1-1.4.11.1559"
 providers = ["Modrinth"]
 
 [mods.sophisticated-core]
-version = "1.21.1-1.4.6.1506"
+version = "1.21.1-1.4.11.1559"
 server_side = true
 client_side = true
 
 [[mods.sophisticated-core.source]]
 
 [mods.sophisticated-core.source.Download]
-url = "https://cdn.modrinth.com/data/nmoqTijg/versions/n8SOoVPF/sophisticatedcore-1.21.1-1.4.6.1506.jar"
-sha1 = "b388bd9a2ac8f6b47612fdf73c973e56b49874a5"
-sha512 = "bd90b35de53325fa0ff94b7569275d8d12428fef0636192e32d901e5c60da453e0bd5ce1b05730212434717bba8a17820f7074416a602e33a9a1110693deab0b"
-filename = "sophisticatedcore-1.21.1-1.4.6.1506.jar"
+url = "https://cdn.modrinth.com/data/nmoqTijg/versions/CBl46wvt/sophisticatedcore-1.21.1-1.4.11.1559.jar"
+sha1 = "95a264390d50391560a224a1bdf31cfc56cc9254"
+sha512 = "5391b6ff5fe6d370496b152401cf8eadd0fff4b90026eaa68d29e050e7cae205ca127b4512232dcb13c39b1c362c2846a07180c354d4e6dfda8fbff7889f0527"
+filename = "sophisticatedcore-1.21.1-1.4.11.1559.jar"
 
 [mods.spark]
 version = "1.10.124-neoforge-1.21.1"
@@ -1798,10 +1775,10 @@ client_side = true
 [[mods.twilightforest.source]]
 
 [mods.twilightforest.source.Download]
-url = "https://mediafilez.forgecdn.net/files/7398/100/twilightforest-1.21.1-4.8.3287-universal.jar"
-sha1 = "bd9102af8374a971b8f66cd0751de0c17a29f598"
-sha512 = "9b178927a88046740e594811eab0d46a65b0e01202f748364a64ed75fac010b888cb1870a21eef655a68926e5990a0558bd33f2d64def4ced7eb53ca8b049d02"
-filename = "twilightforest-1.21.1-4.8.3287-universal.jar"
+url = "https://mediafilez.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar"
+sha1 = "9cfd4154928433e2f1f6cfc3deb48c284debb580"
+sha512 = "371dd7079b174091363327df70ed64c84e8e36fcab49b4c33bbcbe39650f6bccc12d3e14818cdfbbaa519a999f64a0a92c03ec981f55a315b044dc7cb5c27ef4"
+filename = "twilightforest-1.21.1-4.8.3345-universal.jar"
 
 [mods.xaeros-minimap]
 version = "neoforge-1.21.1-25.3.10"
