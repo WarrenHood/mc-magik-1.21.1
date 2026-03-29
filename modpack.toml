@@ -4,6 +4,10 @@ modloader = "NeoForge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
 
+[mods.adorable-hamster-pets]
+name = "adorable-hamster-pets"
+version = "*"
+
 [mods.advanced-backups]
 name = "advanced-backups"
 version = "*"
@@ -56,6 +60,10 @@ version = "*"
 
 [mods.block-runner]
 name = "block-runner"
+version = "*"
+
+[mods.brewin-and-chewin]
+name = "brewin-and-chewin"
 version = "*"
 
 [mods.caelus]

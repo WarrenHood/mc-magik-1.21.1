@@ -1,3 +1,41 @@
+[mods.adorable-hamster-pets]
+version = "3.5.0-1.21.1+neoforge"
+server_side = true
+client_side = true
+
+[[mods.adorable-hamster-pets.source]]
+
+[mods.adorable-hamster-pets.source.Download]
+url = "https://cdn.modrinth.com/data/LmrhZdK2/versions/npUdncph/adorablehamsterpets-3.5.0-1.21.1%2Bneoforge.jar"
+sha1 = "109531ca8dc2e15f49e59c32fc662e05b840a1c8"
+sha512 = "058828a6173bf80406718bfb0bb56ef7247ba7ed8961cd18c4f7ba3415eb69dd932793ec58128cf567f909710396bcb4ecef8ef4486fea6ed0e23a8552137ac8"
+filename = "adorablehamsterpets-3.5.0-1.21.1+neoforge.jar"
+
+[[mods.adorable-hamster-pets.deps]]
+name = "architectury-api"
+version = "13.0.8+neoforge"
+providers = ["Modrinth"]
+
+[[mods.adorable-hamster-pets.deps]]
+name = "fzzy-config"
+version = "0.7.6+1.21+neoforge"
+providers = ["Modrinth"]
+
+[[mods.adorable-hamster-pets.deps]]
+name = "geckolib"
+version = "4.8.4"
+providers = ["Modrinth"]
+
+[[mods.adorable-hamster-pets.deps]]
+name = "kotlin-for-forge"
+version = "5.11.0"
+providers = ["Modrinth"]
+
+[[mods.adorable-hamster-pets.deps]]
+name = "patchouli"
+version = "1.21.1-93-neoforge"
+providers = ["Modrinth"]
+
 [mods.advanced-backups]
 version = "3.7.1"
 server_side = true
@@ -228,6 +266,19 @@ filename = "BlockRunner-v21.1.2-1.21.1-NeoForge.jar"
 name = "puzzles-lib"
 version = "v21.1.39-1.21.1-NeoForge"
 providers = ["Modrinth"]
+
+[mods.brewin-and-chewin]
+version = "4.4.2+1.21.1-neoforge"
+server_side = true
+client_side = true
+
+[[mods.brewin-and-chewin.source]]
+
+[mods.brewin-and-chewin.source.Download]
+url = "https://cdn.modrinth.com/data/hIu9KJTT/versions/CKLYp96Y/BrewinAndChewin-neoforge-4.4.2%2B1.21.1.jar"
+sha1 = "c01b9e39b4c116c3ce4b1b66f87c1921997337a5"
+sha512 = "ca6db594cc244307041b9f896956ad7dcba4727c62609a30aef9f913f5513238b7c898ecc39d4599385bdd177dea5c5de3149da34ab086217a307ab3f3e5aa06"
+filename = "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar"
 
 [mods.caelus]
 version = "7.0.1+1.21.1"
