@@ -2094,29 +2094,6 @@ sha1 = "744394d979b422be560babf9df7a6800ede9ac5b"
 sha512 = "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50"
 filename = "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
 
-[mods.theurgy]
-version = "1.21.1-neoforge-1.70.0"
-server_side = true
-client_side = true
-
-[[mods.theurgy.source]]
-
-[mods.theurgy.source.Download]
-url = "https://cdn.modrinth.com/data/uOVMgoil/versions/f39Opxuj/theurgy-1.21.1-neoforge-1.70.0.jar"
-sha1 = "074b4835289aa2b6c304811d8a340ef8b7ea26ca"
-sha512 = "1f46d534b88d6406ae52e23c34389a0c3769ef582690105aefb70cb58d7d5fe7a102b6aa974f6c5a9da822f10cc827e17cdbd626366f16b2d6bfbc4f3cd24202"
-filename = "theurgy-1.21.1-neoforge-1.70.0.jar"
-
-[[mods.theurgy.deps]]
-name = "geckolib"
-version = "4.8.4"
-providers = ["Modrinth"]
-
-[[mods.theurgy.deps]]
-name = "modonomicon"
-version = "1.21.1-1.120.1"
-providers = ["Modrinth"]
-
 [mods.titanium]
 version = "1.21-4.0.42"
 server_side = true

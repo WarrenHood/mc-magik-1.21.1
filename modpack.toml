@@ -484,10 +484,6 @@ version = "*"
 name = "terrablender"
 version = "*"
 
-[mods.theurgy]
-name = "theurgy"
-version = "*"
-
 [mods.twilightforest]
 name = "twilightforest"
 version = "*"
