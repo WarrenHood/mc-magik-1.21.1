@@ -1,3 +1,3 @@
-# Tech `n Adventure Stuff
+# Magik
 
-This is a Minecraft Forge 1.20.1 modpack focused on tech (lots of Create addons, nuclear reactors), exploration and big boss fights.
+This is a Minecraft NeoForge 1.21.1 modpack focused on magic and exploration.
