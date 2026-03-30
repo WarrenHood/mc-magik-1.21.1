@@ -625,11 +625,6 @@ target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/scripts/raw_redstone_block.zs"]
-target_path = "scripts/raw_redstone_block.zs"
-side = "Both"
-apply_policy = "Always"
-
 [files."./server/config/AdvancedBackups.properties"]
 target_path = "config/AdvancedBackups.properties"
 side = "Server"
