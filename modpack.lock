@@ -242,6 +242,19 @@ sha1 = "c01b9e39b4c116c3ce4b1b66f87c1921997337a5"
 sha512 = "ca6db594cc244307041b9f896956ad7dcba4727c62609a30aef9f913f5513238b7c898ecc39d4599385bdd177dea5c5de3149da34ab086217a307ab3f3e5aa06"
 filename = "BrewinAndChewin-neoforge-4.4.2+1.21.1.jar"
 
+[mods.c2me-neoforge]
+version = "0.3.0+alpha.0.90+1.21.1"
+server_side = true
+client_side = true
+
+[[mods.c2me-neoforge.source]]
+
+[mods.c2me-neoforge.source.Download]
+url = "https://cdn.modrinth.com/data/COlSi5iR/versions/4ra0NTk5/c2me-neoforge-mc1.21.1-0.3.0%2Balpha.0.90.jar"
+sha1 = "7837dd615c054675d88e034be04ffa1cec114265"
+sha512 = "cdfddfa4b99820fcc8dc546330a90cfff989f66782ea9be03f862684f3ac353e4f72aa71c30369ec9e4635cbfd774abf4ad7e1a4f63eee9d6b472913e28f5884"
+filename = "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar"
+
 [mods.caelus]
 version = "7.0.1+1.21.1"
 server_side = true

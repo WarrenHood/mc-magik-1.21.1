@@ -62,6 +62,10 @@ version = "*"
 name = "brewin-and-chewin"
 version = "*"
 
+[mods.c2me-neoforge]
+name = "c2me-neoforge"
+version = "*"
+
 [mods.caelus]
 name = "caelus"
 version = "*"
