@@ -1936,6 +1936,19 @@ sha1 = "aa71953b17a0a3618c6a44be428cf98e6885665b"
 sha512 = "34e7ee1e63e6b87bc44df1273f452ebdb2772de58b551b1ff32eb2dbfe19a9bd2514e37c262c8e4799c8712c49172f68a164545368f2816ca1b1009e913d2668"
 filename = "titanium-1.21-4.0.42.jar"
 
+[mods.too-fast]
+version = "0.4.3.5"
+server_side = true
+client_side = true
+
+[[mods.too-fast.source]]
+
+[mods.too-fast.source.Download]
+url = "https://cdn.modrinth.com/data/w6JSkKSH/versions/pDkjMI8q/toofast-1.21.0-0.4.3.5.jar"
+sha1 = "7940d2516a492ff687696dfc0f8b66a6c628baad"
+sha512 = "4108ff7d3ca21c4392f99df510bdcc5ca968def79ed0a855c8e77be91b583b4f435ee643b952a8238369db3bdcda3725c2efc84ca105fd0978b76c803ea250ec"
+filename = "toofast-1.21.0-0.4.3.5.jar"
+
 [mods.twilightforest]
 version = "Unknown"
 server_side = true

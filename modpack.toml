@@ -446,6 +446,12 @@ version = "*"
 name = "terralith"
 version = "*"
 
+[mods.too-fast]
+name = "too-fast"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.twilightforest]
 name = "twilightforest"
 version = "*"
