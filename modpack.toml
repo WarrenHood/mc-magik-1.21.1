@@ -1,4 +1,4 @@
-pack_name = "forge-1.21.1-tech-n-adventure-stuff"
+pack_name = "magik"
 mc_version = "1.21.1"
 modloader = "NeoForge"
 default_providers = ["Modrinth"]
@@ -562,8 +562,8 @@ target_path = "server.properties"
 side = "Server"
 apply_policy = "Always"
 
-[files."./server/tech-n-adventure-stuff/serverconfig"]
-target_path = "tech-n-adventure-stuff/serverconfig"
+[files."./server/magik/serverconfig"]
+target_path = "magik/serverconfig"
 side = "Server"
 apply_policy = "Always"
 
