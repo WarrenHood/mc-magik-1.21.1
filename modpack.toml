@@ -539,9 +539,9 @@ target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
-target_path = "datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
-side = "Both"
+[files."./server/magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
+target_path = "magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
+side = "Server"
 apply_policy = "Always"
 
 [files."./server/config/AdvancedBackups.properties"]
