@@ -276,6 +276,12 @@ client_side = true
 name = "l_enders-cataclysm"
 version = "*"
 
+[mods.larion-worldgen]
+name = "larion-worldgen"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.leaves-be-gone]
 name = "leaves-be-gone"
 version = "*"
@@ -289,12 +295,6 @@ version = "*"
 [mods.lithium]
 name = "lithium"
 version = "*"
-
-[mods.lithostitched]
-name = "lithostitched"
-version = "*"
-server_side = true
-client_side = true
 
 [mods.macaws-bridges]
 name = "macaws-bridges"
@@ -434,16 +434,8 @@ version = "*"
 name = "spectrum"
 version = "*"
 
-[mods.tectonic]
-name = "tectonic"
-version = "*"
-
 [mods.terrablender]
 name = "terrablender"
-version = "*"
-
-[mods.terralith]
-name = "terralith"
 version = "*"
 
 [mods.too-fast]
@@ -544,6 +536,11 @@ apply_policy = "Always"
 
 [files."./common/config/lithium.properties"]
 target_path = "config/lithium.properties"
+side = "Both"
+apply_policy = "Always"
+
+[files."./common/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
+target_path = "datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
 side = "Both"
 apply_policy = "Always"
 

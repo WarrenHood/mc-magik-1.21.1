@@ -1170,6 +1170,19 @@ sha1 = "39dc0c76e77131fe62844e70ec9bf563581a7f74"
 sha512 = "d424e5f17189777dff9f9fad188075d132ccaa0f514b63b66a637f334a37984b79fa034876e0c50b11e1053fb7b7406b9e2db13613258b89f54147181187aaad"
 filename = "L_Ender's Cataclysm 1.21.1-3.25.jar"
 
+[mods.larion-worldgen]
+version = "4.3.0"
+server_side = true
+client_side = true
+
+[[mods.larion-worldgen.source]]
+
+[mods.larion-worldgen.source.Download]
+url = "https://cdn.modrinth.com/data/rctNbbuL/versions/OlUcBPru/larion-neoforge-1.21.1-4.3.0.jar"
+sha1 = "12de67f0b1da9dcac2b63ca1cc085b2f5714afcc"
+sha512 = "b2a6e5efab6ade89f2aed8115309e28bac1802da2c766b35322a6a49c1b885483c8b4ea837d47f0fc095871c7b66f00e214189cc155b73e266ac1deed1d53a4c"
+filename = "larion-neoforge-1.21.1-4.3.0.jar"
+
 [mods.leaves-be-gone]
 version = "v21.1.0-1.21.1-NeoForge"
 server_side = true
@@ -1213,19 +1226,6 @@ url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge
 sha1 = "9fd5fa9076044180ae7f51672de74669196ec72e"
 sha512 = "65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4"
 filename = "lithium-neoforge-0.15.3+mc1.21.1.jar"
-
-[mods.lithostitched]
-version = "1.6.5-neoforge-21.1"
-server_side = true
-client_side = true
-
-[[mods.lithostitched.source]]
-
-[mods.lithostitched.source.Download]
-url = "https://cdn.modrinth.com/data/XaDC71GB/versions/keVceya0/lithostitched-1.6.5-neoforge-21.1.jar"
-sha1 = "a09b255f975a5d108d01ad102b80cea5c4ffa44d"
-sha512 = "9af9db5f585abe098168e820edfa69c852c2c028fee2e3a577830d07f5dbf00329ce24e12a3d7480009266f8bfb9e850b1dde20787103525717a9df17b3403b9"
-filename = "lithostitched-1.6.5-neoforge-21.1.jar"
 
 [mods.lodestonelib]
 version = "1.8.2"
@@ -1884,19 +1884,6 @@ sha1 = "5eb573e4b099277d3aacc892dcbe8a5e1d550197"
 sha512 = "cd626263ff9417b7249a1eaf4ecce394cd9d30b699521fcf90e8bcebca50860f49f609a022004d5fa300d0d4e145016b7e73af97e5b95e14cd3cc5cfebd9e90c"
 filename = "spectrum-1.11.2-1.21.1-neo.jar"
 
-[mods.tectonic]
-version = "3.0.21"
-server_side = true
-client_side = true
-
-[[mods.tectonic.source]]
-
-[mods.tectonic.source.Download]
-url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/qrX9Y1PI/tectonic-3.0.21-neoforge-21.1.jar"
-sha1 = "e246028f329383a89f9cf84ce824272820d55ec9"
-sha512 = "9111c158e75c71dfd5243e9bf2be4edcc915f0db042b1d5d573cf21e1ea07293561feb831887f8403dbceff0624546778f84c88c6ef61148636f60bca8d2da82"
-filename = "tectonic-3.0.21-neoforge-21.1.jar"
-
 [mods.terrablender]
 version = "4.1.0.8"
 server_side = true
@@ -1909,19 +1896,6 @@ url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neo
 sha1 = "744394d979b422be560babf9df7a6800ede9ac5b"
 sha512 = "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50"
 filename = "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
-
-[mods.terralith]
-version = "2.5.8"
-server_side = true
-client_side = true
-
-[[mods.terralith.source]]
-
-[mods.terralith.source.Download]
-url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar"
-sha1 = "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085"
-sha512 = "f862ed5435ce4c11a97d2ea5c40eee9f817c908f3223b5fd3e3fff0562a55111d7429dc73a2f1ca0b1af7b1ff6fa0470ed6efebb5de13336c40bb70fb357dd60"
-filename = "Terralith_1.21.x_v2.5.8.jar"
 
 [mods.titanium]
 version = "1.21-4.0.42"
