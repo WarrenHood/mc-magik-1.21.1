@@ -1229,6 +1229,24 @@ sha1 = "924c6bca566ee83789a4fd1ce72ea3ddfdf0f5e5"
 sha512 = "4a35b2d9ae3958cb9e152757223b0fc0f85ed2c55da2c3bb773b9a353cf5db15e4294ac2b6d897c0d7c82674dd86c084dd2e35fb80b5bcf92067735c03288edc"
 filename = "guideme-21.1.15.jar"
 
+[mods.handcrafted]
+version = "4.0.3"
+server_side = true
+client_side = true
+
+[[mods.handcrafted.source]]
+
+[mods.handcrafted.source.Download]
+url = "https://cdn.modrinth.com/data/pJmCFF0p/versions/JfqnpP2Z/handcrafted-neoforge-1.21.1-4.0.3.jar"
+sha1 = "8ecd27f1d66f9b742cfae3c8ffa773765f574b52"
+sha512 = "4ff5fb2aa9582b886d03f647fe9b8c12a828d29a1787e9c9b463be18192ea798e6a4ac83479623042791bce0bacbf6e3e2c2e9ef086640aeeb6970d3404e7ee4"
+filename = "handcrafted-neoforge-1.21.1-4.0.3.jar"
+
+[[mods.handcrafted.deps]]
+name = "resourceful-lib"
+version = "3.0.12"
+providers = ["Modrinth"]
+
 [mods.hardcore-revival]
 version = "21.1.13+neoforge-1.21.1"
 server_side = true
@@ -1506,6 +1524,71 @@ url = "https://cdn.modrinth.com/data/bN3xUWdo/versions/CohX6yP1/lodestone-1.21.1
 sha1 = "d1f7c638fac5192e01b1873f27e694a3c262ad11"
 sha512 = "6917080339b982d96cb4a7c98205ade5d89730191bc9113f4f8cd36bb1a760a91ad2421c8869c7063f8dea22a200d7d1896e0bb5e0e64119bb7590e32a998a23"
 filename = "lodestone-1.21.1-1.8.2.jar"
+
+[mods.macaws-bridges]
+version = "3.1.2"
+server_side = true
+client_side = true
+
+[[mods.macaws-bridges.source]]
+
+[mods.macaws-bridges.source.Download]
+url = "https://cdn.modrinth.com/data/GURcjz8O/versions/aQ7rY7ng/mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
+sha1 = "71ece28129789a2123cf07e79938f488d8675bb2"
+sha512 = "e98e476324229564132288f0a59bfcc897cff4cda7d12fe218563ca48d382d880662375687c69d1b4619144262ae09cbef130f4330474d8eacd37a21e8e9afb4"
+filename = "mcw-bridges-3.1.2-mc1.21.1neoforge.jar"
+
+[mods.macaws-doors]
+version = "1.1.5"
+server_side = true
+client_side = true
+
+[[mods.macaws-doors.source]]
+
+[mods.macaws-doors.source.Download]
+url = "https://cdn.modrinth.com/data/kNxa8z3e/versions/u7BRX44F/mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+sha1 = "c127904f23db1a641dd9e065ec51c5c177cb4cd7"
+sha512 = "43ddf00be46af91c009a95392a094f05017155214c46c7980042cbcf871864dc792416497019e688eb558897c87848bd70c282ec4a6d7b268e1ba30389ba987a"
+filename = "mcw-doors-1.1.5-mc1.21.1neoforge.jar"
+
+[mods.macaws-fences-and-walls]
+version = "1.2.1"
+server_side = true
+client_side = true
+
+[[mods.macaws-fences-and-walls.source]]
+
+[mods.macaws-fences-and-walls.source.Download]
+url = "https://cdn.modrinth.com/data/GmwLse2I/versions/jVdb0r4W/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
+sha1 = "b5580c3fc521ed8bf4db3e407bd590efc317f74d"
+sha512 = "9bf496a8db8c6074ab32374042ae15e87fe87d897e21de29d459556fa8d7d0e73f2718f28a0236181cfb3c1bc66c776b4d079f0a7084696ad490275ab1b9eb6e"
+filename = "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar"
+
+[mods.macaws-stairs]
+version = "1.0.2"
+server_side = true
+client_side = true
+
+[[mods.macaws-stairs.source]]
+
+[mods.macaws-stairs.source.Download]
+url = "https://cdn.modrinth.com/data/iP3wH1ha/versions/4t8L0dGP/mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+sha1 = "1ee43d693c821efc955a74e551f94372af90a140"
+sha512 = "51533899b5e64610a642ee9e9d89eb9f193d0877a8cba16d3bfa262789334c864128b01757bff9d3db2718bd3df1fc177f9b2d45b84f06fc0a6ee15474af2fac"
+filename = "mcw-mcwstairs-1.0.2-mc1.21.1neoforge.jar"
+
+[mods.macaws-windows]
+version = "2.4.2"
+server_side = true
+client_side = true
+
+[[mods.macaws-windows.source]]
+
+[mods.macaws-windows.source.Download]
+url = "https://cdn.modrinth.com/data/C7I0BCni/versions/rQUE4LCz/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
+sha1 = "eb1d3c118acb450cc2fe14c2ce7ce247a1bca60c"
+sha512 = "7628aa390a689a211013e5856cca1c695729b1faa7e20da16fa1f8a3822d5b569631829e91222caa8f1b27c4a7d28ab49110502551551216de2fb471b6f2549f"
+filename = "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar"
 
 [mods.malum]
 version = "1.8.2"
@@ -1909,6 +1992,19 @@ url = "https://cdn.modrinth.com/data/M1953qlQ/versions/lSbyRD6v/resourcefulconfi
 sha1 = "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
 sha512 = "8e4ccc37732b3f5190e7e98df34dbc1339fe614494fcabf1aeaeab9ad8e5993522964b51be31882000c08c48a6d0096b5458364415bb81f2b2b775a7daf2eb87"
 filename = "resourcefulconfig-neoforge-1.21-3.0.11.jar"
+
+[mods.resourceful-lib]
+version = "3.0.12"
+server_side = true
+client_side = true
+
+[[mods.resourceful-lib.source]]
+
+[mods.resourceful-lib.source.Download]
+url = "https://cdn.modrinth.com/data/G1hIVOrD/versions/x99nCLTm/resourcefullib-neoforge-1.21-3.0.12.jar"
+sha1 = "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+sha512 = "a9d20e345faa9bcb297bd95ac9524205834804d1bb13518397dd4f7f62b352b08c3339ee7f7870d3669078ceeb33d5c31ea527aecce4b31d62ec1ff7d8b562c8"
+filename = "resourcefullib-neoforge-1.21-3.0.12.jar"
 
 [mods.revelationary]
 version = "1.4.1+1.21.1"

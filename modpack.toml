@@ -286,6 +286,10 @@ version = "*"
 name = "gravestone-mod"
 version = "*"
 
+[mods.handcrafted]
+name = "handcrafted"
+version = "*"
+
 [mods.hardcore-revival]
 name = "hardcore-revival"
 version = "*"
@@ -362,6 +366,26 @@ version = "*"
 
 [mods.lithostitched]
 name = "lithostitched"
+version = "*"
+
+[mods.macaws-bridges]
+name = "macaws-bridges"
+version = "*"
+
+[mods.macaws-doors]
+name = "macaws-doors"
+version = "*"
+
+[mods.macaws-fences-and-walls]
+name = "macaws-fences-and-walls"
+version = "*"
+
+[mods.macaws-stairs]
+name = "macaws-stairs"
+version = "*"
+
+[mods.macaws-windows]
+name = "macaws-windows"
 version = "*"
 
 [mods.malum]
