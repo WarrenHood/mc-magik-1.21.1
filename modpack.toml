@@ -557,6 +557,11 @@ target_path = "config/rats-common.toml"
 side = "Server"
 apply_policy = "Always"
 
+[files."./server/magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"]
+target_path = "magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"
+side = "Server"
+apply_policy = "Always"
+
 [files."./server/magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
 target_path = "magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
 side = "Server"
