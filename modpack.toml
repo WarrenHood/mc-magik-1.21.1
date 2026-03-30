@@ -410,6 +410,10 @@ version = "*"
 name = "simple-discord-rpc"
 version = "*"
 
+[mods.small-ships]
+name = "small-ships"
+version = "*"
+
 [mods.smartbrainlib]
 name = "smartbrainlib"
 version = "*"

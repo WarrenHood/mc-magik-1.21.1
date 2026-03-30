@@ -1801,6 +1801,20 @@ name = "craterlib"
 version = "1.21-3.1.0"
 providers = ["Modrinth"]
 
+[mods.small-ships]
+version = "2.0.0-b2.1"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.small-ships.source]]
+
+[mods.small-ships.source.Download]
+url = "https://cdn.modrinth.com/data/rGWEHQrP/versions/6poGZvvr/smallships-neoforge-1.21.1-2.0.0-b2.1.jar"
+sha1 = "aa586dc4339d49db1c988497415d197195849fb9"
+sha512 = "e5f9e7efd537330e41253696827d72de0662fd46b83a4a3b2983b2de105718125af53e237af5047c1660c45a872486278375a65a71ce39788632993907900120"
+filename = "smallships-neoforge-1.21.1-2.0.0-b2.1.jar"
+
 [mods.smartbrainlib]
 version = "1.16.11"
 server_side = true
