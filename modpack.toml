@@ -276,12 +276,6 @@ client_side = true
 name = "l_enders-cataclysm"
 version = "*"
 
-[mods.larion-worldgen]
-name = "larion-worldgen"
-version = "*"
-server_side = true
-client_side = true
-
 [mods.leaves-be-gone]
 name = "leaves-be-gone"
 version = "*"
@@ -294,6 +288,10 @@ version = "*"
 
 [mods.lithium]
 name = "lithium"
+version = "*"
+
+[mods.lithosphere]
+name = "lithosphere"
 version = "*"
 
 [mods.macaws-bridges]
@@ -539,11 +537,6 @@ target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
-[files."./server/magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
-target_path = "magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
-side = "Server"
-apply_policy = "Always"
-
 [files."./server/config/AdvancedBackups.properties"]
 target_path = "config/AdvancedBackups.properties"
 side = "Server"
@@ -561,6 +554,11 @@ apply_policy = "Always"
 
 [files."./server/config/rats-common.toml"]
 target_path = "config/rats-common.toml"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
+target_path = "magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
 side = "Server"
 apply_policy = "Always"
 
