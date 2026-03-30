@@ -1,3 +1,21 @@
+[mods.aces-spell-utils]
+version = "1.2.5-1.21.1"
+server_side = true
+client_side = true
+
+[[mods.aces-spell-utils.source]]
+
+[mods.aces-spell-utils.source.Download]
+url = "https://cdn.modrinth.com/data/7Jy4rK9m/versions/ren4z6IN/aces_spell_utils-1.2.5-1.21.1.jar"
+sha1 = "1fb8825946420800aa7e52ff286e034146c79377"
+sha512 = "fff1818320f800609f6838a7bda136710ef9fb1ac625ee6ccb9c36fa77fbf7b93530b88b57db13d5bfd2e253596841feea532ffcbfaba774d3a6be72cc104b2b"
+filename = "aces_spell_utils-1.2.5-1.21.1.jar"
+
+[[mods.aces-spell-utils.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.21.1-3.15.5"
+providers = ["Modrinth"]
+
 [mods.advanced-backups]
 version = "3.7.1"
 server_side = true
@@ -107,6 +125,19 @@ url = "https://cdn.modrinth.com/data/b1ZV3DIJ/versions/SVhR1m5N/athena-neoforge-
 sha1 = "069f397f1b3a30b3d5f5a98cac76304dfe345d76"
 sha512 = "c1756365b28d4c6c62416f0332a0e2d591142ae9ea5e5c1e0ae640eb9ae172565c08ef6c11e29c062f4db78a3dd187dba6837fbca1e0f38e12a2b4e48ec5ed88"
 filename = "athena-neoforge-1.21-4.0.2.jar"
+
+[mods.azurelib]
+version = "3.1.4"
+server_side = true
+client_side = true
+
+[[mods.azurelib.source]]
+
+[mods.azurelib.source.Download]
+url = "https://cdn.modrinth.com/data/7zlUOZvb/versions/uatMybJK/azurelib-neo-1.21.1-3.1.4.jar"
+sha1 = "91bb30a4458a968fb683576d2972cda02bcd30f5"
+sha512 = "61ca4584b8d3946fdeafd7dba6043547da2e7a6d8105d8c7241e5ff38c8c6c0a275dd74f5a4b312ae72940f0098dd6952f80a276ac59eae5477d7f55d53f3706"
+filename = "azurelib-neo-1.21.1-3.1.4.jar"
 
 [mods.badoptimizations]
 version = "2.4.1"
@@ -231,6 +262,39 @@ url = "https://cdn.modrinth.com/data/40FYwb4z/versions/KsfI4QsR/caelus-neoforge-
 sha1 = "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
 sha512 = "3763f95304ade2bacb217828c74eeef7905a114f71d41537d56121af58c182c2685467a5afb7e03ddb3997ec3d7496bdfdf71a9946a9f33e3470393e7a13306d"
 filename = "caelus-neoforge-7.0.1+1.21.1.jar"
+
+[mods.cataclysm-spellbooks]
+version = "1.1.11-1.21"
+server_side = true
+client_side = true
+
+[[mods.cataclysm-spellbooks.source]]
+
+[mods.cataclysm-spellbooks.source.Download]
+url = "https://cdn.modrinth.com/data/3FEg0A8D/versions/MuC8YrbF/cataclysm_spellbooks-1.1.11-1.21.jar"
+sha1 = "0ebfb1fec53e8188ca1591792590f95a283f79b4"
+sha512 = "4c9cde2c83cfd61882b39b9fc4b9bf1dc29e433eac49e087e207fab81abb53146190feaf90942796ba3cbdefaceedd512b1ac8faf1a7ce407700406b80ef70e7"
+filename = "cataclysm_spellbooks-1.1.11-1.21.jar"
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "aces-spell-utils"
+version = "1.2.5-1.21.1"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "azurelib"
+version = "3.1.4"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.21.1-3.15.5"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-spellbooks.deps]]
+name = "l_enders-cataclysm"
+version = "3.25"
+providers = ["Modrinth"]
 
 [mods.chunky]
 version = "1.4.23"
@@ -379,6 +443,19 @@ name = "architectury-api"
 version = "13.0.8+neoforge"
 providers = ["Modrinth"]
 
+[mods.common-network]
+version = "1.0.21-1.21.1"
+server_side = true
+client_side = true
+
+[[mods.common-network.source]]
+
+[mods.common-network.source.Download]
+url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/pR7AeZk3/common-networking-neoforge-1.0.21-1.21.1.jar"
+sha1 = "f55722a4278997e7ef278f4390a31e848f7beea7"
+sha512 = "2797cb78554fb413276d700c1021c2c0b93c30a7cbd2c47fd6f88578a99788c37f1a5241165fafc61e114377ec328f9155db77fc8975c9c66416ff7081980f31"
+filename = "common-networking-neoforge-1.0.21-1.21.1.jar"
+
 [mods.compat-delight]
 version = "1.0.1.1"
 server_side = true
@@ -499,6 +576,24 @@ sha1 = "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
 sha512 = "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
 filename = "curios-neoforge-9.5.1+1.21.1.jar"
 
+[mods.dark-doppelganger]
+version = "3.2.1-1.21.1"
+server_side = true
+client_side = true
+
+[[mods.dark-doppelganger.source]]
+
+[mods.dark-doppelganger.source.Download]
+url = "https://cdn.modrinth.com/data/2vzHL83v/versions/KA1omJSd/darkdoppelganger-3.2.1-1.21.1.jar"
+sha1 = "e4a0e668f7f3d2768f89dcb5075c070822158377"
+sha512 = "4b9b4ac6de67ebb139aa617684a11bfc43105e990dceb9f391579a2b7f3cbf27c7d85af4e7acf5772f7e265cf1c321f552ded5f4b7aaf83d82579cc78537197f"
+filename = "darkdoppelganger-3.2.1-1.21.1.jar"
+
+[[mods.dark-doppelganger.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.21.1-3.15.5"
+providers = ["Modrinth"]
+
 [mods.data-anchor]
 version = "2.0.0.13-neoforge"
 server_side = true
@@ -511,6 +606,19 @@ url = "https://cdn.modrinth.com/data/z2XEADmE/versions/izauCsh5/Data_Anchor-neof
 sha1 = "6382fb38974844a0508b47330935577f2943de3d"
 sha512 = "4b88cbf5965a5cecdc82ce5d6a3d7ac0bc47b2ed29b907b3ed03939a80694db15925c8e932b650812b8fa3775c9f8fac8daa6dd495aa73702162151da05bc5c8"
 filename = "Data_Anchor-neoforge-1.21.1-2.0.0.13.jar"
+
+[mods.deeperdarker]
+version = "1.3.4-neoforge+1.21"
+server_side = true
+client_side = true
+
+[[mods.deeperdarker.source]]
+
+[mods.deeperdarker.source.Download]
+url = "https://cdn.modrinth.com/data/fnAffV0n/versions/5FhUw189/deeperdarker-neoforge-1.21-1.3.4.jar"
+sha1 = "e519bed972f9728af38f351c3dcffc1324e883bf"
+sha512 = "c7041b8671e87ff5271a53631ceaab77168154851108ef1876fab1e141382db77337c8aaadb615b96d1196db699af492029a454a6088ea97860fb6897af501a8"
+filename = "deeperdarker-neoforge-1.21-1.3.4.jar"
 
 [mods.dungeons_delight]
 version = "1.4.5"
@@ -1443,6 +1551,24 @@ sha1 = "84f8c539fa326dc723ae62b7a6916d6b01982d07"
 sha512 = "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
 filename = "polymorph-neoforge-1.1.0+1.21.1.jar"
 
+[mods.primal-magick]
+version = "6.0.7"
+server_side = true
+client_side = true
+
+[[mods.primal-magick.source]]
+
+[mods.primal-magick.source.Download]
+url = "https://cdn.modrinth.com/data/VlgDBPBy/versions/zdRhg0nF/primalmagick-neoforge-1.21.1-6.0.7.jar"
+sha1 = "165a849fe2b95355067ede9cda014dec08129731"
+sha512 = "91f578f9e7898275fcc6fc2f474a1e81901e51eb0f0bff074f2f2776c9d11a18eb075ebd9e381bd7afe8070837773345a751658f48c4bdc458b1c2ac808931ea"
+filename = "primalmagick-neoforge-1.21.1-6.0.7.jar"
+
+[[mods.primal-magick.deps]]
+name = "common-network"
+version = "1.0.21-1.21.1"
+providers = ["Modrinth"]
+
 [mods.puzzles-lib]
 version = "v21.1.39-1.21.1-NeoForge"
 server_side = true
@@ -1850,6 +1976,19 @@ url = "https://cdn.modrinth.com/data/NcUtCpym/versions/arbQPyvf/xaeroworldmap-ne
 sha1 = "c6f596bb6bc7d734100b7dbc8a57f69a5fb549a3"
 sha512 = "a4bb890dbac27937411f570432ebc5a4cc5df9562c22e7c3d6a6516ff303bfcb7f35fb39d2ce42a51591a4b2a5b5debfc933fda3f5a552560442fe69f8828b0b"
 filename = "xaeroworldmap-neoforge-1.21.1-1.40.11.jar"
+
+[mods.yggdrasil-structure]
+version = "6.0.0+mod"
+server_side = true
+client_side = true
+
+[[mods.yggdrasil-structure.source]]
+
+[mods.yggdrasil-structure.source.Download]
+url = "https://cdn.modrinth.com/data/hwNDseBp/versions/RPuu7Vml/Yggdrasil-6.0.0.jar"
+sha1 = "4c0b58818fd0fde76378be63e45d62ca36c4310d"
+sha512 = "c2f542cb10f4e27f591e6b0529503c6db65bb9a40cd4fb233a065f2c31ee6cdc7e8c870a5527a292af667b11fccf821103b7f486414512418acae717d2de38b2"
+filename = "Yggdrasil-6.0.0.jar"
 
 [mods.zeta]
 version = "1.1-39"

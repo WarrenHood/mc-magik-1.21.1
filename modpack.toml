@@ -62,6 +62,10 @@ version = "*"
 name = "caelus"
 version = "*"
 
+[mods.cataclysm-spellbooks]
+name = "cataclysm-spellbooks"
+version = "*"
+
 [mods.chunky]
 name = "chunky"
 version = "*"
@@ -116,6 +120,14 @@ version = "*"
 
 [mods.curios]
 name = "curios"
+version = "*"
+
+[mods.dark-doppelganger]
+name = "dark-doppelganger"
+version = "*"
+
+[mods.deeperdarker]
+name = "deeperdarker"
 version = "*"
 
 [mods.dungeons_delight]
@@ -360,6 +372,10 @@ version = "*"
 name = "polymorph"
 version = "*"
 
+[mods.primal-magick]
+name = "primal-magick"
+version = "*"
+
 [mods.quark]
 name = "quark"
 version = "*"
@@ -440,6 +456,10 @@ version = "*"
 
 [mods.xaeros-world-map]
 name = "xaeros-world-map"
+version = "*"
+
+[mods.yggdrasil-structure]
+name = "yggdrasil-structure"
 version = "*"
 
 [files."./client/config/cubes_without_borders.json"]
