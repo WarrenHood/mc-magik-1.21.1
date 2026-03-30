@@ -563,6 +563,24 @@ sha1 = "6fe849c4a488107572c9af9d7d8329d93376f343"
 sha512 = "cbe2770179a948bc5cc7ab9fffdb65262745bb42902d03860cb6218708c1d5ffbabfafe40046dd350c3290ab9d07797bf0225ee4a41f917fff120b23b9d9cc04"
 filename = "cwb-neoforge-3.0.0+mc1.21.jar"
 
+[mods.cull-leaves]
+version = "4.1.1+1.21.1-neoforge"
+server_side = false
+client_side = true
+
+[[mods.cull-leaves.source]]
+
+[mods.cull-leaves.source.Download]
+url = "https://cdn.modrinth.com/data/GNxdLCoP/versions/V7PU4g8I/cullleaves-neoforge-4.1.1%2B1.21.1.jar"
+sha1 = "0ea35e716f486a0607e01db8928ff7bea8148b39"
+sha512 = "743c95fce00c21c45b0ecfe0a1b82b867c05807637c3f8aae06f77f1ddd898b4f0311bcfc970b071663d477221fd7acec6c6f75d460601d709eed1f0a64087a9"
+filename = "cullleaves-neoforge-4.1.1+1.21.1.jar"
+
+[[mods.cull-leaves.deps]]
+name = "midnightlib"
+version = "1.9.2+1.21.1-neoforge"
+providers = ["Modrinth"]
+
 [mods.curios]
 version = "9.5.1+1.21.1"
 server_side = true
@@ -1317,6 +1335,19 @@ url = "https://cdn.modrinth.com/data/jgzwYsAN/versions/BIbVs1fo/malum-1.21.1-1.8
 sha1 = "7bea3f874f186a17ad3e271df145c179e81c2a1d"
 sha512 = "dd9ccc1dea3b090f69f807be3e7a8b99ec6d3d7d6b047e2893cb49ca505860bbf640cf767082c1a32ea403b35e2a9f9d1755327890bbfb2f8778058a9597a99e"
 filename = "malum-1.21.1-1.8.2.jar"
+
+[mods.midnightlib]
+version = "1.9.2+1.21.1-neoforge"
+server_side = true
+client_side = true
+
+[[mods.midnightlib.source]]
+
+[mods.midnightlib.source.Download]
+url = "https://cdn.modrinth.com/data/codAaoxh/versions/Puk24qHu/midnightlib-neoforge-1.9.2%2B1.21.1.jar"
+sha1 = "5a8b19663e5c042cc2755f671d04b789a8b6f9df"
+sha512 = "52c205e04f879cdb6451b2aff9856f6541ce98367967949f4e77a6580304587577059bea72e5f8ba69b040c673d8a7966f706269b180b8b33946522b41f2c369"
+filename = "midnightlib-neoforge-1.9.2+1.21.1.jar"
 
 [mods.miners-delight]
 version = "1.4.2"

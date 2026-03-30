@@ -118,6 +118,10 @@ version = "*"
 name = "cubes-without-borders"
 version = "*"
 
+[mods.cull-leaves]
+name = "cull-leaves"
+version = "*"
+
 [mods.curios]
 name = "curios"
 version = "*"
@@ -480,6 +484,11 @@ apply_policy = "Once"
 target_path = "options.txt"
 side = "Client"
 apply_policy = "Once"
+
+[files."./client/resourcepacks/Better-Leaves-9.5.zip"]
+target_path = "resourcepacks/Better-Leaves-9.5.zip"
+side = "Client"
+apply_policy = "Always"
 
 [files."./client/resourcepacks/Faithful 32x - 1.21.1.zip"]
 target_path = "resourcepacks/Faithful 32x - 1.21.1.zip"
