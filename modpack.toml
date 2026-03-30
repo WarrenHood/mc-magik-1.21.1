@@ -460,10 +460,6 @@ version = "*"
 name = "rctmod"
 version = "*"
 
-[mods.regions-unexplored]
-name = "regions-unexplored"
-version = "0.6+beta3"
-
 [mods.repurposed-structures-forge]
 name = "repurposed-structures-forge"
 version = "*"
@@ -526,8 +522,16 @@ version = "*"
 name = "spectrum"
 version = "*"
 
+[mods.tectonic]
+name = "tectonic"
+version = "2.4.3"
+
 [mods.terrablender]
 name = "terrablender"
+version = "*"
+
+[mods.terralith]
+name = "terralith"
 version = "*"
 
 [mods.twilightforest]

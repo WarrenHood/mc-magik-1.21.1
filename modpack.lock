@@ -470,17 +470,17 @@ version = "1.21.1-1.2.11"
 providers = ["Modrinth"]
 
 [mods.continents]
-version = "1.1.12"
+version = "1.1.13"
 server_side = true
 client_side = true
 
 [[mods.continents.source]]
 
 [mods.continents.source.Download]
-url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/3hhSlpEU/Continents_1.21.x_v1.1.12.jar"
-sha1 = "9b681723c641bf9e9dcee58ed29a8f04dbe7c40e"
-sha512 = "11561bd4f8c1f315376a7807669397f5f4c9d2419df83597fbc073d7f59a51708b854ab7361e4e305bb91ec3c8dbbfd17bef5f28a95fa193f9ef5d5b32f9a1a4"
-filename = "Continents_1.21.x_v1.1.12.jar"
+url = "https://cdn.modrinth.com/data/bQ5TJA1E/versions/WxCjDRzw/Continents_26.1_v1.1.13.jar"
+sha1 = "9279e2175d1b3a1032ea0ccf090bb5fb6cbccdf4"
+sha512 = "139dffc2ca0f7f1a1a97d4658531084fd8db8071ae012c852eeec95f7df542a29222babf8684e2eac1971b296f49693da2aeccd15b48b3cb9e82e0767c9ed181"
+filename = "Continents_26.1_v1.1.13.jar"
 
 [mods.controlling]
 version = "19.0.5"
@@ -1954,19 +1954,6 @@ name = "rctapi"
 version = "0.15.0-beta"
 providers = ["Modrinth"]
 
-[mods.regions-unexplored]
-version = "0.6+beta3"
-server_side = true
-client_side = true
-
-[[mods.regions-unexplored.source]]
-
-[mods.regions-unexplored.source.Download]
-url = "https://cdn.modrinth.com/data/Tkikq67H/versions/3qWB25z2/regions-unexplored-0.6%2Bbeta3-neoforge-21.1.jar"
-sha1 = "5d18ae48fcefc229107d45e61d4966bdcbd0dd49"
-sha512 = "8b01d4f0e547ae1f1362256674fabbfca878ac281cfbfeeef0833d1d0bd0e01373575b37c9031c0c4930e7c54ab11b8d89c1f32509ea7d61bc670be4c900fc0e"
-filename = "regions-unexplored-0.6+beta3-neoforge-21.1.jar"
-
 [mods.repurposed-structures-forge]
 version = "7.5.18+1.21.1-neoforge"
 server_side = true
@@ -2267,6 +2254,24 @@ sha1 = "5eb573e4b099277d3aacc892dcbe8a5e1d550197"
 sha512 = "cd626263ff9417b7249a1eaf4ecce394cd9d30b699521fcf90e8bcebca50860f49f609a022004d5fa300d0d4e145016b7e73af97e5b95e14cd3cc5cfebd9e90c"
 filename = "spectrum-1.11.2-1.21.1-neo.jar"
 
+[mods.tectonic]
+version = "2.4.3"
+server_side = true
+client_side = true
+
+[[mods.tectonic.source]]
+
+[mods.tectonic.source.Download]
+url = "https://cdn.modrinth.com/data/lWDHr9jE/versions/W3PK2UDI/tectonic-neoforge-1.21.1-2.4.3.jar"
+sha1 = "e7d10a270c86b373d61a53f1d4877642cc7e86a2"
+sha512 = "3393c985be9d0231228f2e55a50180ba8e43d8dd9ed2124eb3513c0e84fbf76bc97f9126e2e4b417afedab3676cbe25fb0fcd74988fbae19500d4cac9470aad9"
+filename = "tectonic-neoforge-1.21.1-2.4.3.jar"
+
+[[mods.tectonic.deps]]
+name = "lithostitched"
+version = "1.6.5-neoforge-21.1"
+providers = ["Modrinth"]
+
 [mods.terrablender]
 version = "4.1.0.8"
 server_side = true
@@ -2279,6 +2284,19 @@ url = "https://cdn.modrinth.com/data/kkmrDlKT/versions/6e8GCrLb/TerraBlender-neo
 sha1 = "744394d979b422be560babf9df7a6800ede9ac5b"
 sha512 = "9d4b2a1be5139c0fb2fad92ed21805b17d9e83b6ea48e637e018bb14063c1823a206390755dbfe8d025c20fd62ac11cdd84db53ddb956dabaeda01bff57bac50"
 filename = "TerraBlender-neoforge-1.21.1-4.1.0.8.jar"
+
+[mods.terralith]
+version = "2.5.8"
+server_side = true
+client_side = true
+
+[[mods.terralith.source]]
+
+[mods.terralith.source.Download]
+url = "https://cdn.modrinth.com/data/8oi3bsk5/versions/MuJMtPGQ/Terralith_1.21.x_v2.5.8.jar"
+sha1 = "bee0cfb1a8cd4bf3d96bccea224fb45d74de9085"
+sha512 = "f862ed5435ce4c11a97d2ea5c40eee9f817c908f3223b5fd3e3fff0562a55111d7429dc73a2f1ca0b1af7b1ff6fa0470ed6efebb5de13336c40bb70fb357dd60"
+filename = "Terralith_1.21.x_v2.5.8.jar"
 
 [mods.titanium]
 version = "1.21-4.0.42"
