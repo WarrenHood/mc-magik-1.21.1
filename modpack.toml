@@ -10,10 +10,6 @@ version = "*"
 server_side = true
 client_side = true
 
-[mods.ae2]
-name = "ae2"
-version = "*"
-
 [mods.aether]
 name = "aether"
 version = "*"
@@ -32,10 +28,6 @@ version = "*"
 
 [mods.appleskin]
 name = "appleskin"
-version = "*"
-
-[mods.applied-energistics-2-wireless-terminals]
-name = "applied-energistics-2-wireless-terminals"
 version = "*"
 
 [mods.athena-ctm]
@@ -70,14 +62,6 @@ version = "*"
 name = "caelus"
 version = "*"
 
-[mods.cc-tweaked]
-name = "cc-tweaked"
-version = "*"
-
-[mods.cccbridge]
-name = "cccbridge"
-version = "*"
-
 [mods.chunky]
 name = "chunky"
 version = "*"
@@ -98,10 +82,6 @@ version = "*"
 name = "cobblemon-alpha-project"
 version = "*"
 
-[mods.cobblemon-create-industries]
-name = "cobblemon-create-industries"
-version = "*"
-
 [mods.cobblemon-fight-or-flight-reborn]
 name = "cobblemon-fight-or-flight-reborn"
 version = "*"
@@ -118,16 +98,8 @@ version = "*"
 name = "compat-delight"
 version = "*"
 
-[mods.continents]
-name = "continents"
-version = "*"
-
 [mods.controlling]
 name = "controlling"
-version = "*"
-
-[mods.copycats]
-name = "copycats"
 version = "*"
 
 [mods.crafting-tweaks]
@@ -136,64 +108,6 @@ version = "*"
 
 [mods.crafttweaker]
 name = "crafttweaker"
-version = "*"
-
-[mods.create]
-name = "create"
-version = "*"
-
-[mods.create-applied-kinetics]
-name = "create-applied-kinetics"
-version = "*"
-
-[mods.create-big-cannons]
-name = "create-big-cannons"
-version = "*"
-
-[mods.create-central-kitchen]
-name = "create-central-kitchen"
-version = "*"
-
-[mods.create-connected]
-name = "create-connected"
-version = "*"
-
-[mods.create-deco]
-name = "create-deco"
-version = "*"
-
-[mods.create-diesel-generators]
-name = "create-diesel-generators"
-version = "*"
-
-[mods.create-enchantment-industry]
-name = "create-enchantment-industry"
-version = "*"
-
-[mods.create-let-the-adventure-begin]
-name = "create-let-the-adventure-begin"
-version = "*"
-server_side = true
-client_side = true
-
-[mods.create-new-age]
-name = "create-new-age"
-version = "*"
-
-[mods.create-structures-arise]
-name = "create-structures-arise"
-version = "*"
-
-[mods.create-teleporters]
-name = "create-teleporters"
-version = "*"
-
-[mods.create-wizardry]
-name = "create-wizardry"
-version = "*"
-
-[mods.createaddition]
-name = "createaddition"
 version = "*"
 
 [mods.cubes-without-borders]
@@ -226,10 +140,6 @@ version = "*"
 
 [mods.emiffect]
 name = "emiffect"
-version = "*"
-
-[mods.enderio]
-name = "enderio"
 version = "*"
 
 [mods.enhanced-celestials]
@@ -302,10 +212,6 @@ version = "*"
 name = "immediatelyfast"
 version = "*"
 
-[mods.immersive-aircraft]
-name = "immersive-aircraft"
-version = "*"
-
 [mods.immersive-melodies]
 name = "immersive-melodies"
 version = "*"
@@ -371,6 +277,8 @@ version = "*"
 [mods.lithostitched]
 name = "lithostitched"
 version = "*"
+server_side = true
+client_side = true
 
 [mods.macaws-bridges]
 name = "macaws-bridges"
@@ -464,24 +372,12 @@ version = "*"
 name = "rctmod"
 version = "*"
 
-[mods.repurposed-structures-forge]
-name = "repurposed-structures-forge"
-version = "*"
-
 [mods.revelationary]
 name = "revelationary"
 version = "*"
 
 [mods.runiclib]
 name = "runiclib"
-version = "*"
-
-[mods.rustic-engineer]
-name = "rustic-engineer"
-version = "*"
-
-[mods.schematic-energistics]
-name = "schematic-energistics"
 version = "*"
 
 [mods.serene-seasons]
@@ -494,10 +390,6 @@ version = "*"
 
 [mods.simple-discord-rpc]
 name = "simple-discord-rpc"
-version = "*"
-
-[mods.slice-and-dice]
-name = "slice-and-dice"
 version = "*"
 
 [mods.smartbrainlib]
@@ -514,10 +406,6 @@ version = "*"
 name = "sophisticated-backpacks"
 version = "*"
 
-[mods.sophisticated-backpacks-create-integration]
-name = "sophisticated-backpacks-create-integration"
-version = "*"
-
 [mods.spark]
 name = "spark"
 version = "*"
@@ -528,7 +416,7 @@ version = "*"
 
 [mods.tectonic]
 name = "tectonic"
-version = "2.4.3"
+version = "*"
 
 [mods.terrablender]
 name = "terrablender"
