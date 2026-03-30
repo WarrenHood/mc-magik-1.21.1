@@ -286,6 +286,10 @@ client_side = true
 name = "lionfish-api"
 version = "*"
 
+[mods.lithium]
+name = "lithium"
+version = "*"
+
 [mods.lithostitched]
 name = "lithostitched"
 version = "*"
@@ -557,13 +561,13 @@ target_path = "config/rats-common.toml"
 side = "Server"
 apply_policy = "Always"
 
-[files."./server/server.properties"]
-target_path = "server.properties"
+[files."./server/magik/serverconfig"]
+target_path = "magik/serverconfig"
 side = "Server"
 apply_policy = "Always"
 
-[files."./server/magik/serverconfig"]
-target_path = "magik/serverconfig"
+[files."./server/server.properties"]
+target_path = "server.properties"
 side = "Server"
 apply_policy = "Always"
 

@@ -1201,6 +1201,19 @@ sha1 = "3d9059ea05839e0daab926848d91ecb14ca5a4d4"
 sha512 = "87167d2c54f6a5539c30ed5ae12cdfe407c608ca32d6b864b27f3d1c994134687b0e4aba42aced0d204fba1d72452906dcc02bb5b17ba9f6e8951834d4758202"
 filename = "lionfishapi-2.6.jar"
 
+[mods.lithium]
+version = "mc1.21.1-0.15.3-neoforge"
+server_side = true
+client_side = true
+
+[[mods.lithium.source]]
+
+[mods.lithium.source.Download]
+url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge-0.15.3%2Bmc1.21.1.jar"
+sha1 = "9fd5fa9076044180ae7f51672de74669196ec72e"
+sha512 = "65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4"
+filename = "lithium-neoforge-0.15.3+mc1.21.1.jar"
+
 [mods.lithostitched]
 version = "1.6.5-neoforge-21.1"
 server_side = true
