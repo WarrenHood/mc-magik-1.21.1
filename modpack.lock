@@ -1070,6 +1070,24 @@ sha1 = "9563692efb708b6b568df27a01ec52f6311928ef"
 sha512 = "19af89a2075bb10a63884fa853ebf84b02c79dc3242430ecdad056fd764fdcde367a7303276b329df01b0736e2ef264c5d80c7dc92c6aebd244f556a230bb417"
 filename = "ferritecore-7.0.3-neoforge.jar"
 
+[mods.forbidden-arcanus]
+version = "2.6.1"
+server_side = true
+client_side = true
+
+[[mods.forbidden-arcanus.source]]
+
+[mods.forbidden-arcanus.source.Download]
+url = "https://cdn.modrinth.com/data/MdlnLS7Q/versions/fNjxgZPH/forbidden_arcanus-2.6.1.jar"
+sha1 = "1de105be68b88de87a5e6749f320c790d550c120"
+sha512 = "012a1d5c779a0173a5c76ea79f429486753f040dfe59739bc45fd0817182d705a80110032f024757f0ac51a9bd10c546a11a730899aa9adbf7251a5040472724"
+filename = "forbidden_arcanus-2.6.1.jar"
+
+[[mods.forbidden-arcanus.deps]]
+name = "valhelsia-core"
+version = "1.1.4"
+providers = ["Modrinth"]
+
 [mods.ftb-library]
 version = "Unknown"
 server_side = true
@@ -2191,6 +2209,19 @@ url = "https://mediafilez.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.
 sha1 = "9cfd4154928433e2f1f6cfc3deb48c284debb580"
 sha512 = "371dd7079b174091363327df70ed64c84e8e36fcab49b4c33bbcbe39650f6bccc12d3e14818cdfbbaa519a999f64a0a92c03ec981f55a315b044dc7cb5c27ef4"
 filename = "twilightforest-1.21.1-4.8.3345-universal.jar"
+
+[mods.valhelsia-core]
+version = "1.1.4"
+server_side = true
+client_side = true
+
+[[mods.valhelsia-core.source]]
+
+[mods.valhelsia-core.source.Download]
+url = "https://cdn.modrinth.com/data/HsdNFinx/versions/cttRekq9/valhelsia_core-neoforge-1.21.1-1.1.4.jar"
+sha1 = "018cfbf150953b9f23923e6d6c760f102583b28f"
+sha512 = "787de5659b46ddb188e2960582cb236255e8e4c2dc6d3bfdd033ab1c00bbf61351a38a4f8a9d47035e03f662c982a952c676e6474e6ad9d3dc5815a3c0df2d95"
+filename = "valhelsia_core-neoforge-1.21.1-1.1.4.jar"
 
 [mods.xaeros-minimap]
 version = "neoforge-1.21.1-25.3.10"

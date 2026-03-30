@@ -252,6 +252,10 @@ version = "*"
 name = "ferrite-core"
 version = "*"
 
+[mods.forbidden-arcanus]
+name = "forbidden-arcanus"
+version = "*"
+
 [mods.ftb-library]
 name = "ftb-library"
 version = "*"
