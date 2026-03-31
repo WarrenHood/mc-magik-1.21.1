@@ -490,6 +490,11 @@ target_path = "resourcepacks/Better-Leaves-9.5.zip"
 side = "Client"
 apply_policy = "Always"
 
+[files."./client/resourcepacks/Excalibur_V1.21.11.zip"]
+target_path = "resourcepacks/Excalibur_V1.21.11.zip"
+side = "Client"
+apply_policy = "Always"
+
 [files."./client/resourcepacks/Faithful 32x - 1.21.1.zip"]
 target_path = "resourcepacks/Faithful 32x - 1.21.1.zip"
 side = "Client"

@@ -48,7 +48,7 @@ mouseSensitivity:0.37793427230046944
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Better-Leaves-9.5.zip","mod_resources","file/Faithful 32x - 1.21.1.zip","file/TwilightJAPPAPack-1.21.1-1.2.0.zip"]
+resourcePacks:["vanilla","file/Better-Leaves-9.5.zip","mod_resources","file/Excalibur_V1.21.11.zip","file/TwilightJAPPAPack-1.21.1-1.2.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
@@ -164,14 +164,14 @@ key_iris.keybind.wireframe:key.keyboard.unknown
 key_key.sophisticatedbackpacks.open_backpack:key.keyboard.b
 key_key.sophisticatedbackpacks.inventory_interaction:key.keyboard.c
 key_key.sophisticatedbackpacks.tool_swap:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
-key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
-key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
-key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
 key_key.sophisticatedbackpacks.toggle_upgrade_5:key.keyboard.unknown
-key_key.twilightforest.swap_hotbar:key.keyboard.v
-key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_4:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_3:key.keyboard.unknown
+key_key.sophisticatedbackpacks.toggle_upgrade_2:key.keyboard.x:ALT
+key_key.sophisticatedbackpacks.toggle_upgrade_1:key.keyboard.z:ALT
 key_key.twilightforest.item_display_map_cycle:key.keyboard.c
+key_key.twilightforest.red_thread_vision:key.keyboard.unknown
+key_key.twilightforest.swap_hotbar:key.keyboard.v
 key_key.twilightforest.zoom:key.keyboard.z
 key_key.cataclysm.ability:key.keyboard.v
 key_key.cataclysm.helmet_ability:key.keyboard.c
