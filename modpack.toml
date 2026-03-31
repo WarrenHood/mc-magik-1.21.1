@@ -224,6 +224,10 @@ version = "*"
 name = "hardcore-revival"
 version = "*"
 
+[mods.hexerei]
+name = "hexerei"
+version = "*"
+
 [mods.immediatelyfast]
 name = "immediatelyfast"
 version = "*"
