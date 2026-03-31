@@ -1,0 +1,3 @@
+#Tue Mar 31 02:10:10 SAST 2026
+SHADOW_QUALITY=3
+shadowDistance=160.0
