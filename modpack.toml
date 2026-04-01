@@ -350,6 +350,10 @@ version = "*"
 name = "mowzies-mobs"
 version = "*"
 
+[mods.natures-aura]
+name = "natures-aura"
+version = "*"
+
 [mods.natures-compass]
 name = "natures-compass"
 version = "*"
