@@ -280,6 +280,10 @@ client_side = true
 name = "irons-spells-n-spellbooks"
 version = "*"
 
+[mods.irons-spells-n-spellbooks-dynamic-skill-trees]
+name = "irons-spells-n-spellbooks-dynamic-skill-trees"
+version = "*"
+
 [mods.item-obliterator]
 name = "item-obliterator"
 version = "*"
@@ -395,6 +399,12 @@ version = "*"
 [mods.polymorph]
 name = "polymorph"
 version = "*"
+
+[mods.pufferfishs-unofficial-additions]
+name = "pufferfishs-unofficial-additions"
+version = "*"
+server_side = true
+client_side = true
 
 [mods.quark]
 name = "quark"

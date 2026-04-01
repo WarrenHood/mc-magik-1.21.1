@@ -126,6 +126,19 @@ sha1 = "069f397f1b3a30b3d5f5a98cac76304dfe345d76"
 sha512 = "c1756365b28d4c6c62416f0332a0e2d591142ae9ea5e5c1e0ae640eb9ae172565c08ef6c11e29c062f4db78a3dd187dba6837fbca1e0f38e12a2b4e48ec5ed88"
 filename = "athena-neoforge-1.21-4.0.2.jar"
 
+[mods.attributes]
+version = "0.8.2"
+server_side = true
+client_side = true
+
+[[mods.attributes.source]]
+
+[mods.attributes.source.Download]
+url = "https://cdn.modrinth.com/data/FCFcFw09/versions/Fl3WeKhH/puffish_attributes-0.8.2-1.21-neoforge.jar"
+sha1 = "f4b67aa8da294203203bc8e6cd4b0cbf0a99d9dc"
+sha512 = "0e4f1617025f41cff598b0cac6b53bff10d0a72ecc7831e009894157edf5a6b31149bd1fd6fe0d3d60feafe0176e467409a2af3550b3003d60098d2ad56e38b9"
+filename = "puffish_attributes-0.8.2-1.21-neoforge.jar"
+
 [mods.azurelib]
 version = "3.1.4"
 server_side = true
@@ -1179,6 +1192,39 @@ sha1 = "9a0d90780555cb7ccb3a72887a5b302bd5306ec0"
 sha512 = "2cedd83ec44c06c138258b8db2ebbb9e039e38584929531763fffd671abf15d55a4e35ad9039a18813a0ac03c7d0b60cdbf87dfd94aaddff218806461268f468"
 filename = "irons_spellbooks-1.21.1-3.15.5.jar"
 
+[mods.irons-spells-n-spellbooks-dynamic-skill-trees]
+version = "1.1.0"
+server_side = true
+client_side = true
+
+[[mods.irons-spells-n-spellbooks-dynamic-skill-trees.source]]
+
+[mods.irons-spells-n-spellbooks-dynamic-skill-trees.source.Download]
+url = "https://cdn.modrinth.com/data/cdEXZLO4/versions/j2XQWLuk/irons_spells_dynamic_skilltree_1.1.0.jar"
+sha1 = "de961262e4328fea6861f6ba94323037df2d44ab"
+sha512 = "4acbb13a3484b4095b0bcba01e1b8add1974a2db1733e13f7f3c8048c8967ff5f351ccc5cdf5e19d434bd093ff81c600ca5acf8d6b3192bf555c33ef1eab9005"
+filename = "irons_spells_dynamic_skilltree_1.1.0.jar"
+
+[[mods.irons-spells-n-spellbooks-dynamic-skill-trees.deps]]
+name = "attributes"
+version = "0.8.2"
+providers = ["Modrinth"]
+
+[[mods.irons-spells-n-spellbooks-dynamic-skill-trees.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.21.1-3.15.5"
+providers = ["Modrinth"]
+
+[[mods.irons-spells-n-spellbooks-dynamic-skill-trees.deps]]
+name = "pufferfishs-unofficial-additions"
+version = "2.2.8"
+providers = ["Modrinth"]
+
+[[mods.irons-spells-n-spellbooks-dynamic-skill-trees.deps]]
+name = "skills"
+version = "0.17.3"
+providers = ["Modrinth"]
+
 [mods.item-obliterator]
 version = "2.3.0"
 server_side = true
@@ -1675,6 +1721,24 @@ sha1 = "5174059ecf97340a0de5ef211b938de26c4eaa36"
 sha512 = "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5"
 filename = "prickle-neoforge-1.21.1-21.1.11.jar"
 
+[mods.pufferfishs-unofficial-additions]
+version = "2.2.8"
+server_side = true
+client_side = true
+
+[[mods.pufferfishs-unofficial-additions.source]]
+
+[mods.pufferfishs-unofficial-additions.source.Download]
+url = "https://cdn.modrinth.com/data/IAao6ECB/versions/Gg8lwHYR/pufferfish_unofficial_additions-1.21.1-2.2.8.jar"
+sha1 = "b273ea691e027b33fb9a19fb966c5f072edfa5c0"
+sha512 = "ca2dc10f2b8751948e5fa5d8d8e02581cb15e20a6ca6b446bfe4422ff1e76d2ab10f00536272f97c5e54cfa0334161e9a4d4f14c094263c1be2bee04ca925ce3"
+filename = "pufferfish_unofficial_additions-1.21.1-2.2.8.jar"
+
+[[mods.pufferfishs-unofficial-additions.deps]]
+name = "skills"
+version = "0.17.3"
+providers = ["Modrinth"]
+
 [mods.puzzles-lib]
 version = "v21.1.39-1.21.1-NeoForge"
 server_side = true
@@ -1893,6 +1957,19 @@ filename = "SimpleRPC-4.1.0+hotfix.1.jar"
 name = "craterlib"
 version = "1.21-3.1.0"
 providers = ["Modrinth"]
+
+[mods.skills]
+version = "0.17.3"
+server_side = true
+client_side = true
+
+[[mods.skills.source]]
+
+[mods.skills.source.Download]
+url = "https://cdn.modrinth.com/data/hqQqvaa4/versions/LQmgtb7L/puffish_skills-0.17.3-1.21-neoforge.jar"
+sha1 = "4e6119010eaad3a571f70b7198422bb1b9d92589"
+sha512 = "5598b65dca171db9e2af5de8c4b85398162d1e138ec73a8e9d2d5496e9aad670c32498fdf86b9b14a14a7a80ed9a3e1ed22138c370807adafe1de1e43f00b3a6"
+filename = "puffish_skills-0.17.3-1.21-neoforge.jar"
 
 [mods.small-ships]
 version = "2.0.0-b2.1"
