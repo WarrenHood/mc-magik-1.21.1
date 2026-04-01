@@ -212,6 +212,10 @@ version = "*"
 name = "geckolib"
 version = "*"
 
+[mods.geophilic]
+name = "geophilic"
+version = "*"
+
 [mods.gravestone-mod]
 name = "gravestone-mod"
 version = "*"
@@ -226,6 +230,10 @@ version = "*"
 
 [mods.hexerei]
 name = "hexerei"
+version = "*"
+
+[mods.hybrid-beta]
+name = "hybrid-beta"
 version = "*"
 
 [mods.immediatelyfast]
@@ -296,10 +304,6 @@ version = "*"
 
 [mods.lithium]
 name = "lithium"
-version = "*"
-
-[mods.lithosphere]
-name = "lithosphere"
 version = "*"
 
 [mods.macaws-bridges]
@@ -586,11 +590,6 @@ apply_policy = "Always"
 
 [files."./server/magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"]
 target_path = "magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"
-side = "Server"
-apply_policy = "Always"
-
-[files."./server/magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"]
-target_path = "magik/datapacks/William Wythers' Overhauled Overworld v2.6.0.zip"
 side = "Server"
 apply_policy = "Always"
 

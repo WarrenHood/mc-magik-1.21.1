@@ -935,6 +935,19 @@ sha1 = "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
 sha512 = "340d96149a04c57c09485f5b1c69e7f8ec3b68223c618e38b7d84c58f4280dcba3d0e9480b8fc79735d9ef5fd7da5fc8f3081d575bf4bbcd2c44b6dcf21d98c0"
 filename = "geckolib-neoforge-1.21.1-4.8.4.jar"
 
+[mods.geophilic]
+version = "3.4.6"
+server_side = true
+client_side = true
+
+[[mods.geophilic.source]]
+
+[mods.geophilic.source.Download]
+url = "https://cdn.modrinth.com/data/hl5OLM95/versions/Vk4cYx6F/Geophilic%20v3.4.6.mod.jar"
+sha1 = "cea812a101e7dd130d130ca43d7ee4d1a227cbd5"
+sha512 = "5d0ac03046a6524f015c6c380e5fce59d8b763eec5fd5b6b301d67418d25a726088e94d96381ec577425d03f7d70c3b711cfd13eea29e7a48a02e95a5fb11065"
+filename = "Geophilic v3.4.6.mod.jar"
+
 [mods.glitchcore]
 version = "2.1.0.0"
 server_side = true
@@ -1010,6 +1023,19 @@ url = "https://cdn.modrinth.com/data/IQSOHVhI/versions/9KSwA9O9/hexerei-0.5.0.3.
 sha1 = "a0021f5ef5a285fdc8f80cd30d48c913d6f0765b"
 sha512 = "6ad9f14ad23e84e693c8a02fa210871f7f9f7abb34acb342d9c72aacaa822dc4d06d203d78803ab40dd5eb334344961586a3f223ae877c362f1788b7be1dad6a"
 filename = "hexerei-0.5.0.3.jar"
+
+[mods.hybrid-beta]
+version = "1.0.4.1+mod"
+server_side = true
+client_side = true
+
+[[mods.hybrid-beta.source]]
+
+[mods.hybrid-beta.source.Download]
+url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/lkuCEuyN/hybrid-beta-1.0.4.1.jar"
+sha1 = "e7b612f212378513885d1f411b4a3f30b547b89c"
+sha512 = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0a563f697ed1a23b9c15154da3bede34f361e591e7e7dbe67adc8163936"
+filename = "hybrid-beta-1.0.4.1.jar"
 
 [mods.immediatelyfast]
 version = "1.6.10+1.21.1-neoforge"
@@ -1244,19 +1270,6 @@ url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge
 sha1 = "9fd5fa9076044180ae7f51672de74669196ec72e"
 sha512 = "65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4"
 filename = "lithium-neoforge-0.15.3+mc1.21.1.jar"
-
-[mods.lithosphere]
-version = "1.7+mod"
-server_side = true
-client_side = true
-
-[[mods.lithosphere.source]]
-
-[mods.lithosphere.source.Download]
-url = "https://cdn.modrinth.com/data/iv9jp2k9/versions/wqHGyD4G/lithosphere-1.7.jar"
-sha1 = "a77a7fb21336f7dc16de8ee51986de7ee1c7fc81"
-sha512 = "d021f81f98bafdd696b9de02bbe165ce594b79966d9783e657ef30b9c508059e17fac3df74d14db340056cd6dfa1873d1ee7757c195b32312745c38cd90111d0"
-filename = "lithosphere-1.7.jar"
 
 [mods.lodestonelib]
 version = "1.8.2"
