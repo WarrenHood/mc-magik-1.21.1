@@ -386,10 +386,6 @@ version = "*"
 name = "polymorph"
 version = "*"
 
-[mods.primal-magick]
-name = "primal-magick"
-version = "*"
-
 [mods.quark]
 name = "quark"
 version = "*"

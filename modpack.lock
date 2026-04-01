@@ -443,19 +443,6 @@ name = "architectury-api"
 version = "13.0.8+neoforge"
 providers = ["Modrinth"]
 
-[mods.common-network]
-version = "1.0.21-1.21.1"
-server_side = true
-client_side = true
-
-[[mods.common-network.source]]
-
-[mods.common-network.source.Download]
-url = "https://cdn.modrinth.com/data/HIuqnQpi/versions/pR7AeZk3/common-networking-neoforge-1.0.21-1.21.1.jar"
-sha1 = "f55722a4278997e7ef278f4390a31e848f7beea7"
-sha512 = "2797cb78554fb413276d700c1021c2c0b93c30a7cbd2c47fd6f88578a99788c37f1a5241165fafc61e114377ec328f9155db77fc8975c9c66416ff7081980f31"
-filename = "common-networking-neoforge-1.0.21-1.21.1.jar"
-
 [mods.compat-delight]
 version = "1.0.1.1"
 server_side = true
@@ -1620,24 +1607,6 @@ url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neofor
 sha1 = "84f8c539fa326dc723ae62b7a6916d6b01982d07"
 sha512 = "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
 filename = "polymorph-neoforge-1.1.0+1.21.1.jar"
-
-[mods.primal-magick]
-version = "6.0.7"
-server_side = true
-client_side = true
-
-[[mods.primal-magick.source]]
-
-[mods.primal-magick.source.Download]
-url = "https://cdn.modrinth.com/data/VlgDBPBy/versions/zdRhg0nF/primalmagick-neoforge-1.21.1-6.0.7.jar"
-sha1 = "165a849fe2b95355067ede9cda014dec08129731"
-sha512 = "91f578f9e7898275fcc6fc2f474a1e81901e51eb0f0bff074f2f2776c9d11a18eb075ebd9e381bd7afe8070837773345a751658f48c4bdc458b1c2ac808931ea"
-filename = "primalmagick-neoforge-1.21.1-6.0.7.jar"
-
-[[mods.primal-magick.deps]]
-name = "common-network"
-version = "1.0.21-1.21.1"
-providers = ["Modrinth"]
 
 [mods.puzzles-lib]
 version = "v21.1.39-1.21.1-NeoForge"
