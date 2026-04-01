@@ -158,6 +158,12 @@ version = "*"
 name = "emiffect"
 version = "*"
 
+[mods.enchantment-descriptions]
+name = "enchantment-descriptions"
+version = "*"
+server_side = false
+client_side = true
+
 [mods.enhanced-celestials]
 name = "enhanced-celestials"
 version = "*"

@@ -224,6 +224,19 @@ name = "puzzles-lib"
 version = "v21.1.39-1.21.1-NeoForge"
 providers = ["Modrinth"]
 
+[mods.bookshelf-lib]
+version = "21.1.81"
+server_side = true
+client_side = true
+
+[[mods.bookshelf-lib.source]]
+
+[mods.bookshelf-lib.source.Download]
+url = "https://cdn.modrinth.com/data/uy4Cnpcm/versions/1sdJl7J1/bookshelf-neoforge-1.21.1-21.1.81.jar"
+sha1 = "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+sha512 = "78d4577a8e8fbb241216968475dd73f5b9e5efeb7da802b18a4e6c290e49af6cb4a5676e9855d0d8ff3613f967812e4bd363bbb9196c17c954d19454f84b2214"
+filename = "bookshelf-neoforge-1.21.1-21.1.81.jar"
+
 [mods.brewin-and-chewin]
 version = "4.4.2+1.21.1-neoforge"
 server_side = true
@@ -721,6 +734,29 @@ filename = "emiffect-neoforge-2.1.6+mc1.21.1.jar"
 [[mods.emiffect.deps]]
 name = "emi"
 version = "1.1.22+1.21.1+neoforge"
+providers = ["Modrinth"]
+
+[mods.enchantment-descriptions]
+version = "21.1.9"
+server_side = false
+client_side = true
+
+[[mods.enchantment-descriptions.source]]
+
+[mods.enchantment-descriptions.source.Download]
+url = "https://cdn.modrinth.com/data/UVtY3ZAC/versions/zfAkJn0r/enchdesc-neoforge-1.21.1-21.1.9.jar"
+sha1 = "e4fa515c5deab3165f250f2a1297ac836d496064"
+sha512 = "22258e118552e690ae77ad1a13e5dfe69bf94bdd765d2e614e2e4cc7410c406866b7937b54e8475660bba858b0eadb7efd430146563301143643622622d2c928"
+filename = "enchdesc-neoforge-1.21.1-21.1.9.jar"
+
+[[mods.enchantment-descriptions.deps]]
+name = "bookshelf-lib"
+version = "21.1.81"
+providers = ["Modrinth"]
+
+[[mods.enchantment-descriptions.deps]]
+name = "prickle"
+version = "21.1.11"
 providers = ["Modrinth"]
 
 [mods.enhanced-celestials]
@@ -1625,6 +1661,19 @@ url = "https://cdn.modrinth.com/data/tagwiZkJ/versions/VEburL70/polymorph-neofor
 sha1 = "84f8c539fa326dc723ae62b7a6916d6b01982d07"
 sha512 = "37358e19d8f251b7d435ea5198eded7b1361e90d5728e11fcb15aeb55786f4ee10fd8fecd14b11f34a99bd92aea01a9977c0dbc46ab6bb07af61a6c89455b6ff"
 filename = "polymorph-neoforge-1.1.0+1.21.1.jar"
+
+[mods.prickle]
+version = "21.1.11"
+server_side = true
+client_side = true
+
+[[mods.prickle.source]]
+
+[mods.prickle.source.Download]
+url = "https://cdn.modrinth.com/data/aaRl8GiW/versions/EE1FHDyD/prickle-neoforge-1.21.1-21.1.11.jar"
+sha1 = "5174059ecf97340a0de5ef211b938de26c4eaa36"
+sha512 = "154d42795ccf1f3e07714775cdb82fd5db17574319286ced13d86b0456b64e4cf5bb89ffbcbfcefce67b73ed0b83e4e2944e493d79d9a385ff9de23006ee7bf5"
+filename = "prickle-neoforge-1.21.1-21.1.11.jar"
 
 [mods.puzzles-lib]
 version = "v21.1.39-1.21.1-NeoForge"
