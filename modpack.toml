@@ -448,10 +448,6 @@ client_side = true
 name = "sodium"
 version = "*"
 
-[mods.sophisticated-backpacks]
-name = "sophisticated-backpacks"
-version = "*"
-
 [mods.spark]
 name = "spark"
 version = "*"
@@ -473,6 +469,10 @@ name = "too-fast"
 version = "*"
 server_side = true
 client_side = true
+
+[mods.travelersbackpack]
+name = "travelersbackpack"
+version = "*"
 
 [mods.twilightforest]
 name = "twilightforest"
