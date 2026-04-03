@@ -922,24 +922,6 @@ sha1 = "328e04bf1a445870aacea8fe7637670f84272a8f"
 sha512 = "f1542136eb2c857c9f278a2fe5b605186f2e1307c1b217812ed3f677b9ef5af01d86cb8269a5ce039325312f7d3f5d2ccb94c364a5aea52c28455de86e1cff9d"
 filename = "ftb-teams-neoforge-2101.1.9.jar"
 
-[mods.functional-storage]
-version = "1.21-1.5.5"
-server_side = true
-client_side = true
-
-[[mods.functional-storage.source]]
-
-[mods.functional-storage.source.Download]
-url = "https://cdn.modrinth.com/data/cO40ZIg3/versions/sOE4zjiT/functionalstorage-1.21.1-1.5.5.jar"
-sha1 = "52ce3f093bb069eb551e47377b328b612b2f18c2"
-sha512 = "fbfc0c600a71fd22583ed7a471eb06bd94ed98a3bb55063be99b2daba4a2e98f4d8b52d79aef12784e55ec686a95c6d1490ab758b3ddbd1aace79548acf996f3"
-filename = "functionalstorage-1.21.1-1.5.5.jar"
-
-[[mods.functional-storage.deps]]
-name = "titanium"
-version = "1.21-4.0.42"
-providers = ["Modrinth"]
-
 [mods.fzzy-config]
 version = "0.7.6+1.21+neoforge"
 server_side = true
@@ -2103,19 +2085,6 @@ providers = ["Modrinth"]
 name = "modonomicon"
 version = "1.21.1-1.120.1"
 providers = ["Modrinth"]
-
-[mods.titanium]
-version = "1.21-4.0.42"
-server_side = true
-client_side = true
-
-[[mods.titanium.source]]
-
-[mods.titanium.source.Download]
-url = "https://cdn.modrinth.com/data/1Ro7m06l/versions/LmipxHTo/titanium-1.21-4.0.42.jar"
-sha1 = "aa71953b17a0a3618c6a44be428cf98e6885665b"
-sha512 = "34e7ee1e63e6b87bc44df1273f452ebdb2772de58b551b1ff32eb2dbfe19a9bd2514e37c262c8e4799c8712c49172f68a164545368f2816ca1b1009e913d2668"
-filename = "titanium-1.21-4.0.42.jar"
 
 [mods.too-fast]
 version = "0.4.3.5"

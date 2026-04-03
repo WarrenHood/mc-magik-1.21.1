@@ -210,10 +210,6 @@ version = "*"
 providers = ["Raw"]
 download_url = "https://mediafilez.forgecdn.net/files/7369/21/ftb-teams-neoforge-2101.1.9.jar"
 
-[mods.functional-storage]
-name = "functional-storage"
-version = "*"
-
 [mods.geckolib]
 name = "geckolib"
 version = "*"
