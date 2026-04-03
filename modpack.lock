@@ -61,7 +61,7 @@ sha512 = "c0061c263e1d701e71a75355c3db11c9a975dd1e47da0fe6592973bf12d4f5b44aa476
 filename = "AkashicTome-1.8-30.jar"
 
 [mods.almost-unified]
-version = "1.21.1-1.3.0+neoforge"
+version = "1.21.1-1.4.0+neoforge"
 deps = []
 server_side = true
 client_side = true
@@ -69,10 +69,10 @@ client_side = true
 [[mods.almost-unified.source]]
 
 [mods.almost-unified.source.Download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/ZSRQ3k7q/almostunified-neoforge-1.21.1-1.3.0.jar"
-sha1 = "d4d4e89eeec0693433dd16f5cf8dbd0181ae6fe6"
-sha512 = "9f517d364d2bb2339ee37a601527515fac3c35542439c9ff48de0b1bbf56df734841acf75a4ccf7750501005ebe4a5e9a01391760d5e19fdfa996e074fe3be9b"
-filename = "almostunified-neoforge-1.21.1-1.3.0.jar"
+url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/KGO5XGHd/almostunified-neoforge-1.21.1-1.4.0.jar"
+sha1 = "ee683e88c1018f1dec39b8383315e7e2834797ad"
+sha512 = "0fc34dc537d957e7ca0296dc61c2fae6b4aeb236dba2d453acdff14cf879c22a6aab215a6f6a49714352160da804191c0330a6c0952ee13dc49fb706bb422025"
+filename = "almostunified-neoforge-1.21.1-1.4.0.jar"
 
 [mods.alternate-current]
 version = "neoforge-mc1.21-1.9.0"
@@ -88,17 +88,17 @@ sha512 = "e7715d92987ad902f316ae657558a58e647b4f076d6962e6ac5b6bdb802755f1a37c23
 filename = "alternate_current-mc1.21-1.9.0.jar"
 
 [mods.appleskin]
-version = "3.0.8+mc1.21"
+version = "3.0.9+mc1.21"
 server_side = true
 client_side = true
 
 [[mods.appleskin.source]]
 
 [mods.appleskin.source.Download]
-url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/8X2x5cPC/appleskin-neoforge-mc1.21-3.0.8.jar"
-sha1 = "32be58815905e472016b6413175a27e6cbf05b90"
-sha512 = "f47c7228cb06693f118abfbd545c2cbacbe3ac4c779281d4464380dc4310de8a47e1ba73df3c7c6b8b670cca6ef49d9c14ccb93ba5a6705da9e3cf651eb63486"
-filename = "appleskin-neoforge-mc1.21-3.0.8.jar"
+url = "https://cdn.modrinth.com/data/EsAfCjCV/versions/uAKA6Laj/appleskin-neoforge-mc1.21-3.0.9.jar"
+sha1 = "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+sha512 = "f4ea46273e407334b63e262e2555c9a8204f7b5e60f23f272fbaa83ad9e88800e0ee186aca840710df2dbe0a18b37758695fef2ae1a902c10b3706e3de772937"
+filename = "appleskin-neoforge-mc1.21-3.0.9.jar"
 
 [mods.architectury-api]
 version = "13.0.8+neoforge"
@@ -319,7 +319,7 @@ providers = ["Modrinth"]
 
 [[mods.cataclysm-spellbooks.deps]]
 name = "l_enders-cataclysm"
-version = "3.25"
+version = "3.26"
 providers = ["Modrinth"]
 
 [mods.chunky]
@@ -1266,17 +1266,17 @@ sha512 = "b32faa6d616511aff4f8b32197877c53b9f8bee103884ec37c632b5d017bb59a498ec9
 filename = "kotlinforforge-5.11.0-all.jar"
 
 [mods.l_enders-cataclysm]
-version = "3.25"
+version = "3.26"
 server_side = true
 client_side = true
 
 [[mods.l_enders-cataclysm.source]]
 
 [mods.l_enders-cataclysm.source.Download]
-url = "https://cdn.modrinth.com/data/46KJle7n/versions/VSTFI2yO/L_Ender%27s%20Cataclysm%201.21.1-3.25.jar"
-sha1 = "39dc0c76e77131fe62844e70ec9bf563581a7f74"
-sha512 = "d424e5f17189777dff9f9fad188075d132ccaa0f514b63b66a637f334a37984b79fa034876e0c50b11e1053fb7b7406b9e2db13613258b89f54147181187aaad"
-filename = "L_Ender's Cataclysm 1.21.1-3.25.jar"
+url = "https://cdn.modrinth.com/data/46KJle7n/versions/yMCpCCrA/L_Ender%27s%20Cataclysm%201.21.1-3.26.jar"
+sha1 = "5fff47ae29af42aa2a7e0d91e0d70dbb1c722061"
+sha512 = "3435c14aa121aafe869aa0830a8f1f63f6d027ed3aede8e196aecb5cf58c72d8d4cb8b5a5cfef63a7e894e0f62761bf9b6d04754dfdb871391951b590bedc306"
+filename = "L_Ender's Cataclysm 1.21.1-3.26.jar"
 
 [mods.leaves-be-gone]
 version = "v21.1.0-1.21.1-NeoForge"
@@ -1748,17 +1748,17 @@ sha512 = "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132
 filename = "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
 
 [mods.quark]
-version = "4.1-475"
+version = "4.1-476"
 server_side = true
 client_side = true
 
 [[mods.quark.source]]
 
 [mods.quark.source.Download]
-url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/IvW220rK/Quark-4.1-475.jar"
-sha1 = "ad9f7c9ab935f70d431ceea35976a52f9bcd26e9"
-sha512 = "98557681091c0a2b2289cffc8ca21f36b3e78706f5a1a680edb77f25f3c3644e98772e605db02d323b599f2e0f175941fd6ae9e6649ab2495abe621ddcd5c7d0"
-filename = "Quark-4.1-475.jar"
+url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/4yh9kJFj/Quark-4.1-476.jar"
+sha1 = "cb69532ce35acd0daf79b7ceb27f95ca58c923cc"
+sha512 = "d68e4c732c3cc729df53c59bd6b1b97b022bc01585882ae6ce0432c7fdd74507e5bc49788eb40e96d2cb98ee1b206f47a8c5dcd1614fb7c381bbd487cc1153a8"
+filename = "Quark-4.1-476.jar"
 
 [[mods.quark.deps]]
 name = "zeta"
@@ -2038,17 +2038,17 @@ sha512 = "f86ce34f2759c69df82578c397ff55b666c84626229a98f598458b960c21b38c95d6bf
 filename = "spark-1.10.124-neoforge.jar"
 
 [mods.spectrum]
-version = "1.11.2-1.21.1-neo"
+version = "1.11.4-1.21.1-neo"
 server_side = true
 client_side = true
 
 [[mods.spectrum.source]]
 
 [mods.spectrum.source.Download]
-url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/LSuF5NfC/spectrum-1.11.2-1.21.1-neo.jar"
-sha1 = "5eb573e4b099277d3aacc892dcbe8a5e1d550197"
-sha512 = "cd626263ff9417b7249a1eaf4ecce394cd9d30b699521fcf90e8bcebca50860f49f609a022004d5fa300d0d4e145016b7e73af97e5b95e14cd3cc5cfebd9e90c"
-filename = "spectrum-1.11.2-1.21.1-neo.jar"
+url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/iUIMnMbo/spectrum-1.11.4-1.21.1-neo.jar"
+sha1 = "e0812ea68c49973cab3c93887d4d39a77ce74796"
+sha512 = "81da86a0e623b6e937eab2ec257f02ef9406690a2c7db28767b1a8b9af42760e6745f5b200d984792ab7993681b654e28fa87e71720452e4d7b4ac9674ad4a00"
+filename = "spectrum-1.11.4-1.21.1-neo.jar"
 
 [mods.terrablender]
 version = "4.1.0.8"
