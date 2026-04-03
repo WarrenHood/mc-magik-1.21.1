@@ -1610,6 +1610,19 @@ name = "smartbrainlib"
 version = "1.16.11"
 providers = ["Modrinth"]
 
+[mods.octo-lib]
+version = "0.6.1"
+server_side = true
+client_side = true
+
+[[mods.octo-lib.source]]
+
+[mods.octo-lib.source.Download]
+url = "https://cdn.modrinth.com/data/RH2KUdKJ/versions/AbiyvpxR/OctoLib-NEOFORGE-0.6.1%2B1.21.jar"
+sha1 = "052b71b4897b3a76b4b10afda4d9342e66fb19f1"
+sha512 = "6e0194da00ae7cc1e67f0033b97965acc460edaa86e204e5f8498ea83be94a2019cb5a3254e07b59562e66297f12f3ea2262f9f0005a52c12b9a680b6f218c4d"
+filename = "OctoLib-NEOFORGE-0.6.1+1.21.jar"
+
 [mods.owo-lib]
 version = "0.12.15.5-beta.1+1.21"
 deps = []
@@ -1824,6 +1837,24 @@ providers = ["Modrinth"]
 [[mods.rctmod.deps]]
 name = "rctapi"
 version = "0.15.0-beta"
+providers = ["Modrinth"]
+
+[mods.relics-mod]
+version = "0.11.11"
+server_side = true
+client_side = true
+
+[[mods.relics-mod.source]]
+
+[mods.relics-mod.source.Download]
+url = "https://cdn.modrinth.com/data/OCJRPujW/versions/3W72oEkO/relics-1.21.1-0.11.11.jar"
+sha1 = "70a5b8d41b451a790c5823eaab1c8cf30be3c6a6"
+sha512 = "cc6495cc17c81cfe701a53d6cd3a024458a49e9bacf9504fb033633be9cbb7f045fc4d71f3fb0b1ab7eba1142502a765cf57db7b4b52676df08d265c509344ec"
+filename = "relics-1.21.1-0.11.11.jar"
+
+[[mods.relics-mod.deps]]
+name = "octo-lib"
+version = "0.6.1"
 providers = ["Modrinth"]
 
 [mods.resourceful-config]

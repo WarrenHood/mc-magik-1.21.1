@@ -414,6 +414,10 @@ version = "*"
 name = "rctmod"
 version = "*"
 
+[mods.relics-mod]
+name = "relics-mod"
+version = "*"
+
 [mods.revelationary]
 name = "revelationary"
 version = "*"
