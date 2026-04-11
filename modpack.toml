@@ -572,6 +572,11 @@ target_path = "config/effortless.toml"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/config/iceandfire/iaf-common.json"]
+target_path = "./config/iceandfire/iaf-common.json"
+side = "Both"
+apply_policy = "Always"
+
 [files."./common/config/irons_spellbooks_spell_config/irons_spellbooks/angel_wing.json"]
 target_path = "./config/irons_spellbooks_spell_config/irons_spellbooks/angel_wing.json"
 side = "Both"
@@ -599,11 +604,6 @@ apply_policy = "Always"
 
 [files."./server/config/carryon-common.toml"]
 target_path = "config/carryon-common.toml"
-side = "Server"
-apply_policy = "Always"
-
-[files."./server/config/iceandfire-common.toml"]
-target_path = "config/iceandfire-common.toml"
 side = "Server"
 apply_policy = "Always"
 
