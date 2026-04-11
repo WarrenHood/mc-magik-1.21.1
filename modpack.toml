@@ -238,6 +238,10 @@ version = "*"
 name = "hybrid-beta"
 version = "*"
 
+[mods.iceandfire-ce]
+name = "iceandfire-ce"
+version = "*"
+
 [mods.immediatelyfast]
 name = "immediatelyfast"
 version = "*"

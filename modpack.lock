@@ -1055,6 +1055,29 @@ sha1 = "e7b612f212378513885d1f411b4a3f30b547b89c"
 sha512 = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0a563f697ed1a23b9c15154da3bede34f361e591e7e7dbe67adc8163936"
 filename = "hybrid-beta-1.0.4.1.jar"
 
+[mods.iceandfire-ce]
+version = "2.0-beta.15"
+server_side = true
+client_side = true
+
+[[mods.iceandfire-ce.source]]
+
+[mods.iceandfire-ce.source.Download]
+url = "https://cdn.modrinth.com/data/VpmCsizY/versions/I4Sg9ofE/IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar"
+sha1 = "c4d33745a8041465f2d12bb76fc048750288ce24"
+sha512 = "266125f3a56ec311ee3a8f780cd6123fc58f2769ac1784acb7ebf1ad4f520f01dcd0fedf294342f160d774e2aa194a298b3451d638545be37b75007ead2b2d66"
+filename = "IceAndFireCE-2.0-beta.15-1.21.1-neoforge.jar"
+
+[[mods.iceandfire-ce.deps]]
+name = "jupiter"
+version = "2.3.7-1.21.1-neoforge"
+providers = ["Modrinth"]
+
+[[mods.iceandfire-ce.deps]]
+name = "uranus"
+version = "2.4"
+providers = ["Modrinth"]
+
 [mods.immediatelyfast]
 version = "1.6.10+1.21.1-neoforge"
 server_side = false
@@ -1251,6 +1274,20 @@ url = "https://cdn.modrinth.com/data/u6dRKJwZ/versions/YAcQ6elZ/jei-1.21.1-neofo
 sha1 = "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
 sha512 = "8bad8eb3c8e974f867e23e4d74598f603c5fbf03eb5356a386dd37cb9fa23e08ad1f58be6b7be50d2fbf9d3fbfaeac8584c70ced736df4b8f82c7c75be242998"
 filename = "jei-1.21.1-neoforge-19.27.0.340.jar"
+
+[mods.jupiter]
+version = "2.3.7-1.21.1-neoforge"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.jupiter.source]]
+
+[mods.jupiter.source.Download]
+url = "https://cdn.modrinth.com/data/XbiLGMMU/versions/Jpcw76rq/jupiter-2.3.7-1.21.1-neoforge.jar"
+sha1 = "569fb484ea5c8e8d690945ad4cd132131a719751"
+sha512 = "b91665a0e7e74d7bfdc3903a297bc97477fdeea49c43e03f1de000cbb09422bf35d06a6f67a68c36029be23cd35b753770354967f25b8f09473654ea85473ee0"
+filename = "jupiter-2.3.7-1.21.1-neoforge.jar"
 
 [mods.kotlin-for-forge]
 version = "5.11.0"
@@ -2125,6 +2162,19 @@ url = "https://mediafilez.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.
 sha1 = "9cfd4154928433e2f1f6cfc3deb48c284debb580"
 sha512 = "371dd7079b174091363327df70ed64c84e8e36fcab49b4c33bbcbe39650f6bccc12d3e14818cdfbbaa519a999f64a0a92c03ec981f55a315b044dc7cb5c27ef4"
 filename = "twilightforest-1.21.1-4.8.3345-universal.jar"
+
+[mods.uranus]
+version = "2.4"
+server_side = true
+client_side = true
+
+[[mods.uranus.source]]
+
+[mods.uranus.source.Download]
+url = "https://cdn.modrinth.com/data/3Acxy864/versions/BBb3HOQ5/uranus-2.4-1.21.1-neoforge.jar"
+sha1 = "757d8dd20bf22c7157e275c2a7643cde76984e4d"
+sha512 = "6c0b85a49921c32480e4547a8108694a16b1f3fa5fb0b5120b2942715234a1d02931a6748a87869c0704b0492aeb3cfbd6814d3cc25c7c2e99f720c11c3c4fdd"
+filename = "uranus-2.4-1.21.1-neoforge.jar"
 
 [mods.valhelsia-core]
 version = "1.1.4"
