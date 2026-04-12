@@ -406,10 +406,6 @@ version = "*"
 server_side = true
 client_side = true
 
-[mods.quark]
-name = "quark"
-version = "*"
-
 [mods.rad-gyms]
 name = "rad-gyms"
 version = "*"

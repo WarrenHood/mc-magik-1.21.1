@@ -1784,24 +1784,6 @@ sha1 = "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2"
 sha512 = "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b"
 filename = "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
 
-[mods.quark]
-version = "4.1-476"
-server_side = true
-client_side = true
-
-[[mods.quark.source]]
-
-[mods.quark.source.Download]
-url = "https://cdn.modrinth.com/data/qnQsVE2z/versions/4yh9kJFj/Quark-4.1-476.jar"
-sha1 = "cb69532ce35acd0daf79b7ceb27f95ca58c923cc"
-sha512 = "d68e4c732c3cc729df53c59bd6b1b97b022bc01585882ae6ce0432c7fdd74507e5bc49788eb40e96d2cb98ee1b206f47a8c5dcd1614fb7c381bbd487cc1153a8"
-filename = "Quark-4.1-476.jar"
-
-[[mods.quark.deps]]
-name = "zeta"
-version = "1.1-39"
-providers = ["Modrinth"]
-
 [mods.rad-gyms]
 version = "1.7.3_0.4.4"
 server_side = true
@@ -2229,16 +2211,3 @@ url = "https://cdn.modrinth.com/data/hwNDseBp/versions/RPuu7Vml/Yggdrasil-6.0.0.
 sha1 = "4c0b58818fd0fde76378be63e45d62ca36c4310d"
 sha512 = "c2f542cb10f4e27f591e6b0529503c6db65bb9a40cd4fb233a065f2c31ee6cdc7e8c870a5527a292af667b11fccf821103b7f486414512418acae717d2de38b2"
 filename = "Yggdrasil-6.0.0.jar"
-
-[mods.zeta]
-version = "1.1-39"
-server_side = true
-client_side = true
-
-[[mods.zeta.source]]
-
-[mods.zeta.source.Download]
-url = "https://cdn.modrinth.com/data/MVARlG2f/versions/iyNxYFme/Zeta-1.1-39.jar"
-sha1 = "ef6f2e1a625a9f8770a33576b682a228e441747a"
-sha512 = "ef4d2ad96a30fd275c2859308212845d18a086fce003d5c248934548a12a4a0fbc8fd242231c22d95a539254c635f41815f6db86065b639edc2b5efe993fce23"
-filename = "Zeta-1.1-39.jar"
