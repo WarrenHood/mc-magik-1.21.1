@@ -392,6 +392,10 @@ version = "*"
 name = "ping-wheel"
 version = "*"
 
+[mods.pizzadelight]
+name = "pizzadelight"
+version = "*"
+
 [mods.playeranimator]
 name = "playeranimator"
 version = "*"

@@ -1713,6 +1713,24 @@ sha1 = "8ebf0b0c2c1987aabc2d7446e8ac4a2c1b5fe3c3"
 sha512 = "7f92c5c99a591277bb7a798c63d81d41e5a3d79b6af535c8ed9997030602cc34c3955706eba0190e58eaa4f6f1b9218e2be5b6b0ce89a1fac789150c136cccb1"
 filename = "Ping-Wheel-1.12.1-neoforge-1.21.1.jar"
 
+[mods.pizzadelight]
+version = "1.21.1-2.0.2"
+server_side = true
+client_side = true
+
+[[mods.pizzadelight.source]]
+
+[mods.pizzadelight.source.Download]
+url = "https://cdn.modrinth.com/data/6VTyLLiG/versions/mwfioMaE/pizzadelight-1.21.1-2.0.1.jar"
+sha1 = "210582448f4b97621bb3935eb66c423a846e1a14"
+sha512 = "887a4c0e634beaf51494aba921fc34c84bc092cd9c693befbb3acf96423443bc1afc7ad1046060a298b8b715665125a80b33f79e673f8e353196ba75a5ce742d"
+filename = "pizzadelight-1.21.1-2.0.1.jar"
+
+[[mods.pizzadelight.deps]]
+name = "farmers-delight"
+version = "1.21.1-1.2.11"
+providers = ["Modrinth"]
+
 [mods.playeranimator]
 version = "2.0.4+1.21.1-forge"
 deps = []
