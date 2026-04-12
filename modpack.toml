@@ -376,6 +376,10 @@ version = "*"
 name = "occultism"
 version = "*"
 
+[mods.parcool]
+name = "parcool"
+version = "*"
+
 [mods.patchouli]
 name = "patchouli"
 version = "*"
