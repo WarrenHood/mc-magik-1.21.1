@@ -388,6 +388,12 @@ version = "*"
 name = "pehkui"
 version = "*"
 
+[mods.pick-up-notifier]
+name = "pick-up-notifier"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.ping-wheel]
 name = "ping-wheel"
 version = "*"

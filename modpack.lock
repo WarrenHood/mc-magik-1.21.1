@@ -1700,6 +1700,24 @@ sha1 = "4ae35b04b0fca7b170417a12d6da6a693281574b"
 sha512 = "a4213c16ffc98113031b9f326266ae8098af8ccb409c119e84adffec0f4f47d15ba6ddc59e6fc10504d1482284f6c6c28c6a139bf28d2ccc08cfcb6d6ee749be"
 filename = "Pehkui-3.8.3+1.21-neoforge.jar"
 
+[mods.pick-up-notifier]
+version = "v21.1.1-1.21.1-NeoForge"
+server_side = true
+client_side = true
+
+[[mods.pick-up-notifier.source]]
+
+[mods.pick-up-notifier.source.Download]
+url = "https://cdn.modrinth.com/data/ZX66K16c/versions/5NZounJc/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+sha1 = "90d3fe207c95a3a5d849ebf8d70ffa885694e30f"
+sha512 = "9754f44f3bf084f45b47c88c3830dc37ffc68b4b5d6cf03ca5015177611068e8c1725670d20c0ed4674fb619227b18ccbff39cfc687a46f5258caf91c96db6db"
+filename = "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
+
+[[mods.pick-up-notifier.deps]]
+name = "puzzles-lib"
+version = "v21.1.39-1.21.1-NeoForge"
+providers = ["Modrinth"]
+
 [mods.ping-wheel]
 version = "1.12.1"
 server_side = true
