@@ -2150,6 +2150,19 @@ sha1 = "bb931faec3322e75abd664a6fcf6cc385b9a16e6"
 sha512 = "8b6ddbdc332dfeb7dd106ef7e892b21ced26b963a89df133dfba4b6a72f65455389d5b7481f63628477573d0300b996fa87af3e71a0cfc2f2ae43cf13acaa04e"
 filename = "travelersbackpack-neoforge-1.21.1-10.1.34.jar"
 
+[mods.treechop]
+version = "0.19.3"
+server_side = true
+client_side = true
+
+[[mods.treechop.source]]
+
+[mods.treechop.source.Download]
+url = "https://cdn.modrinth.com/data/gHoB7SHO/versions/iLXWmfax/TreeChop-1.21.1-neoforge-0.19.3.jar"
+sha1 = "7bf7c1bde0f574e3fb9077115a2d4f59e534486c"
+sha512 = "f7e2dba5b40d544383048e9cb846977b01eca7f653d6513cf9d2b26abd10ab5d73eefe3956a0759cb342c7ac8af41e61fc338873ca47a8e4899e4407cb44b17d"
+filename = "TreeChop-1.21.1-neoforge-0.19.3.jar"
+
 [mods.twilightforest]
 version = "Unknown"
 server_side = true

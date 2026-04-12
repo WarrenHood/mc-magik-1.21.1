@@ -482,6 +482,12 @@ client_side = true
 name = "travelersbackpack"
 version = "*"
 
+[mods.treechop]
+name = "treechop"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.twilightforest]
 name = "twilightforest"
 version = "*"
