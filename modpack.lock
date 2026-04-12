@@ -1749,6 +1749,19 @@ name = "farmers-delight"
 version = "1.21.1-1.2.11"
 providers = ["Modrinth"]
 
+[mods.plasmo-voice]
+version = "neoforge-1.21-2.1.8"
+server_side = true
+client_side = true
+
+[[mods.plasmo-voice.source]]
+
+[mods.plasmo-voice.source.Download]
+url = "https://cdn.modrinth.com/data/1bZhdhsH/versions/k1eAJFsl/plasmovoice-neoforge-1.21-2.1.8.jar"
+sha1 = "5e4f69671ac5615e6745d40a98038f976de7438c"
+sha512 = "b631207d290b78adcf9e08bbd3eef8787e5c086dd7aaf578da0524267fa68335a7fa02d47c78e17ca24248183467076d28b504e01b7232c9b52cb0288f31766b"
+filename = "plasmovoice-neoforge-1.21-2.1.8.jar"
+
 [mods.playeranimator]
 version = "2.0.4+1.21.1-forge"
 deps = []
@@ -1819,6 +1832,55 @@ url = "https://cdn.modrinth.com/data/QAGBst4M/versions/EgWWSAhJ/PuzzlesLib-v21.1
 sha1 = "bcc0900fbbf6d6fc5ca05039cd5725e6145225f2"
 sha512 = "84bac5cddae511234eea4387d34a96cc961a0e7d23b8c1ab17523b9762bee96a6aa132f57a417e5bc679565439784c268b92ee8d353e4b26f86d3ef5e1c5453b"
 filename = "PuzzlesLib-v21.1.39-1.21.1-NeoForge.jar"
+
+[mods.pv-addon-sculk]
+version = "1.1.0"
+server_side = true
+client_side = true
+
+[[mods.pv-addon-sculk.source]]
+
+[mods.pv-addon-sculk.source.Download]
+url = "https://cdn.modrinth.com/data/7dI2zrDy/versions/HmseAzbt/pv-addon-sculk-1.1.0.jar"
+sha1 = "832f1b54ee05fa44ec79383a94bad008c0c54601"
+sha512 = "24d5ed01c28590a1700979741c98eef98e65062ca2df28052578eee5bddb7d4c61b75345e54c0f872788c2f7f99e3f713894df845479ffcc7fc429283c179852"
+filename = "pv-addon-sculk-1.1.0.jar"
+
+[mods.pv-addon-soundphysics]
+version = "1.1.2"
+server_side = false
+client_side = true
+
+[[mods.pv-addon-soundphysics.source]]
+
+[mods.pv-addon-soundphysics.source.Download]
+url = "https://cdn.modrinth.com/data/K1y8brkJ/versions/kmyhU2jp/pv-addon-soundphysics-1.1.2.jar"
+sha1 = "0ae889cc772b52446a4db96254db2e73f3688bb3"
+sha512 = "67e92417e591af94df022e81e1891af476445cc5283259fe6586e495d4d8cc15841cd5590d926fa55406225524d4d6c5f8746e19deda2456aec4c4c3f202be07"
+filename = "pv-addon-soundphysics-1.1.2.jar"
+
+[[mods.pv-addon-soundphysics.deps]]
+name = "plasmo-voice"
+version = "neoforge-1.21-2.1.8"
+providers = ["Modrinth"]
+
+[[mods.pv-addon-soundphysics.deps]]
+name = "sound-physics-remastered"
+version = "neoforge-1.21.1-1.5.1"
+providers = ["Modrinth"]
+
+[mods.pv-addon-whisper]
+version = "1.1.0"
+server_side = true
+client_side = false
+
+[[mods.pv-addon-whisper.source]]
+
+[mods.pv-addon-whisper.source.Download]
+url = "https://cdn.modrinth.com/data/pZxauj81/versions/ZgizC1Oe/pv-addon-whisper-1.1.0.jar"
+sha1 = "8574c97808bb9a006fe0d2574714b67e98b42255"
+sha512 = "e679ba69885f300113fb504d919c4be43506b5d044ed8dce798908f1895e4828b095fb2e33e556e6106b936a9247029ef80cd8d09df4499030d16df36e2abbe8"
+filename = "pv-addon-whisper-1.1.0.jar"
 
 [mods.rad-gyms]
 version = "1.7.3_0.4.4"
@@ -2078,6 +2140,20 @@ url = "https://cdn.modrinth.com/data/AANobbMI/versions/Pb3OXVqC/sodium-neoforge-
 sha1 = "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1"
 sha512 = "ce58f34d05d96c0a109a5cea23c741f6bdb2e6be31fc087c5989274cefca5f10ba0c08c62083cf554a51f2c7667bf46e4164383f675c844e77633aef2659996b"
 filename = "sodium-neoforge-0.6.13+mc1.21.1.jar"
+
+[mods.sound-physics-remastered]
+version = "neoforge-1.21.1-1.5.1"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.sound-physics-remastered.source]]
+
+[mods.sound-physics-remastered.source.Download]
+url = "https://cdn.modrinth.com/data/qyVF9oeo/versions/Dd2tmpsk/sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
+sha1 = "a5ac35ccb902231047709530a5708fb71dc3e3b5"
+sha512 = "ff7e9f0b968eeb2ba0e833328a122813cad0434cfe2d5c3d527c1c0d564504f13a737fc05f22d3fea562a2f86568d31b95212bf5347dd10da36cd49ad56143a6"
+filename = "sound-physics-remastered-neoforge-1.21.1-1.5.1.jar"
 
 [mods.spark]
 version = "1.10.124-neoforge-1.21.1"

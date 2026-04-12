@@ -402,6 +402,10 @@ version = "*"
 name = "pizzadelight"
 version = "*"
 
+[mods.plasmo-voice]
+name = "plasmo-voice"
+version = "*"
+
 [mods.playeranimator]
 name = "playeranimator"
 version = "*"
@@ -415,6 +419,22 @@ name = "pufferfishs-unofficial-additions"
 version = "*"
 server_side = true
 client_side = true
+
+[mods.pv-addon-sculk]
+name = "pv-addon-sculk"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.pv-addon-soundphysics]
+name = "pv-addon-soundphysics"
+version = "*"
+server_side = false
+client_side = true
+
+[mods.pv-addon-whisper]
+name = "pv-addon-whisper"
+version = "*"
 
 [mods.rad-gyms]
 name = "rad-gyms"
@@ -460,6 +480,10 @@ client_side = true
 
 [mods.sodium]
 name = "sodium"
+version = "*"
+
+[mods.sound-physics-remastered]
+name = "sound-physics-remastered"
 version = "*"
 
 [mods.spark]
