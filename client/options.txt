@@ -48,7 +48,7 @@ mouseSensitivity:0.37793427230046944
 damageTiltStrength:1.0
 highContrast:false
 narratorHotkey:true
-resourcePacks:["vanilla","file/Better-Leaves-9.5.zip","mod_resources","file/Faithful 32x - 1.21.1.zip","file/TwilightJAPPAPack-1.21.1-1.2.0.zip"]
+resourcePacks:["vanilla","mod_resources","file/Faithful 32x - 1.21.1.zip","file/TwilightJAPPAPack-1.21.1-1.2.0.zip","file/Better-Leaves-9.5.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
