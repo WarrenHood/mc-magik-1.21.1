@@ -2283,6 +2283,24 @@ sha1 = "018cfbf150953b9f23923e6d6c760f102583b28f"
 sha512 = "787de5659b46ddb188e2960582cb236255e8e4c2dc6d3bfdd033ab1c00bbf61351a38a4f8a9d47035e03f662c982a952c676e6474e6ad9d3dc5815a3c0df2d95"
 filename = "valhelsia_core-neoforge-1.21.1-1.1.4.jar"
 
+[mods.waystones]
+version = "21.1.29+neoforge-1.21.1"
+server_side = true
+client_side = true
+
+[[mods.waystones.source]]
+
+[mods.waystones.source.Download]
+url = "https://cdn.modrinth.com/data/LOpKHB2A/versions/Ayolso4x/waystones-neoforge-1.21.1-21.1.29.jar"
+sha1 = "7bd06fb7dfd6904a0f4ec5b9b46da2325e247aa3"
+sha512 = "87230fd132e281ba66baa40d2f367a584deb78ac6e693aa97355c90f26ef2607365621c297e29c180a289b93aedc84fa92aa37d350e358a3220ef21b1cc45a30"
+filename = "waystones-neoforge-1.21.1-21.1.29.jar"
+
+[[mods.waystones.deps]]
+name = "balm"
+version = "21.0.56+neoforge-1.21.1"
+providers = ["Modrinth"]
+
 [mods.xaeros-minimap]
 version = "neoforge-1.21.1-25.3.10"
 deps = []

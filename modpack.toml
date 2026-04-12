@@ -522,6 +522,10 @@ download_url = "https://mediafilez.forgecdn.net/files/7797/302/twilightforest-1.
 server_side = true
 client_side = true
 
+[mods.waystones]
+name = "waystones"
+version = "*"
+
 [mods.xaeros-minimap]
 name = "xaeros-minimap"
 version = "*"
