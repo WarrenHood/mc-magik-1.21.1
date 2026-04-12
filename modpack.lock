@@ -1661,19 +1661,6 @@ sha1 = "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
 sha512 = "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa"
 filename = "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 
-[mods.parcool]
-version = "1.21.1-3.4.3.3"
-server_side = true
-client_side = true
-
-[[mods.parcool.source]]
-
-[mods.parcool.source.Download]
-url = "https://cdn.modrinth.com/data/Fsvx2bdR/versions/ZgAHzqRi/ParCool-1.21.1-3.4.3.3-NF.jar"
-sha1 = "d0ce92c2583875977919de722923abf18985c738"
-sha512 = "eeccbd5eae38fcf8ca92ee85d46c1a84477f2fe9fcd25565452fad53e75e5f59ecd71da827ae6da50cc1a5acc5f4289bb46038d885aaed91b51f43e3deada0e6"
-filename = "ParCool-1.21.1-3.4.3.3-NF.jar"
-
 [mods.patchouli]
 version = "1.21.1-93-neoforge"
 server_side = true
