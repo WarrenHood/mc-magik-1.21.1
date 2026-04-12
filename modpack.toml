@@ -356,10 +356,6 @@ version = "*"
 name = "mouse-tweaks"
 version = "*"
 
-[mods.mowzies-mobs]
-name = "mowzies-mobs"
-version = "*"
-
 [mods.natures-aura]
 name = "natures-aura"
 version = "*"
