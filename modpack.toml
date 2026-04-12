@@ -502,6 +502,66 @@ version = "*"
 name = "yggdrasil-structure"
 version = "*"
 
+[mods.yungs-better-caves]
+name = "yungs-better-caves"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-desert-temples]
+name = "yungs-better-desert-temples"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-dungeons]
+name = "yungs-better-dungeons"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-jungle-temples]
+name = "yungs-better-jungle-temples"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-mineshafts]
+name = "yungs-better-mineshafts"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-nether-fortresses]
+name = "yungs-better-nether-fortresses"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-ocean-monuments]
+name = "yungs-better-ocean-monuments"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-strongholds]
+name = "yungs-better-strongholds"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-better-witch-huts]
+name = "yungs-better-witch-huts"
+version = "*"
+server_side = true
+client_side = true
+
+[mods.yungs-bridges]
+name = "yungs-bridges"
+version = "*"
+server_side = true
+client_side = true
+
 [files."./client/config/cubes_without_borders.json"]
 target_path = "config/cubes_without_borders.json"
 side = "Client"
