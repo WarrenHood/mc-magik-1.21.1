@@ -708,6 +708,11 @@ target_path = "config/carryon-common.toml"
 side = "Server"
 apply_policy = "Always"
 
+[files."./server/config/plasmovoice/server/config.toml"]
+target_path = "config/plasmovoice/server/config.toml"
+side = "Server"
+apply_policy = "Always"
+
 [files."./server/config/rats-common.toml"]
 target_path = "config/rats-common.toml"
 side = "Server"
