@@ -15,6 +15,18 @@ category = "key.plasmovoice.general"
 code = 96
 type = "KEYSYM"
 
+[[key_bindings]]
+name = "key.plasmovoice.whisper.ptt"
+any_context = true
+category = "hidden"
+
+[[key_bindings.keys]]
+code = 3
+type = "MOUSE"
+
+[servers.4b1e6648-fa9b-4fbb-9472-f49efb18d4c1.distances]
+4aec07ba-d109-3345-9a0a-92022a116cd0 = 32
+
 [addons.pv-addon-soundphysics]
 enabled = true
 mic_reverb = true
@@ -38,9 +50,11 @@ hrtf = false
 stereo_capture = false
 
 [voice.volumes.proximity]
-volume = 1.0
+volume = 2.0
+[voice.volumes.source_3c6e74a4-21fa-442e-b20e-cbd23e9d535a]
+volume = 2.0
 [voice.volumes.whisper]
-volume = 1.0
+volume = 2.0
 
 [advanced]
 visualize_voice_distance = true
