@@ -1055,6 +1055,39 @@ sha1 = "e7b612f212378513885d1f411b4a3f30b547b89c"
 sha512 = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0a563f697ed1a23b9c15154da3bede34f361e591e7e7dbe67adc8163936"
 filename = "hybrid-beta-1.0.4.1.jar"
 
+[mods.ice-and-fire-spellbooks]
+version = "2.3.2-1.21.1"
+server_side = true
+client_side = true
+
+[[mods.ice-and-fire-spellbooks.source]]
+
+[mods.ice-and-fire-spellbooks.source.Download]
+url = "https://cdn.modrinth.com/data/aw5e7yPa/versions/5z2A2Dax/ice_and_fire_spellbooks-2.3.2-1.21.1.jar"
+sha1 = "e707139e36d25a269da986d4a0441de4c1db3bd0"
+sha512 = "8ab2156b224e776c0e5f253ec9f548f7d5f1fbf14aa74d425d080281e7fc5047daf77dcefcd4ba3486daeb9cb61f80b85a26a14231ce3eab25b1ff581f389a49"
+filename = "ice_and_fire_spellbooks-2.3.2-1.21.1.jar"
+
+[[mods.ice-and-fire-spellbooks.deps]]
+name = "aces-spell-utils"
+version = "1.2.3-1.21.1"
+providers = ["Modrinth"]
+
+[[mods.ice-and-fire-spellbooks.deps]]
+name = "geckolib"
+version = "4.8.4"
+providers = ["Modrinth"]
+
+[[mods.ice-and-fire-spellbooks.deps]]
+name = "iceandfire-ce"
+version = "2.0-beta.15"
+providers = ["Modrinth"]
+
+[[mods.ice-and-fire-spellbooks.deps]]
+name = "irons-spells-n-spellbooks"
+version = "1.21.1-3.15.6"
+providers = ["Modrinth"]
+
 [mods.iceandfire-ce]
 version = "2.0-beta.15"
 server_side = true
