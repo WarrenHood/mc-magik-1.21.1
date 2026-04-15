@@ -122,6 +122,12 @@ version = "*"
 name = "crafttweaker"
 version = "*"
 
+[mods.ct-overhaul-village]
+name = "ct-overhaul-village"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.cubes-without-borders]
 name = "cubes-without-borders"
 version = "*"
@@ -341,6 +347,12 @@ version = "*"
 [mods.lithium]
 name = "lithium"
 version = "*"
+
+[mods.lithostitched]
+name = "lithostitched"
+version = "*"
+server_side = true
+client_side = true
 
 [mods.macaws-bridges]
 name = "macaws-bridges"

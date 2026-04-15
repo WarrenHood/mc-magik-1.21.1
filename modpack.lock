@@ -588,6 +588,19 @@ sha1 = "269b42adba7b874a58559cbaff3d4c028b09c837"
 sha512 = "dbe736c8fa8dda044d780236f9e48a79fa47be5b151214f8764f562a3cf697d11f431fa257c165c374bfd7e55a9c2b996705b6c808cb440939dc999b72be5a9d"
 filename = "CraterLib-Neoforge-1.21-3.1.0.jar"
 
+[mods.ct-overhaul-village]
+version = "3.6.3"
+server_side = true
+client_side = true
+
+[[mods.ct-overhaul-village.source]]
+
+[mods.ct-overhaul-village.source.Download]
+url = "https://cdn.modrinth.com/data/fgmhI8kH/versions/ztzRUnQ7/%5BNeoforge%5Dctov-3.6.3.jar"
+sha1 = "c5fe733d743af20f84eb87dd75b5bb57684f3e05"
+sha512 = "174125e619f935ca016efaf7d6794edc57fae39ca02295ce63618ae2b286535e4da2084fd7f0ff9506c32c0ea35ceb68659bd646f65e6fbadfdb8fda299dc832"
+filename = "[Neoforge]ctov-3.6.3.jar"
+
 [mods.cubes-without-borders]
 version = "3.0.0+1.21"
 deps = []
@@ -1443,6 +1456,19 @@ url = "https://cdn.modrinth.com/data/gvQqBUqZ/versions/RXHf27Wv/lithium-neoforge
 sha1 = "9fd5fa9076044180ae7f51672de74669196ec72e"
 sha512 = "65568e6c7e41684ad20e58db8766813840c0c8406eed9edc3f7a2514da7250ac46bde2bfb0936984cc5516c2782f86387ad0ed3d1b804b8bdddc7f7048759df4"
 filename = "lithium-neoforge-0.15.3+mc1.21.1.jar"
+
+[mods.lithostitched]
+version = "1.6.6-neoforge-21.1"
+server_side = true
+client_side = true
+
+[[mods.lithostitched.source]]
+
+[mods.lithostitched.source.Download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/Ny5JYVK8/lithostitched-1.6.6-neoforge-21.1.jar"
+sha1 = "b5da0edc0e718f4ba174f4d47a41d8c6e5585c9e"
+sha512 = "b635641eea3e89aa6d955e2f78d90ef68ff4c5e9c7c8915fa244a74f803fddfb08301354ad00f65b4a2faf79e228dd95df610200b3c1f28beb3604e407e8191a"
+filename = "lithostitched-1.6.6-neoforge-21.1.jar"
 
 [mods.lodestonelib]
 version = "1.8.2"
