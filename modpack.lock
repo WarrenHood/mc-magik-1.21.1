@@ -839,6 +839,19 @@ sha1 = "22d148a6fc6d0df294ff38b957b7399fbdb95048"
 sha512 = "bd3fdd72b5f43b7d55c6fdb142855128f3e894c743efb34989edb8ce3e5967da692a350322e6aa9d7f1a9da57e0407bddc1a4f3627d8ef15d6912b1213a69f90"
 filename = "entity_texture_features_1.21-neoforge-7.0.13.jar"
 
+[mods.fallingleavesforge]
+version = "1.21.1-2.5.1"
+server_side = false
+client_side = true
+
+[[mods.fallingleavesforge.source]]
+
+[mods.fallingleavesforge.source.Download]
+url = "https://cdn.modrinth.com/data/2JAUNCL4/versions/PVzaPLSv/fallingleaves-1.21.1-2.5.1.jar"
+sha1 = "93f479691d5a88775d90e9fa19e814b7301a363b"
+sha512 = "9cc6ec387bce1a68f07b08bf1a2a65dc49ad409070f8cf58147d3cdbb9b82300d4a7184e01cf58a82886fb57156e6875b2cf7c4abb15335f8fd15be1de58400f"
+filename = "fallingleaves-1.21.1-2.5.1.jar"
+
 [mods.farmers-delight]
 version = "1.21.1-1.2.11"
 server_side = true

@@ -180,6 +180,12 @@ version = "*"
 name = "entitytexturefeatures"
 version = "*"
 
+[mods.fallingleavesforge]
+name = "fallingleavesforge"
+version = "*"
+server_side = false
+client_side = true
+
 [mods.farmers-delight]
 name = "farmers-delight"
 version = "*"
