@@ -42,14 +42,6 @@ version = "*"
 name = "better-archeology"
 version = "*"
 
-[mods.betterchunkloading]
-name = "betterchunkloading"
-version = "*"
-providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/6210/181/betterchunkloading-1.21-5.4.jar"
-server_side = true
-client_side = true
-
 [mods.betterf3]
 name = "betterf3"
 version = "*"
@@ -129,14 +121,6 @@ version = "*"
 [mods.cull-leaves]
 name = "cull-leaves"
 version = "*"
-
-[mods.cupboard-lib]
-name = "cupboard-lib"
-version = "*"
-providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar"
-server_side = true
-client_side = true
 
 [mods.curios]
 name = "curios"
