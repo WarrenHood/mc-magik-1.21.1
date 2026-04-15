@@ -58,6 +58,14 @@ version = "*"
 name = "block-runner"
 version = "*"
 
+[mods.bloodlines]
+name = "bloodlines"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/7804/488/bloodlines-1.21-3.0.6.jar"
+server_side = true
+client_side = true
+
 [mods.brewin-and-chewin]
 name = "brewin-and-chewin"
 version = "*"
@@ -559,6 +567,22 @@ providers = ["Raw"]
 download_url = "https://mediafilez.forgecdn.net/files/7797/302/twilightforest-1.21.1-4.8.3345-universal.jar"
 server_side = true
 client_side = true
+
+[mods.vampires-delight]
+name = "vampires-delight"
+version = "*"
+
+[mods.vampires-need-umbrellas]
+name = "vampires-need-umbrellas"
+version = "*"
+
+[mods.vampirism]
+name = "vampirism"
+version = "*"
+
+[mods.vampirism-integrations]
+name = "vampirism-integrations"
+version = "*"
 
 [mods.waystones]
 name = "waystones"

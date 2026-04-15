@@ -263,6 +263,19 @@ name = "puzzles-lib"
 version = "v21.1.39-1.21.1-NeoForge"
 providers = ["Modrinth"]
 
+[mods.bloodlines]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.bloodlines.source]]
+
+[mods.bloodlines.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7804/488/bloodlines-1.21-3.0.6.jar"
+sha1 = "3efcbc386e76cae3e449e44b7a8d5c46665b5db3"
+sha512 = "09ec4cf15cd7f56bb3b7231caee5c2544c1d4428b8f001d58a78386867abf333fb3a32357bd6ba59028c62b1e55cf91655c82c7c16b25f6808f7a466c2d8e95d"
+filename = "bloodlines-1.21-3.0.6.jar"
+
 [mods.bookshelf-lib]
 version = "21.1.81"
 server_side = true
@@ -2393,6 +2406,64 @@ url = "https://cdn.modrinth.com/data/HsdNFinx/versions/cttRekq9/valhelsia_core-n
 sha1 = "018cfbf150953b9f23923e6d6c760f102583b28f"
 sha512 = "787de5659b46ddb188e2960582cb236255e8e4c2dc6d3bfdd033ab1c00bbf61351a38a4f8a9d47035e03f662c982a952c676e6474e6ad9d3dc5815a3c0df2d95"
 filename = "valhelsia_core-neoforge-1.21.1-1.1.4.jar"
+
+[mods.vampires-delight]
+version = "0.1.11b"
+server_side = true
+client_side = true
+
+[[mods.vampires-delight.source]]
+
+[mods.vampires-delight.source.Download]
+url = "https://cdn.modrinth.com/data/9Vo2deFq/versions/HX3GVV8o/VampiresDelight-1.21.1-0.1.11b.jar"
+sha1 = "e032d75a9ebd1ffc543dac16f204b4fb4fd9e972"
+sha512 = "7deb67e5119db63b646820134d0b6fbe9b9b837666a9b1675063818e68496964873341a6f5d6de16a7f0eaedd4ca8f71db50ccdef676da11ac5f0ca0df97c294"
+filename = "VampiresDelight-1.21.1-0.1.11b.jar"
+
+[mods.vampires-need-umbrellas]
+version = "1.21.1-1.0.3"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.vampires-need-umbrellas.source]]
+
+[mods.vampires-need-umbrellas.source.Download]
+url = "https://cdn.modrinth.com/data/FaUysFni/versions/gA6GeHzf/VampiresNeedUmbrellas-1.21.1-1.0.3.jar"
+sha1 = "80b0bde4bb57fc3109585232df348e1820277d1b"
+sha512 = "a15d8336f7f73b9b12245b7f222bfd2acf452572406661ba720b768528934dbfa558c4014bdcb466795aaea22d39c1b6122c975249e9e0c4738120acc4d0d57e"
+filename = "VampiresNeedUmbrellas-1.21.1-1.0.3.jar"
+
+[mods.vampirism]
+version = "1.21-1.10.9"
+server_side = true
+client_side = true
+
+[[mods.vampirism.source]]
+
+[mods.vampirism.source.Download]
+url = "https://cdn.modrinth.com/data/jVZ0F1wn/versions/BMpl0c3k/Vampirism-1.21-1.10.9.jar"
+sha1 = "5059de80690465876c47a86b094af383ec027c4c"
+sha512 = "72416972b509382d16f34f3d8a541bfceef6647d9668c2008a3efb5e5bd63d8546f13cb53808892b647e9a81456d4ac13d3061ea9fe5ea063e3d1fa1929aafef"
+filename = "Vampirism-1.21-1.10.9.jar"
+
+[mods.vampirism-integrations]
+version = "1.21.1-1.10.0"
+server_side = true
+client_side = true
+
+[[mods.vampirism-integrations.source]]
+
+[mods.vampirism-integrations.source.Download]
+url = "https://cdn.modrinth.com/data/ygTFuViO/versions/lUZ3VFxN/vampirism_integrations-1.21.1-1.10.0.jar"
+sha1 = "5e55fdc1a6ceb3864c19ddc84452d817571f02b9"
+sha512 = "71e088ed69501166c2b737bd19f681ddf60c397b52bdff0be99e32c17082ebc4198e65da642ca8e7c6c6c222c4f40ba7e9369cbf5159f7da504aea606dfe0187"
+filename = "vampirism_integrations-1.21.1-1.10.0.jar"
+
+[[mods.vampirism-integrations.deps]]
+name = "vampirism"
+version = "1.21-1.10.9"
+providers = ["Modrinth"]
 
 [mods.waystones]
 version = "21.1.29+neoforge-1.21.1"
