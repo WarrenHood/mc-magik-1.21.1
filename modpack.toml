@@ -30,6 +30,14 @@ version = "*"
 name = "appleskin"
 version = "*"
 
+[mods.aquaculture]
+name = "aquaculture"
+version = "*"
+
+[mods.aquaculture-delight]
+name = "aquaculture-delight"
+version = "*"
+
 [mods.athena-ctm]
 name = "athena-ctm"
 version = "*"
