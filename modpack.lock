@@ -201,6 +201,19 @@ name = "resourceful-config"
 version = "3.0.11"
 providers = ["Modrinth"]
 
+[mods.betterchunkloading]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.betterchunkloading.source]]
+
+[mods.betterchunkloading.source.Download]
+url = "https://mediafilez.forgecdn.net/files/6210/181/betterchunkloading-1.21-5.4.jar"
+sha1 = "848d47200e760cfa566e476257ff863de30d7f8f"
+sha512 = "b91db37a206b00055e0448d9e4ad7faaf6de66df0d80593fe697f8ed1ee45801e6f838954e2206aa68d4047ca7c247b7d70eed61180769125d5dd8989b3f259b"
+filename = "betterchunkloading-1.21-5.4.jar"
+
 [mods.betterf3]
 version = "11.0.3"
 server_side = false
@@ -593,6 +606,19 @@ filename = "cullleaves-neoforge-4.1.1+1.21.1.jar"
 name = "midnightlib"
 version = "1.9.2+1.21.1-neoforge"
 providers = ["Modrinth"]
+
+[mods.cupboard-lib]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.cupboard-lib.source]]
+
+[mods.cupboard-lib.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7746/488/cupboard-1.21-3.5.jar"
+sha1 = "e5f55c8f9d172048fe6f8b919cda1dbe3cbfbc70"
+sha512 = "63a7a4caa08a12163a029dea05617169b32fb3ffff2be72cffe3f1c669a444525d117cd91763036285e560bd26c4fd277cb0c1dfc6f66c9235086c4c4c548bc5"
+filename = "cupboard-1.21-3.5.jar"
 
 [mods.curios]
 version = "9.5.1+1.21.1"
