@@ -1720,37 +1720,6 @@ sha1 = "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
 sha512 = "4de5c5d52139244b8c5260d641087664d992624b822599a32e03c08eb133be854a2f413667dbca1e55772445b04a70210c17b3bc13e3c88e425e7d928104b9fa"
 filename = "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar"
 
-[mods.pandalib]
-version = "0.6.0"
-server_side = true
-client_side = true
-
-[[mods.pandalib.source]]
-
-[mods.pandalib.source.Download]
-url = "https://cdn.modrinth.com/data/mEEGbEIu/versions/RyUlB24m/pandalib-neoforge-1.21.1-0.6.0.jar"
-sha1 = "af13ba0a3e417e4218a57c835d184ad5c331c1c2"
-sha512 = "163eb53f16ec58fbad91aa95fe3870c7f29eb6de43a3b389e19cafed5ae7383f9237e7726584c920f7b3da7feef9bc93c47d254857e31a3c65046ab431b07ce4"
-filename = "pandalib-neoforge-1.21.1-0.6.0.jar"
-
-[mods.pandas-falling-trees]
-version = "0.14.0"
-server_side = true
-client_side = true
-
-[[mods.pandas-falling-trees.source]]
-
-[mods.pandas-falling-trees.source.Download]
-url = "https://cdn.modrinth.com/data/i2kUe4lq/versions/26ZXBAbi/fallingtrees-neoforge-1.21.1-0.14.0.jar"
-sha1 = "070260f182d10bdc23de5e8e9297bec0231e2bec"
-sha512 = "9a7a4efd1f71e73243221d67659ed487212af959decb90fcf5073e5f7fa96dd8c4a7333e9e4fbf053418319f883e1ae3044f3f182c35214c3d6a7de4ef68b8b7"
-filename = "fallingtrees-neoforge-1.21.1-0.14.0.jar"
-
-[[mods.pandas-falling-trees.deps]]
-name = "pandalib"
-version = "0.6.0"
-providers = ["Modrinth"]
-
 [mods.patchouli]
 version = "1.21.1-93-neoforge"
 server_side = true

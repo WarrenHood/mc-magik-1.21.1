@@ -394,12 +394,6 @@ version = "*"
 name = "occultism"
 version = "*"
 
-[mods.pandas-falling-trees]
-name = "pandas-falling-trees"
-version = "*"
-server_side = true
-client_side = true
-
 [mods.patchouli]
 name = "patchouli"
 version = "*"
