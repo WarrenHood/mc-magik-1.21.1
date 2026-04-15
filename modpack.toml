@@ -184,6 +184,14 @@ version = "*"
 name = "farmers-delight"
 version = "*"
 
+[mods.farmers-structures]
+name = "farmers-structures"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/7280/584/FarmersStructures-1.0.2-1.21.1_neoforge.jar"
+server_side = true
+client_side = true
+
 [mods.ferrite-core]
 name = "ferrite-core"
 version = "*"

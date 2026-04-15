@@ -852,6 +852,19 @@ sha1 = "2415b91d6437977e676985b4a2ef877208d202e1"
 sha512 = "0af142f085dbb3178bdb521b80bcbf6fd0d0d767df2a899df9066f0fe5641240da15343fe5ed7441d1e44aeff72e402fe17157f2003932ae03761788417e0332"
 filename = "FarmersDelight-1.21.1-1.2.11.jar"
 
+[mods.farmers-structures]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.farmers-structures.source]]
+
+[mods.farmers-structures.source.Download]
+url = "https://mediafilez.forgecdn.net/files/7280/584/FarmersStructures-1.0.2-1.21.1_neoforge.jar"
+sha1 = "72c8a17af70dd78a045b4b2678b8ac2d1a2b7d39"
+sha512 = "cacea687bf16e8a3ec6a1b46fa5323490a3aef9e970bbe882b3f13bd219fe6b044f04ba092c5c7d89e8670ec88120c5b1fab860c52795f1c27dd67e5173de4c4"
+filename = "FarmersStructures-1.0.2-1.21.1_neoforge.jar"
+
 [mods.ferrite-core]
 version = "7.0.3-neoforge"
 server_side = true
