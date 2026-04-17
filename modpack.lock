@@ -1089,6 +1089,19 @@ sha1 = "91f5e2395081ac5f5034ce05f83bcbfca1e3fd5c"
 sha512 = "4fac4b141df81161177fb0882335e27d1259d05ffd3f3795a0258e3471f4e72840cfa5b73fb1bc1ad8cdca255b83dc46f713f81fea533e4fb1e72834e1724886"
 filename = "gravestone-neoforge-1.21.1-1.0.35.jar"
 
+[mods.guide-api]
+version = "1.21.1-2.3.0"
+server_side = true
+client_side = true
+
+[[mods.guide-api.source]]
+
+[mods.guide-api.source.Download]
+url = "https://cdn.modrinth.com/data/w5L2PHJU/versions/4BMTXgHM/Guide-API-VP-1.21.1-2.3.0.jar"
+sha1 = "69d85cd2bccfcddf854798b53d337f6f736c85f5"
+sha512 = "ae301999031e23bc877dec523b29c4aa4622e181f5f7c6fa6a37dc7e112bbde58aa26c30998c171bea0f8d98ed7f9ee7a6ceee25d4fd3ad8bf96ee315fbf5d10"
+filename = "Guide-API-VP-1.21.1-2.3.0.jar"
+
 [mods.handcrafted]
 version = "4.0.3"
 server_side = true

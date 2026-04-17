@@ -262,6 +262,10 @@ version = "*"
 name = "gravestone-mod"
 version = "*"
 
+[mods.guide-api]
+name = "guide-api"
+version = "*"
+
 [mods.handcrafted]
 name = "handcrafted"
 version = "*"
