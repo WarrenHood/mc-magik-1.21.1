@@ -186,6 +186,10 @@ version = "*"
 server_side = false
 client_side = true
 
+[mods.enhanced-ai]
+name = "enhanced-ai"
+version = "*"
+
 [mods.enhanced-celestials]
 name = "enhanced-celestials"
 version = "*"
