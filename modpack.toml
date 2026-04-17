@@ -386,10 +386,6 @@ version = "*"
 name = "malum"
 version = "*"
 
-[mods.manascore]
-name = "manascore"
-version = "*"
-
 [mods.miners-delight]
 name = "miners-delight"
 version = "*"
@@ -539,14 +535,6 @@ version = "*"
 [mods.spectrum]
 name = "spectrum"
 version = "*"
-
-[mods.tensura-reincarnated]
-name = "tensura-reincarnated"
-version = "2.0.0.3"
-providers = ["Raw"]
-download_url = "https://cdn.modrinth.com/data/Br0kXPwc/versions/uY54qoS4/tensura-neoforge-2.0.0.3.jar"
-server_side = true
-client_side = true
 
 [mods.terrablender]
 name = "terrablender"

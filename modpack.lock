@@ -1574,19 +1574,6 @@ sha1 = "7bea3f874f186a17ad3e271df145c179e81c2a1d"
 sha512 = "dd9ccc1dea3b090f69f807be3e7a8b99ec6d3d7d6b047e2893cb49ca505860bbf640cf767082c1a32ea403b35e2a9f9d1755327890bbfb2f8778058a9597a99e"
 filename = "malum-1.21.1-1.8.2.jar"
 
-[mods.manascore]
-version = "4.0.0.2"
-server_side = true
-client_side = true
-
-[[mods.manascore.source]]
-
-[mods.manascore.source.Download]
-url = "https://cdn.modrinth.com/data/wRRSWpd1/versions/Fj0jaJzT/manascore-neoforge-4.0.0.2.jar"
-sha1 = "9ef6925f1de07b1809bb88b36f277b0db0baef82"
-sha512 = "a0ece2dfc8d8e4dcdad00a6cdf9260de8a10ef0b0cb36353a406b7a312596bccc03510501c0dff99ae5f349ab6c2f0527dfca1acfa8f8890a46c5886b86094fa"
-filename = "manascore-neoforge-4.0.0.2.jar"
-
 [mods.midnightlib]
 version = "1.9.2+1.21.1-neoforge"
 server_side = true
@@ -2304,19 +2291,6 @@ url = "https://cdn.modrinth.com/data/3rc31Hgo/versions/iUIMnMbo/spectrum-1.11.4-
 sha1 = "e0812ea68c49973cab3c93887d4d39a77ce74796"
 sha512 = "81da86a0e623b6e937eab2ec257f02ef9406690a2c7db28767b1a8b9af42760e6745f5b200d984792ab7993681b654e28fa87e71720452e4d7b4ac9674ad4a00"
 filename = "spectrum-1.11.4-1.21.1-neo.jar"
-
-[mods.tensura-reincarnated]
-version = "Unknown"
-server_side = true
-client_side = true
-
-[[mods.tensura-reincarnated.source]]
-
-[mods.tensura-reincarnated.source.Download]
-url = "https://cdn.modrinth.com/data/Br0kXPwc/versions/uY54qoS4/tensura-neoforge-2.0.0.3.jar"
-sha1 = "6e48852140ef95576eea2ca91951faacfe2b59cc"
-sha512 = "77c0e0f0bf412e08e6dd2c7bc824870e136b5cf98055bd87201ba1bf50f8ce474e43ed57eb19ad4b415d3eea2740bde5361be72faacb34724e08b8e5574560cc"
-filename = "tensura-neoforge-2.0.0.3.jar"
 
 [mods.terrablender]
 version = "4.1.0.8"
