@@ -47,6 +47,19 @@ name = "owo-lib"
 version = "0.12.15.5-beta.1+1.21"
 providers = ["Modrinth"]
 
+[mods.ai-improvements]
+version = "0.5.3"
+server_side = true
+client_side = true
+
+[[mods.ai-improvements.source]]
+
+[mods.ai-improvements.source.Download]
+url = "https://cdn.modrinth.com/data/DSVgwcji/versions/dGNP90t0/AI-Improvements-1.21-0.5.3.jar"
+sha1 = "b4a8e11384454bcc341043b251db7fb5afdfdf45"
+sha512 = "ded870e90953ea915d24ac4c81799b95b321dda39936cd4cd620302b48882141fa3b9f1af658bdc6c25dc48de003223b91f3669b69efcc92c8666a3983f0fccc"
+filename = "AI-Improvements-1.21-0.5.3.jar"
+
 [mods.akashic-tome]
 version = "1.21.1-1.8-30"
 server_side = true
