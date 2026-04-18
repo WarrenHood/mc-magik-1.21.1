@@ -560,6 +560,12 @@ version = "*"
 name = "spark"
 version = "*"
 
+[mods.sparsestructures]
+name = "sparsestructures"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.spectrum]
 name = "spectrum"
 version = "*"
