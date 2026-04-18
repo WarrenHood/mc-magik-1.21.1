@@ -797,6 +797,11 @@ target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/config/treechop-common.toml"]
+target_path = "config/treechop-common.toml"
+side = "Both"
+apply_policy = "Always"
+
 [files."./server/config/AdvancedBackups.properties"]
 target_path = "config/AdvancedBackups.properties"
 side = "Server"
