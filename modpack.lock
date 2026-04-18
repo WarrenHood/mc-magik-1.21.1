@@ -864,24 +864,6 @@ name = "prickle"
 version = "21.1.11"
 providers = ["Modrinth"]
 
-[mods.enhanced-ai]
-version = "4.0.1.0-beta"
-server_side = true
-client_side = true
-
-[[mods.enhanced-ai.source]]
-
-[mods.enhanced-ai.source.Download]
-url = "https://cdn.modrinth.com/data/TDdoftI1/versions/bM3f819C/enhancedai-4.0.1.0-beta.jar"
-sha1 = "4b8317ad5eeabf21c95f4f070777419dbb62f1ef"
-sha512 = "6b9d101420e8d5d1e4075267d906e2f75a6656ef3d28932205367436634894b8c082cf79e500da432ec75d0677f360e4b96d8abfb195af3d149794bde8e748d1"
-filename = "enhancedai-4.0.1.0-beta.jar"
-
-[[mods.enhanced-ai.deps]]
-name = "insanelib"
-version = "2.4.10.0-beta"
-providers = ["Modrinth"]
-
 [mods.enhanced-celestials]
 version = "6.0.2.5-neoforge"
 server_side = true
@@ -1285,19 +1267,6 @@ url = "https://cdn.modrinth.com/data/TaSmHw8V/versions/YfqFZc6N/immersive_melodi
 sha1 = "b854ee1c181eb1da9cd9999aa656b3bbcee29c1e"
 sha512 = "5d12643ad9b515577c2e6bc6f4dccd41de1f6e1876fed29372b48e383e4121dc28c55e095f789e9640ad3f266a8754e73f020b0cb5a5405a67a89e9de62e34c5"
 filename = "immersive_melodies-neoforge-0.6.2+1.21.1.jar"
-
-[mods.insanelib]
-version = "2.4.10.0-beta"
-server_side = true
-client_side = true
-
-[[mods.insanelib.source]]
-
-[mods.insanelib.source.Download]
-url = "https://cdn.modrinth.com/data/USZyvOJq/versions/y68n4LqX/insanelib-2.4.10.0-beta.jar"
-sha1 = "5e0ee81c5677a4764616d49bba0469f688306d35"
-sha512 = "88b81586f39c214caa1a4bfa2305ac241688e6f98db0448146c0542b6575aefdbff7dc298edc2f8954ab0b661bc5fc89762929df94fc10fe362d452adadda55d"
-filename = "insanelib-2.4.10.0-beta.jar"
 
 [mods.inv-view-forge]
 version = "3.0.2-1.21.(5)"
