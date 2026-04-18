@@ -13,3 +13,16 @@ craftingTable.addShaped(
 // Remove the wireless terminals
 craftingTable.remove(<item:toms_storage:wireless_terminal>);
 smithing.remove(<item:toms_storage:adv_wireless_terminal>);
+
+// Warp stones are too cheap
+craftingTable.remove(<item:waystones:warp_stone>);
+
+// Gate warp stones behind ancient metal ingots (desert treasure loot chests), eyes of ender and nether stars
+craftingTable.addShaped("warp_stone_gated",
+    <item:waystones:warp_stone>,
+    [
+        [<item:cataclysm:ancient_metal_ingot>, <item:minecraft:ender_eye>, <item:cataclysm:ancient_metal_ingot>],
+        [<item:minecraft:ender_eye>, <item:minecraft:nether_star>, <item:minecraft:ender_eye>],
+        [<item:cataclysm:ancient_metal_ingot>, <item:minecraft:ender_eye>, <item:cataclysm:ancient_metal_ingot>]
+    ]
+);
