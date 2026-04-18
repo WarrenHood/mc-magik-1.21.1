@@ -766,8 +766,8 @@ target_path = "config/aiimprovements-common.toml"
 side = "Both"
 apply_policy = "Always"
 
-[files."./common/config/createappliedkinetics-common.toml"]
-target_path = "config/createappliedkinetics-common.toml"
+[files."./common/config/dangerous-common.toml"]
+target_path = "config/dangerous-common.toml"
 side = "Both"
 apply_policy = "Always"
 
