@@ -1738,6 +1738,19 @@ sha1 = "4d81055810e07a94b68d16ab20ec298ad0d597a0"
 sha512 = "fc564e55e8cc2050261db9540afbdbab9ebf6559c1c5cae58ab4a3d4d1b7f1b0842459e5ea1bc780e03fed620a0a2af6bbe1eace037d6a1411ae853dc5e77dae"
 filename = "Necronomicon-NeoForge-1.6.0+1.21.jar"
 
+[mods.neoforge-carpet]
+version = "1.0.8"
+server_side = true
+client_side = true
+
+[[mods.neoforge-carpet.source]]
+
+[mods.neoforge-carpet.source.Download]
+url = "https://cdn.modrinth.com/data/XqqOkvZz/versions/lnOeoKcQ/neoforge-carpet-1.21.1-1.0.8%2Bv251027.jar"
+sha1 = "fffcc899d13b25c808d4d906cafa41de8cffc861"
+sha512 = "1251195e45340b475b6ee8ea7712b33d9f5f84c87ec1f783e6276b12fc93cec877cefcfb083758395d09da5a890de5c659bbb1357e7092d5c70567b22629038e"
+filename = "neoforge-carpet-1.21.1-1.0.8+v251027.jar"
+
 [mods.noisium]
 version = "2.3.0+mc1.21-1.21.1"
 server_side = true

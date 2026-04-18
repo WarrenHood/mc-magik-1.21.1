@@ -418,6 +418,10 @@ version = "*"
 name = "natures-compass"
 version = "*"
 
+[mods.neoforge-carpet]
+name = "neoforge-carpet"
+version = "*"
+
 [mods.noisium]
 name = "noisium"
 version = "*"
