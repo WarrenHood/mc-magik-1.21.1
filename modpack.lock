@@ -686,6 +686,19 @@ sha1 = "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
 sha512 = "5981a267686b744e7e3c227f78cbcd5267c14ac6979a28e814695f4589273998563147207fef4a5cdb7cdbdc39797cd95d9e4abadb55869f18e02a38d0654ae5"
 filename = "curios-neoforge-9.5.1+1.21.1.jar"
 
+[mods.dangerous]
+version = "1.4.3"
+server_side = true
+client_side = true
+
+[[mods.dangerous.source]]
+
+[mods.dangerous.source.Download]
+url = "https://cdn.modrinth.com/data/nsri5wVW/versions/5mQA3HkO/Dangerous%20NeoForge%20-%201.21.1%20v1.4.3.jar"
+sha1 = "c7cec95415a52e74e5fd88b1162248e44c56f6cf"
+sha512 = "2ee04492eb5d737855940d9ea8d577f74e0f76eb83008432cde05469ccf12d6e409bb9172149de76d2a59afdf1405bc53225d71e76c36a1a2754b87aca5e6dd9"
+filename = "Dangerous NeoForge - 1.21.1 v1.4.3.jar"
+
 [mods.dark-doppelganger]
 version = "3.2.1-1.21.1"
 server_side = true

@@ -160,6 +160,10 @@ version = "*"
 name = "curios"
 version = "*"
 
+[mods.dangerous]
+name = "dangerous"
+version = "*"
+
 [mods.dark-doppelganger]
 name = "dark-doppelganger"
 version = "*"
