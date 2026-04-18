@@ -57,7 +57,7 @@ maxBreakLeavesDistance = 7
 # - You can also specify a mod: "treemod:.*_log"
 # - To also match stripped versions: ".*_log(_stripped)?", where ? means that the text in the parenthesis is optional
 #For more help, see https://github.com/hammertater/treechop/wiki/Configuration
-blocks = ["#treechop:choppables", "#minecraft:logs"]
+blocks = ["#treechop:choppables", "#minecraft:logs", "malum:.*_log"]
 #Blocks that should never be chopped, even if included in the list above
 #Specify using registry names (mod:block), tags (#mod:tag), and namespaces (@mod)
 exceptions = [
