@@ -32,6 +32,10 @@ version = "*"
 name = "alternate-current"
 version = "*"
 
+[mods.ambientsounds]
+name = "ambientsounds"
+version = "*"
+
 [mods.appleskin]
 name = "appleskin"
 version = "*"

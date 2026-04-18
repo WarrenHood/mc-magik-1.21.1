@@ -100,6 +100,24 @@ sha1 = "1201c14362f2bad7062d315f8a9b26afbabd2c9c"
 sha512 = "e7715d92987ad902f316ae657558a58e647b4f076d6962e6ac5b6bdb802755f1a37c2380b69002ce930b29dc02fe96989d41818462f7bc236c4ad709b0842480"
 filename = "alternate_current-mc1.21-1.9.0.jar"
 
+[mods.ambientsounds]
+version = "6.3.3"
+server_side = false
+client_side = true
+
+[[mods.ambientsounds.source]]
+
+[mods.ambientsounds.source.Download]
+url = "https://cdn.modrinth.com/data/fM515JnW/versions/6gGI0nu8/AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar"
+sha1 = "3d88e0e8d987706edf645b2e1617612d3e666358"
+sha512 = "448306a24be61f250e6c277e21253153786148bdf5e1983b3a732f4e592108a7250b4dc6efe65db03dd3aa73724b454bfe5aeee3f28c4a23e4d6468d0035799d"
+filename = "AmbientSounds_NEOFORGE_v6.3.3_mc1.21.1.jar"
+
+[[mods.ambientsounds.deps]]
+name = "creativecore"
+version = "2.13.36"
+providers = ["Modrinth"]
+
 [mods.appleskin]
 version = "3.0.9+mc1.21"
 server_side = true
@@ -627,6 +645,19 @@ url = "https://cdn.modrinth.com/data/Nn8Wasaq/versions/IDi26FjR/CraterLib-Neofor
 sha1 = "269b42adba7b874a58559cbaff3d4c028b09c837"
 sha512 = "dbe736c8fa8dda044d780236f9e48a79fa47be5b151214f8764f562a3cf697d11f431fa257c165c374bfd7e55a9c2b996705b6c808cb440939dc999b72be5a9d"
 filename = "CraterLib-Neoforge-1.21-3.1.0.jar"
+
+[mods.creativecore]
+version = "2.13.36"
+server_side = true
+client_side = true
+
+[[mods.creativecore.source]]
+
+[mods.creativecore.source.Download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/tXZudQfR/CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar"
+sha1 = "83af278fd8da376480d7847204c3e124bda94add"
+sha512 = "654ba22a2bed66dfd95ca4ecd38db11649ca41495b9283554a795c433c9508f6f515a02594d7ab68c45ed1e3b99b124010c936227206bd67e85aa2247ce250bf"
+filename = "CreativeCore_NEOFORGE_v2.13.36_mc1.21.1.jar"
 
 [mods.ct-overhaul-village]
 version = "3.6.3"
