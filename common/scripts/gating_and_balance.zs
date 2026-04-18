@@ -9,3 +9,7 @@ craftingTable.addShaped(
         [<tag:item:minecraft:planks>, <item:minecraft:comparator>, <tag:item:minecraft:planks>]
     ]
 );
+
+// Remove the wireless terminals
+craftingTable.remove(<item:toms_storage:wireless_terminal>);
+smithing.remove(<item:toms_storage:adv_wireless_terminal>);
