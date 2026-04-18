@@ -802,6 +802,11 @@ target_path = "config/treechop-common.toml"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/scripts/gating_and_balance.zs"]
+target_path = "scripts/gating_and_balance.zs"
+side = "Both"
+apply_policy = "Always"
+
 [files."./server/config/AdvancedBackups.properties"]
 target_path = "config/AdvancedBackups.properties"
 side = "Server"
