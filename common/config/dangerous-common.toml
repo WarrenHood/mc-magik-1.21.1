@@ -148,7 +148,7 @@ availableArmorEnchantments = [
 #Multiplier to increase Creeper movement speed.
 # Default: 1.4
 # Range: 1.0 ~ 5.0
-creeperSpeedMultiplier = 1.4
+creeperSpeedMultiplier = 1.0
 
 ["Spider Speed Settings"]
 #Multiplier to increase Spider movement speed.
