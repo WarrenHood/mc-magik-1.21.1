@@ -6,7 +6,12 @@ This is a Minecraft NeoForge 1.21.1 modpack focused on magic and exploration.
 
 - Adventure (The Aether, Twilight Forest, Deeper Darker, improved worldgen and more)
 - Cobblemon (Pokemon in minecraft)
-- Enhanced mob AI to make mobs smarter and more challenging
+- Difficulty scaling (to balance out Iron's Spellbooks and vampirism):
+  - Enemy hp scales upwards slightly every 24 days (up to a max of 2x)
+  - Enemy Gear by Depth:
+        - Surface: leather, chainmail, and iron.
+        - Caves: iron and chainmail, with chances for stronger weapons.
+        - Deep caves: gold, iron, and diamond armor/weapons.
 - Farmers Delight and several addons to integrate it with the rest of the pack (cooking and farming mod)
 - Many magic/fantasy systems to get into
   - Forbidden and Arcanus (Rituals, Weapon/Tool upgrades, ore doubling)
