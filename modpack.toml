@@ -32,10 +32,6 @@ version = "*"
 name = "alternate-current"
 version = "*"
 
-[mods.ambientsounds]
-name = "ambientsounds"
-version = "*"
-
 [mods.appleskin]
 name = "appleskin"
 version = "*"
@@ -178,6 +174,10 @@ version = "*"
 
 [mods.dungeons_delight]
 name = "dungeons_delight"
+version = "*"
+
+[mods.dynamicsurroundingsfabric]
+name = "dynamicsurroundingsfabric"
 version = "*"
 
 [mods.effortless]
