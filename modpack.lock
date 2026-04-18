@@ -2358,6 +2358,19 @@ sha1 = "e0812ea68c49973cab3c93887d4d39a77ce74796"
 sha512 = "81da86a0e623b6e937eab2ec257f02ef9406690a2c7db28767b1a8b9af42760e6745f5b200d984792ab7993681b654e28fa87e71720452e4d7b4ac9674ad4a00"
 filename = "spectrum-1.11.4-1.21.1-neo.jar"
 
+[mods.storagedrawers]
+version = "1.21.1-13.11.4"
+server_side = true
+client_side = true
+
+[[mods.storagedrawers.source]]
+
+[mods.storagedrawers.source.Download]
+url = "https://cdn.modrinth.com/data/guitPqEi/versions/px0CCB06/StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+sha1 = "b8e11e3d1fd63fd1a0d9277ec3f966c7e5cff385"
+sha512 = "df97b8b5053a902264a236a71e7585b78d9d48a0bce585033aa8b169896d775f6fda462cfc77431af79cc596ab356eb9642e0c69a205a46b02d4d6f7ab3e74e9"
+filename = "StorageDrawers-neoforge-1.21.1-13.11.4.jar"
+
 [mods.terrablender]
 version = "4.1.0.8"
 server_side = true
@@ -2393,6 +2406,20 @@ providers = ["Modrinth"]
 name = "modonomicon"
 version = "1.21.1-1.120.1"
 providers = ["Modrinth"]
+
+[mods.toms-storage]
+version = "1.21-2.3.2"
+deps = []
+server_side = true
+client_side = true
+
+[[mods.toms-storage.source]]
+
+[mods.toms-storage.source.Download]
+url = "https://cdn.modrinth.com/data/XZNI4Cpy/versions/x8jcBWWG/toms_storage-1.21-2.3.2.jar"
+sha1 = "f850f0718ed1c97d8050c790a4b4592f6bb99b21"
+sha512 = "2760e5a25416b949a3396cfe61f4d18a323e692118c7a5e9117388f5b050841962fe5b9a09071d2ffdb0e0baa3014c1082f2ae843020b95f3a02ac47e495c6bd"
+filename = "toms_storage-1.21-2.3.2.jar"
 
 [mods.too-fast]
 version = "0.4.3.5"

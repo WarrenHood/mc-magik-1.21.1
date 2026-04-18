@@ -27,6 +27,11 @@ This is a Minecraft NeoForge 1.21.1 modpack focused on magic and exploration.
   - Ice and Fire: Community Edition (Dragons and other mythical creatures)
 - Proximity chat
 
+## Storage
+
+- Storage Drawers for bulk storage
+- Tom's Simple Storage for easy storage access/crafting
+
 ## Performance improvements
 
 - A bunch of performance mods

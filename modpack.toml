@@ -560,12 +560,20 @@ version = "*"
 name = "spectrum"
 version = "*"
 
+[mods.storagedrawers]
+name = "storagedrawers"
+version = "*"
+
 [mods.terrablender]
 name = "terrablender"
 version = "*"
 
 [mods.theurgy]
 name = "theurgy"
+version = "*"
+
+[mods.toms-storage]
+name = "toms-storage"
 version = "*"
 
 [mods.too-fast]
