@@ -812,6 +812,11 @@ target_path = "config/lithium.properties"
 side = "Both"
 apply_policy = "Always"
 
+[files."./common/config/sparsestructures.json5"]
+target_path = "config/sparsestructures.json5"
+side = "Both"
+apply_policy = "Always"
+
 [files."./common/config/treechop-common.toml"]
 target_path = "config/treechop-common.toml"
 side = "Both"
