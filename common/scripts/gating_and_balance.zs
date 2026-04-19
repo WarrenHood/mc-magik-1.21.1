@@ -1,12 +1,12 @@
-// Gate storage terminals behind defeating Ignis
-craftingTable.remove(<item:toms_storage:storage_terminal>);
+// Gate crafting terminals behind the netherite monstrosity
+craftingTable.remove(<item:toms_storage:crafting_terminal>);
 craftingTable.addShaped(
-    "storage_terminal_gated",
-    <item:toms_storage:storage_terminal>,
+    "crafting_terminal_gated",
+    <item:toms_storage:crafting_terminal>,
     [
-        [<tag:item:minecraft:planks>, <item:minecraft:comparator>, <tag:item:minecraft:planks>],
-        [<tag:item:c:chests>, <item:cataclysm:ignitium_ingot>, <tag:item:c:glass_blocks/colorless>],
-        [<tag:item:minecraft:planks>, <item:minecraft:comparator>, <tag:item:minecraft:planks>]
+        [<tag:item:c:player_workstations/crafting_tables>, <item:cataclysm:lava_power_cell>, <tag:item:c:player_workstations/crafting_tables>],
+        [<item:cataclysm:lava_power_cell>, <item:toms_storage:storage_terminal>, <item:cataclysm:lava_power_cell>],
+        [<tag:item:c:player_workstations/crafting_tables>, <item:cataclysm:lava_power_cell>, <tag:item:c:player_workstations/crafting_tables>]
     ]
 );
 
