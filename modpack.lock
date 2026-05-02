@@ -1358,18 +1358,18 @@ name = "sodium"
 version = "mc1.21.1-0.6.13-neoforge"
 providers = ["Modrinth"]
 
-[mods.irons-patreon-library]
-version = "Unknown"
+[mods.irons-lib]
+version = "1.21.1-1.0.2"
 server_side = true
 client_side = true
 
-[[mods.irons-patreon-library.source]]
+[[mods.irons-lib.source]]
 
-[mods.irons-patreon-library.source.Download]
-url = "https://mediafilez.forgecdn.net/files/7830/106/irons_patreon_lib-1.21.1-1.0.1.jar"
-sha1 = "b66a7a841a3d9d697df1d897b9da6c6a94e24dc6"
-sha512 = "6bd55db5624356306ca194532b43a7414c8dd0357fdbcff5c3034d497a1a806f02ce88096561242337cfd87b13a7c38c0a4802442120e52f1dac0b22999f842d"
-filename = "irons_patreon_lib-1.21.1-1.0.1.jar"
+[mods.irons-lib.source.Download]
+url = "https://cdn.modrinth.com/data/9nfaJPtX/versions/sRMMFgei/irons_lib-1.21.1-1.0.2.jar"
+sha1 = "ef92f362a352a30f927c30c2be72a2d843c41342"
+sha512 = "41aaf569abdfa6947ce72c076242b7d794307f37696350a3967e46a7d7390fc3569ce41335497d92e897d555be02c8b878ca43a0a7de039d262d26aedafd013e"
+filename = "irons_lib-1.21.1-1.0.2.jar"
 
 [mods.irons-spells-n-spellbooks]
 version = "1.21.1-3.15.6"

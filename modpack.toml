@@ -332,13 +332,9 @@ version = "*"
 name = "iris-flw-compat"
 version = "*"
 
-[mods.irons-patreon-library]
-name = "irons-patreon-library"
+[mods.irons-lib]
+name = "irons-lib"
 version = "*"
-providers = ["Raw"]
-download_url = "https://mediafilez.forgecdn.net/files/7830/106/irons_patreon_lib-1.21.1-1.0.1.jar"
-server_side = true
-client_side = true
 
 [mods.irons-spells-n-spellbooks]
 name = "irons-spells-n-spellbooks"
