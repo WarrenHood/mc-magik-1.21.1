@@ -324,10 +324,6 @@ version = "*"
 name = "iris"
 version = "*"
 
-[mods.iris-flw-compat]
-name = "iris-flw-compat"
-version = "*"
-
 [mods.irons-lib]
 name = "irons-lib"
 version = "*"
