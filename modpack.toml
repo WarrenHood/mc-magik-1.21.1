@@ -538,7 +538,7 @@ client_side = true
 
 [mods.sodium]
 name = "sodium"
-version = "*"
+version = "mc1.21.1-0.6.13-neoforge"
 
 [mods.sound-physics-remastered]
 name = "sound-physics-remastered"
