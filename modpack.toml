@@ -24,8 +24,8 @@ client_side = true
 name = "akashic-tome"
 version = "*"
 
-[mods.almost-unified]
-name = "almost-unified"
+[mods.almostunified]
+name = "almostunified"
 version = "*"
 
 [mods.alternate-current]
@@ -174,10 +174,6 @@ version = "*"
 
 [mods.dungeons_delight]
 name = "dungeons_delight"
-version = "*"
-
-[mods.dynamicsurroundingsfabric]
-name = "dynamicsurroundingsfabric"
 version = "*"
 
 [mods.effortless]
