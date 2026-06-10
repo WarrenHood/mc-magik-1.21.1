@@ -352,7 +352,7 @@ client_side = true
 
 [mods.l_enders-cataclysm]
 name = "l_enders-cataclysm"
-version = "*"
+version = "3.27"
 
 [mods.leaves-be-gone]
 name = "leaves-be-gone"
