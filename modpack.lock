@@ -1173,19 +1173,6 @@ sha1 = "a0021f5ef5a285fdc8f80cd30d48c913d6f0765b"
 sha512 = "6ad9f14ad23e84e693c8a02fa210871f7f9f7abb34acb342d9c72aacaa822dc4d06d203d78803ab40dd5eb334344961586a3f223ae877c362f1788b7be1dad6a"
 filename = "hexerei-0.5.0.3.jar"
 
-[mods.hybrid-beta]
-version = "1.0.4.1+mod"
-server_side = true
-client_side = true
-
-[[mods.hybrid-beta.source]]
-
-[mods.hybrid-beta.source.Download]
-url = "https://cdn.modrinth.com/data/Jmx5kJiS/versions/lkuCEuyN/hybrid-beta-1.0.4.1.jar"
-sha1 = "e7b612f212378513885d1f411b4a3f30b547b89c"
-sha512 = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0a563f697ed1a23b9c15154da3bede34f361e591e7e7dbe67adc8163936"
-filename = "hybrid-beta-1.0.4.1.jar"
-
 [mods.ice-and-fire-spellbooks]
 version = "2.3.3-1.21.1"
 server_side = true
@@ -1461,6 +1448,19 @@ url = "https://cdn.modrinth.com/data/46KJle7n/versions/RM2acghH/L_Ender%27s%20Ca
 sha1 = "f34a5e3994fff1953c631b87b3dfa89ed62c26dc"
 sha512 = "dfc01042f30e3960e1a7db5d45b75971861b7c9a59a21f180ef6f7adc977004811b0c2e4c0ec2b492812ecaec00f7cb2ed3779ae9acf98c40d02e6f844bf1008"
 filename = "L_Ender's Cataclysm 1.21.1-3.27.jar"
+
+[mods.larion-worldgen]
+version = "4.3.0"
+server_side = true
+client_side = false
+
+[[mods.larion-worldgen.source]]
+
+[mods.larion-worldgen.source.Download]
+url = "https://cdn.modrinth.com/data/rctNbbuL/versions/OlUcBPru/larion-neoforge-1.21.1-4.3.0.jar"
+sha1 = "12de67f0b1da9dcac2b63ca1cc085b2f5714afcc"
+sha512 = "b2a6e5efab6ade89f2aed8115309e28bac1802da2c766b35322a6a49c1b885483c8b4ea837d47f0fc095871c7b66f00e214189cc155b73e266ac1deed1d53a4c"
+filename = "larion-neoforge-1.21.1-4.3.0.jar"
 
 [mods.leaves-be-gone]
 version = "v21.1.1-1.21.1-NeoForge"
@@ -1810,6 +1810,29 @@ providers = ["Modrinth"]
 [[mods.occultism.deps]]
 name = "smartbrainlib"
 version = "1.16.11"
+providers = ["Modrinth"]
+
+[mods.open-loader]
+version = "21.1.5"
+server_side = true
+client_side = true
+
+[[mods.open-loader.source]]
+
+[mods.open-loader.source.Download]
+url = "https://cdn.modrinth.com/data/KwWsINvD/versions/Szobbnyh/OpenLoader-neoforge-1.21.1-21.1.5.jar"
+sha1 = "b4b49fa0bbefcecd41aaba60aca38c3658ac2c46"
+sha512 = "3a4b0b6605f30b98a9d26954f8e211e6422f1f6402d400a9f9eb32a5af065da808dd3648a839dd60e47e50c8075b6a71624e142e50fb61273a6ba505bf6b1d09"
+filename = "OpenLoader-neoforge-1.21.1-21.1.5.jar"
+
+[[mods.open-loader.deps]]
+name = "bookshelf-lib"
+version = "21.1.81"
+providers = ["Modrinth"]
+
+[[mods.open-loader.deps]]
+name = "prickle"
+version = "21.1.11"
 providers = ["Modrinth"]
 
 [mods.owo-lib]

@@ -290,10 +290,6 @@ version = "*"
 name = "hexerei"
 version = "*"
 
-[mods.hybrid-beta]
-name = "hybrid-beta"
-version = "*"
-
 [mods.ice-and-fire-spellbooks]
 name = "ice-and-fire-spellbooks"
 version = "*"
@@ -353,6 +349,10 @@ client_side = true
 [mods.l_enders-cataclysm]
 name = "l_enders-cataclysm"
 version = "3.27"
+
+[mods.larion-worldgen]
+name = "larion-worldgen"
+version = "*"
 
 [mods.leaves-be-gone]
 name = "leaves-be-gone"
@@ -436,6 +436,10 @@ version = "*"
 
 [mods.occultism]
 name = "occultism"
+version = "*"
+
+[mods.open-loader]
+name = "open-loader"
 version = "*"
 
 [mods.patchouli]
@@ -837,6 +841,11 @@ apply_policy = "Always"
 
 [files."./server/magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"]
 target_path = "magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/magik/datapacks/WWOO.zip"]
+target_path = "magik/datapacks/WWOO.zip"
 side = "Server"
 apply_policy = "Always"
 
