@@ -720,6 +720,11 @@ target_path = "resourcepacks/Better-Leaves-Hexerei.zip"
 side = "Client"
 apply_policy = "Always"
 
+[files."./client/resourcepacks/Chickens Dont Click.zip"]
+target_path = "resourcepacks/Chickens Dont Click.zip"
+side = "Client"
+apply_policy = "Always"
+
 [files."./client/resourcepacks/CobbleFolk Skin Pack (for 1.6).zip"]
 target_path = "resourcepacks/CobbleFolk Skin Pack (for 1.6).zip"
 side = "Client"
