@@ -34,7 +34,7 @@ port = 0
 [voice]
 # The maximum amount, in blocks, to broadcast audio packets past the audible proximity distance.
 # The plugin will send audio packets to players within 2x the proximity distance, or the distance plus this number - whichever is smaller.
-max_extra_audio_broadcast_distance = 16
+max_extra_audio_broadcast_distance = 256
 # Supported sample rates: [8000, 12000, 24000, 48000]
 # Don't change this to reduce bandwidth; adjust opus bitrate instead
 sample_rate = 48000
@@ -52,8 +52,8 @@ client_mod_required_check_timeout_ms = 3000
 client_mod_min_version = "2.0.0"
 
 [voice.proximity]
-distances = [16, 32, 64]
-default_distance = 32
+distances = [32, 64, 64]
+default_distance = 64
 
 [voice.opus]
 # Opus application mode
