@@ -753,7 +753,7 @@ apply_policy = "Always"
 [files."./client/shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"]
 target_path = "shaderpacks/ComplementaryReimagined_r5.7.1.zip.txt"
 side = "Client"
-apply_policy = "Always"
+apply_policy = "Once"
 
 [files."./common/config/Weather2"]
 target_path = "config/Weather2"
