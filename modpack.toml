@@ -850,6 +850,16 @@ target_path = "magik/datapacks/CobbleTowns-UnofficialUpdate1.21.1.zip"
 side = "Server"
 apply_policy = "Always"
 
+[files."./server/magik/datapacks/vampirism-tweaks/data/vampirism/data_maps/entity_type/entity_blood.json"]
+target_path = "./magik/datapacks/vampirism-tweaks/data/vampirism/data_maps/entity_type/entity_blood.json"
+side = "Server"
+apply_policy = "Always"
+
+[files."./server/magik/datapacks/vampirism-tweaks/pack.mcmeta"]
+target_path = "./magik/datapacks/vampirism-tweaks/pack.mcmeta"
+side = "Server"
+apply_policy = "Always"
+
 [files."./server/magik/serverconfig"]
 target_path = "magik/serverconfig"
 side = "Server"

@@ -1,0 +1,11 @@
+{
+  "replace": false,
+  "values": {
+    "rctmod:trainer": {
+      "blood": 15
+    },
+    "rctmod:trainer_association": {
+      "blood": 15
+    }
+  }
+}
