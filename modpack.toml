@@ -166,9 +166,21 @@ version = "*"
 name = "deeperdarker"
 version = "*"
 
+[mods.doespotatotick]
+name = "doespotatotick"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/8208/414/doespotatotick-1.21.1-5.6.4.jar"
+
 [mods.dungeons_delight]
 name = "dungeons_delight"
 version = "*"
+
+[mods.duplicationless]
+name = "duplicationless"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/8122/786/duplicationless-1.21.1-1.2.0.jar"
 
 [mods.effortless]
 name = "effortless"

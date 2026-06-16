@@ -729,6 +729,19 @@ sha1 = "b6094adde68bd4b909bc75c64901e1f3fb99ad8f"
 sha512 = "38d8d87878f39a063feb029db17702bedadf7554233ae56db6018c21225b6dff4d4cc31f4b0995254fd488e2a687f3b15bf9647c59dd42b9032791d34316ed0c"
 filename = "deeperdarker-neoforge-1.21.1-1.4.1.jar"
 
+[mods.doespotatotick]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.doespotatotick.source]]
+
+[mods.doespotatotick.source.Download]
+url = "https://mediafilez.forgecdn.net/files/8208/414/doespotatotick-1.21.1-5.6.4.jar"
+sha1 = "b57775ba0d7f2b20f91f5e1f19e9ff044d1bb396"
+sha512 = "875a6319770dd9dec9260612ae506c354501344a533ad97767ace1a033e2bc6ff737dde5d7660caf0b72eb7db610c25faef422d546b32099430e5461d2955eff"
+filename = "doespotatotick-1.21.1-5.6.4.jar"
+
 [mods.dungeons_delight]
 version = "1.5.0"
 server_side = true
@@ -741,6 +754,19 @@ url = "https://cdn.modrinth.com/data/qPfNr476/versions/aFluEQDH/neoforge-dungeon
 sha1 = "4af9a593d66594e7b5d4b17a567c5819050d0083"
 sha512 = "6cd90cef4465a87e75a57799db6e1cf3af5df04ba06d9cffe39524df20735c55938635f0dce6ab842b85800e4abbaf4ae874e8aa0eb20a4908a3ff9902184544"
 filename = "neoforge-dungeonsdelight-1.21.1-1.5.0.jar"
+
+[mods.duplicationless]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.duplicationless.source]]
+
+[mods.duplicationless.source.Download]
+url = "https://mediafilez.forgecdn.net/files/8122/786/duplicationless-1.21.1-1.2.0.jar"
+sha1 = "8ba9b766b1f0d0633cbd6c86978adeecc70c7042"
+sha512 = "9d5d56efa2ef29d4c291d961e0065a6c8f24add29dadc020bf1b947e59bce6220189c275f26becd36333679f2dcfaa2bf5e411c40d12aff045631da40c9438ef"
+filename = "duplicationless-1.21.1-1.2.0.jar"
 
 [mods.effortless]
 version = "3.4.0"
