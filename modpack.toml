@@ -44,12 +44,6 @@ version = "*"
 name = "aquaculture-delight"
 version = "*"
 
-[mods.async]
-name = "async"
-version = "*"
-server_side = true
-client_side = true
-
 [mods.athena-ctm]
 name = "athena-ctm"
 version = "*"
