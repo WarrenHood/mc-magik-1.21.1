@@ -503,6 +503,29 @@ name = "kotlin-for-forge"
 version = "5.11.0"
 providers = ["Modrinth"]
 
+[mods.cobblemon-myths-and-legends-sidemod]
+version = "1.9.0"
+server_side = true
+client_side = true
+
+[[mods.cobblemon-myths-and-legends-sidemod.source]]
+
+[mods.cobblemon-myths-and-legends-sidemod.source.Download]
+url = "https://cdn.modrinth.com/data/CaOWby9K/versions/IsIw5iAW/MythsAndLegends-neoforge-1.9.0.jar"
+sha1 = "b90873d4a478753d099e641d7f1b7649c360e868"
+sha512 = "9ae04632e18444e70a8d7ffadd7cac7df3be3828ff7007ec24a132381789a09ea6a5541a7f7e7f06904451d60511457df3c8e4e7205bd17581f49df62836d07b"
+filename = "MythsAndLegends-neoforge-1.9.0.jar"
+
+[[mods.cobblemon-myths-and-legends-sidemod.deps]]
+name = "architectury-api"
+version = "13.0.8+neoforge"
+providers = ["Modrinth"]
+
+[[mods.cobblemon-myths-and-legends-sidemod.deps]]
+name = "cobblemon"
+version = "1.7.0"
+providers = ["Modrinth"]
+
 [mods.cobblemore-library]
 version = "1.2.10"
 server_side = true

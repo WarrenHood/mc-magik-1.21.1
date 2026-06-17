@@ -116,6 +116,10 @@ version = "*"
 name = "cobblemon-integrations"
 version = "*"
 
+[mods.cobblemon-myths-and-legends-sidemod]
+name = "cobblemon-myths-and-legends-sidemod"
+version = "*"
+
 [mods.cobblemore-library]
 name = "cobblemore-library"
 version = "*"
