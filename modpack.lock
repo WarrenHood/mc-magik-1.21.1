@@ -1,19 +1,19 @@
 [mods.aces-spell-utils]
-version = "1.2.6.1-1.21.1"
+version = "1.2.7.4-1.21.1"
 server_side = true
 client_side = true
 
 [[mods.aces-spell-utils.source]]
 
 [mods.aces-spell-utils.source.Download]
-url = "https://cdn.modrinth.com/data/7Jy4rK9m/versions/zSD21doG/aces_spell_utils-1.2.6.1-1.21.1.jar"
-sha1 = "6cad17fe69b70ac13c2d31cd6e2cad15e21998e8"
-sha512 = "0237810c6f676d8d8cddf3b5b925af3856ce8549ce2538972461cb0336d441fa0bd3878a05781c7ee80d34fc0cf4e827a93c71e9ca273fdefa073d18400e82d3"
-filename = "aces_spell_utils-1.2.6.1-1.21.1.jar"
+url = "https://cdn.modrinth.com/data/7Jy4rK9m/versions/KKU7lsAt/aces_spell_utils-1.2.7.4-1.21.1.jar"
+sha1 = "9e52e16d97b22a105c13ed85ddb4a8795429987f"
+sha512 = "0150287f2e520fd1e6c5c8470c142bfee48332ba6bb205838b53dc79c264a6332dbe2044bc762b2a5490afa905a186076fa67faf5ee8d2c2e2baa599ccfcf483"
+filename = "aces_spell_utils-1.2.7.4-1.21.1.jar"
 
 [[mods.aces-spell-utils.deps]]
 name = "irons-spells-n-spellbooks"
-version = "1.21.1-3.16.0"
+version = "1.21.1-3.16.3"
 providers = ["Modrinth"]
 
 [mods.advanced-backups]
@@ -1094,17 +1094,17 @@ version = "5.11.0"
 providers = ["Modrinth"]
 
 [mods.geckolib]
-version = "4.8.4"
+version = "4.9.3"
 server_side = true
 client_side = true
 
 [[mods.geckolib.source]]
 
 [mods.geckolib.source.Download]
-url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/gFmrC8Ru/geckolib-neoforge-1.21.1-4.8.4.jar"
-sha1 = "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
-sha512 = "340d96149a04c57c09485f5b1c69e7f8ec3b68223c618e38b7d84c58f4280dcba3d0e9480b8fc79735d9ef5fd7da5fc8f3081d575bf4bbcd2c44b6dcf21d98c0"
-filename = "geckolib-neoforge-1.21.1-4.8.4.jar"
+url = "https://cdn.modrinth.com/data/8BmcQJ2H/versions/Grwn5rUB/geckolib-neoforge-1.21.1-4.9.3.jar"
+sha1 = "5cfe835472a5c5457ae9ac192d9d7b317454d5ac"
+sha512 = "8dfa5f8c57224a5e34e5098367ea9819ca6dc9c11357cd3062c16da3455c8bd1a483098af7383debc4b9ce8e4d7ab3fdc799b415644eb829da83eb72a7335dfd"
+filename = "geckolib-neoforge-1.21.1-4.9.3.jar"
 
 [mods.geophilic]
 version = "3.5"
@@ -1222,37 +1222,17 @@ sha512 = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0
 filename = "hybrid-beta-1.0.4.1.jar"
 
 [mods.ice-and-fire-spellbooks]
-version = "2.3.3-1.21.1"
+version = "Unknown"
 server_side = true
 client_side = true
 
 [[mods.ice-and-fire-spellbooks.source]]
 
 [mods.ice-and-fire-spellbooks.source.Download]
-url = "https://cdn.modrinth.com/data/aw5e7yPa/versions/YFXb3T9X/ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
+url = "https://drive.google.com/uc?export=download&id=1CoJmgEHiRpkAVDrSc3u0tHUmZ5teJQRA"
 sha1 = "27e2828594e2c1140c65f682a72f8cadfb1f5a34"
 sha512 = "1ef42e738282ec28e9c9d29ccdea4308cef78008a0bc08ea2c6f97c732401bd07a6eedca91faaf34bad3061b720415a9fc51eaa4b5ea82d1c0bb224eedf7030f"
 filename = "ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
-
-[[mods.ice-and-fire-spellbooks.deps]]
-name = "aces-spell-utils"
-version = "1.2.3-1.21.1"
-providers = ["Modrinth"]
-
-[[mods.ice-and-fire-spellbooks.deps]]
-name = "geckolib"
-version = "4.8.4"
-providers = ["Modrinth"]
-
-[[mods.ice-and-fire-spellbooks.deps]]
-name = "iceandfire-ce"
-version = "2.0-beta.17"
-providers = ["Modrinth"]
-
-[[mods.ice-and-fire-spellbooks.deps]]
-name = "irons-spells-n-spellbooks"
-version = "1.21.1-3.16.0"
-providers = ["Modrinth"]
 
 [mods.iceandfire-ce]
 version = "2.0-beta.17"

@@ -4,6 +4,10 @@ modloader = "NeoForge"
 default_providers = ["Modrinth"]
 forbidden_mods = ["fabric-api"]
 
+[mods.aces-spell-utils]
+name = "aces-spell-utils"
+version = "*"
+
 [mods.advanced-backups]
 name = "advanced-backups"
 version = "*"
@@ -307,6 +311,10 @@ version = "*"
 [mods.ice-and-fire-spellbooks]
 name = "ice-and-fire-spellbooks"
 version = "*"
+providers = ["Raw"]
+download_url = "https://drive.google.com/uc?export=download&id=1CoJmgEHiRpkAVDrSc3u0tHUmZ5teJQRA"
+server_side = true
+client_side = true
 
 [mods.iceandfire-ce]
 name = "iceandfire-ce"
