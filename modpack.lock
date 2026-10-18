@@ -904,27 +904,93 @@ name = "prickle"
 version = "21.1.11"
 providers = ["Modrinth"]
 
-[mods.enhanced-celestials]
-version = "6.0.2.6-neoforge"
+[mods.enhanced-celestials-2-core]
+version = "2.0.3.3-neoforge"
 server_side = true
 client_side = true
 
-[[mods.enhanced-celestials.source]]
+[[mods.enhanced-celestials-2-core.source]]
 
-[mods.enhanced-celestials.source.Download]
-url = "https://cdn.modrinth.com/data/2rL16t1O/versions/bPhEKzZO/Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar"
-sha1 = "fa59a7bb69e3973980f525083897a2d5d74fea10"
-sha512 = "5119e1a0026d705001e41abb7099fabe9379ad44ce624d3ec57b7cda01fc763c23dff0ebe058adedfd2de20d1a7d6245956574e4d9cfa7f199186115ca2d7811"
-filename = "Enhanced-Celestials-NeoForge-1.21.1-6.0.2.6.jar"
+[mods.enhanced-celestials-2-core.source.Download]
+url = "https://cdn.modrinth.com/data/ugCWUHV9/versions/CWaaEX5L/Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.3.jar"
+sha1 = "e98332a46972dd89bbb472395687af72ef988c9a"
+sha512 = "e23e093260ae2fca326ab102325d4a2273da9c5f4d15b00c9e42b3a9d47b3b655920cc3e012350ed1e500284762ed8ca99b840fd2a88f254f9c74f62e96c2a64"
+filename = "Enhanced-Celestials-2-Core-NeoForge-1.21.1-2.0.3.3.jar"
 
-[[mods.enhanced-celestials.deps]]
+[[mods.enhanced-celestials-2-core.deps]]
 name = "corgilib"
 version = "1.21.1-5.0.0.10-NeoForge"
 providers = ["Modrinth"]
 
-[[mods.enhanced-celestials.deps]]
+[[mods.enhanced-celestials-2-core.deps]]
 name = "data-anchor"
 version = "2.0.0.17-neoforge"
+providers = ["Modrinth"]
+
+[mods.enhanced-celestials-2-default-lunar-events]
+version = "2.0.1.3-neoforge"
+server_side = true
+client_side = true
+
+[[mods.enhanced-celestials-2-default-lunar-events.source]]
+
+[mods.enhanced-celestials-2-default-lunar-events.source.Download]
+url = "https://cdn.modrinth.com/data/19P0GlZk/versions/N8kvtLDo/Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.1.3.jar"
+sha1 = "6b11db7910353d7f9cec7a6c125ae6199e354567"
+sha512 = "21d2778c502527ee2f110d00162a4c9f69b5e43fe1b0a5832550eb59ee008f61789dac25903b8f63e2de0580d2106dffea17b87717c6a9fc3384a3ee468c10c1"
+filename = "Enhanced-Celestials-2-Default-Lunar-Events-NeoForge-1.21.1-2.0.1.3.jar"
+
+[[mods.enhanced-celestials-2-default-lunar-events.deps]]
+name = "corgilib"
+version = "1.21.1-5.0.0.10-NeoForge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials-2-default-lunar-events.deps]]
+name = "data-anchor"
+version = "2.0.0.17-neoforge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials-2-default-lunar-events.deps]]
+name = "enhanced-celestials-2-core"
+version = "2.0.3.3-neoforge"
+providers = ["Modrinth"]
+
+[mods.enhanced-celestials-2-shader-support]
+version = "2.0.0.3-neoforge"
+server_side = false
+client_side = true
+
+[[mods.enhanced-celestials-2-shader-support.source]]
+
+[mods.enhanced-celestials-2-shader-support.source.Download]
+url = "https://cdn.modrinth.com/data/6cEnKtmZ/versions/4uOjogNm/Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3.jar"
+sha1 = "c17d15c2bf260382e5fbc0e5d56a4abb51c9a5c7"
+sha512 = "1624d1472e98ca2d115217bb0a76ff0de61b82f1f0dc8f1bdd3036f7c5eda70a54b7e7ed2f502ddc0d2d85800b0e73228afb0752ec4b49c4848d145e96d442c6"
+filename = "Enhanced-Celestials-2-Shaders-NeoForge-1.21.1-2.0.0.3.jar"
+
+[[mods.enhanced-celestials-2-shader-support.deps]]
+name = "corgilib"
+version = "1.21.1-5.0.0.10-NeoForge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials-2-shader-support.deps]]
+name = "data-anchor"
+version = "2.0.0.17-neoforge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials-2-shader-support.deps]]
+name = "enhanced-celestials-2-core"
+version = "2.0.3.3-neoforge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials-2-shader-support.deps]]
+name = "iris"
+version = "1.8.14-beta.1+1.21.1-neoforge"
+providers = ["Modrinth"]
+
+[[mods.enhanced-celestials-2-shader-support.deps]]
+name = "sodium"
+version = "mc1.21.1-0.8.13-neoforge"
 providers = ["Modrinth"]
 
 [mods.entity-model-features]

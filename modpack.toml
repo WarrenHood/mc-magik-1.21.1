@@ -216,8 +216,16 @@ version = "*"
 server_side = false
 client_side = true
 
-[mods.enhanced-celestials]
-name = "enhanced-celestials"
+[mods.enhanced-celestials-2-core]
+name = "enhanced-celestials-2-core"
+version = "*"
+
+[mods.enhanced-celestials-2-default-lunar-events]
+name = "enhanced-celestials-2-default-lunar-events"
+version = "*"
+
+[mods.enhanced-celestials-2-shader-support]
+name = "enhanced-celestials-2-shader-support"
 version = "*"
 
 [mods.entity-model-features]
@@ -797,6 +805,11 @@ apply_policy = "Always"
 target_path = "config/effortless.toml"
 side = "Both"
 apply_policy = "Always"
+
+[files."./common/config/enhancedcelestials2core/translations.json"]
+target_path = "config/enhancedcelestials2core/translations.json"
+side = "Both"
+apply_policy = "MergeOverwrite"
 
 [files."./common/config/iceandfire/iaf-common.json"]
 target_path = "./config/iceandfire/iaf-common.json"
