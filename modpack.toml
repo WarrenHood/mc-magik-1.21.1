@@ -370,7 +370,7 @@ client_side = true
 
 [mods.l_enders-cataclysm]
 name = "l_enders-cataclysm"
-version = "3.27"
+version = "*"
 
 [mods.leaves-be-gone]
 name = "leaves-be-gone"
@@ -556,7 +556,7 @@ client_side = true
 
 [mods.sodium]
 name = "sodium"
-version = "mc1.21.1-0.6.13-neoforge"
+version = "*"
 
 [mods.sound-physics-remastered]
 name = "sound-physics-remastered"
