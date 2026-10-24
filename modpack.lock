@@ -1287,19 +1287,6 @@ sha1 = "e7b612f212378513885d1f411b4a3f30b547b89c"
 sha512 = "dcaa2af8b3cda899d4e20115c4cdc271612c6c49bdd495fc05d9222a0a3584684e07f0a563f697ed1a23b9c15154da3bede34f361e591e7e7dbe67adc8163936"
 filename = "hybrid-beta-1.0.4.1.jar"
 
-[mods.ice-and-fire-spellbooks]
-version = "Unknown"
-server_side = true
-client_side = true
-
-[[mods.ice-and-fire-spellbooks.source]]
-
-[mods.ice-and-fire-spellbooks.source.Download]
-url = "https://drive.google.com/uc?export=download&id=1CoJmgEHiRpkAVDrSc3u0tHUmZ5teJQRA"
-sha1 = "27e2828594e2c1140c65f682a72f8cadfb1f5a34"
-sha512 = "1ef42e738282ec28e9c9d29ccdea4308cef78008a0bc08ea2c6f97c732401bd07a6eedca91faaf34bad3061b720415a9fc51eaa4b5ea82d1c0bb224eedf7030f"
-filename = "ice_and_fire_spellbooks-2.3.3-1.21.1.jar"
-
 [mods.iceandfire-ce]
 version = "2.1-beta.1"
 server_side = true
