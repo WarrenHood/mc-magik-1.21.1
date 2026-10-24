@@ -304,10 +304,6 @@ version = "*"
 name = "handcrafted"
 version = "*"
 
-[mods.hardcore-revival]
-name = "hardcore-revival"
-version = "*"
-
 [mods.hexerei]
 name = "hexerei"
 version = "*"
@@ -492,6 +488,10 @@ version = "*"
 
 [mods.playeranimator]
 name = "playeranimator"
+version = "*"
+
+[mods.playerrevive]
+name = "playerrevive"
 version = "*"
 
 [mods.polymorph]

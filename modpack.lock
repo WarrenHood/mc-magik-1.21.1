@@ -642,6 +642,19 @@ sha1 = "b20a3a2ada7f1dbd6e6413e6a287a12f1b53ff66"
 sha512 = "d257b2da4654da9c54399a9521f352c415c6221904faa99098e79c0650f133a710a4515a987e7417d7e54c88533e967cbe48589250688155ec1445eaf17a9336"
 filename = "CraterLib-Neoforge-1.21-3.1.3.jar"
 
+[mods.creativecore]
+version = "2.13.51"
+server_side = true
+client_side = true
+
+[[mods.creativecore.source]]
+
+[mods.creativecore.source.Download]
+url = "https://cdn.modrinth.com/data/OsZiaDHq/versions/vRMtFt35/CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar"
+sha1 = "eb2242b3d4442ad4017ba0624a7f9588e778b157"
+sha512 = "864301fa1229511203fc291e9b683db5af3cb4aa4faed0ef1eb54112491b3c97f9b5006b42d41fb2c169f7fc93ad13459f5079c6ffc73dc4b145ee61b7687997"
+filename = "CreativeCore_NEOFORGE_v2.13.51_mc1.21.1.jar"
+
 [mods.ct-overhaul-village]
 version = "3.6.3"
 server_side = true
@@ -1246,24 +1259,6 @@ filename = "handcrafted-neoforge-1.21.1-4.0.3.jar"
 [[mods.handcrafted.deps]]
 name = "resourceful-lib"
 version = "3.0.12"
-providers = ["Modrinth"]
-
-[mods.hardcore-revival]
-version = "21.1.22+neoforge-1.21.1"
-server_side = true
-client_side = true
-
-[[mods.hardcore-revival.source]]
-
-[mods.hardcore-revival.source.Download]
-url = "https://cdn.modrinth.com/data/HqKoXaXz/versions/uz0zlIe3/hardcorerevival-neoforge-1.21.1-21.1.22.jar"
-sha1 = "bd5078ded1d24c2ca5a8f5cf82faa739743aec7e"
-sha512 = "5e29cf3d17747e374b373e5430a432e3ae77d3470fad4391d3656238c160d4f574e00db27428ac66c08c4f57b7099fe390e126a1c3fa5e923891f1a958516c9b"
-filename = "hardcorerevival-neoforge-1.21.1-21.1.22.jar"
-
-[[mods.hardcore-revival.deps]]
-name = "balm"
-version = "21.0.66+neoforge-1.21.1"
 providers = ["Modrinth"]
 
 [mods.hexerei]
@@ -2039,6 +2034,24 @@ url = "https://cdn.modrinth.com/data/gedNE4y2/versions/HJZB6bmA/player-animation
 sha1 = "05be8ddcc78532b9a5520c718edc6c971cd0057c"
 sha512 = "fc00450fb6c95ec1779021bdc726122dacb5915c6baddaacc981cd221b01b8db35f2a0dfde5d6fa6766d877266dc82f58854f571ea53cc5c4d468b80e1548a5f"
 filename = "player-animation-lib-forge-2.0.4+1.21.1.jar"
+
+[mods.playerrevive]
+version = "2.1.2"
+server_side = true
+client_side = true
+
+[[mods.playerrevive.source]]
+
+[mods.playerrevive.source.Download]
+url = "https://cdn.modrinth.com/data/ABIMzABM/versions/LS7UoW1b/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar"
+sha1 = "b1ee96cfefa36e1c05aaab8e92bfb3f9ae927d15"
+sha512 = "9f33feecb73d92a7771b389f684ec5ac762df956dfbe748e8b6c3d839eaa9d60b2476fbe95878ff657d8e4b46e1335c4db16094516e17436dca11c8f073aaf40"
+filename = "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar"
+
+[[mods.playerrevive.deps]]
+name = "creativecore"
+version = "2.13.51"
+providers = ["Modrinth"]
 
 [mods.polymorph]
 version = "1.2.0+1.21.1"
