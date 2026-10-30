@@ -770,6 +770,19 @@ sha1 = "b6094adde68bd4b909bc75c64901e1f3fb99ad8f"
 sha512 = "38d8d87878f39a063feb029db17702bedadf7554233ae56db6018c21225b6dff4d4cc31f4b0995254fd488e2a687f3b15bf9647c59dd42b9032791d34316ed0c"
 filename = "deeperdarker-neoforge-1.21.1-1.4.1.jar"
 
+[mods.distanthorizons]
+version = "3.3.3-1.21.1"
+server_side = true
+client_side = true
+
+[[mods.distanthorizons.source]]
+
+[mods.distanthorizons.source.Download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/9w34y8ai/DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+sha1 = "4357b4d19fab818780c94f0e43dad1cc931634b2"
+sha512 = "d14b32d3fd143a06514d6ad388eee11e9d657c84e1a937aaf8d033b1137fb43ef8b05cff1011a994cc42f3106823c51234f8bc18d72bb05bc317a20ea83c50ed"
+filename = "DistantHorizons-3.3.3-1.21.1-fabric-neoforge.jar"
+
 [mods.doespotatotick]
 version = "Unknown"
 server_side = true
