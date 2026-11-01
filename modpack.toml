@@ -432,6 +432,14 @@ version = "*"
 name = "mouse-tweaks"
 version = "*"
 
+[mods.myths-and-legends-compat]
+name = "myths-and-legends-compat"
+version = "*"
+providers = ["Raw"]
+download_url = "https://github.com/WarrenHood/mc-magik-1.21.1/releases/download/0.1/mal-cobblemon-1.8.2-compat-0.1.1.jar"
+server_side = true
+client_side = true
+
 [mods.natures-aura]
 name = "natures-aura"
 version = "*"
