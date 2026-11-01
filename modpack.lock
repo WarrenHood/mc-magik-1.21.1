@@ -1794,19 +1794,6 @@ sha1 = "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
 sha512 = "f95c0cc881211ee0442434976775e07aae40b4a2ba4e3a85455bc57ca9d3c991e239cd98374a8abd442dc9c378dcd9001e2caa1bf69991d424b5652dd7f3483b"
 filename = "MouseTweaks-neoforge-mc1.21-2.26.1.jar"
 
-[mods.myths-and-legends-compat]
-version = "Unknown"
-server_side = true
-client_side = true
-
-[[mods.myths-and-legends-compat.source]]
-
-[mods.myths-and-legends-compat.source.Download]
-url = "https://github.com/WarrenHood/mc-magik-1.21.1/releases/download/0.1/mal-cobblemon-1.8.2-compat-0.1.1.jar"
-sha1 = "0301bbc183c406368578e323ba28b9d335c0498e"
-sha512 = "e8085d8e685f946e094483a47ba0f34abad820ea2429e9f40654f601e83544575b626f0fab240a58e0384291e66078a8639cb3874a4abc8b3ea334063c3f0d57"
-filename = "mal-cobblemon-1.8.2-compat-0.1.1.jar"
-
 [mods.natures-aura]
 version = "41.10"
 server_side = true
