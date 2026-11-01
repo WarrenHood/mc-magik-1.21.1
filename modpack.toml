@@ -123,6 +123,10 @@ version = "*"
 [mods.cobblemon-myths-and-legends-sidemod]
 name = "cobblemon-myths-and-legends-sidemod"
 version = "*"
+providers = ["Raw"]
+download_url = "https://github.com/WarrenHood/mc-magik-1.21.1/releases/download/0.1/MythsAndLegends-neoforge-1.9.0-patched.jar"
+server_side = true
+client_side = true
 
 [mods.cobblemore-library]
 name = "cobblemore-library"
