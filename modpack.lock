@@ -1617,6 +1617,32 @@ sha1 = "d1f7c638fac5192e01b1873f27e694a3c262ad11"
 sha512 = "6917080339b982d96cb4a7c98205ade5d89730191bc9113f4f8cd36bb1a760a91ad2421c8869c7063f8dea22a200d7d1896e0bb5e0e64119bb7590e32a998a23"
 filename = "lodestone-1.21.1-1.8.2.jar"
 
+[mods.lootintegrations]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.lootintegrations.source]]
+
+[mods.lootintegrations.source.Download]
+url = "https://mediafilez.forgecdn.net/files/9600/289/lootintegrations-1.21.1-4.9.jar"
+sha1 = "6adc473d1b762c6e2ce65b7d246519ceadbf1eb6"
+sha512 = "bf7ac0df4ca830ce71f5a6e46ad6b51bc60ffc6f606bac1886835b9b5fad341d99e780475a056f65bc77a58f8c3c567ed05e7a5c77edd0078b937e8a9a92cc3c"
+filename = "lootintegrations-1.21.1-4.9.jar"
+
+[mods.lootintegrations-ctov]
+version = "Unknown"
+server_side = true
+client_side = true
+
+[[mods.lootintegrations-ctov.source]]
+
+[mods.lootintegrations-ctov.source.Download]
+url = "https://mediafilez.forgecdn.net/files/8922/88/lootintegrations_ctov-1.6.jar"
+sha1 = "72a941618b0296597c238fc9d3397a9e21b98c1c"
+sha512 = "e42046976508aa0fd6867fa97e1ac6a0cdafd316b26a2b6a615fa290c2ccca3e51330a262d4f6de88e6635cdcd39cc9d6db1c548c7b3428896aa5febc4594560"
+filename = "lootintegrations_ctov-1.6.jar"
+
 [mods.macaws-bridges]
 version = "3.1.2"
 server_side = true

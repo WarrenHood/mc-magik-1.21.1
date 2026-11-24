@@ -396,6 +396,22 @@ version = "*"
 server_side = true
 client_side = true
 
+[mods.lootintegrations]
+name = "lootintegrations"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/9600/289/lootintegrations-1.21.1-4.9.jar"
+server_side = true
+client_side = true
+
+[mods.lootintegrations-ctov]
+name = "lootintegrations-ctov"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/8922/88/lootintegrations_ctov-1.6.jar"
+server_side = true
+client_side = true
+
 [mods.macaws-bridges]
 name = "macaws-bridges"
 version = "*"
