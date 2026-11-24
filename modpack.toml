@@ -168,6 +168,14 @@ version = "*"
 name = "cull-leaves"
 version = "*"
 
+[mods.cupboard]
+name = "cupboard"
+version = "*"
+providers = ["Raw"]
+download_url = "https://mediafilez.forgecdn.net/files/8889/50/cupboard-1.21.1-4.2.jar"
+server_side = true
+client_side = true
+
 [mods.curios]
 name = "curios"
 version = "*"
