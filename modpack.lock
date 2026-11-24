@@ -374,6 +374,29 @@ name = "l_enders-cataclysm"
 version = "3.33"
 providers = ["Modrinth"]
 
+[mods.cataclysm-x-yungs-better-nether-fortress]
+version = "1.0.0"
+server_side = true
+client_side = true
+
+[[mods.cataclysm-x-yungs-better-nether-fortress.source]]
+
+[mods.cataclysm-x-yungs-better-nether-fortress.source.Download]
+url = "https://cdn.modrinth.com/data/hllwjqw0/versions/uyStlDNm/cataclysm_betterfortresses-1.0.0.jar"
+sha1 = "4903dad435f7a49d43f4effdb586c1521b03db52"
+sha512 = "84d8d44ce6071a22a873a0741a2467026c2061859e904a44fb55ed033577c08a340796a078b066b3ae1dcc0f13ebf9cc49fd449cc0b4f9390988ce041d43ff73"
+filename = "cataclysm_betterfortresses-1.0.0.jar"
+
+[[mods.cataclysm-x-yungs-better-nether-fortress.deps]]
+name = "l_enders-cataclysm"
+version = "3.33"
+providers = ["Modrinth"]
+
+[[mods.cataclysm-x-yungs-better-nether-fortress.deps]]
+name = "yungs-better-nether-fortresses"
+version = "1.21.1-NeoForge-3.1.5"
+providers = ["Modrinth"]
+
 [mods.chunky]
 version = "1.4.23"
 server_side = true

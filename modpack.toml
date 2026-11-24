@@ -92,6 +92,12 @@ version = "*"
 name = "cataclysm-spellbooks"
 version = "*"
 
+[mods.cataclysm-x-yungs-better-nether-fortress]
+name = "cataclysm-x-yungs-better-nether-fortress"
+version = "*"
+server_side = true
+client_side = true
+
 [mods.chunky]
 name = "chunky"
 version = "*"
